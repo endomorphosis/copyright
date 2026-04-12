@@ -702,6 +702,24 @@
     satellite retransmission of broadcast signals.
   status: pending
 
+- name: Temporary Extension Act of 2010 (Copyright Provision)
+  date: 2010-03-02
+  citation: 124 Stat. 38
+  public_law: Pub. L. 111-144
+  summary: >
+    Extended the Section 119 satellite compulsory license deadline as part
+    of a broader temporary extension of expiring federal programs.
+  status: pending
+
+- name: Continuing Extension Act of 2010 (Copyright Provision)
+  date: 2010-04-15
+  citation: 124 Stat. 1140
+  public_law: Pub. L. 111-157
+  summary: >
+    Further extended the Section 119 satellite compulsory license deadline
+    pending enactment of STELA.
+  status: pending
+
 - name: Satellite Television Extension and Localism Act of 2010 (STELA)
   date: 2010-05-27
   citation: 124 Stat. 1232
