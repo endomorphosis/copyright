@@ -10,6 +10,7 @@ Usage:
 """
 
 import argparse
+import json
 import os
 import re
 import shutil
@@ -114,13 +115,25 @@ def find_pre1976_text(act, data_dir):
     text_dir = os.path.join(data_dir, 'pre-1976-text')
     if not os.path.isdir(text_dir):
         return None
-    # Try to match by date prefix or name
-    for fname in os.listdir(text_dir):
-        year = act['date'][:4]
-        if fname.startswith(year) or sanitize_filename(act['name'])[:20] in fname:
-            path = os.path.join(text_dir, fname)
-            with open(path) as f:
+    san_name = sanitize_filename(act['name'])
+    date_prefix = act['date'][:4]
+    # Try exact date-name match first, then date prefix, then name substring
+    for fname in sorted(os.listdir(text_dir)):
+        fname_lower = fname.lower()
+        # Best: date + name match
+        if fname_lower.startswith(date_prefix) and san_name[:20] in fname_lower:
+            with open(os.path.join(text_dir, fname)) as f:
                 return f.read()
+    # Fallback: just name match (for files named differently)
+    for fname in sorted(os.listdir(text_dir)):
+        if san_name[:20] in fname.lower():
+            with open(os.path.join(text_dir, fname)) as f:
+                return f.read()
+    # Last resort: year match (only if there's exactly one file for that year)
+    year_matches = [f for f in os.listdir(text_dir) if f.startswith(date_prefix)]
+    if len(year_matches) == 1:
+        with open(os.path.join(text_dir, year_matches[0])) as f:
+            return f.read()
     return None
 
 
@@ -133,8 +146,27 @@ def find_section_text(section_num, data_dir):
     return None
 
 
+def build_section_creators(data_dir):
+    """Build a map of section -> PL that created it (earliest in amendment map)."""
+    map_file = os.path.join(data_dir, 'section-amendment-map.txt')
+    if not os.path.exists(map_file):
+        return {}
+    creators = {}
+    with open(map_file) as f:
+        for line in f:
+            parts = line.strip().split('\t')
+            if len(parts) >= 3:
+                sec, date, pl = parts[0], parts[1], parts[2]
+                if sec not in creators or date < creators[sec][0]:
+                    creators[sec] = (date, pl)
+    return {sec: pl for sec, (date, pl) in creators.items()}
+
+
 def build_repo(acts, data_dir, output_dir):
     """Build the clean output repository."""
+    # Build section-creator map for adding new sections in post-1976 commits
+    section_creators = build_section_creators(data_dir)
+
     # Find the 1976 Act index
     pivot_idx = None
     for i, act in enumerate(acts):
@@ -171,7 +203,8 @@ def build_repo(acts, data_dir, output_dir):
             shutil.copy2(src, os.path.join(output_dir, fname))
 
     run('git add -A', cwd=output_dir)
-    run('git commit -m "Initialize repository"', cwd=output_dir)
+    run('GIT_AUTHOR_DATE="1970-01-01T00:00:00" GIT_COMMITTER_DATE="1970-01-01T00:00:00" '
+        'git commit -m "Initialize repository"', cwd=output_dir)
 
     # Process each act
     for i, act in enumerate(acts):
@@ -210,46 +243,66 @@ def build_repo(acts, data_dir, output_dir):
 
         elif is_1976_act:
             # THE pivotal commit: transition from pre-1976/ to sections/
-            # Remove pre-1976 act files (keep directory with a note)
+            # Remove pre-1976 act files
             if os.path.isdir(pre1976_dir):
                 shutil.rmtree(pre1976_dir)
 
             os.makedirs(sections_dir, exist_ok=True)
 
-            # List all current section files we have
+            # Only include sections that were part of the original 1976 Act
+            # (PL 94-553). The 1976 Act created Chapters 1-8 of Title 17.
+            # Sections added by later acts (Ch. 9-15, §104A, §106A, etc.)
+            # will be added by their respective act commits.
+            original_1976_sections = set([
+                '101', '102', '103', '104', '105', '106', '107', '108',
+                '109', '110', '111', '112', '113', '114', '115', '116',
+                '117', '118',
+                '201', '202', '203', '204', '205',
+                '301', '302', '303', '304', '305',
+                '401', '402', '403', '404', '405', '406', '407', '408',
+                '409', '410', '411', '412',
+                '501', '502', '503', '504', '505', '506', '507', '508',
+                '509', '510',
+                '601', '602', '603',
+                '701', '702', '703', '704', '705', '706', '707', '708',
+                '801', '802', '803', '804', '805',
+            ])
             current_dir = os.path.join(data_dir, 'current-sections')
+            snapshots_dir = os.path.join(data_dir, 'snapshots')
+
             if os.path.isdir(current_dir):
                 for fname in sorted(os.listdir(current_dir)):
-                    if fname.endswith('.md'):
-                        # For now, use current text as starting point
-                        # (will be replaced with reconstructed 1976 text later)
-                        src = os.path.join(current_dir, fname)
-                        shutil.copy2(src, os.path.join(sections_dir, fname))
+                    if not fname.endswith('.md'):
+                        continue
+                    sec_num = fname.replace('.md', '')
+                    src = os.path.join(current_dir, fname)
 
-            # If no current sections fetched yet, create placeholders
-            if not os.listdir(sections_dir) if os.path.isdir(sections_dir) else True:
-                placeholder_sections = [
-                    '101', '102', '103', '104', '105', '106', '107', '108',
-                    '109', '110', '111', '112', '113', '114', '115', '116',
-                    '117', '118', '201', '202', '203', '204', '205',
-                    '301', '302', '303', '304', '305',
-                    '401', '402', '403', '404', '405', '406', '407', '408',
-                    '409', '410', '411', '412',
-                    '501', '502', '503', '504', '505', '506', '507', '508',
-                    '509', '510',
-                    '601', '602', '603',
-                    '701', '702', '703', '704', '705', '706', '707', '708',
-                    '801', '802', '803', '804', '805',
-                ]
-                for sec in placeholder_sections:
-                    path = os.path.join(sections_dir, f'{sec}.md')
-                    if not os.path.exists(path):
-                        with open(path, 'w') as f:
-                            f.write(f'# Section {sec}\n\n')
-                            f.write(f'> [TODO] Text to be added.\n')
+                    if sec_num not in original_1976_sections:
+                        continue  # Added by a later act
+
+                    # Try to use reconstructed 1976-era text from snapshots
+                    snapshot_file = os.path.join(
+                        snapshots_dir, f'{sec_num}-versions.json'
+                    )
+                    if os.path.exists(snapshot_file):
+                        with open(snapshot_file) as sf:
+                            snap_data = json.load(sf)
+                        versions = snap_data.get('versions', [])
+                        if versions and versions[0].get('text'):
+                            # Oldest version = closest to 1976 original
+                            with open(
+                                os.path.join(sections_dir, fname), 'w'
+                            ) as f:
+                                f.write(versions[0]['text'])
+                            continue
+
+                    # No snapshot — use current text (section was never amended)
+                    shutil.copy2(src, os.path.join(sections_dir, fname))
 
         else:
             # Post-1976 amendments
+            has_changes = False
+
             # Check for reconstructed section snapshots for this act
             snapshot_dir = os.path.join(
                 data_dir, 'act-snapshots', act['date'] + '-' + sanitize_filename(act['name'])
@@ -261,7 +314,39 @@ def build_repo(acts, data_dir, output_dir):
                         src = os.path.join(snapshot_dir, fname)
                         dst = os.path.join(sections_dir, fname)
                         shutil.copy2(src, dst)
-            else:
+                        has_changes = True
+
+            # Check if this act creates any NEW sections not yet in sections/
+            # by looking at the section-creation map
+            if act.get('public_law'):
+                pl_num = re.sub(r'Pub\. L\. ', '', act['public_law']).split(',')[0].strip()
+                for sec_num, creating_pl in section_creators.items():
+                    if creating_pl != pl_num:
+                        continue
+                    sec_file = os.path.join(sections_dir, f'{sec_num}.md')
+                    if os.path.exists(sec_file):
+                        continue  # Already exists
+                    # Add the new section using current text or snapshot
+                    current_file = os.path.join(
+                        data_dir, 'current-sections', f'{sec_num}.md'
+                    )
+                    snap_file = os.path.join(
+                        data_dir, 'snapshots', f'{sec_num}-versions.json'
+                    )
+                    if os.path.exists(snap_file):
+                        with open(snap_file) as sf:
+                            snap_data = json.load(sf)
+                        versions = snap_data.get('versions', [])
+                        if versions and versions[0].get('text'):
+                            with open(sec_file, 'w') as f:
+                                f.write(versions[0]['text'])
+                            has_changes = True
+                            continue
+                    if os.path.exists(current_file):
+                        shutil.copy2(current_file, sec_file)
+                        has_changes = True
+
+            if not has_changes:
                 # No reconstructed text yet — create a marker file
                 # that notes what this act changed
                 amendments_dir = os.path.join(output_dir, 'amendments')
@@ -288,7 +373,15 @@ def build_repo(acts, data_dir, output_dir):
         with open(msg_file, 'w') as f:
             f.write(msg)
 
-        run(f'git commit --allow-empty -F {msg_file}', cwd=output_dir)
+        # Use historical date for commits; git can't handle pre-1970 dates
+        commit_date = act['date']
+        if commit_date < '1970-01-01':
+            git_date = '1970-01-01T12:00:00'
+        else:
+            git_date = f'{commit_date}T12:00:00'
+
+        date_env = f'GIT_AUTHOR_DATE="{git_date}" GIT_COMMITTER_DATE="{git_date}"'
+        run(f'{date_env} git commit --allow-empty -F {msg_file}', cwd=output_dir)
 
         if act.get('tag'):
             run(f"git tag {act['tag']}", cwd=output_dir)

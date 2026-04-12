@@ -1,0 +1,13 @@
+# Ad Interim Copyright Act of 1904
+
+*An Act to afford protection to foreign exhibitors of literary, artistic, or musical works at the Louisiana Purchase Exposition. 33 Stat. 4, Ch. 2 (January 7, 1904)*
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the President of the United States is authorized to extend, by proclamation, to exhibitors at the Louisiana Purchase Exposition, to be held at Saint Louis, Missouri, in the year nineteen hundred and four, who are citizens of foreign countries granting reciprocal privileges, the privilege of an ad interim copyright covering any book, map, dramatic or musical composition, engraving, cut, print, photograph, or chromo first published, produced, or exhibited at said Exposition, upon compliance with the following conditions:
+
+SEC. 2. That the exhibitor of any work described in section one of this Act shall, within thirty days after the first exhibition thereof at said Exposition, deposit in the Library of Congress, at Washington, District of Columbia, one complete copy or reproduction of such work; and such deposit shall be accompanied by a notice of copyright in the name of the author or proprietor of such work, and a statement of the name, nationality, and address of such author or proprietor, and the true date of first exhibition at said Exposition.
+
+SEC. 3. That the ad interim copyright secured hereunder shall have all the force and effect given to copyright by the laws of the United States, and shall endure for the period of two years from the date of first exhibition of such work at said Exposition: Provided, That during such period, if the author or proprietor of any work so protected shall comply with all the requirements of the copyright laws of the United States, including the manufacturing provisions thereof, the copyright so secured shall be extended for the full term provided by law.
+
+SEC. 4. That this Act shall only apply to citizens or subjects of foreign States or nations which grant to citizens of the United States of America the benefit of copyright on substantially the same basis as to their own citizens.
+
+APPROVED, January 7, 1904.

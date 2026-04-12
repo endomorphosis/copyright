@@ -1,0 +1,9 @@
+# Copyright Notice and Print Amendment of 1874
+
+*Act of June 18, 1874, 43d Cong., 1st Sess., 18 Stat. 78, Ch. 301*
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That in the construction of this act, the words "engraving," "cut" and "print" shall be applied only to pictorial illustrations or works connected with the fine arts, and no prints or labels designed to be used for any other articles of manufacture shall be entered under the copyright laws, but may be registered in the Patent Office. And for the protection and registration of such prints and labels not a trademark, there shall be paid a fee of six dollars, which shall cover the expense of furnishing two certified copies of the registered print or label to the party registering the same.
+
+SEC. 2. That all persons who shall, after the passage of this act, procure copyright for any book, pamphlet, map, chart, musical composition, print, engraving, photograph, painting, drawing, chromo, statue, statuary, or model or design for a work of the fine arts, may, in lieu of the words "Entered according to act of Congress, in the year _____, by A. B., in the office of the Librarian of Congress, at Washington" insert in or upon any such work the following words, viz: "Copyright, 18—, by A. B.;" and such words shall be deemed a sufficient notice of copyright.
+
+APPROVED, June 18, 1874.

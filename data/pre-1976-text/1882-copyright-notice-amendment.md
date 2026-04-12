@@ -1,0 +1,7 @@
+# Copyright Notice Amendment of 1882
+
+*Act of August 1, 1882, 47th Cong., 1st Sess., 22 Stat. 181, Ch. 366*
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the words "Entered according to act of Congress, in the year _____, by A. B., in the office of the Librarian of Congress, at Washington," or, at the option of the person entering the copyright, the words "Copyright, 18—, by A. B.," required by section forty-nine hundred and sixty-two, title sixty, chapter three, of the Revised Statutes, to be inserted in or upon every copy of a book, map, chart, musical composition, print, cut, engraving, or photograph, or chromo, shall be applied to articles made of any material; and in the case of moulded decorative articles, tiles, plaques, or articles of pottery or metal subject to copyright, said notice may be put upon the back or bottom of such articles, or in such other place upon them as it has been usual for manufacturers of such articles to employ for the placing of such notice, trade mark, and the like.
+
+APPROVED, August 1, 1882.

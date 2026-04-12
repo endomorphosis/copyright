@@ -1,0 +1,21 @@
+# International Copyright Act of 1891 (Chace Act)
+
+*Act of March 3, 1891, 51st Cong., 2d Sess., 26 Stat. 1106, Ch. 565*
+
+Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That the laws of the United States in relation to copyright are hereby so amended that the copyright secured by the laws of the United States shall extend to a citizen or subject of a foreign state or nation when such foreign state or nation permits to citizens of the United States of America the benefit of copyright on substantially the same basis as its own citizens, or when such foreign state or nation is a party to an international agreement which provides for reciprocity in the granting of copyright, by the terms of which agreement the United States of America may, at its pleasure, become a party to such agreement. The existence of either of the conditions aforesaid shall be determined by the President of the United States by proclamation made from time to time as the purposes of this act may require.
+
+SEC. 2. That the provisions of existing law in relation to copyright, except as herein provided, are hereby extended to such foreign authors, designers, and their legal representatives on the same conditions as apply to citizens of the United States: Provided, however, That in the case of a book, photograph, chromo, or lithograph, the two copies of the same required to be deposited in the Library of Congress shall be printed from type set within the limits of the United States, or from plates made therefrom, or from negatives, or drawings on stone made within the limits of the United States, or from transfers made therefrom: And provided further, That the provisions of this act shall not apply to any article or articles, except photographs, chromos, or lithographs, which shall have been published abroad more than thirty days before first publication in the United States.
+
+SEC. 3. That in the case of a book in a foreign language of which only a translation in the English language is published in this country, the copyright shall only protect the right of translation against infringement by other translations.
+
+SEC. 4. That in the case of a book published in a foreign country in a language other than English, a citizen of the United States may obtain ad interim protection for his translation of the same by depositing with the Librarian of Congress the title-page of the original book and the notice of copyright of the translation in this country within thirty days of first publication abroad.
+
+SEC. 5. That it shall be the duty of the Librarian of Congress to furnish to the Secretary of the Treasury copies of the entries of titles of all books, photographs, chromos, and lithographs, for which copyright has been granted under this act or the acts of which this is amendatory, and the Secretary of the Treasury shall direct the proper officers to seize and hold all articles seeking entry into the United States which are copies of copyrighted articles, and shall notify the copyright owner of any such seizure, and the commissioner of patents shall have power and authority to make such rules and regulations as he may deem necessary for the proper carrying out of the provisions of this act.
+
+SEC. 6. That all alterations, revisions, and additions made to books by foreign authors, heretofore published, to which copyright has been taken out by citizens of the United States, shall be held and deemed capable of being copyrighted, under this act: Provided, That the publication of any such book with such additions shall not in itself be deemed an infringement of the existing copyright of the original work.
+
+SEC. 7. That this act shall only apply to a citizen of a foreign state or nation when such state or nation permits to citizens of the United States the benefit of copyright on substantially the same basis as to its own citizens; or when such foreign state or nation is a party to an international agreement which provides for reciprocity in the granting of copyright, by the terms of which agreement the United States may, at its pleasure, become a party thereto.
+
+SEC. 8. That this act shall take effect on the first day of July, eighteen hundred and ninety-one.
+
+APPROVED, March 3, 1891.

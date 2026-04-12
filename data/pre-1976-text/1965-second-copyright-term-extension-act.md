@@ -1,0 +1,7 @@
+# Joint Resolution Extending the duration of copyright protection in certain cases
+
+*Pub. L. 89-142, 79 Stat. 581 (1965)*
+
+*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,* That in any case in which the renewal term of copyright subsisting in any work on the date of approval of this resolution, or the term thereof as extended by Public Law 87-668, would expire prior to December 31, 1967, such term is hereby continued until December 31, 1967.
+
+APPROVED, August 28, 1965.
