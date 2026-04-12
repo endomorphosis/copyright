@@ -252,7 +252,7 @@ def build_repo(acts, data_dir, output_dir):
             # Post-1976 amendments
             # Check for reconstructed section snapshots for this act
             snapshot_dir = os.path.join(
-                data_dir, 'snapshots', act['date'] + '-' + sanitize_filename(act['name'])
+                data_dir, 'act-snapshots', act['date'] + '-' + sanitize_filename(act['name'])
             )
             if os.path.isdir(snapshot_dir):
                 # Copy updated section files
