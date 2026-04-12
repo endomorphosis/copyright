@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.copyright.gov)",
+      "WebFetch(domain:uscode.house.gov)",
+      "WebFetch(domain:en.wikipedia.org)",
+      "WebFetch(domain:www.congress.gov)",
+      "WebFetch(domain:www.govinfo.gov)",
+      "WebSearch",
+      "Bash(git add:*)",
+      "Bash(git commit -m ':*)",
+      "WebFetch(domain:www.law.cornell.edu)",
+      "WebFetch(domain:en.wikisource.org)",
+      "Bash(curl:*)",
+      "WebFetch(domain:avalon.law.yale.edu)",
+      "WebFetch(domain:constitution.congress.gov)",
+      "WebFetch(domain:www.copyrighthistory.org)",
+      "WebFetch(domain:tile.loc.gov)",
+      "WebFetch(domain:govtrackus.s3.amazonaws.com)",
+      "Bash(git commit:*)",
+      "Bash(git tag:*)",
+      "Bash(git reset:*)",
+      "Bash(git checkout:*)",
+      "Bash(git rm:*)"
+    ]
+  }
+}
