@@ -24,15 +24,17 @@ def parse_acts(yaml_path):
     with open(yaml_path, 'r') as f:
         content = f.read()
 
-    entries = re.split(r'\n(?=- name:)', content)
+    # Normalize: ensure split works even for the first entry
+    entries = re.split(r'\n(?=- name:)', '\n' + content)
     acts = []
     for entry in entries:
-        if not entry.strip().startswith('- name:'):
+        entry = entry.strip()
+        if not entry.startswith('- name:'):
             continue
 
         def get_field(field, text=entry):
-            # Try single-line value first
-            m = re.search(rf'^\s*{field}:\s*(.+)$', text, re.MULTILINE)
+            # Try single-line value first (handle YAML list prefix "- ")
+            m = re.search(rf'(?:^|\s){field}:\s*(.+)$', text, re.MULTILINE)
             if not m:
                 return None
             val = m.group(1).strip()
