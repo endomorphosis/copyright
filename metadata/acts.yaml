@@ -7,7 +7,11 @@
 #
 # Sources: Copyright Office timeline, Copyright Office legislation page,
 #          Congressional Research Service, Statutes at Large, Public Law records,
-#          OLRC Table III for Title 17
+#          OLRC section-by-section amendment notes for all sections of Title 17
+
+# =============================================================================
+# PRE-1976 ERA
+# =============================================================================
 
 # =============================================================================
 # PRE-1976 ERA
@@ -216,6 +220,17 @@
     Substantive provisions remained those of the 1909 Act as amended.
   status: pending
 
+- name: Copyright Statute of Limitations Act of 1957
+  date: 1957-09-07
+  citation: 71 Stat. 633
+  public_law: Pub. L. 85-313
+  summary: >
+    Established a uniform three-year statute of limitations for civil
+    copyright infringement actions (Section 507) and a three-year limitation
+    for criminal proceedings, replacing the prior practice of borrowing
+    varying state statutes of limitations.
+  status: pending
+
 # Nine successive interim extension acts (1962-1974) extended renewal terms
 # for works whose copyrights would otherwise expire while Congress worked on
 # the general revision that became the 1976 Act.
@@ -236,6 +251,16 @@
   public_law: Pub. L. 89-142
   summary: >
     Second interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Government Organization and Employees Act of 1966 (Copyright Provision)
+  date: 1966-09-06
+  citation: 80 Stat. 378
+  public_law: Pub. L. 89-554
+  summary: >
+    Repealed and re-enacted the Administrative Procedure Act as part of
+    Title 5. Updated cross-references in Section 701 of Title 17 (Copyright
+    Office) to reflect the new codification of APA provisions.
   status: pending
 
 - name: Third Copyright Term Extension Act of 1967
@@ -310,6 +335,20 @@
 # THE 1976 ACT AND POST-1976 AMENDMENTS
 # =============================================================================
 
+- name: CONTU Amendment Act of 1976
+  date: 1976-06-21
+  citation: 90 Stat. 692
+  public_law: Pub. L. 94-314
+  summary: >
+    Amended provisions related to the National Commission on New Technological
+    Uses of Copyrighted Works (CONTU), which studied copyright issues
+    arising from computers and photocopying technology.
+  status: pending
+
+# =============================================================================
+# THE 1976 ACT AND POST-1976 AMENDMENTS
+# =============================================================================
+
 - name: Copyright Act of 1976
   date: 1976-10-19
   effective_date: 1978-01-01
@@ -324,6 +363,37 @@
   tag: v1976
   status: pending
 
+- name: Legislative Branch Appropriation Act of 1978 (Copyright Office Fees)
+  date: 1977-08-05
+  citation: 91 Stat. 653
+  public_law: Pub. L. 95-94
+  summary: >
+    Amended Section 708 (Copyright Office fees) to direct that all fees
+    received be credited to the appropriation for necessary expenses of
+    the Copyright Office, effective January 1, 1978.
+  status: pending
+
+- name: CONTU Extension Act of 1977
+  date: 1977-10-28
+  citation: 91 Stat. 1226
+  public_law: Pub. L. 95-146
+  summary: >
+    Extended by seven months the term of the National Commission on New
+    Technological Uses of Copyrighted Works (CONTU), allowing additional
+    time to complete its final report on copyright issues related to
+    computer technology and machine reproduction.
+  status: pending
+
+- name: Bankruptcy Reform Act of 1978 (Copyright Provision)
+  date: 1978-11-06
+  citation: 92 Stat. 2676
+  public_law: Pub. L. 95-598
+  summary: >
+    Amended Section 201(e) (copyright ownership) by inserting "except as
+    provided under title 11" to clarify that transfers of copyright
+    ownership could occur through bankruptcy proceedings.
+  status: pending
+
 - name: Computer Software Copyright Act of 1980
   date: 1980-12-12
   citation: 94 Stat. 3015
@@ -334,6 +404,25 @@
     the right to make archival copies.
   status: pending
 
+- name: Piracy and Counterfeiting Amendments Act of 1982
+  date: 1982-05-24
+  citation: 96 Stat. 131
+  public_law: Pub. L. 97-180
+  summary: >
+    Increased penalties for piracy of sound recordings and motion pictures.
+  status: pending
+
+- name: Manufacturing Clause Extension Act of 1982
+  date: 1982-07-13
+  citation: 96 Stat. 178
+  public_law: Pub. L. 97-215
+  summary: >
+    Amended Section 601 (manufacturing requirement) by extending the
+    expiration date of the manufacturing clause from 1982 to July 1, 1986,
+    continuing the requirement that certain literary works by US authors
+    be manufactured in the United States or Canada.
+  status: pending
+
 - name: Nonprofit Performance Exemption Act of 1982
   date: 1982-10-25
   citation: 96 Stat. 1759
@@ -342,14 +431,6 @@
     Added Section 110(10), exempting nonprofit veterans' organizations and
     fraternal organizations from liability for public performances of
     nondramatic literary or musical works at social functions.
-  status: pending
-
-- name: Piracy and Counterfeiting Amendments Act of 1982
-  date: 1982-05-24
-  citation: 96 Stat. 131
-  public_law: Pub. L. 97-180
-  summary: >
-    Increased penalties for piracy of sound recordings and motion pictures.
   status: pending
 
 - name: Record Rental Amendment of 1984
@@ -380,14 +461,15 @@
     royalty fee calculations and secondary transmission rules.
   status: pending
 
-- name: Satellite Home Viewer Act of 1988
-  date: 1988-11-16
-  citation: 102 Stat. 3949
-  public_law: Pub. L. 100-667, Title II
+- name: Semiconductor Chip Protection Extension Act of 1987
+  date: 1987-11-09
+  citation: 101 Stat. 899
+  public_law: Pub. L. 100-159
   summary: >
-    Added Section 119 to Title 17, creating a compulsory license for
-    satellite carriers to retransmit distant broadcast signals to
-    unserved households. First satellite-specific copyright provision.
+    Amended Sections 902 and 914 of the Semiconductor Chip Protection Act
+    by extending the deadline for interim international protection orders
+    and granting the President authority to revise, suspend, or revoke
+    proclamations extending chip protection to foreign nationals.
   status: pending
 
 - name: Berne Convention Implementation Act of 1988
@@ -399,6 +481,45 @@
     of Literary and Artistic Works. Made copyright notice optional rather
     than mandatory. Effective March 1, 1989.
   tag: v1988-berne
+  status: pending
+
+- name: Record Rental Extension Act of 1988
+  date: 1988-11-05
+  citation: 102 Stat. 3194
+  public_law: Pub. L. 100-617
+  summary: >
+    Extended the Record Rental Amendment of 1984's restrictions on commercial
+    rental of sound recordings (Section 109 first sale exception) by an
+    additional eight years, pushing the expiration to October 4, 1997.
+  status: pending
+
+- name: Satellite Home Viewer Act of 1988
+  date: 1988-11-16
+  citation: 102 Stat. 3949
+  public_law: Pub. L. 100-667, Title II
+  summary: >
+    Added Section 119 to Title 17, creating a compulsory license for
+    satellite carriers to retransmit distant broadcast signals to
+    unserved households. First satellite-specific copyright provision.
+  status: pending
+
+- name: Judicial Improvements and Access to Justice Act of 1988 (Copyright Provision)
+  date: 1988-11-19
+  citation: 102 Stat. 4672
+  public_law: Pub. L. 100-702
+  summary: >
+    Amended Section 912 of the Semiconductor Chip Protection Act by
+    striking a cross-reference subsection to Title 28 (judiciary) and
+    redesignating remaining subsections.
+  status: pending
+
+- name: Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989
+  date: 1990-07-03
+  citation: 104 Stat. 290
+  public_law: Pub. L. 101-319
+  summary: >
+    Amended Sections 701 and 802 regarding the Copyright Royalty Tribunal,
+    reforming the pay structure and miscellaneous operational provisions.
   status: pending
 
 - name: Copyright Technical Correction of 1990
@@ -449,6 +570,17 @@
     in architectural works.
   status: pending
 
+- name: Semiconductor International Protection Extension Act of 1991
+  date: 1991-06-28
+  citation: 105 Stat. 320
+  public_law: Pub. L. 102-64
+  summary: >
+    Amended Section 914 by extending the deadline for interim international
+    protection orders for semiconductor chip mask works to July 1, 1995,
+    and broadening the types of foreign legal regimes qualifying for
+    reciprocal protection.
+  status: pending
+
 - name: Copyright Renewal Act of 1992
   date: 1992-06-26
   citation: 106 Stat. 264
@@ -457,6 +589,17 @@
     Made copyright renewal automatic for works published between 1964 and 1977.
     Eliminated the requirement to file a renewal registration to maintain
     copyright protection.
+  status: pending
+
+- name: Fair Use of Unpublished Works Act of 1992
+  date: 1992-10-24
+  citation: 106 Stat. 3145
+  public_law: Pub. L. 102-492
+  summary: >
+    Added a sentence to Section 107 (fair use): "The fact that a work is
+    unpublished shall not itself bar a finding of fair use if such finding
+    is made upon consideration of all the above factors." Overrode case law
+    treating unpublished status as virtually dispositive against fair use.
   status: pending
 
 - name: Copyright Felony Act of 1992
@@ -479,15 +622,14 @@
     Prohibited infringement suits based on noncommercial home recording.
   status: pending
 
-- name: Copyright Royalty Tribunal Reform Act of 1993
-  date: 1993-12-17
-  citation: 107 Stat. 2304
-  public_law: Pub. L. 103-198
+- name: Legislative Branch Appropriations Act of 1994 (Copyright Provision)
+  date: 1993-08-11
+  citation: 107 Stat. 692
+  public_law: Pub. L. 103-69
   summary: >
-    Abolished the Copyright Royalty Tribunal and replaced it with ad hoc
-    Copyright Arbitration Royalty Panels (CARPs) administered by the
-    Librarian of Congress. Amended royalty fee provisions in Sections 111,
-    114, 116, and 119.
+    Section 307 imposed personnel reduction requirements on legislative
+    branch entities but exempted positions required for the administration
+    of compulsory licensing under Section 803.
   status: pending
 
 - name: North American Free Trade Agreement Implementation Act of 1993 (Copyright Provisions)
@@ -499,15 +641,15 @@
     from NAFTA countries.
   status: pending
 
-- name: Uruguay Round Agreements Act of 1994 (Copyright Provisions)
-  date: 1994-12-08
-  citation: 108 Stat. 4809
-  public_law: Pub. L. 103-465
+- name: Copyright Royalty Tribunal Reform Act of 1993
+  date: 1993-12-17
+  citation: 107 Stat. 2304
+  public_law: Pub. L. 103-198
   summary: >
-    Rewrote Section 104A to restore copyright in works from WTO and Berne
-    Convention countries that had entered the public domain in the US due
-    to noncompliance with formalities, lack of national eligibility, or
-    lack of subject matter protection.
+    Abolished the Copyright Royalty Tribunal and replaced it with ad hoc
+    Copyright Arbitration Royalty Panels (CARPs) administered by the
+    Librarian of Congress. Amended royalty fee provisions in Sections 111,
+    114, 116, and 119.
   status: pending
 
 - name: Satellite Home Viewer Act Extension of 1994
@@ -517,6 +659,17 @@
   summary: >
     Extended the Section 119 satellite compulsory license originally
     established by the Satellite Home Viewer Act of 1988.
+  status: pending
+
+- name: Uruguay Round Agreements Act of 1994 (Copyright Provisions)
+  date: 1994-12-08
+  citation: 108 Stat. 4809
+  public_law: Pub. L. 103-465
+  summary: >
+    Rewrote Section 104A to restore copyright in works from WTO and Berne
+    Convention countries that had entered the public domain in the US due
+    to noncompliance with formalities, lack of national eligibility, or
+    lack of subject matter protection.
   status: pending
 
 - name: Digital Performance Right in Sound Recordings Act of 1995
@@ -536,6 +689,36 @@
   summary: >
     Amended Section 603 regarding importation prohibitions on piratical
     copies of copyrighted works.
+  status: pending
+
+- name: Legislative Branch Appropriations Act of 1997 (Chafee Amendment)
+  date: 1996-09-16
+  citation: 110 Stat. 2416
+  public_law: Pub. L. 104-197
+  summary: >
+    Enacted Section 121 (the "Chafee Amendment"), creating a limitation
+    on exclusive rights that permits authorized entities to reproduce and
+    distribute copyrighted literary works in accessible formats exclusively
+    for use by blind or other persons with disabilities.
+  status: pending
+
+- name: Miscellaneous Trade and Technical Corrections Act of 1996 (Copyright Provision)
+  date: 1996-10-11
+  citation: 110 Stat. 3514
+  public_law: Pub. L. 104-295
+  summary: >
+    Made a technical correction to Section 104A (copyright in restored works)
+    by fixing an internal cross-reference in the copyright restoration
+    provisions enacted by the Uruguay Round Agreements Act.
+  status: pending
+
+- name: Copyright Technical Amendments Act of 1997
+  date: 1997-11-13
+  citation: 111 Stat. 2386
+  public_law: Pub. L. 105-80
+  summary: >
+    Made technical corrections and conforming amendments throughout Title 17.
+    Corrected cross-references and clerical errors in multiple sections.
   status: pending
 
 - name: No Electronic Theft Act of 1997 (NET Act)
@@ -559,6 +742,16 @@
   tag: v1998-ctea
   status: pending
 
+- name: Fairness in Music Licensing Act of 1998
+  date: 1998-10-27
+  citation: 112 Stat. 2827
+  public_law: Pub. L. 105-298, Title II
+  summary: >
+    Amended Section 110(5) to expand the exemption for public performance
+    of music by small businesses (restaurants, bars, retail establishments)
+    via radio and television reception.
+  status: pending
+
 - name: Digital Millennium Copyright Act of 1998 (DMCA)
   date: 1998-10-28
   citation: 112 Stat. 2860
@@ -569,25 +762,6 @@
     of technological protection measures. Added Section 512 safe harbor for
     online service providers. Added Section 117(c) for computer maintenance.
   tag: v1998-dmca
-  status: pending
-
-- name: Copyright Technical Amendments Act of 1997
-  date: 1997-11-13
-  citation: 111 Stat. 2386
-  public_law: Pub. L. 105-80
-  summary: >
-    Made technical corrections and conforming amendments throughout Title 17.
-    Corrected cross-references and clerical errors in multiple sections.
-  status: pending
-
-- name: Fairness in Music Licensing Act of 1998
-  date: 1998-10-27
-  citation: 112 Stat. 2827
-  public_law: Pub. L. 105-298, Title II
-  summary: >
-    Amended Section 110(5) to expand the exemption for public performance
-    of music by small businesses (restaurants, bars, retail establishments)
-    via radio and television reception.
   status: pending
 
 - name: Technical Corrections to Title 17 Act of 1999
@@ -602,15 +776,6 @@
     Corrected clerical errors in Sections 112, 119, 1202, 1302, and 1320.
   status: pending
 
-- name: Digital Theft Deterrence and Copyright Damages Improvement Act of 1999
-  date: 1999-12-09
-  citation: 113 Stat. 1774
-  public_law: Pub. L. 106-160
-  summary: >
-    Increased statutory damages for copyright infringement under Section 504(c).
-    Raised the range for both ordinary and willful infringement.
-  status: pending
-
 - name: Intellectual Property and Communications Omnibus Reform Act of 1999
   date: 1999-11-29
   citation: 113 Stat. 1501
@@ -619,6 +784,15 @@
     Omnibus act containing multiple intellectual property provisions including
     satellite home viewer improvements, digital audio webcasting provisions,
     and technical corrections to DMCA and other copyright provisions.
+  status: pending
+
+- name: Digital Theft Deterrence and Copyright Damages Improvement Act of 1999
+  date: 1999-12-09
+  citation: 113 Stat. 1774
+  public_law: Pub. L. 106-160
+  summary: >
+    Increased statutory damages for copyright infringement under Section 504(c).
+    Raised the range for both ordinary and willful infringement.
   status: pending
 
 - name: Work Made for Hire and Copyright Corrections Act of 2000
@@ -659,13 +833,13 @@
     Royalty Judges. Rewrote Chapter 8 of Title 17.
   status: pending
 
-- name: Intellectual Property Protection and Courts Amendments Act of 2004
-  date: 2004-12-23
-  citation: 118 Stat. 3912
-  public_law: Pub. L. 108-482
+- name: Individuals with Disabilities Education Improvement Act of 2004 (Copyright Provision)
+  date: 2004-12-03
+  citation: 118 Stat. 2647
+  public_law: Pub. L. 108-446
   summary: >
-    Included provisions addressing false copyright claims (Section 506)
-    and establishing the Artists' Rights and Theft Prevention provisions.
+    Section 306 amended Title 17 regarding reproduction of copyrighted works
+    in specialized formats for persons with disabilities.
   status: pending
 
 - name: Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)
@@ -677,13 +851,13 @@
     for retransmission of distant broadcast signals.
   status: pending
 
-- name: Individuals with Disabilities Education Improvement Act of 2004 (Copyright Provision)
-  date: 2004-12-03
-  citation: 118 Stat. 2647
-  public_law: Pub. L. 108-446
+- name: Intellectual Property Protection and Courts Amendments Act of 2004
+  date: 2004-12-23
+  citation: 118 Stat. 3912
+  public_law: Pub. L. 108-482
   summary: >
-    Section 306 amended Title 17 regarding reproduction of copyrighted works
-    in specialized formats for persons with disabilities.
+    Included provisions addressing false copyright claims (Section 506)
+    and establishing the Artists' Rights and Theft Prevention provisions.
   status: pending
 
 - name: Family Entertainment and Copyright Act of 2005
@@ -698,6 +872,16 @@
     skip objectionable content during home viewing of motion pictures.
   status: pending
 
+- name: Stop Counterfeiting in Manufactured Goods Act of 2006 (Copyright Provision)
+  date: 2006-03-16
+  citation: 120 Stat. 288
+  public_law: Pub. L. 109-181
+  summary: >
+    Amended Section 1101(b) (unauthorized fixation and trafficking in sound
+    recordings and music videos) by replacing the self-contained definition
+    of "traffic in" with a cross-reference to 18 U.S.C. Section 2320(e).
+  status: pending
+
 - name: Copyright Royalty Judges Program Technical Corrections Act of 2006
   date: 2006-10-06
   citation: 120 Stat. 1218
@@ -705,16 +889,6 @@
   summary: >
     Made technical corrections to the Copyright Royalty and Distribution
     Reform Act of 2004. Clarified procedures for the Copyright Royalty Judges.
-  status: pending
-
-- name: Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
-  date: 2008-10-13
-  citation: 122 Stat. 4256
-  public_law: Pub. L. 110-403
-  summary: >
-    Enhanced civil and criminal penalties for copyright infringement.
-    Amended Section 504 regarding statutory damages and Section 506
-    regarding criminal offenses.
   status: pending
 
 - name: Consolidated Natural Resources Act of 2008 (Copyright Provision)
@@ -726,6 +900,16 @@
     "Trust Territory of the Pacific Islands" with the Federated States of
     Micronesia, Republic of Palau, and Republic of the Marshall Islands,
     reflecting their changed political status.
+  status: pending
+
+- name: Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+  date: 2008-10-13
+  citation: 122 Stat. 4256
+  public_law: Pub. L. 110-403
+  summary: >
+    Enhanced civil and criminal penalties for copyright infringement.
+    Amended Section 504 regarding statutory damages and Section 506
+    regarding criminal offenses.
   status: pending
 
 - name: Vessel Hull Design Protection Amendments of 2008
@@ -811,13 +995,15 @@
     602, 704, 803, 1203, and 1204.
   status: pending
 
-- name: STELA Reauthorization Act of 2014
-  date: 2014-12-04
-  citation: 128 Stat. 2059
-  public_law: Pub. L. 113-200
+- name: National Defense Authorization Act for Fiscal Year 2012 (Copyright Provision)
+  date: 2011-12-31
+  citation: 125 Stat. 1497
+  public_law: Pub. L. 112-81
   summary: >
-    Reauthorized the Section 119 satellite compulsory license through
-    December 31, 2019. Made modifications to satellite retransmission rules.
+    Amended 18 U.S.C. Section 2320, relocating the definition of "traffic"
+    from subsection (e) to subsection (f). This indirectly affected Section
+    1101(b) of Title 17 (anti-bootlegging), which cross-references that
+    definition.
   status: pending
 
 - name: Unlocking Consumer Choice and Wireless Competition Act of 2014
@@ -829,6 +1015,15 @@
     consumers to unlock cell phones from their wireless carriers.
     Directed the Librarian to consider the impact on such unlocking
     in future Section 1201 rulemaking proceedings.
+  status: pending
+
+- name: STELA Reauthorization Act of 2014
+  date: 2014-12-04
+  citation: 128 Stat. 2059
+  public_law: Pub. L. 113-200
+  summary: >
+    Reauthorized the Section 119 satellite compulsory license through
+    December 31, 2019. Made modifications to satellite retransmission rules.
   status: pending
 
 - name: Marrakesh Treaty Implementation Act of 2018
@@ -906,6 +1101,16 @@
     Amended Section 506 to make large-scale unauthorized streaming services
     a felony. Clarified that criminal streaming penalties apply to services
     primarily designed for infringement.
+  status: pending
+
+- name: National Defense Authorization Act for Fiscal Year 2022 (Copyright Provision)
+  date: 2021-12-27
+  citation: 135 Stat. 2160
+  public_law: Pub. L. 117-81
+  summary: >
+    Amended Section 1301(a)(3) of the Vessel Hull Design Protection Act
+    by updating a cross-reference to reflect the recodification of
+    Department of Defense acquisition provisions in Title 10.
   status: pending
 
 - name: Artistic Recognition for Talented Students Act of 2022 (ARTS Act)
