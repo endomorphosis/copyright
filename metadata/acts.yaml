@@ -13,10 +13,6 @@
 # PRE-1976 ERA
 # =============================================================================
 
-# =============================================================================
-# PRE-1976 ERA
-# =============================================================================
-
 - name: Copyright Act of 1790
   date: 1790-05-31
   citation: 1 Stat. 124
@@ -201,7 +197,7 @@
     to the Copyright Office, effective July 1, 1940.
   status: pending
 
-- name: Wartime Copyright Emergency Act of 1941
+- name: Emergency Copyright Act of 1941
   date: 1941-09-25
   citation: 55 Stat. 732
   chapter: Ch. 421
@@ -214,7 +210,7 @@
 - name: Copyright Law Codification Act of 1947
   date: 1947-07-30
   citation: 61 Stat. 652
-  public_law: Pub. L. 80-281
+  chapter: Ch. 391
   summary: >
     Codified copyright law as Title 17 of the United States Code.
     Substantive provisions remained those of the 1909 Act as amended.
@@ -273,7 +269,7 @@
 
 - name: Fourth Copyright Term Extension Act of 1968
   date: 1968-07-23
-  citation: 82 Stat. 362
+  citation: 82 Stat. 397
   public_law: Pub. L. 90-416
   summary: >
     Fourth interim extension of copyright renewal terms pending general revision.
@@ -281,15 +277,15 @@
 
 - name: Fifth Copyright Term Extension Act of 1969
   date: 1969-12-16
-  citation: 83 Stat. 363
+  citation: 83 Stat. 360
   public_law: Pub. L. 91-147
   summary: >
     Fifth interim extension of copyright renewal terms pending general revision.
   status: pending
 
 - name: Sixth Copyright Term Extension Act of 1970
-  date: 1970-10-15
-  citation: 84 Stat. 1003
+  date: 1970-12-17
+  citation: 84 Stat. 1441
   public_law: Pub. L. 91-555
   summary: >
     Sixth interim extension of copyright renewal terms pending general revision.
@@ -306,8 +302,8 @@
   status: pending
 
 - name: Seventh Copyright Term Extension Act of 1971
-  date: 1971-12-31
-  citation: 85 Stat. 657
+  date: 1971-11-24
+  citation: 85 Stat. 490
   public_law: Pub. L. 92-170
   summary: >
     Seventh interim extension of copyright renewal terms pending general revision.
@@ -315,7 +311,7 @@
 
 - name: Eighth Copyright Term Extension Act of 1972
   date: 1972-10-25
-  citation: 86 Stat. 1159
+  citation: 86 Stat. 1181
   public_law: Pub. L. 92-566
   summary: >
     Eighth interim extension of copyright renewal terms pending general revision.
@@ -344,10 +340,6 @@
     Uses of Copyrighted Works (CONTU), which studied copyright issues
     arising from computers and photocopying technology.
   status: pending
-
-# =============================================================================
-# THE 1976 ACT AND POST-1976 AMENDMENTS
-# =============================================================================
 
 - name: Copyright Act of 1976
   date: 1976-10-19
@@ -406,7 +398,7 @@
 
 - name: Piracy and Counterfeiting Amendments Act of 1982
   date: 1982-05-24
-  citation: 96 Stat. 131
+  citation: 96 Stat. 91
   public_law: Pub. L. 97-180
   summary: >
     Increased penalties for piracy of sound recordings and motion pictures.
@@ -522,9 +514,9 @@
     reforming the pay structure and miscellaneous operational provisions.
   status: pending
 
-- name: Copyright Technical Correction of 1990
+- name: Copyright Fees and Technical Amendments Act of 1989
   date: 1990-07-03
-  citation: 104 Stat. 223
+  citation: 104 Stat. 287
   public_law: Pub. L. 101-318
   summary: >
     Updated the cross-reference in the introductory provisions of Section 106
@@ -604,7 +596,7 @@
 
 - name: Copyright Felony Act of 1992
   date: 1992-10-28
-  citation: 106 Stat. 4230
+  citation: 106 Stat. 4233
   public_law: Pub. L. 102-561
   summary: >
     Made large-scale commercial copyright infringement of sound recordings
@@ -649,12 +641,12 @@
     Abolished the Copyright Royalty Tribunal and replaced it with ad hoc
     Copyright Arbitration Royalty Panels (CARPs) administered by the
     Librarian of Congress. Amended royalty fee provisions in Sections 111,
-    114, 116, and 119.
+    116, 118, and 119.
   status: pending
 
-- name: Satellite Home Viewer Act Extension of 1994
+- name: Satellite Home Viewer Act of 1994
   date: 1994-10-18
-  citation: 108 Stat. 1567
+  citation: 108 Stat. 3477
   public_law: Pub. L. 103-369
   summary: >
     Extended the Section 119 satellite compulsory license originally
@@ -714,7 +706,7 @@
 
 - name: Copyright Technical Amendments Act of 1997
   date: 1997-11-13
-  citation: 111 Stat. 2386
+  citation: 111 Stat. 1529
   public_law: Pub. L. 105-80
   summary: >
     Made technical corrections and conforming amendments throughout Title 17.
@@ -874,7 +866,7 @@
 
 - name: Stop Counterfeiting in Manufactured Goods Act of 2006 (Copyright Provision)
   date: 2006-03-16
-  citation: 120 Stat. 288
+  citation: 120 Stat. 285
   public_law: Pub. L. 109-181
   summary: >
     Amended Section 1101(b) (unauthorized fixation and trafficking in sound
@@ -884,7 +876,7 @@
 
 - name: Copyright Royalty Judges Program Technical Corrections Act of 2006
   date: 2006-10-06
-  citation: 120 Stat. 1218
+  citation: 120 Stat. 1478
   public_law: Pub. L. 109-303
   summary: >
     Made technical corrections to the Copyright Royalty and Distribution
@@ -914,7 +906,7 @@
 
 - name: Vessel Hull Design Protection Amendments of 2008
   date: 2008-10-16
-  citation: 122 Stat. 4986
+  citation: 122 Stat. 4972
   public_law: Pub. L. 110-434
   summary: >
     Amended Chapter 13 of Title 17 (vessel hull design protection) to
@@ -1055,9 +1047,10 @@
   citation: 133 Stat. 3198
   public_law: Pub. L. 116-94
   summary: >
-    Made the Section 122 compulsory license for satellite retransmission
-    of local broadcast signals permanent (previously subject to periodic
-    reauthorization). Repealed Section 119 distant signal license.
+    Made the Section 119 satellite compulsory license for retransmission
+    of distant broadcast signals permanent (previously subject to periodic
+    reauthorization) while narrowing its scope. Required satellite carriers
+    to provide local-into-local service in all 210 designated market areas.
   status: pending
 
 - name: National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)
@@ -1098,9 +1091,9 @@
   citation: 134 Stat. 2177
   public_law: Pub. L. 116-260
   summary: >
-    Amended Section 506 to make large-scale unauthorized streaming services
-    a felony. Clarified that criminal streaming penalties apply to services
-    primarily designed for infringement.
+    Added 18 U.S.C. Section 2319C, making it a felony to operate illicit
+    digital transmission services that unlawfully transmit copyrighted works
+    on a large scale. Did not amend Title 17 directly.
   status: pending
 
 - name: National Defense Authorization Act for Fiscal Year 2022 (Copyright Provision)
