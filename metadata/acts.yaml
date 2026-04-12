@@ -1,0 +1,527 @@
+# Comprehensive list of acts of Congress that created or amended US copyright law
+# Each entry represents one commit in this repository's history
+#
+# Status key:
+#   done     = committed to this repo
+#   pending  = not yet committed
+#
+# Sources: Copyright Office timeline, Congressional Research Service,
+#          Statutes at Large, Public Law records
+
+# =============================================================================
+# PRE-1976 ERA
+# =============================================================================
+
+- name: Copyright Act of 1790
+  date: 1790-05-31
+  citation: 1 Stat. 124
+  chapter: Ch. 15
+  summary: >
+    First federal copyright law. Protected books, maps, and charts for 14 years
+    with a 14-year renewal term. Required registration in the local district court
+    and deposit of a copy with the Secretary of State.
+  tag: v1790
+  status: pending
+
+- name: Copyright Act Amendment of 1802
+  date: 1802-04-29
+  citation: 2 Stat. 171
+  chapter: Ch. 36
+  summary: >
+    Extended protection to historical and other prints. Required copyright notice
+    to be inserted in the title page or the page immediately following.
+  status: pending
+
+- name: Copyright Act of 1831
+  date: 1831-02-03
+  citation: 4 Stat. 436
+  chapter: Ch. 16
+  summary: >
+    First general revision. Added musical compositions to protected works.
+    Extended initial term to 28 years with a 14-year renewal term.
+    Granted rights to widows and children of deceased authors.
+  tag: v1831
+  status: pending
+
+- name: Copyright Amendment of 1856
+  date: 1856-08-18
+  citation: 11 Stat. 138
+  chapter: Ch. 169
+  summary: >
+    Extended copyright protection to dramatic compositions, including the
+    exclusive right of public performance.
+  status: pending
+
+- name: Copyright Amendment of 1865
+  date: 1865-03-03
+  citation: 13 Stat. 540
+  chapter: Ch. 126
+  summary: >
+    Extended copyright protection to photographs and photographic negatives.
+  status: pending
+
+- name: Copyright Act of 1870
+  date: 1870-07-08
+  citation: 16 Stat. 198
+  chapter: Ch. 230
+  summary: >
+    Second general revision. Centralized all copyright activities at the
+    Library of Congress. Extended protection to paintings, drawings, chromos,
+    statues, statuary, and models or designs intended to be perfected as works
+    of the fine arts. Also covered translations and dramatizations.
+  tag: v1870
+  status: pending
+
+- name: International Copyright Act of 1891 (Chace Act)
+  date: 1891-03-03
+  citation: 26 Stat. 1106
+  chapter: Ch. 565
+  summary: >
+    Authorized establishment of copyright relations with foreign nations.
+    Required manufacturing clause (works must be printed in the US).
+    First time foreign authors could obtain US copyright protection.
+  status: pending
+
+- name: Printing Act of 1895
+  date: 1895-01-12
+  citation: 28 Stat. 601
+  chapter: Ch. 23
+  summary: >
+    Prohibited copyright in publications of the United States government.
+    Centralized government printing operations.
+  status: pending
+
+- name: Copyright Amendment of 1897 (Musical Performance)
+  date: 1897-01-06
+  citation: 29 Stat. 481
+  chapter: Ch. 4
+  summary: >
+    Made unauthorized public performance of musical compositions a
+    misdemeanor punishable by imprisonment.
+  status: pending
+
+- name: Copyright Office Establishment Act of 1897
+  date: 1897-02-19
+  citation: 29 Stat. 544
+  chapter: Ch. 265
+  summary: >
+    Established the Copyright Office as a separate department within the
+    Library of Congress and created the position of Register of Copyrights.
+  status: pending
+
+- name: Copyright Act of 1909
+  date: 1909-03-04
+  citation: 35 Stat. 1075
+  public_law: Pub. L. 60-349
+  summary: >
+    Third general revision and first comprehensive copyright statute of the
+    20th century. Granted protection to all writings of an author (including
+    unpublished works through common law). Introduced the mechanical license
+    for musical recordings. Required published copies to bear copyright notice.
+    Extended renewal term to 28 years (28+28 = 56 years total).
+  tag: v1909
+  status: pending
+
+- name: Copyright Amendment of 1912 (Motion Pictures)
+  date: 1912-08-24
+  citation: 37 Stat. 488
+  chapter: Ch. 356
+  summary: >
+    Extended copyright protection to motion pictures as a distinct category.
+    Previously, motion pictures were registered as series of still photographs.
+  status: pending
+
+- name: Prints and Labels Transfer Act of 1939
+  date: 1939-07-31
+  citation: 53 Stat. 1142
+  chapter: Ch. 396
+  summary: >
+    Transferred registration of prints and labels from the Patent Office
+    to the Copyright Office, effective July 1, 1940.
+  status: pending
+
+- name: Copyright Law Codification Act of 1947
+  date: 1947-07-30
+  citation: 61 Stat. 652
+  public_law: Pub. L. 80-281
+  summary: >
+    Codified copyright law as Title 17 of the United States Code.
+    Substantive provisions remained those of the 1909 Act as amended.
+  status: pending
+
+# Nine successive interim extension acts (1962-1974) extended renewal terms
+# for works whose copyrights would otherwise expire while Congress worked on
+# the general revision that became the 1976 Act.
+
+- name: First Copyright Term Extension Act of 1962
+  date: 1962-09-19
+  citation: 76 Stat. 555
+  public_law: Pub. L. 87-668
+  summary: >
+    First of nine interim extension acts. Extended renewal terms of copyrights
+    that would otherwise expire, while Congress considered general revision
+    of the copyright law.
+  status: pending
+
+- name: Second Copyright Term Extension Act of 1965
+  date: 1965-08-28
+  citation: 79 Stat. 581
+  public_law: Pub. L. 89-142
+  summary: >
+    Second interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Third Copyright Term Extension Act of 1967
+  date: 1967-11-16
+  citation: 81 Stat. 464
+  public_law: Pub. L. 90-141
+  summary: >
+    Third interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Fourth Copyright Term Extension Act of 1968
+  date: 1968-07-23
+  citation: 82 Stat. 362
+  public_law: Pub. L. 90-416
+  summary: >
+    Fourth interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Fifth Copyright Term Extension Act of 1969
+  date: 1969-12-16
+  citation: 83 Stat. 363
+  public_law: Pub. L. 91-147
+  summary: >
+    Fifth interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Sixth Copyright Term Extension Act of 1970
+  date: 1970-10-15
+  citation: 84 Stat. 1003
+  public_law: Pub. L. 91-555
+  summary: >
+    Sixth interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Sound Recording Amendment of 1971
+  date: 1971-10-15
+  citation: 85 Stat. 391
+  public_law: Pub. L. 92-140
+  summary: >
+    Extended federal copyright protection to sound recordings fixed and first
+    published on or after February 15, 1972. First time sound recordings
+    received federal copyright protection.
+  status: pending
+
+- name: Seventh Copyright Term Extension Act of 1971
+  date: 1971-12-31
+  citation: 85 Stat. 657
+  public_law: Pub. L. 92-170
+  summary: >
+    Seventh interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Eighth Copyright Term Extension Act of 1972
+  date: 1972-10-25
+  citation: 86 Stat. 1159
+  public_law: Pub. L. 92-566
+  summary: >
+    Eighth interim extension of copyright renewal terms pending general revision.
+  status: pending
+
+- name: Ninth Copyright Term Extension Act of 1974
+  date: 1974-12-31
+  citation: 88 Stat. 1873
+  public_law: Pub. L. 93-573
+  summary: >
+    Ninth and final interim extension of copyright renewal terms. Also
+    established the National Commission on New Technological Uses of
+    Copyrighted Works (CONTU).
+  status: pending
+
+# =============================================================================
+# THE 1976 ACT AND POST-1976 AMENDMENTS
+# =============================================================================
+
+- name: Copyright Act of 1976
+  date: 1976-10-19
+  effective_date: 1978-01-01
+  citation: 90 Stat. 2541
+  public_law: Pub. L. 94-553
+  summary: >
+    Complete revision of copyright law, replacing the 1909 Act. Established
+    the modern structure of Title 17 U.S.C. Extended protection to life of
+    the author plus 50 years. Codified fair use doctrine (Section 107).
+    Preempted most state copyright law. Created compulsory licenses for
+    cable retransmission and jukeboxes.
+  tag: v1976
+  status: pending
+
+- name: Computer Software Copyright Act of 1980
+  date: 1980-12-12
+  citation: 94 Stat. 3015
+  public_law: Pub. L. 96-517
+  summary: >
+    Amended Section 101 (definitions) and added Section 117, confirming
+    that computer programs are copyrightable literary works and establishing
+    the right to make archival copies.
+  status: pending
+
+- name: Piracy and Counterfeiting Amendments Act of 1982
+  date: 1982-05-24
+  citation: 96 Stat. 131
+  public_law: Pub. L. 97-180
+  summary: >
+    Increased penalties for piracy of sound recordings and motion pictures.
+  status: pending
+
+- name: Record Rental Amendment of 1984
+  date: 1984-10-04
+  citation: 98 Stat. 1727
+  public_law: Pub. L. 98-450
+  summary: >
+    Prohibited commercial rental, lease, or lending of phonorecords
+    without the copyright owner's permission. Added Section 109(b) exception.
+  status: pending
+
+- name: Semiconductor Chip Protection Act of 1984
+  date: 1984-11-08
+  citation: 98 Stat. 3347
+  public_law: Pub. L. 98-620
+  summary: >
+    Added Chapter 9 to Title 17, creating sui generis protection for
+    semiconductor chip mask works. 10-year term of protection.
+  tag: v1984-chips
+  status: pending
+
+- name: Berne Convention Implementation Act of 1988
+  date: 1988-10-31
+  citation: 102 Stat. 2853
+  public_law: Pub. L. 100-568
+  summary: >
+    Amended Title 17 to comply with the Berne Convention for the Protection
+    of Literary and Artistic Works. Made copyright notice optional rather
+    than mandatory. Effective March 1, 1989.
+  tag: v1988-berne
+  status: pending
+
+- name: Copyright Remedy Clarification Act of 1990
+  date: 1990-11-15
+  citation: 104 Stat. 2749
+  public_law: Pub. L. 101-553
+  summary: >
+    Added Section 511, making states and state entities subject to suit for
+    copyright infringement (later limited by Supreme Court decisions).
+  status: pending
+
+- name: Computer Software Rental Amendments Act of 1990
+  date: 1990-12-01
+  citation: 104 Stat. 5089
+  public_law: Pub. L. 101-650, Title VIII
+  summary: >
+    Extended the record rental prohibition to computer programs. Prohibited
+    commercial rental of software without the copyright owner's permission.
+  status: pending
+
+- name: Visual Artists Rights Act of 1990 (VARA)
+  date: 1990-12-01
+  citation: 104 Stat. 5128
+  public_law: Pub. L. 101-650, Title VI
+  summary: >
+    Added Section 106A, granting moral rights (attribution and integrity)
+    to authors of works of visual art. First recognition of moral rights
+    in US copyright law.
+  status: pending
+
+- name: Architectural Works Copyright Protection Act of 1990
+  date: 1990-12-01
+  citation: 104 Stat. 5133
+  public_law: Pub. L. 101-650, Title VII
+  summary: >
+    Added architectural works to the categories of copyrightable subject
+    matter in Section 102. Added Section 120 limiting exclusive rights
+    in architectural works.
+  status: pending
+
+- name: Copyright Renewal Act of 1992
+  date: 1992-06-26
+  citation: 106 Stat. 264
+  public_law: Pub. L. 102-307
+  summary: >
+    Made copyright renewal automatic for works published between 1964 and 1977.
+    Eliminated the requirement to file a renewal registration to maintain
+    copyright protection.
+  status: pending
+
+- name: Audio Home Recording Act of 1992
+  date: 1992-10-28
+  citation: 106 Stat. 4237
+  public_law: Pub. L. 102-563
+  summary: >
+    Added Chapter 10 to Title 17. Required royalty payments on digital audio
+    recording devices and media. Mandated Serial Copy Management System (SCMS).
+    Prohibited infringement suits based on noncommercial home recording.
+  status: pending
+
+- name: North American Free Trade Agreement Implementation Act of 1993 (Copyright Provisions)
+  date: 1993-12-08
+  citation: 107 Stat. 2057
+  public_law: Pub. L. 103-182
+  summary: >
+    Amended Section 104A to restore copyright in certain motion pictures
+    from NAFTA countries.
+  status: pending
+
+- name: Uruguay Round Agreements Act of 1994 (Copyright Provisions)
+  date: 1994-12-08
+  citation: 108 Stat. 4809
+  public_law: Pub. L. 103-465
+  summary: >
+    Rewrote Section 104A to restore copyright in works from WTO and Berne
+    Convention countries that had entered the public domain in the US due
+    to noncompliance with formalities, lack of national eligibility, or
+    lack of subject matter protection.
+  status: pending
+
+- name: Digital Performance Right in Sound Recordings Act of 1995
+  date: 1995-11-01
+  citation: 109 Stat. 336
+  public_law: Pub. L. 104-39
+  summary: >
+    Added a new exclusive right for copyright owners of sound recordings:
+    the right to perform the work publicly by means of digital audio
+    transmission. Added Section 114 provisions and Section 115 amendments.
+  status: pending
+
+- name: Anticounterfeiting Consumer Protection Act of 1996 (Copyright Provisions)
+  date: 1996-07-02
+  citation: 110 Stat. 1386
+  public_law: Pub. L. 104-153
+  summary: >
+    Amended Section 603 regarding importation prohibitions on piratical
+    copies of copyrighted works.
+  status: pending
+
+- name: No Electronic Theft Act of 1997 (NET Act)
+  date: 1997-12-16
+  citation: 111 Stat. 2678
+  public_law: Pub. L. 105-147
+  summary: >
+    Amended Section 506 and criminal provisions to cover willful copyright
+    infringement even without financial gain. Closed the "LaMacchia loophole"
+    that required proof of profit motive for criminal prosecution.
+  status: pending
+
+- name: Sonny Bono Copyright Term Extension Act of 1998
+  date: 1998-10-27
+  citation: 112 Stat. 2827
+  public_law: Pub. L. 105-298, Title I
+  summary: >
+    Extended copyright terms by 20 years across the board. Individual works:
+    life of the author plus 70 years. Works for hire and anonymous/pseudonymous
+    works: 95 years from publication or 120 years from creation.
+  tag: v1998-ctea
+  status: pending
+
+- name: Digital Millennium Copyright Act of 1998 (DMCA)
+  date: 1998-10-28
+  citation: 112 Stat. 2860
+  public_law: Pub. L. 105-304
+  summary: >
+    Implemented WIPO Copyright Treaty and WIPO Performances and Phonograms
+    Treaty. Added Chapter 12 (Sections 1201-1205) prohibiting circumvention
+    of technological protection measures. Added Section 512 safe harbor for
+    online service providers. Added Section 117(c) for computer maintenance.
+  tag: v1998-dmca
+  status: pending
+
+- name: Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+  date: 2002-11-02
+  citation: 116 Stat. 1758
+  public_law: Pub. L. 107-273
+  summary: >
+    Updated Section 110(2) to expand the copyright exemption for distance
+    education by accredited nonprofit educational institutions.
+  status: pending
+
+- name: Intellectual Property Protection and Courts Amendments Act of 2004
+  date: 2004-11-30
+  citation: 118 Stat. 2341
+  public_law: Pub. L. 108-419
+  summary: >
+    Reformed the Copyright Royalty Board, replacing the Copyright Arbitration
+    Royalty Panels (CARPs). Amended Chapter 8 of Title 17.
+  status: pending
+
+- name: Artists' Rights and Theft Prevention Act of 2005 (ART Act)
+  date: 2005-04-27
+  citation: 119 Stat. 218
+  public_law: Pub. L. 109-9
+  summary: >
+    Added Section 408(f) allowing preregistration of works being prepared
+    for commercial distribution. Criminalized unauthorized camcording in
+    movie theaters (Family Entertainment and Copyright Act).
+  status: pending
+
+- name: Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+  date: 2008-10-13
+  citation: 122 Stat. 4256
+  public_law: Pub. L. 110-403
+  summary: >
+    Enhanced civil and criminal penalties for copyright infringement.
+    Amended Section 504 regarding statutory damages and Section 506
+    regarding criminal offenses.
+  status: pending
+
+- name: Satellite Television Extension and Localism Act of 2010 (STELA)
+  date: 2010-05-27
+  citation: 124 Stat. 1232
+  public_law: Pub. L. 111-175
+  summary: >
+    Reauthorized Section 119 satellite compulsory license. Updated
+    provisions for satellite retransmission of broadcast signals.
+  status: pending
+
+- name: Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+  date: 2018-10-11
+  citation: 132 Stat. 3676
+  public_law: Pub. L. 115-264
+  summary: >
+    Comprehensive reform of music licensing. Created the Mechanical Licensing
+    Collective (MLC) and new blanket license for digital music services.
+    Extended federal copyright protection to pre-1972 sound recordings
+    (Title II - CLASSICS Act). Updated Section 114 rate-setting standards
+    (Title III - AMP Act).
+  tag: v2018-mma
+  status: pending
+
+- name: Satellite Television Community Protection and Promotion Act of 2019
+  date: 2019-12-20
+  citation: 133 Stat. 3198
+  public_law: Pub. L. 116-94
+  summary: >
+    Made the Section 122 compulsory license for satellite retransmission
+    of local broadcast signals permanent (previously subject to periodic
+    reauthorization). Repealed Section 119 distant signal license.
+  status: pending
+
+- name: Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)
+  date: 2020-12-27
+  citation: 134 Stat. 2152
+  public_law: Pub. L. 116-260
+  summary: >
+    Added Chapter 15 to Title 17 (Sections 1501-1511), establishing the
+    Copyright Claims Board within the Copyright Office for streamlined
+    adjudication of small copyright claims (up to $30,000 in damages).
+  tag: v2020-case
+  status: pending
+
+- name: Protecting Lawful Streaming Act of 2020
+  date: 2020-12-27
+  citation: 134 Stat. 2177
+  public_law: Pub. L. 116-260
+  summary: >
+    Amended Section 506 to make large-scale unauthorized streaming services
+    a felony. Clarified that criminal streaming penalties apply to services
+    primarily designed for infringement.
+  status: pending
