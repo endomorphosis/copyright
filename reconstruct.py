@@ -122,9 +122,11 @@ def parse_amendment_notes(sec_num):
     return amendments
 
 
-def apply_simple_substitution(text, old_str, new_str):
+def apply_simple_substitution(text, old_str, new_str, replace_all=False):
     """Apply a simple substitution, return new text or None if not found."""
     if old_str in text:
+        if replace_all:
+            return text.replace(old_str, new_str)
         return text.replace(old_str, new_str, 1)
     return None
 
@@ -167,12 +169,29 @@ def reverse_amendment(text, amendment_desc):
     if all_subs:
         any_applied = False
         methods = []
+        # Detect if we should replace all occurrences
+        replace_all = bool(re.search(
+            r'wherever appearing|in two places|in three places|in four places|'
+            r'each place|throughout|subsecs?\.\s*\([a-z]\).*\([a-z]\)|'
+            r'\(\d+\),\s*\(\d+\)',  # e.g., "(1), (2)" suggests multiple subsections
+            amendment_desc, re.IGNORECASE
+        ))
+        # Also replace all when substituting numbers for written-out numbers
+        # (e.g., "70" for "fifty" — always applies to all occurrences)
+        if not replace_all:
+            for new_text, old_text in all_subs:
+                if (re.match(r'^\d+$', new_text) and
+                    re.match(r'^[a-z]', old_text.lower()) and
+                    old_text.lower() in ('fifty', 'seventy-five', 'one hundred',
+                                          'twenty-eight', 'fourteen', 'fifty-six')):
+                    replace_all = True
+                    break
         for new_text, old_text in all_subs:
-            result = apply_simple_substitution(text, new_text, old_text)
+            result = apply_simple_substitution(text, new_text, old_text, replace_all=replace_all)
             if result:
                 text = result
                 any_applied = True
-                methods.append(f"'{new_text}' -> '{old_text}'")
+                methods.append(f"'{new_text}' -> '{old_text}'" + (' (all)' if replace_all else ''))
             else:
                 methods.append(f"MISSED: '{new_text}' not found")
         if any_applied:

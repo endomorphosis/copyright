@@ -44,7 +44,7 @@
     {
       "year": "2006",
       "public_law": "109-303",
-      "issue": "reversed substitutions: 'subparagraph (B) and clause (ii) of this subparagraph' -> 'clause (ii) of this subparagraph and subparagraph (B)' + MANUAL: need to remove added paragraph/subsection (ii) + skipped (effective date/transition note) + UNHANDLED: effective as if included in the Copyright Royalty and Distribution Reform Act of... + skipped (effective date/transition note)"
+      "issue": "reversed substitutions: 'subparagraph (B) and clause (ii) of this subparagraph' -> 'clause (ii) of this subparagraph and subparagraph (B)' (all) + MANUAL: need to remove added paragraph/subsection (ii) + skipped (effective date/transition note) + UNHANDLED: effective as if included in the Copyright Royalty and Distribution Reform Act of... + skipped (effective date/transition note)"
     },
     {
       "year": "2006",

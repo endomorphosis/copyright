@@ -39,12 +39,12 @@
     {
       "year": "2018",
       "public_law": "115-264",
-      "issue": "MANUAL: need to re-insert struck text: 'The rates applicable under sections 114(f)(1)(B), ...' + reversed substitutions: '114(f)(2)' -> '114(f)(3)' + MANUAL: need to remove added paragraph/subsection (8)"
+      "issue": "MANUAL: need to re-insert struck text: 'The rates applicable under sections 114(f)(1)(B), ...' + reversed substitutions: '114(f)(2)' -> '114(f)(3)' (all) + MANUAL: need to remove added paragraph/subsection (8)"
     },
     {
       "year": "2006",
       "public_law": "109-303",
-      "issue": "reversed substitutions: '119, and 1004' -> '119 and 1004' + UNHANDLED: \u00a75(1), added introductory provisions and struck out former introductory provisio... + reversed substitutions: 'the' -> 'such' + skipped (effective date/transition note) + UNHANDLED: effective as if included in the Copyright Royalty and Distribution Reform Act of... + UNHANDLED: effective October 6, 2004, see section 6 of... + skipped (effective date/transition note) + skipped (effective date/transition note)"
+      "issue": "reversed substitutions: '119, and 1004' -> '119 and 1004' (all) + UNHANDLED: \u00a75(1), added introductory provisions and struck out former introductory provisio... + reversed substitutions: 'the' -> 'such' + skipped (effective date/transition note) + UNHANDLED: effective as if included in the Copyright Royalty and Distribution Reform Act of... + UNHANDLED: effective October 6, 2004, see section 6 of... + skipped (effective date/transition note) + skipped (effective date/transition note)"
     },
     {
       "year": "2006",

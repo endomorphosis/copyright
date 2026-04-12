@@ -116,7 +116,7 @@
     {
       "year": "1998",
       "public_law": "105-298",
-      "issue": "reversed substitutions: '67' -> '47' + reversed substitutions: '67' -> '47' + reversed substitutions: '67' -> '47' + UNHANDLED: \u00a7102(d)(1)(B), amended heading and text of subsec. (b) generally. Prior to amend... + MANUAL: need to re-insert struck text: 'by his widow or her widower and his or her childre...' + MANUAL: need to remove added paragraph/subsection (D) + removed inserted text: 'or, in the case of a termination under subsection ...' + MANUAL: need to remove added paragraph/subsection (d)"
+      "issue": "reversed substitutions: '67' -> '47' (all) + UNHANDLED: \u00a7102(d)(1)(A)(ii), substituted \"67\" for \"47\" in introductory provisions. Subsec.... + UNHANDLED: \u00a7102(d)(1)(A)(iii), substituted \"67\" for \"47\". Subsec. (b).... + UNHANDLED: \u00a7102(d)(1)(B), amended heading and text of subsec. (b) generally. Prior to amend... + MANUAL: need to re-insert struck text: 'by his widow or her widower and his or her childre...' + MANUAL: need to remove added paragraph/subsection (D) + removed inserted text: 'or, in the case of a termination under subsection ...' + MANUAL: need to remove added paragraph/subsection (d)"
     },
     {
       "year": "1992",

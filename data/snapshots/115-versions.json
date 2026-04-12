@@ -160,12 +160,12 @@
     {
       "year": "2004",
       "public_law": "108-419",
-      "issue": "reversed substitutions: '(E)' -> '(F)' + UNHANDLED: \u00a75(d)(2)(C), which directed substitution of \"this subparagraph and subparagraphs... + reversed substitutions: 'under this section' -> 'under this paragraph' + skipped (effective date/transition note) + skipped (effective date/transition note) + UNHANDLED: \u00a75(d)(5)(A), substituted \"Librarian of Congress and Copyright Royalty Judges\" fo... + UNHANDLED: \u00a75(d)(5)(B), substituted \"(C) or (D)\" for \"(C), (D) or (F)\" in two places. Subse... + UNHANDLED: \u00a75(d)(6), redesignated subpars. (G) to (L) as (F) to (K), respectively, and stru..."
+      "issue": "reversed substitutions: '(E)' -> '(F)' (all) + UNHANDLED: \u00a75(d)(2)(C), which directed substitution of \"this subparagraph and subparagraphs... + reversed substitutions: 'under this section' -> 'under this paragraph' (all) + skipped (effective date/transition note) + skipped (effective date/transition note) + UNHANDLED: \u00a75(d)(5)(A), substituted \"Librarian of Congress and Copyright Royalty Judges\" fo... + UNHANDLED: \u00a75(d)(5)(B), substituted \"(C) or (D)\" for \"(C), (D) or (F)\" in two places. Subse... + UNHANDLED: \u00a75(d)(6), redesignated subpars. (G) to (L) as (F) to (K), respectively, and stru..."
     },
     {
       "year": "1997",
       "public_law": "105-80",
-      "issue": "MANUAL: need to re-insert struck text: 'and publish in the Federal Register...' + reversed substitutions: 'paragraphs (1) and (3) of section 106' -> 'sections 106(1) and (3)' + reversed substitutions: 'paragraphs (1) and (3) of section 106' -> 'sections 106(1) and 106(3)' + UNHANDLED: \u00a710, amended directory language of..."
+      "issue": "MANUAL: need to re-insert struck text: 'and publish in the Federal Register...' + reversed substitutions: 'paragraphs (1) and (3) of section 106' -> 'sections 106(1) and (3)' (all) + UNHANDLED: \u00a712(a)(7)(A), substituted \"paragraphs (1) and (3) of section 106\" for \"sections ... + UNHANDLED: \u00a710, amended directory language of..."
     },
     {
       "year": "1997",

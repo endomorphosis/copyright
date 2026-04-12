@@ -46,12 +46,12 @@
     {
       "year": "2018",
       "public_law": "115-264",
-      "issue": "removed inserted text: ', except that-...' + MANUAL: need to re-insert struck text: 'and 114(f)(2)(C)...' + reversed substitutions: '114(f)(3)(B)(ii)' -> '114(f)(4)(B)(ii)' + MANUAL: need to re-insert struck text: 'or 114(f)(2)(C), as the case may be...'"
+      "issue": "removed inserted text: ', except that-...' + MANUAL: need to re-insert struck text: 'and 114(f)(2)(C)...' + reversed substitutions: '114(f)(3)(B)(ii)' -> '114(f)(4)(B)(ii)' (all) + MANUAL: need to re-insert struck text: 'or 114(f)(2)(C), as the case may be...'"
     },
     {
       "year": "2006",
       "public_law": "109-303",
-      "issue": "reversed substitutions: '801(b)(2)(B) or (C)' -> '801(b)(3)(B) or (C)' + skipped (effective date/transition note) + reversed substitutions: 'is filed' -> 'that is filed' + skipped (effective date/transition note) + UNHANDLED: effective as if included in the Copyright Royalty and Distribution Reform Act of... + skipped (effective date/transition note)"
+      "issue": "reversed substitutions: '801(b)(2)(B) or (C)' -> '801(b)(3)(B) or (C)' (all) + skipped (effective date/transition note) + reversed substitutions: 'is filed' -> 'that is filed' (all) + skipped (effective date/transition note) + UNHANDLED: effective as if included in the Copyright Royalty and Distribution Reform Act of... + skipped (effective date/transition note)"
     },
     {
       "year": "2006",

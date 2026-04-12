@@ -56,7 +56,7 @@
     {
       "year": "1999",
       "public_law": "106-44",
-      "issue": "UNHANDLED: \u00a71(b)(1), redesignated par. (3) as (2). Subsec. (e)(3).... + reversed substitutions: '(1)' -> '(2)' + reversed substitutions: '(2)' -> '(3)'; '(2) and (3)' -> '(3) and (4)' + UNHANDLED: \u00a71(b)(1), redesignated par. (6) as (5). Former par. (5) redesignated (4). Subsec... + reversed substitutions: '(3)' -> '(4)'; '(4)' -> '(5)' + UNHANDLED: \u00a71(b)(1), redesignated pars. (8) to (10) as (7) to (9), respectively. Former par..."
+      "issue": "UNHANDLED: \u00a71(b)(1), redesignated par. (3) as (2). Subsec. (e)(3).... + reversed substitutions: '(1)' -> '(2)' (all) + reversed substitutions: '(2)' -> '(3)' (all); MISSED: '(2) and (3)' not found + UNHANDLED: \u00a71(b)(1), redesignated par. (6) as (5). Former par. (5) redesignated (4). Subsec... + reversed substitutions: '(3)' -> '(4)' (all); '(4)' -> '(5)' (all) + UNHANDLED: \u00a71(b)(1), redesignated pars. (8) to (10) as (7) to (9), respectively. Former par..."
     }
   ]
 }

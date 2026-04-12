@@ -30,7 +30,11 @@
       "WebFetch(domain:www.loc.gov)",
       "WebFetch(domain:ipmall.info)",
       "WebFetch(domain:link.sandiego.edu)",
-      "WebFetch(domain:law.copyrightdata.com)"
+      "WebFetch(domain:law.copyrightdata.com)",
+      "WebFetch(domain:www.ellenwhite.info)",
+      "WebFetch(domain:www.gutenberg.org)",
+      "WebFetch(domain:law.gwu.libguides.com)",
+      "WebFetch(domain:supreme.justia.com)"
     ]
   }
 }

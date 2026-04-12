@@ -46,7 +46,7 @@
     {
       "year": "2025",
       "public_law": "119-60",
-      "issue": "reversed substitutions: 'subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M)' -> 'subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L)' + reversed substitutions: 'subsection (d)(2)(M)' -> 'subsection (d)(2)(L)' + reversed substitutions: 'subsection (d)(2)(N)' -> 'subsection (d)(2)(M)' + reversed substitutions: 'subsection (d)(2)(O)' -> 'subsection (d)(2)(N)' + MANUAL: need to remove added paragraph/subsection (L)"
+      "issue": "reversed substitutions: 'subparagraphs (A) through (L) of subsection (d)(2) and subparagraph (M)' -> 'subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L)' + reversed substitutions: 'subsection (d)(2)(M)' -> 'subsection (d)(2)(L)' + reversed substitutions: 'subsection (d)(2)(N)' -> 'subsection (d)(2)(M)' + reversed substitutions: 'subsection (d)(2)(O)' -> 'subsection (d)(2)(N)' (all) + MANUAL: need to remove added paragraph/subsection (L)"
     },
     {
       "year": "2024",
