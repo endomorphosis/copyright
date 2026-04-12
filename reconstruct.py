@@ -140,21 +140,29 @@ def reverse_amendment(text, amendment_desc):
     # Handle grouped descriptions — apply each one
     if '|||' in amendment_desc:
         parts = amendment_desc.split('|||')
-        all_success = True
+        any_failed = False
+        any_substantive = False
         methods = []
         for part in parts:
             part = part.strip()
             if not part:
                 continue
-            text, success, method = reverse_amendment(text, part)
+            new_text, success, method = reverse_amendment(text, part)
             if not success:
-                all_success = False
+                any_failed = True
+            if new_text != text:
+                any_substantive = True
+            text = new_text
             methods.append(method)
-        return text, all_success, ' + '.join(methods)
+        # Only count as success if at least one part made a substantive change
+        # or if all parts were legitimately skippable with no substantive parts
+        overall_success = not any_failed and any_substantive
+        return text, overall_success, ' + '.join(methods)
 
     desc = amendment_desc.lower()
 
     # Skip notes about effective dates, transition provisions, etc.
+    # These are not failures but also not substantive changes.
     if any(skip in desc for skip in [
         'effective date', 'effective 6 months', 'set out as',
         'transition provisions', 'provided that', 'applicable to',
