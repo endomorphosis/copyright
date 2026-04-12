@@ -1,7 +1,7 @@
 # Open Issues / Things to Verify
 
 ## Missing Sections
-- [ ] Sections 1402, 1403, 1404 (Chapter 14 - Pre-1972 Sound Recordings) — returned 0 bytes from OLRC. Are they real sections? Were they repealed? Added by Music Modernization Act 2018.
+- [x] Sections 1402, 1403, 1404 (Chapter 14 - Pre-1972 Sound Recordings) — these sections do not exist. Chapter 14 contains only §1401. Removed from fetch_current_sections.py.
 
 ## CTEA Swap Bugs (auto-reversal failures)
 These sections had their 1976-era text and CTEA-era text swapped in snapshots/act-snapshots.
@@ -11,24 +11,24 @@ Fixed so far:
 - [x] §304 — version 0 had "67 years" (post-CTEA) instead of "47 years" (pre-CTEA)
 - [x] §401 — fixed by other session (notice "shall be placed" vs "may be placed")
 Still need investigation:
-- [ ] §301 — CTEA act-snapshot may have pre-CTEA text for the "2047"->"2067" substitution. Complicated by MMA (PL 115-264) rewriting subsec. (c) entirely.
+- [x] §301 — CTEA act-snapshot fixed: replaced MMA-era text with correct post-CTEA text containing "2067". Also fixed 301-versions.json with correct 1976 original (3-sentence subsec. (c) with "2047").
 
 ## Failed Auto-Reversals (version 0 text == current text)
 These 15 sections have version 0 text identical to current text, meaning the auto-reversal
 in reconstruct.py did not actually change the text. The 1976-era version in the output repo
 will incorrectly show 2026 text for these sections:
-- [ ] §102 — subject matter of copyright (architecture, software amendments not reversed)
-- [ ] §104 — national origin (NAFTA/Uruguay Round changes not reversed)
-- [ ] §109 — first sale doctrine (Record Rental, Computer Software amendments not reversed)
-- [ ] §113 — pictorial/graphic/sculptural works (VARA amendments not reversed)
-- [ ] §115 — mechanical license (MMA rewrote entirely, reversal failed)
-- [ ] §116 — negotiated licenses (jukebox provisions heavily amended)
-- [ ] §201 — ownership (work for hire changes not reversed)
-- [ ] §301 — preemption (MMA rewrote subsec. (c), reversal complex)
-- [ ] §506 — criminal offenses (multiple amendments not reversed)
+- [x] §102 — removed "(8) architectural works" from 1976 version
+- [x] §104 — reversed 1998 DMCA and 1988 Berne amendments (removed treaty party, subsecs c/d)
+- [x] §109 — reversed Record Rental (1984) and Computer Software (1990) amendments
+- [x] §113 — removed VARA subsec. (d)
+- [x] §115 — reconstructed 1976 text with original compulsory license (no digital phonorecord delivery)
+- [x] §116 — reconstructed 1976 jukebox compulsory license text (original §116 before 1993 repeal/renumber)
+- [x] §201 — removed bankruptcy exception from subsec. (e)
+- [x] §301 — reconstructed 1976 text with 3-sentence subsec. (c) and "2047"
+- [x] §506 — reconstructed 1976 text with original fine/imprisonment provisions
 - [ ] §512 — DMCA safe harbor (created post-1976, shouldn't be in 1976 commit — OK if excluded)
 - [ ] §513 — determination of reasonable license fees (post-1976, OK if excluded)
-- [ ] §708 — Copyright Office fees (many fee changes not reversed)
+- [x] §708 — reconstructed 1976 text with original fee schedule and all intermediate versions
 - [ ] §1010 — digital audio recording devices (post-1976, OK if excluded)
 - [ ] §1201 — DMCA anti-circumvention (post-1976, OK if excluded)
 - [ ] §122 — secondary transmissions (post-1976, OK if excluded)
@@ -59,4 +59,4 @@ These acts produce marker files in amendments/ instead of actual section changes
 - [ ] Pre-1976 PDF sources should be downloaded and saved to data/source-pdfs/
 
 ## Acts List Completeness
-- [ ] Two PLs excluded as cross-references (91-375, 99-474) — confirm they truly don't amend Title 17
+- [x] Two PLs excluded as cross-references (91-375, 99-474) — confirmed: PL 91-375 (Postal Reorganization) amended old Title 17 only, superseded by 1976 Act; PL 99-474 (Computer Fraud) amends 18 USC only.

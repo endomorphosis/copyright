@@ -319,7 +319,7 @@ def build_repo(acts, data_dir, output_dir):
             # Check if this act creates any NEW sections not yet in sections/
             # by looking at the section-creation map
             if act.get('public_law'):
-                pl_num = re.sub(r'Pub\. L\. ', '', act['public_law']).split(',')[0].strip()
+                pl_num = re.sub(r'Pub\. L\. ', '', act['public_law']).strip()
                 for sec_num, creating_pl in section_creators.items():
                     if creating_pl != pl_num:
                         continue

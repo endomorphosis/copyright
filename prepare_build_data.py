@@ -58,7 +58,7 @@ def load_acts():
         if m_name and m_date:
             pl = m_pl.group(1).strip() if m_pl else ''
             # Normalize PL
-            pl_num = re.sub(r'Pub\. L\. ', '', pl).split(',')[0].strip()
+            pl_num = re.sub(r'Pub\. L\. ', '', pl).strip()
             acts.append({
                 'name': m_name.group(1).strip(),
                 'date': m_date.group(1).strip(),
@@ -103,17 +103,29 @@ def main():
         act_dir_name = f"{act['date']}-{sanitize_filename(act['name'])}"
         act_dir = os.path.join(ACT_SNAPSHOTS_DIR, act_dir_name)
 
-        # Find all sections that have a version for this PL
+        # Find all sections that have a version for this PL.
+        # Each version's text is the text BEFORE that amendment was applied
+        # (since versions are built by reverse-applying amendments).
+        # For act-snapshots we need the text AFTER the amendment, which is
+        # the next version's text in the list.
         found_sections = []
         for sec, data in section_versions.items():
-            for version in data.get('versions', []):
+            versions = data.get('versions', [])
+            for i, version in enumerate(versions):
                 if version.get('public_law') == pl:
-                    found_sections.append((sec, version))
+                    # Use the NEXT version's text (= post-amendment text)
+                    if i + 1 < len(versions):
+                        found_sections.append((sec, versions[i + 1]))
                     break
 
         if not found_sections:
             continue
 
+        # Clean out old files before writing new ones
+        if os.path.isdir(act_dir):
+            for old_file in os.listdir(act_dir):
+                if old_file.endswith('.md'):
+                    os.remove(os.path.join(act_dir, old_file))
         os.makedirs(act_dir, exist_ok=True)
         acts_with_snapshots += 1
 
