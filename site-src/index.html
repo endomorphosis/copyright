@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>US Copyright Law: A Legislative History</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <header id="site-header">
+    <a href="#/" id="site-title">US Copyright Law</a>
+    <span id="site-subtitle">A Legislative History in Git</span>
+    <div id="search-box">
+      <input type="text" id="search-input" placeholder="Search acts, sections..." autocomplete="off">
+      <div id="search-results" class="hidden"></div>
+    </div>
+  </header>
+
+  <div id="app">
+    <nav id="sidebar">
+      <div id="sidebar-header">
+        <h3>Timeline</h3>
+        <div id="sidebar-stats"></div>
+      </div>
+      <div id="timeline"></div>
+    </nav>
+    <main id="content">
+      <div id="view-home" class="view"></div>
+      <div id="view-act" class="view hidden"></div>
+      <div id="view-section" class="view hidden"></div>
+      <div id="view-compare" class="view hidden"></div>
+    </main>
+  </div>
+
+  <script src="js/app.js?v=4"></script>
+  <script src="js/timeline.js?v=4"></script>
+  <script src="js/diff-viewer.js?v=4"></script>
+  <script src="js/section-viewer.js?v=4"></script>
+  <script src="js/compare.js?v=4"></script>
+  <script src="js/search.js?v=4"></script>
+</body>
+</html>
