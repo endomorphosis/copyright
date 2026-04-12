@@ -334,6 +334,16 @@
     the right to make archival copies.
   status: pending
 
+- name: Nonprofit Performance Exemption Act of 1982
+  date: 1982-10-25
+  citation: 96 Stat. 1759
+  public_law: Pub. L. 97-366
+  summary: >
+    Added Section 110(10), exempting nonprofit veterans' organizations and
+    fraternal organizations from liability for public performances of
+    nondramatic literary or musical works at social functions.
+  status: pending
+
 - name: Piracy and Counterfeiting Amendments Act of 1982
   date: 1982-05-24
   citation: 96 Stat. 131
@@ -361,6 +371,15 @@
   tag: v1984-chips
   status: pending
 
+- name: Cable Compulsory License Amendments of 1986
+  date: 1986-08-27
+  citation: 100 Stat. 848
+  public_law: Pub. L. 99-397
+  summary: >
+    Amended the Section 111 cable compulsory license provisions regarding
+    royalty fee calculations and secondary transmission rules.
+  status: pending
+
 - name: Satellite Home Viewer Act of 1988
   date: 1988-11-16
   citation: 102 Stat. 3949
@@ -380,6 +399,16 @@
     of Literary and Artistic Works. Made copyright notice optional rather
     than mandatory. Effective March 1, 1989.
   tag: v1988-berne
+  status: pending
+
+- name: Copyright Technical Correction of 1990
+  date: 1990-07-03
+  citation: 104 Stat. 223
+  public_law: Pub. L. 101-318
+  summary: >
+    Updated the cross-reference in the introductory provisions of Section 106
+    to reflect the addition of Section 119 (satellite compulsory license)
+    by the Satellite Home Viewer Act of 1988.
   status: pending
 
 - name: Copyright Remedy Clarification Act of 1990
@@ -448,6 +477,17 @@
     Added Chapter 10 to Title 17. Required royalty payments on digital audio
     recording devices and media. Mandated Serial Copy Management System (SCMS).
     Prohibited infringement suits based on noncommercial home recording.
+  status: pending
+
+- name: Copyright Royalty Tribunal Reform Act of 1993
+  date: 1993-12-17
+  citation: 107 Stat. 2304
+  public_law: Pub. L. 103-198
+  summary: >
+    Abolished the Copyright Royalty Tribunal and replaced it with ad hoc
+    Copyright Arbitration Royalty Panels (CARPs) administered by the
+    Librarian of Congress. Amended royalty fee provisions in Sections 111,
+    114, 116, and 119.
   status: pending
 
 - name: North American Free Trade Agreement Implementation Act of 1993 (Copyright Provisions)
@@ -677,6 +717,17 @@
     regarding criminal offenses.
   status: pending
 
+- name: Consolidated Natural Resources Act of 2008 (Copyright Provision)
+  date: 2008-05-08
+  citation: 122 Stat. 754
+  public_law: Pub. L. 110-229
+  summary: >
+    Amended Section 111(e)(2) to update territorial references, replacing
+    "Trust Territory of the Pacific Islands" with the Federated States of
+    Micronesia, Republic of Palau, and Republic of the Marshall Islands,
+    reflecting their changed political status.
+  status: pending
+
 - name: Vessel Hull Design Protection Amendments of 2008
   date: 2008-10-16
   citation: 122 Stat. 4986
@@ -721,6 +772,15 @@
   summary: >
     Extended the Section 119 satellite compulsory license deadline as part
     of a broader temporary extension of expiring federal programs.
+  status: pending
+
+- name: Satellite Television Extension Act of 2010
+  date: 2010-03-26
+  citation: 124 Stat. 1027
+  public_law: Pub. L. 111-151
+  summary: >
+    Further extended the Section 119 satellite compulsory license through
+    April 30, 2010, pending enactment of STELA.
   status: pending
 
 - name: Continuing Extension Act of 2010 (Copyright Provision)
@@ -803,6 +863,18 @@
     Made the Section 122 compulsory license for satellite retransmission
     of local broadcast signals permanent (previously subject to periodic
     reauthorization). Repealed Section 119 distant signal license.
+  status: pending
+
+- name: National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)
+  date: 2019-12-20
+  citation: 133 Stat. 1198
+  public_law: Pub. L. 116-92
+  summary: >
+    Designated existing Section 105 provisions as subsection (a) and added
+    subsections (b) and (c), establishing copyright protection for works
+    created by covered authors at certain federal institutions and
+    authorizing federal licensing of such works. First NDAA to amend
+    Section 105.
   status: pending
 
 - name: Coronavirus Aid, Relief, and Economic Security Act of 2020 (CARES Act - Copyright Provision)
