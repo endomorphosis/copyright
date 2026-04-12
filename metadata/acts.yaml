@@ -71,6 +71,16 @@
     Extended copyright protection to photographs and photographic negatives.
   status: pending
 
+- name: Copyright Deposit Penalty Act of 1867
+  date: 1867-02-18
+  citation: 14 Stat. 395
+  chapter: Ch. 74
+  summary: >
+    Added a $25 penalty for failure to deposit copyrighted works within one
+    month of publication. Also provided for free mailing of copyright deposit
+    copies. Later absorbed into the Revised Statutes of 1873.
+  status: pending
+
 - name: Copyright Act of 1870
   date: 1870-07-08
   citation: 16 Stat. 198, 212
@@ -120,6 +130,15 @@
     First time foreign authors could obtain US copyright protection.
   status: pending
 
+- name: Copyright Amnesty Act of 1893
+  date: 1893-03-03
+  citation: 27 Stat. 743
+  summary: >
+    Amended the copyright deposit forfeiture provisions (R.S. 4956) to
+    provide amnesty for delinquent deposits, preserving copyright for works
+    whose required copies had not been timely deposited.
+  status: pending
+
 - name: Printing Act of 1895
   date: 1895-01-12
   citation: 28 Stat. 601
@@ -127,6 +146,15 @@
   summary: >
     Prohibited copyright in publications of the United States government.
     Centralized government printing operations.
+  status: pending
+
+- name: Copyright Penalties Amendment of 1895
+  date: 1895-03-02
+  citation: 28 Stat. 965
+  summary: >
+    Amended Section 4965 of the Revised Statutes (infringement penalties)
+    to limit penalties for photograph infringement and establish a tiered
+    penalty structure.
   status: pending
 
 - name: Copyright Amendment of 1897 (Musical Performance)
@@ -145,6 +173,15 @@
   summary: >
     Established the Copyright Office as a separate department within the
     Library of Congress and created the position of Register of Copyrights.
+  status: pending
+
+- name: False Copyright Notice Amendment of 1897
+  date: 1897-03-03
+  citation: 29 Stat. 694
+  summary: >
+    Amended Section 4963 of the Revised Statutes to extend the $100 penalty
+    for false copyright notice to anyone who knowingly sold or imported
+    articles bearing a fraudulent United States copyright notice.
   status: pending
 
 - name: Ad Interim Copyright Act of 1904
