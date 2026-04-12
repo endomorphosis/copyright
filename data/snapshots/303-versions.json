@@ -1,0 +1,38 @@
+{
+  "section": "303",
+  "versions": [
+    {
+      "year": "1997",
+      "public_law": "105-80",
+      "description": "designated existing provisions as subsec. (a) and added subsec. (b).",
+      "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978\n(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.\n(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2573\n;\nPub. L. 105\u201380,\n\u00a711, Nov. 13, 1997, 111 Stat. 1534\n;\nPub. L. 105\u2013298,\ntitle I, \u00a7102(c), Oct. 27, 1998, 112 Stat. 2827\n;\nPub. L. 111\u2013295,\n\u00a75(a), Dec. 9, 2010, 124 Stat. 3181\n.)",
+      "auto_reversed": false
+    },
+    {
+      "year": "1998",
+      "public_law": "105-298",
+      "description": "substituted \"December 31, 2047\" for \"December 31, 2027\" in second sentence.",
+      "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978\n(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027.\n(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2573\n;\nPub. L. 105\u201380,\n\u00a711, Nov. 13, 1997, 111 Stat. 1534\n;\nPub. L. 105\u2013298,\ntitle I, \u00a7102(c), Oct. 27, 1998, 112 Stat. 2827\n;\nPub. L. 111\u2013295,\n\u00a75(a), Dec. 9, 2010, 124 Stat. 3181\n.)",
+      "auto_reversed": true
+    },
+    {
+      "year": "2010",
+      "public_law": "111-295",
+      "description": "substituted \"any musical work, dramatic work, or literary work\" for \"the musical work\".",
+      "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978\n(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2047.\n(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2573\n;\nPub. L. 105\u201380,\n\u00a711, Nov. 13, 1997, 111 Stat. 1534\n;\nPub. L. 105\u2013298,\ntitle I, \u00a7102(c), Oct. 27, 1998, 112 Stat. 2827\n;\nPub. L. 111\u2013295,\n\u00a75(a), Dec. 9, 2010, 124 Stat. 3181\n.)",
+      "auto_reversed": true
+    },
+    {
+      "act": "Current",
+      "date": "current",
+      "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978\n(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2047.\n(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of any musical work, dramatic work, or literary work embodied therein.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2573\n;\nPub. L. 105\u201380,\n\u00a711, Nov. 13, 1997, 111 Stat. 1534\n;\nPub. L. 105\u2013298,\ntitle I, \u00a7102(c), Oct. 27, 1998, 112 Stat. 2827\n;\nPub. L. 111\u2013295,\n\u00a75(a), Dec. 9, 2010, 124 Stat. 3181\n.)"
+    }
+  ],
+  "issues": [
+    {
+      "year": "1997",
+      "public_law": "105-80",
+      "issue": "MANUAL: need to remove added paragraph/subsection (b)"
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+101	2022-10-17	117-201	Artistic Recognition for Talented Students Act of 2022 (ARTS Act)
+101	2020-12-27	116-260	Protecting Lawful Streaming Act of 2020
+101	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+101	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+101	2018-10-09	115-261	Marrakesh Treaty Implementation Act of 2018
+101	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+101	2010-05-27	111-175	Satellite Television Extension and Localism Act of 2010 (STELA)
+101	2010-03-26	111-151	Satellite Television Extension Act of 2010
+101	2009-06-30	111-36	Webcaster Settlement Act of 2009
+101	2008-10-16	110-435	Webcaster Settlement Act of 2008
+101	2008-10-16	110-434	Vessel Hull Design Protection Amendments of 2008
+101	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+101	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
+101	2004-12-08	108-447	Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)
+101	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+101	2002-12-04	107-321	Small Webcaster Amendments Act of 2002
+101	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+101	2000-10-27	106-379	Work Made for Hire and Copyright Corrections Act of 2000
+101	1999-12-09	106-160	Digital Theft Deterrence and Copyright Damages Improvement Act of 1999
+101	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+101	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+101	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+101	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+101	1997-12-16	105-147	No Electronic Theft Act of 1997 (NET Act)
+101	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+101	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+101	1994-12-08	103-465	Uruguay Round Agreements Act of 1994 (Copyright Provisions)
+101	1994-10-18	103-369	Satellite Home Viewer Act Extension of 1994
+101	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+101	1992-10-28	102-563	Audio Home Recording Act of 1992
+101	1992-06-26	102-307	Copyright Renewal Act of 1992
+101	1991-06-28	102-64	Semiconductor International Protection Extension Act of 1991
+101	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+101	1990-11-15	101-553	Copyright Remedy Clarification Act of 1990
+101	1990-07-03	101-319	Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989
+101	1990-07-03	101-318	Copyright Technical Correction of 1990
+101	1988-11-16	100-667	Satellite Home Viewer Act of 1988
+101	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+101	1984-11-08	98-620	Semiconductor Chip Protection Act of 1984
+101	1984-10-04	98-450	Record Rental Amendment of 1984
+101	1980-12-12	96-517	Computer Software Copyright Act of 1980
+101	1976-10-19	94-553	Copyright Act of 1976
+102	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+102	1971-10-15	92-140	Sound Recording Amendment of 1971
+104	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+104	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+104	1976-10-19	94-553	Copyright Act of 1976
+105	2025-12-18	119-60	National Defense Authorization Act for Fiscal Year 2026 (Copyright Provision)
+105	2024-12-23	118-159	Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Copyright Provision)
+105	2022-12-23	117-263	James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Copyright Provision)
+105	2019-12-20	116-92	National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)
+106	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+106	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+106	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+106	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+106	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+106	1990-07-03	101-318	Copyright Technical Correction of 1990
+107	1992-10-24	102-492	Fair Use of Unpublished Works Act of 1992
+107	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+108	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
+108	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+108	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+108	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+108	1992-06-26	102-307	Copyright Renewal Act of 1992
+109	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+109	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+109	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+109	1994-12-08	103-465	Uruguay Round Agreements Act of 1994 (Copyright Provisions)
+109	1993-12-08	103-182	North American Free Trade Agreement Implementation Act of 1993 (Copyright Provisions)
+109	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+109	1988-11-05	100-617	Record Rental Extension Act of 1988
+109	1984-10-04	98-450	Record Rental Amendment of 1984
+109	1976-10-19	94-553	Copyright Act of 1976
+110	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
+110	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+110	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+110	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+110	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+110	1982-10-25	97-366	Nonprofit Performance Exemption Act of 1982
+111	2014-12-04	113-200	STELA Reauthorization Act of 2014
+111	2010-05-27	111-175	Satellite Television Extension and Localism Act of 2010 (STELA)
+111	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+111	2008-05-08	110-229	Consolidated Natural Resources Act of 2008 (Copyright Provision)
+111	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+111	2004-12-08	108-447	Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)
+111	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+111	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+111	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+111	1994-10-18	103-369	Satellite Home Viewer Act Extension of 1994
+111	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+111	1990-07-03	101-318	Copyright Technical Correction of 1990
+111	1988-11-16	100-667	Satellite Home Viewer Act of 1988
+111	1986-08-27	99-397	Cable Compulsory License Amendments of 1986
+111	1976-10-19	94-553	Copyright Act of 1976
+112	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+112	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+112	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+112	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+113	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+114	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+114	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+114	2009-06-30	111-36	Webcaster Settlement Act of 2009
+114	2008-10-16	110-435	Webcaster Settlement Act of 2008
+114	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+114	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+114	2002-12-04	107-321	Small Webcaster Amendments Act of 2002
+114	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+114	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+114	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+115	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+115	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+115	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+115	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+115	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+115	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+115	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+115	1984-10-04	98-450	Record Rental Amendment of 1984
+115	1976-10-19	94-553	Copyright Act of 1976
+116	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+116	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+116	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+116	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+116	1976-10-19	94-553	Copyright Act of 1976
+117	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+117	1980-12-12	96-517	Computer Software Copyright Act of 1980
+118	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+118	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+118	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+118	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+118	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+118	1976-10-19	94-553	Copyright Act of 1976
+119	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+119	2014-12-04	113-200	STELA Reauthorization Act of 2014
+119	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+119	2010-05-27	111-175	Satellite Television Extension and Localism Act of 2010 (STELA)
+119	2010-04-15	111-157	Continuing Extension Act of 2010 (Copyright Provision)
+119	2010-03-26	111-151	Satellite Television Extension Act of 2010
+119	2010-03-02	111-144	Temporary Extension Act of 2010 (Copyright Provision)
+119	2009-12-19	111-118	Department of Defense Appropriations Act of 2010 (Copyright Provision)
+119	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+119	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+119	2004-12-08	108-447	Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)
+119	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+119	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+119	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+119	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+119	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+119	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+119	1994-10-18	103-369	Satellite Home Viewer Act Extension of 1994
+119	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+119	1988-11-16	100-667	Satellite Home Viewer Act of 1988
+120	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+121	2018-10-09	115-261	Marrakesh Treaty Implementation Act of 2018
+121	2004-12-03	108-446	Individuals with Disabilities Education Improvement Act of 2004 (Copyright Provision)
+121	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+121	2000-10-27	106-379	Work Made for Hire and Copyright Corrections Act of 2000
+122	2014-12-04	113-200	STELA Reauthorization Act of 2014
+122	2010-05-27	111-175	Satellite Television Extension and Localism Act of 2010 (STELA)
+122	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+122	2004-12-08	108-447	Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)
+122	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+122	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+201	1978-11-06	95-598	Bankruptcy Reform Act of 1978 (Copyright Provision)
+203	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+203	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+205	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+205	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+205	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+205	1976-10-19	94-553	Copyright Act of 1976
+301	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+301	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+301	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+301	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+302	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+303	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+303	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+303	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+304	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+304	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+304	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+304	1992-06-26	102-307	Copyright Renewal Act of 1992
+304	1976-10-19	94-553	Copyright Act of 1976
+304	1974-12-31	93-573	Ninth Copyright Term Extension Act of 1974
+304	1972-10-25	92-566	Eighth Copyright Term Extension Act of 1972
+304	1971-12-31	92-170	Seventh Copyright Term Extension Act of 1971
+304	1970-10-15	91-555	Sixth Copyright Term Extension Act of 1970
+304	1969-12-16	91-147	Fifth Copyright Term Extension Act of 1969
+304	1968-07-23	90-416	Fourth Copyright Term Extension Act of 1968
+304	1967-11-16	90-141	Third Copyright Term Extension Act of 1967
+304	1965-08-28	89-142	Second Copyright Term Extension Act of 1965
+304	1962-09-19	87-668	First Copyright Term Extension Act of 1962
+401	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+401	1976-10-19	94-553	Copyright Act of 1976
+402	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+403	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+404	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+405	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+405	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+406	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+407	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+407	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+407	1976-10-19	94-553	Copyright Act of 1976
+408	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
+408	1992-06-26	102-307	Copyright Renewal Act of 1992
+408	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+409	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+409	1992-06-26	102-307	Copyright Renewal Act of 1992
+410	1976-10-19	94-553	Copyright Act of 1976
+411	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+411	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
+411	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+411	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+411	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+411	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+412	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+412	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
+412	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+501	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+501	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+501	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+501	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+501	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+501	1990-11-15	101-553	Copyright Remedy Clarification Act of 1990
+501	1988-11-16	100-667	Satellite Home Viewer Act of 1988
+501	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+501	1976-10-19	94-553	Copyright Act of 1976
+503	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+503	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+504	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+504	2004-12-23	108-482	Intellectual Property Protection and Courts Amendments Act of 2004
+504	1999-12-09	106-160	Digital Theft Deterrence and Copyright Damages Improvement Act of 1999
+504	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+504	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+504	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+506	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+506	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
+506	1997-12-16	105-147	No Electronic Theft Act of 1997 (NET Act)
+506	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+506	1982-05-24	97-180	Piracy and Counterfeiting Amendments Act of 1982
+507	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+507	1997-12-16	105-147	No Electronic Theft Act of 1997 (NET Act)
+507	1957-09-07	85-313	Copyright Statute of Limitations Act of 1957
+510	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+511	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+511	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+511	1990-11-15	101-553	Copyright Remedy Clarification Act of 1990
+512	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+512	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+512	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+513	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+513	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+602	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+602	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
+603	1996-07-02	104-153	Anticounterfeiting Consumer Protection Act of 1996 (Copyright Provisions)
+701	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+701	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+701	1990-07-03	101-319	Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989
+701	1977-10-28	95-146	CONTU Extension Act of 1977
+701	1976-06-21	94-314	CONTU Amendment Act of 1976
+701	1974-12-31	93-573	Ninth Copyright Term Extension Act of 1974
+701	1966-09-06	89-554	Government Organization and Employees Act of 1966 (Copyright Provision)
+704	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+704	1990-07-03	101-318	Copyright Technical Correction of 1990
+705	2000-10-27	106-379	Work Made for Hire and Copyright Corrections Act of 2000
+708	2022-10-17	117-201	Artistic Recognition for Talented Students Act of 2022 (ARTS Act)
+708	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+708	2010-05-27	111-175	Satellite Television Extension and Localism Act of 2010 (STELA)
+708	2000-10-27	106-379	Work Made for Hire and Copyright Corrections Act of 2000
+708	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+708	1992-06-26	102-307	Copyright Renewal Act of 1992
+708	1990-07-03	101-318	Copyright Technical Correction of 1990
+708	1982-10-25	97-366	Nonprofit Performance Exemption Act of 1982
+708	1977-08-05	95-94	Legislative Branch Appropriation Act of 1978 (Copyright Office Fees)
+801	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+801	2010-05-27	111-175	Satellite Television Extension and Localism Act of 2010 (STELA)
+801	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+801	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+801	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+801	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+801	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+801	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+801	1992-10-28	102-563	Audio Home Recording Act of 1992
+801	1990-07-03	101-318	Copyright Technical Correction of 1990
+801	1988-11-16	100-667	Satellite Home Viewer Act of 1988
+801	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+801	1986-08-27	99-397	Cable Compulsory License Amendments of 1986
+801	1976-10-19	94-553	Copyright Act of 1976
+802	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+802	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+802	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+802	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
+802	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+802	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+802	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+802	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+802	1990-07-03	101-319	Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989
+802	1976-10-19	94-553	Copyright Act of 1976
+803	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+803	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+803	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+803	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+803	2004-12-08	108-447	Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)
+803	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+803	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+803	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+803	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
+803	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+803	1993-08-11	103-69	Legislative Branch Appropriations Act of 1994 (Copyright Provision)
+803	1992-10-28	102-563	Audio Home Recording Act of 1992
+803	1990-07-03	101-318	Copyright Technical Correction of 1990
+803	1988-11-16	100-667	Satellite Home Viewer Act of 1988
+803	1988-10-31	100-568	Berne Convention Implementation Act of 1988
+803	1976-10-19	94-553	Copyright Act of 1976
+804	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+804	2010-05-27	111-175	Satellite Television Extension and Localism Act of 2010 (STELA)
+804	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+804	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+805	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+805	1976-10-19	94-553	Copyright Act of 1976
+901	1984-11-08	98-620	Semiconductor Chip Protection Act of 1984
+902	1987-11-09	100-159	Semiconductor Chip Protection Extension Act of 1987
+909	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+910	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+910	1990-11-15	101-553	Copyright Remedy Clarification Act of 1990
+911	1990-11-15	101-553	Copyright Remedy Clarification Act of 1990
+912	1992-10-28	102-563	Audio Home Recording Act of 1992
+912	1988-11-19	100-702	Judicial Improvements and Access to Justice Act of 1988 (Copyright Provision)
+913	1984-11-08	98-620	Semiconductor Chip Protection Act of 1984
+914	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+914	1991-06-28	102-64	Semiconductor International Protection Extension Act of 1991
+914	1987-11-09	100-159	Semiconductor Chip Protection Extension Act of 1987
+914	1984-11-08	98-620	Semiconductor Chip Protection Act of 1984
+1001	1992-10-28	102-563	Audio Home Recording Act of 1992
+1004	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+1004	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+1005	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+1006	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+1006	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+1006	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+1007	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
+1007	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+1007	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+1007	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+1010	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
+1010	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
+104A	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+104A	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
+104A	1996-10-11	104-295	Miscellaneous Trade and Technical Corrections Act of 1996 (Copyright Provision)
+104A	1994-12-08	103-465	Uruguay Round Agreements Act of 1994 (Copyright Provisions)
+104A	1993-12-08	103-182	North American Free Trade Agreement Implementation Act of 1993 (Copyright Provisions)
+106A	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
+1101	2011-12-31	112-81	National Defense Authorization Act for Fiscal Year 2012 (Copyright Provision)
+1101	2006-03-16	109-181	Stop Counterfeiting in Manufactured Goods Act of 2006 (Copyright Provision)
+1101	1994-12-08	103-465	Uruguay Round Agreements Act of 1994 (Copyright Provisions)
+1201	2014-08-01	113-144	Unlocking Consumer Choice and Wireless Competition Act of 2014
+1201	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+1201	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+1202	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+1202	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+1203	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+1203	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+1204	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
+1204	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+1301	2021-12-27	117-81	National Defense Authorization Act for Fiscal Year 2022 (Copyright Provision)
+1301	2008-10-16	110-434	Vessel Hull Design Protection Amendments of 2008
+1301	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
+1301	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
+1302	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
+1401	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
+1501	2020-12-27	116-260	Protecting Lawful Streaming Act of 2020
+1502	2020-12-27	116-260	Protecting Lawful Streaming Act of 2020
