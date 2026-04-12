@@ -4,23 +4,9 @@
     {
       "year": "1990",
       "public_law": "101-650",
-      "description": "set out as a note under section 101 of this title.",
+      "description": "added par. (8). Statutory Notes and Related Subsidiaries Effective Date of 1990 Amendment Amendment by ||| applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of ||| set out as a note under section 101 of this title.",
       "text": "\u00a7102. Subject matter of copyright: In general\n(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:\n(1) literary works;\n(2) musical works, including any accompanying words;\n(3) dramatic works, including any accompanying music;\n(4) pantomimes and choreographic works;\n(5) pictorial, graphic, and sculptural works;\n(6) motion pictures and other audiovisual works;\n(7) sound recordings; and\n(8) architectural works.\n(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2544\n;\nPub. L. 101\u2013650,\ntitle VII, \u00a7703, Dec. 1, 1990, 104 Stat. 5133\n.)",
-      "auto_reversed": false
-    },
-    {
-      "year": "1990",
-      "public_law": "101-650",
-      "description": "applicable to any architectural work created on or after Dec. 1, 1990, and any architectural work, that, on Dec. 1, 1990, is unconstructed and embodied in unpublished plans or drawings, except that protection for such architectural work under this title terminates on Dec. 31, 2002, unless the work is constructed by that date, see section 706 of",
-      "text": "\u00a7102. Subject matter of copyright: In general\n(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:\n(1) literary works;\n(2) musical works, including any accompanying words;\n(3) dramatic works, including any accompanying music;\n(4) pantomimes and choreographic works;\n(5) pictorial, graphic, and sculptural works;\n(6) motion pictures and other audiovisual works;\n(7) sound recordings; and\n(8) architectural works.\n(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2544\n;\nPub. L. 101\u2013650,\ntitle VII, \u00a7703, Dec. 1, 1990, 104 Stat. 5133\n.)",
-      "auto_reversed": false
-    },
-    {
-      "year": "1990",
-      "public_law": "101-650",
-      "description": "added par. (8). Statutory Notes and Related Subsidiaries Effective Date of 1990 Amendment Amendment by",
-      "text": "\u00a7102. Subject matter of copyright: In general\n(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:\n(1) literary works;\n(2) musical works, including any accompanying words;\n(3) dramatic works, including any accompanying music;\n(4) pantomimes and choreographic works;\n(5) pictorial, graphic, and sculptural works;\n(6) motion pictures and other audiovisual works;\n(7) sound recordings; and\n(8) architectural works.\n(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2544\n;\nPub. L. 101\u2013650,\ntitle VII, \u00a7703, Dec. 1, 1990, 104 Stat. 5133\n.)",
-      "auto_reversed": false
+      "auto_reversed": true
     },
     {
       "act": "Current",
@@ -28,21 +14,5 @@
       "text": "\u00a7102. Subject matter of copyright: In general\n(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:\n(1) literary works;\n(2) musical works, including any accompanying words;\n(3) dramatic works, including any accompanying music;\n(4) pantomimes and choreographic works;\n(5) pictorial, graphic, and sculptural works;\n(6) motion pictures and other audiovisual works;\n(7) sound recordings; and\n(8) architectural works.\n(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work.\n(\nPub. L. 94\u2013553,\ntitle I, \u00a7101, Oct. 19, 1976, 90 Stat. 2544\n;\nPub. L. 101\u2013650,\ntitle VII, \u00a7703, Dec. 1, 1990, 104 Stat. 5133\n.)"
     }
   ],
-  "issues": [
-    {
-      "year": "1990",
-      "public_law": "101-650",
-      "issue": "MANUAL: need to remove added paragraph/subsection (8)"
-    },
-    {
-      "year": "1990",
-      "public_law": "101-650",
-      "issue": "UNHANDLED: applicable to any architectural work created on or after Dec. 1, 1990, and any a..."
-    },
-    {
-      "year": "1990",
-      "public_law": "101-650",
-      "issue": "UNHANDLED: set out as a note under section 101 of this title...."
-    }
-  ]
+  "issues": []
 }

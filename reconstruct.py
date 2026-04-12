@@ -22,23 +22,35 @@ SNAPSHOTS_DIR = os.path.join(DATA_DIR, 'snapshots')
 
 
 def load_section_text(sec_num):
-    """Load the current text of a section."""
+    """Load the current text of a section, stripping headers and source credits."""
     path = os.path.join(SECTIONS_DIR, f'{sec_num}.md')
     if not os.path.exists(path):
         return None
     with open(path) as f:
         content = f.read()
-    # Strip the markdown header and source credit at the end
     lines = content.strip().split('\n')
     # Remove "# 17 U.S.C. §" header
     if lines and lines[0].startswith('#'):
         lines = lines[1:]
-    # Remove trailing source credit (lines starting with "(" or "Pub. L.")
-    while lines and (lines[-1].strip().startswith('(') or
-                     lines[-1].strip().startswith('Pub.') or
-                     lines[-1].strip().startswith(';') or
-                     lines[-1].strip().startswith(')') or
-                     lines[-1].strip() == ''):
+    # Remove trailing source credit block — everything from the line starting with "("
+    # that contains "Pub. L." references
+    cut_idx = len(lines)
+    for i in range(len(lines) - 1, -1, -1):
+        line = lines[i].strip()
+        if line.startswith('(') and not line.startswith('(a)') and not line.startswith('(b)'):
+            # Check if this looks like a source credit
+            remaining = '\n'.join(lines[i:])
+            if 'Pub. L.' in remaining:
+                cut_idx = i
+                break
+        if line.startswith('Pub. L.') or line == ';' or line == '.)' or line == ')':
+            # Keep looking backward for the start of the credit block
+            continue
+        elif i < cut_idx:
+            break
+    lines = lines[:cut_idx]
+    # Remove trailing empty lines
+    while lines and lines[-1].strip() == '':
         lines.pop()
     return '\n'.join(lines).strip()
 
@@ -62,10 +74,11 @@ def parse_amendment_notes(sec_num):
     amendments_text = content[amendments_start:]
 
     # Parse individual amendments
-    # Pattern: year followed by PL reference and description
+    # Group all changes by PL number so multiple substitutions from the same act
+    # are applied together
     amendments = []
 
-    # Split by year headers or PL references
+    # Split by year headers
     entries = re.split(r'\n(\d{4})-?\n?', amendments_text)
 
     current_year = None
@@ -86,18 +99,25 @@ def parse_amendment_notes(sec_num):
                 current_pl = f"{pl_match.group(1)}-{pl_match.group(2)}"
                 continue
             if current_pl and part.strip():
-                # This is the description of what the PL changed
                 desc = part.strip()
-                # Clean up
                 desc = re.sub(r'^[,;\s]+', '', desc)
                 desc = re.sub(r'\s+', ' ', desc)
                 if desc and len(desc) > 5:
-                    amendments.append({
-                        'year': current_year,
-                        'public_law': current_pl,
-                        'description': desc,
-                    })
-                    current_pl = None  # Reset for next
+                    # Check if we already have an entry for this PL+year
+                    existing = None
+                    for a in amendments:
+                        if a['public_law'] == current_pl and a['year'] == current_year:
+                            existing = a
+                            break
+                    if existing:
+                        # Append to existing description
+                        existing['description'] += ' ||| ' + desc
+                    else:
+                        amendments.append({
+                            'year': current_year,
+                            'public_law': current_pl,
+                            'description': desc,
+                        })
 
     return amendments
 
@@ -112,21 +132,51 @@ def apply_simple_substitution(text, old_str, new_str):
 def reverse_amendment(text, amendment_desc):
     """
     Try to reverse-apply an amendment based on its description.
+    Handles grouped descriptions (separated by |||).
     Returns (reversed_text, success, method).
     """
+    # Handle grouped descriptions — apply each one
+    if '|||' in amendment_desc:
+        parts = amendment_desc.split('|||')
+        all_success = True
+        methods = []
+        for part in parts:
+            part = part.strip()
+            if not part:
+                continue
+            text, success, method = reverse_amendment(text, part)
+            if not success:
+                all_success = False
+            methods.append(method)
+        return text, all_success, ' + '.join(methods)
+
     desc = amendment_desc.lower()
 
-    # Pattern: substituted "X" for "Y"
-    sub_match = re.search(
+    # Skip notes about effective dates, transition provisions, etc.
+    if any(skip in desc for skip in [
+        'effective date', 'effective 6 months', 'set out as',
+        'transition provisions', 'provided that', 'applicable to',
+    ]):
+        return text, True, "skipped (effective date/transition note)"
+
+    # Pattern: substituted "X" for "Y" — handle ALL occurrences in description
+    all_subs = re.findall(
         r'substituted\s+["\u201c]([^"\u201d]+)["\u201d]\s+for\s+["\u201c]([^"\u201d]+)["\u201d]',
         amendment_desc, re.IGNORECASE
     )
-    if sub_match:
-        new_text = sub_match.group(1)
-        old_text = sub_match.group(2)
-        result = apply_simple_substitution(text, new_text, old_text)
-        if result:
-            return result, True, f"reversed substitution: '{new_text}' -> '{old_text}'"
+    if all_subs:
+        any_applied = False
+        methods = []
+        for new_text, old_text in all_subs:
+            result = apply_simple_substitution(text, new_text, old_text)
+            if result:
+                text = result
+                any_applied = True
+                methods.append(f"'{new_text}' -> '{old_text}'")
+            else:
+                methods.append(f"MISSED: '{new_text}' not found")
+        if any_applied:
+            return text, True, f"reversed substitutions: {'; '.join(methods)}"
 
     # Pattern: inserted "X" (at end, after Y, etc.)
     insert_match = re.search(
@@ -139,6 +189,19 @@ def reverse_amendment(text, amendment_desc):
             result = text.replace(inserted_text, '', 1).strip()
             return result, True, f"removed inserted text: '{inserted_text[:50]}...'"
 
+    # Pattern: struck out/struck "X" and inserted "Y"
+    struck_inserted = re.search(
+        r'(?:struck out|struck)\s+["\u201c]([^"\u201d]+)["\u201d]\s+and\s+inserted\s+["\u201c]([^"\u201d]+)["\u201d]',
+        amendment_desc, re.IGNORECASE
+    )
+    if struck_inserted:
+        old_text = struck_inserted.group(1)
+        new_text = struck_inserted.group(2)
+        # To reverse: replace new_text with old_text
+        result = apply_simple_substitution(text, new_text, old_text)
+        if result:
+            return result, True, f"reversed struck/inserted: '{new_text}' -> '{old_text}'"
+
     # Pattern: struck out/struck "X"
     struck_match = re.search(
         r'(?:struck out|struck)\s+["\u201c]([^"\u201d]+)["\u201d]',
@@ -146,8 +209,6 @@ def reverse_amendment(text, amendment_desc):
     )
     if struck_match:
         struck_text = struck_match.group(1)
-        # To reverse: we need to re-insert it, but we don't always know where
-        # Flag for manual review
         return text, False, f"MANUAL: need to re-insert struck text: '{struck_text[:50]}...'"
 
     # Pattern: added par. (X) / added subsec. (X)

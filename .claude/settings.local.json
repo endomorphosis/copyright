@@ -21,7 +21,14 @@
       "Bash(git tag:*)",
       "Bash(git reset:*)",
       "Bash(git checkout:*)",
-      "Bash(git rm:*)"
+      "Bash(git rm:*)",
+      "Bash(python3:*)",
+      "WebFetch(domain:www.everycrsreport.com)",
+      "WebFetch(domain:digital-law-online.info)",
+      "WebFetch(domain:law.resource.org)",
+      "WebFetch(domain:mostlyiphistory.com)",
+      "WebFetch(domain:www.loc.gov)",
+      "WebFetch(domain:ipmall.info)"
     ]
   }
 }

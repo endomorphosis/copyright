@@ -44,6 +44,16 @@
   tag: v1831
   status: pending
 
+- name: Copyright Assignment Recordation Act of 1834
+  date: 1834-06-30
+  citation: 4 Stat. 728
+  chapter: Ch. 157
+  summary: >
+    Amended the copyright act to permit, for the first time, recordation of
+    assignments of copyright. Required assignments to be recorded with the
+    clerk of the district court within sixty days.
+  status: pending
+
 - name: Copyright Amendment of 1856
   date: 1856-08-18
   citation: 11 Stat. 138
@@ -142,10 +152,9 @@
   citation: 33 Stat. 4
   chapter: Ch. 2
   summary: >
-    Provided temporary (ad interim) copyright protection for foreign works
-    published abroad in a foreign language, without requiring compliance with
-    the manufacturing clause. Enacted to encourage foreign participation in
-    the Louisiana Purchase Exposition.
+    Provided temporary (two-year) copyright protection specifically for
+    foreign exhibitors at the Louisiana Purchase Exposition in St. Louis,
+    without requiring compliance with the manufacturing clause.
   status: pending
 
 - name: Ad Interim Copyright Amendment of 1905
@@ -163,8 +172,9 @@
   public_law: Pub. L. 60-349
   summary: >
     Third general revision and first comprehensive copyright statute of the
-    20th century. Granted protection to all writings of an author (including
-    unpublished works through common law). Introduced the mechanical license
+    20th century. Granted federal statutory protection to all writings of an
+    author upon publication with notice, while preserving state common law
+    protection for unpublished works. Introduced the mechanical license
     for musical recordings. Required published copies to bear copyright notice.
     Extended renewal term to 28 years (28+28 = 56 years total).
   tag: v1909
@@ -848,8 +858,10 @@
   citation: 118 Stat. 3912
   public_law: Pub. L. 108-482
   summary: >
-    Included provisions addressing false copyright claims (Section 506)
-    and establishing the Artists' Rights and Theft Prevention provisions.
+    Title I (Anti-counterfeiting Amendments Act of 2004) amended Section 603
+    regarding importation of infringing copies. Title II (Fraudulent Online
+    Identity Sanctions Act) added Section 504(c)(3) providing enhanced
+    statutory damages when infringers use false identity information.
   status: pending
 
 - name: Family Entertainment and Copyright Act of 2005
