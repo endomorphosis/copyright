@@ -53,27 +53,30 @@
 - [x] ~~Library of Congress Technical Corrections Act of 2019 — §501, §701 reversals fixed~~
 - [x] ~~Semiconductor International Protection Extension Act of 1991 — §914 reversal fixed~~
 
-## Acts Without Reconstructed Section Snapshots
-These 18 acts amend Title 17 sections but their auto-reversals failed (added/removed subsections, redesignations, or unparseable amendment notes). Each needs manual text reconstruction.
+## ~~Acts Fixed by Manual Reconstruction~~
+~~These acts had failed auto-reversals that were manually reconstructed:~~
+- [x] ~~Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 — §701 reconstructed (added subsec. e, compensation changes). §802 skipped (old CRT section was completely replaced by PL 108-419 in 2004).~~
+- [x] ~~Architectural Works Copyright Protection Act of 1990 — §102 already correct (auto-reversal worked)~~
+- [x] ~~Intellectual Property Protection and Courts Amendments Act of 2004 — §504 fully reconstructed (all 6 versions with correct amounts, par. 3, subsec. d)~~
+- [x] ~~Vessel Hull Design Protection Amendments of 2008 — §1301 reconstructed (pre-2008 text without deck/DoD provisions)~~
+- [x] ~~Unlocking Consumer Choice and Wireless Competition Act of 2014 — §1201 (standalone statutory note, not a text amendment; act-snapshot already existed)~~
+- [x] ~~Marrakesh Treaty Implementation Act of 2018 — §121 fully reconstructed (all 4 versions with specialized formats/accessible formats terminology)~~
+- [x] ~~Protecting Lawful Streaming Act of 2020 — §1501, §1502 (new sections, version entries created for PL 116-260)~~
+- [x] ~~Artistic Recognition for Talented Students Act of 2022 (ARTS Act) — §708 version added for PL 117-201; also fixed version convention shift for all 708 entries~~
+- [x] ~~James M. Inhofe NDAA for FY2023 — §105 fully reconstructed (all 4 versions including 2019 NDAA, 2022 NDAA, 2024 NDAA, 2025 NDAA)~~
+- [x] ~~Servicemember Quality of Life NDAA for FY2025 + NDAA for FY2026 — §105 (covered by same reconstruction)~~
 
-- [ ] Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 — §701 (added subsec. e), §802
-- [ ] Architectural Works Copyright Protection Act of 1990 — §102 (added category 8 - **known bug, snapshot reversed**)
-- [ ] Satellite Home Viewer Act of 1994 — §111, §119
-- [ ] Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act) — §110, §112, §118, §119 (+others)
-- [ ] Small Webcaster Amendments Act of 2002 — §114
-- [ ] Intellectual Property Protection and Courts Amendments Act of 2004 — §504 (added subsec. d)
+## Acts Requiring Complex Manual Reconstruction
+These acts involve very large sections (§110, §111, §112, §114, §118, §119) that underwent multiple complete chapter-level rewrites (PL 108-419 in 2004 rewrote the entire royalty chapter; PL 111-175 in 2010 rewrote §119). Reconstructing intermediate versions requires access to the full text of each version, which is beyond what can be derived from amendment notes alone.
+
+- [ ] Satellite Home Viewer Act of 1994 — §111, §119 (§119 was completely rewritten by PL 111-175 in 2010)
+- [ ] Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act) — §110 (complete rewrite of par. 2), §112 (added subsec. f), §118 (minor fix but chapter rewritten in 2004), §119 (technical corrections)
+- [ ] Small Webcaster Amendments Act of 2002 — §114 (added pars, restructured; 10 versions all need reconstruction)
 - [ ] Webcaster Settlement Act of 2008 — §114
-- [ ] Vessel Hull Design Protection Amendments of 2008 — §1301
 - [ ] Webcaster Settlement Act of 2009 — §114
-- [ ] Temporary Extension Act of 2010 (Copyright Provision) — §119
-- [ ] Satellite Television Extension Act of 2010 — §119
-- [ ] Continuing Extension Act of 2010 (Copyright Provision) — §119
-- [ ] Unlocking Consumer Choice and Wireless Competition Act of 2014 — §1201
-- [ ] Marrakesh Treaty Implementation Act of 2018 — §121
-- [ ] Protecting Lawful Streaming Act of 2020 — §1501, §1502 (new sections)
-- [ ] Artistic Recognition for Talented Students Act of 2022 (ARTS Act) — §708
-- [ ] James M. Inhofe NDAA for FY2023 — §105
-- [ ] Servicemember Quality of Life NDAA for FY2025 + NDAA for FY2026 — §105
+- [ ] Temporary Extension Act of 2010 (Copyright Provision) — §119 (date changes, but requires full §119 reconstruction first)
+- [ ] Satellite Television Extension Act of 2010 — §119 (comprehensive restructuring)
+- [ ] Continuing Extension Act of 2010 (Copyright Provision) — §119 (date changes)
 
 ## ~~Acts List Completeness~~
 - [x] ~~Two PLs excluded as cross-references (91-375, 99-474) — confirmed: PL 91-375 (Postal Reorganization) amended old Title 17 only, superseded by 1976 Act; PL 99-474 (Computer Fraud) amends 18 USC only.~~
