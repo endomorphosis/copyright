@@ -45,32 +45,35 @@
 - [x] Short amendments (1874, 1879, 1882, 1893, 1895, 1897) — all use proper enacting clauses and period-appropriate legal language. Three are acknowledged extracts from larger bills (appropriately marked). Removed editorial note from 1897 Copyright Office establishment act.
 - [x] Source PDFs: downloaded 1909 Act and 1976 Act from copyright.gov. Earlier acts not available as PDFs from government sources.
 
-## Acts Without Reconstructed Section Snapshots
-These 23 acts amend Title 17 sections (per the section-amendment-map) but have no snapshot data, so their commits are empty in the output repo. Each needs section text reconstructed for the versions it changed.
+## ~~Acts Fixed by Pipeline Improvements~~
+~~These acts were empty due to shared-PL disambiguation or failed auto-reversal false positives. Fixed by title-level PL matching in prepare_build_data.py:~~
+- [x] ~~Fairness in Music Licensing Act of 1998 — §301, §302, §303, §304 now correctly attributed to CTEA (Title I); §101, §110, §504, §513 to Fairness (Title II)~~
+- [x] ~~Digital Theft Deterrence and Copyright Damages Improvement Act of 1999 — §504 reversal now detected as substantive~~
+- [x] ~~Individuals with Disabilities Education Improvement Act of 2004 — §121 reversal fixed~~
+- [x] ~~Library of Congress Technical Corrections Act of 2019 — §501, §701 reversals fixed~~
+- [x] ~~Semiconductor International Protection Extension Act of 1991 — §914 reversal fixed~~
 
-- [ ] Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 — sections: §101, §701, §802
-- [ ] Semiconductor International Protection Extension Act of 1991 — sections: §101, §914
-- [ ] Satellite Home Viewer Act of 1994 — sections: §101, §111, §119
-- [ ] Fairness in Music Licensing Act of 1998 — sections: §101, §108, §110, §203, §301, §302, §303, §304 (+2 more)
-- [ ] Digital Theft Deterrence and Copyright Damages Improvement Act of 1999 — sections: §101, §504
-- [ ] Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act) — sections: §101, §106, §110, §112, §118, §119, §121, §122 (+5 more)
-- [ ] Small Webcaster Amendments Act of 2002 — sections: §101, §114
-- [ ] Individuals with Disabilities Education Improvement Act of 2004 (Copyright Provision) — sections: §121
-- [ ] Intellectual Property Protection and Courts Amendments Act of 2004 — sections: §504
-- [ ] Webcaster Settlement Act of 2008 — sections: §101, §114
-- [ ] Vessel Hull Design Protection Amendments of 2008 — sections: §101, §1301
-- [ ] Webcaster Settlement Act of 2009 — sections: §101, §114
-- [ ] Temporary Extension Act of 2010 (Copyright Provision) — sections: §119
-- [ ] Satellite Television Extension Act of 2010 — sections: §101, §119
-- [ ] Continuing Extension Act of 2010 (Copyright Provision) — sections: §119
-- [ ] Unlocking Consumer Choice and Wireless Competition Act of 2014 — sections: §1201
-- [ ] Marrakesh Treaty Implementation Act of 2018 — sections: §101, §121
-- [ ] Library of Congress Technical Corrections Act of 2019 — sections: §101, §119, §501, §701, §802, §803
-- [ ] Protecting Lawful Streaming Act of 2020 — sections: §101, §1501, §1502
-- [ ] Artistic Recognition for Talented Students Act of 2022 (ARTS Act) — sections: §101, §708
-- [ ] James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Copyright Provision) — sections: §105
-- [ ] Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Copyright Provision) — sections: §105
-- [ ] National Defense Authorization Act for Fiscal Year 2026 (Copyright Provision) — sections: §105
+## Acts Without Reconstructed Section Snapshots
+These 18 acts amend Title 17 sections but their auto-reversals failed (added/removed subsections, redesignations, or unparseable amendment notes). Each needs manual text reconstruction.
+
+- [ ] Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 — §701 (added subsec. e), §802
+- [ ] Architectural Works Copyright Protection Act of 1990 — §102 (added category 8 - **known bug, snapshot reversed**)
+- [ ] Satellite Home Viewer Act of 1994 — §111, §119
+- [ ] Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act) — §110, §112, §118, §119 (+others)
+- [ ] Small Webcaster Amendments Act of 2002 — §114
+- [ ] Intellectual Property Protection and Courts Amendments Act of 2004 — §504 (added subsec. d)
+- [ ] Webcaster Settlement Act of 2008 — §114
+- [ ] Vessel Hull Design Protection Amendments of 2008 — §1301
+- [ ] Webcaster Settlement Act of 2009 — §114
+- [ ] Temporary Extension Act of 2010 (Copyright Provision) — §119
+- [ ] Satellite Television Extension Act of 2010 — §119
+- [ ] Continuing Extension Act of 2010 (Copyright Provision) — §119
+- [ ] Unlocking Consumer Choice and Wireless Competition Act of 2014 — §1201
+- [ ] Marrakesh Treaty Implementation Act of 2018 — §121
+- [ ] Protecting Lawful Streaming Act of 2020 — §1501, §1502 (new sections)
+- [ ] Artistic Recognition for Talented Students Act of 2022 (ARTS Act) — §708
+- [ ] James M. Inhofe NDAA for FY2023 — §105
+- [ ] Servicemember Quality of Life NDAA for FY2025 + NDAA for FY2026 — §105
 
 ## ~~Acts List Completeness~~
 - [x] ~~Two PLs excluded as cross-references (91-375, 99-474) — confirmed: PL 91-375 (Postal Reorganization) amended old Title 17 only, superseded by 1976 Act; PL 99-474 (Computer Fraud) amends 18 USC only.~~
