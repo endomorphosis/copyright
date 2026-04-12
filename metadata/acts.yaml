@@ -844,10 +844,19 @@
     added in a 1999 satellite bill. Made other technical corrections.
   status: pending
 
+- name: Intellectual Property and High Technology Technical Amendments Act of 2002
+  date: 2002-11-02
+  citation: 116 Stat. 1758
+  public_law: Pub. L. 107-273, Division C, Title III, Subtitle B
+  summary: >
+    Made technical corrections and conforming amendments throughout Title 17,
+    including corrections to the DMCA and other recent copyright legislation.
+  status: pending
+
 - name: Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
   date: 2002-11-02
   citation: 116 Stat. 1758
-  public_law: Pub. L. 107-273
+  public_law: Pub. L. 107-273, Division C, Title III, Subtitle C
   summary: >
     Updated Section 110(2) to expand the copyright exemption for distance
     education by accredited nonprofit educational institutions.
@@ -1100,6 +1109,16 @@
     of distant broadcast signals permanent (previously subject to periodic
     reauthorization) while narrowing its scope. Required satellite carriers
     to provide local-into-local service in all 210 designated market areas.
+  status: pending
+
+- name: Library of Congress Technical Corrections Act of 2019
+  date: 2019-12-20
+  citation: 133 Stat. 2534
+  public_law: Pub. L. 116-94, Title XIV
+  summary: >
+    Made technical corrections to Copyright Office organizational provisions.
+    Amended Sections 701, 802, and 803 of Title 17 regarding Copyright
+    Royalty Judge procedures.
   status: pending
 
 - name: National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)
