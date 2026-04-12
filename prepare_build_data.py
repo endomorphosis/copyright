@@ -17,6 +17,24 @@ SNAPSHOTS_DIR = os.path.join(DATA_DIR, 'snapshots')
 ACT_SNAPSHOTS_DIR = os.path.join(DATA_DIR, 'act-snapshots')
 
 
+def strip_source_credit(text):
+    """Remove the trailing source credit block (Pub. L. references) from section text."""
+    lines = text.strip().split('\n')
+    # Find where source credit starts — look for a line that's just "("
+    # followed by "Pub. L." references
+    cut_idx = len(lines)
+    for i in range(len(lines) - 1, max(0, len(lines) - 30), -1):
+        line = lines[i].strip()
+        if line == '(' or (line.startswith('(') and 'Pub. L.' in '\n'.join(lines[i:])):
+            # Check if this looks like a source credit block
+            remaining = '\n'.join(lines[i:])
+            if 'Pub. L.' in remaining and remaining.rstrip().endswith(')'):
+                cut_idx = i
+                break
+    result = '\n'.join(lines[:cut_idx]).rstrip()
+    return result
+
+
 def sanitize_filename(name):
     name = re.sub(r'\s*\([^)]*\)\s*', ' ', name)
     name = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
@@ -102,10 +120,12 @@ def main():
         for sec, version in found_sections:
             text = version.get('text', '')
             if text:
+                # Strip source credit block from text
+                text = strip_source_credit(text)
                 path = os.path.join(act_dir, f'{sec}.md')
                 with open(path, 'w') as f:
                     f.write(f'# 17 U.S.C. § {sec}\n\n')
-                    f.write(text)
+                    f.write(text.strip())
                     f.write('\n')
                 sections_written += 1
 

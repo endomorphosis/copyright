@@ -28,7 +28,9 @@
       "WebFetch(domain:law.resource.org)",
       "WebFetch(domain:mostlyiphistory.com)",
       "WebFetch(domain:www.loc.gov)",
-      "WebFetch(domain:ipmall.info)"
+      "WebFetch(domain:ipmall.info)",
+      "WebFetch(domain:link.sandiego.edu)",
+      "WebFetch(domain:law.copyrightdata.com)"
     ]
   }
 }
