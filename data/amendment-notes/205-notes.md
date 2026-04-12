@@ -1,0 +1,34 @@
+# Amendment Notes for 17 U.S.C. § 205
+
+Historical and Revision Notes
+house report no. 94–1476
+The recording and priority provisions of section 205 are intended to clear up a number of uncertainties arising from sections 30 and 31 of the present law [sections 30 and 31 of former title 17] and to make them more effective and practical in operation. Any "document pertaining to a copyright" may be recorded under subsection (a) if it "bears that actual signature of the person who executed it," or if it is appropriately certified as a true copy. However, subsection (c) makes clear that the recorded document will give constructive notice of its contents only if two conditions are met: (1) the document or attached material specifically identifies the work to which it pertains so that a reasonable search under the title or registration number would reveal it, and (2) registration has been made for the work. Moreover, even though the Register of Copyrights may be compelled to accept for recordation documents that on their face appear self-serving or colorable, the Register should take care that their nature is not concealed from the public in the Copyright Office's indexing and search reports.
+The provisions of subsection (d), requiring recordation of transfers as a prerequisite to the institution of an infringement suit, represent a desirable change in the law. The one- and three-month grace periods provided in subsection (e) are a reasonable compromise between those who want a longer hiatus and those who argue that any grace period makes it impossible for a bona fide transferee to rely on the record at any particular time.
+Under subsection (f) of section 205, a nonexclusive license in writing and signed, whether recorded or not, would be valid against a later transfer, and would also prevail as against a prior unrecorded transfer if taken in good faith and without notice. Objections were raised by motion picture producers, particularly to the provision allowing unrecorded nonexclusive licenses to prevail over subsequent transfers, on the ground that a nonexclusive license can have drastic effects on the value of a copyright. On the other hand, the impracticalities and burdens that would accompany any requirement of recordation of nonexclusive licenses outweigh the limited advantages of a statutory recordation system for them.
+Editorial Notes
+Amendments
+2010-Subsec. (a).
+Pub. L. 111–295
+inserted at end "A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights."
+1988-Subsecs. (d) to (f).
+Pub. L. 100–568
+redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d), which read as follows: "No person claiming by virtue of a transfer to be the owner of copyright or of any exclusive right under a copyright is entitled to institute an infringement action under this title until the instrument of transfer under which such person claims has been recorded in the Copyright Office, but suit may be instituted after such recordation on a cause of action that arose before recordation."
+Statutory Notes and Related Subsidiares
+Effective Date of 1988 Amendment
+Amendment by
+Pub. L. 100–568
+effective Mar. 1, 1989, with any cause of action arising under this title before such date being governed by provisions in effect when cause of action arose, see section 13 of
+Pub. L. 100–568,
+set out as a note under section 101 of this title.
+Recordation of Shareware
+Pub. L. 101–650,
+title VIII, §805, Dec. 1, 1990, 104 Stat. 5136
+, provided that:
+"(a) In General.-The Register of Copyrights is authorized, upon receipt of any document designated as pertaining to computer shareware and the fee prescribed by section 708 of title 17, United States Code, to record the document and return it with a certificate of recordation.
+"(b) Maintenance of Records; Publication of Information.-The Register of Copyrights is authorized to maintain current, separate records relating to the recordation of documents under subsection (a), and to compile and publish at periodic intervals information relating to such recordations. Such publications shall be offered for sale to the public at prices based on the cost of reproduction and distribution.
+"(c) Deposit of Copies in Library of Congress.-In the case of public domain computer software, at the election of the person recording a document under subsection (a), 2 complete copies of the best edition (as defined in section 101 of title 17, United States Code) of the computer software as embodied in machine-readable form may be deposited for the benefit of the Machine-Readable Collections Reading Room of the Library of Congress.
+"(d) Regulations.-The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions of the Register under this section. All regulations established by the Register are subject to the approval of the Librarian of Congress."
+Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions
+Recordation of assignments of copyrights or other instruments received in the Copyright Office before Jan. 1, 1978, to be made in accordance with this title as it existed on Dec. 31, 1977, see section 109 of
+Pub. L. 94–553,
+set out as a note under section 410 of this title.
