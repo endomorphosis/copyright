@@ -550,6 +550,18 @@
     via radio and television reception.
   status: pending
 
+- name: Technical Corrections to Title 17 Act of 1999
+  date: 1999-08-05
+  citation: 113 Stat. 221
+  public_law: Pub. L. 106-44
+  summary: >
+    Made technical corrections throughout Title 17. Renumbered the conflicting
+    Section 512 ("Determination of reasonable license fees") to Section 513 to
+    resolve the conflict with the DMCA's Section 512 (online service provider
+    safe harbors). Fixed cross-references in Sections 106, 501, and 511.
+    Corrected clerical errors in Sections 112, 119, 1202, 1302, and 1320.
+  status: pending
+
 - name: Digital Theft Deterrence and Copyright Damages Improvement Act of 1999
   date: 1999-12-09
   citation: 113 Stat. 1774
