@@ -320,8 +320,9 @@ def build_repo(acts, data_dir, output_dir):
             # by looking at the section-creation map
             if act.get('public_law'):
                 pl_num = re.sub(r'Pub\. L\. ', '', act['public_law']).strip()
+                pl_num_base = pl_num.split(',')[0].strip()
                 for sec_num, creating_pl in section_creators.items():
-                    if creating_pl != pl_num:
+                    if creating_pl != pl_num and creating_pl != pl_num_base:
                         continue
                     sec_file = os.path.join(sections_dir, f'{sec_num}.md')
                     if os.path.exists(sec_file):
