@@ -119,8 +119,10 @@
   .timeline {
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 0;
     margin: 1.5em auto;
+    width: 80%;
     max-width: 900px;
     position: relative;
   }
@@ -137,10 +139,11 @@
   }
 
   .era {
-    flex: 1;
+    flex: 0 0 auto;
     text-align: center;
     position: relative;
     z-index: 1;
+    min-width: 100px;
   }
 
   .era .dot {
