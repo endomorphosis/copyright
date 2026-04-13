@@ -18,7 +18,7 @@ All six sections had "Copyright Royalty Judges" (a 2004 term) in pre-2004 versio
 Pre-STELA §119 versions v0-v11 currently all use the same 2009-era base text. Intermediate differences from these acts are not yet applied:
 - [ ] Satellite Home Viewer Act of 1994 (PL 103-369) — §119 specific text changes within pre-STELA structure
 - [ ] Earlier §119 amendments (PL 103-198, 105-80, 106-44, 106-113, 107-273, 108-419, 108-447, 109-303, 110-403) — intermediate version differentiation within the pre-STELA text
-- [ ] §111 intermediate version differentiation — v0-v3 still identical; changes from PL 100-667, 101-318, 103-198 not yet reconstructed
+- [x] §111 intermediate version differentiation — v0-v3 differentiated: PL 100-667 (a)(4)→(5) renumbering + §119 exclusion; PL 101-318 "recorded the notice" removal; PL 103-198 CRT consultation phrases + d(2)/d(4)(B) text restoration
 
 ## Acts With No File Changes (23 total — in progress)
 
