@@ -621,6 +621,55 @@ class TestSection119Reconstruction(unittest.TestCase):
                 text = v.get('text', '')
                 self.assertNotIn('Copyright Royalty Judges', text)
 
+    def test_post_stela_has_14_paragraphs_in_subsec_a(self):
+        """After STELA (PL 111-175, 2010), §119(a) had 14 paragraphs.
+        PL 116-94 (2019) later reduced this to 10. So v17/v18 should have 14."""
+        for v in self.versions:
+            if v.get('public_law') == '111-175':
+                text = v.get('text', '')
+                a_start = text.find('(a) ')
+                b_start = text.find('\n(b) ')
+                if a_start >= 0 and b_start > a_start:
+                    a_text = text[a_start:b_start]
+                    pars = re.findall(r'^\((\d+)\)', a_text, re.MULTILINE)
+                    self.assertEqual(len(pars), 14,
+                                     f"Post-STELA §119(a) should have 14 "
+                                     f"paragraphs, got {len(pars)}: {pars}")
+                break
+
+    def test_post_stela_has_subsection_h(self):
+        """After PL 113-200 (2014), §119 had subsection (h) providing a
+        termination date. This was struck by PL 116-94 (2019)."""
+        for v in self.versions:
+            if v.get('public_law') == '113-200':
+                text = v.get('text', '')
+                self.assertIn('(h) Termination', text,
+                              "§119 v18 (PL 113-200) should have subsec (h)")
+                break
+
+    def test_post_stela_uses_non_network(self):
+        """STELA (PL 111-175) renamed 'superstation' to 'non-network station'.
+        Post-STELA versions should use 'non-network' not 'superstation'."""
+        for v in self.versions:
+            if v.get('public_law') == '111-175':
+                text = v.get('text', '')
+                self.assertIn('non-network station', text.lower(),
+                              "Post-STELA should use 'non-network station'")
+                self.assertNotIn('superstation', text.lower(),
+                                 "Post-STELA should not use 'superstation'")
+                break
+
+    def test_post_stela_paragraph_refs(self):
+        """Post-STELA §119(a)(1) references 'paragraphs (4), (5), and (7)'.
+        PL 116-94 later changed these to (3), (4), and (6)."""
+        for v in self.versions:
+            if v.get('public_law') == '111-175':
+                text = v.get('text', '')
+                self.assertIn('paragraphs (4), (5), and (7)', text,
+                              "Post-STELA (a)(1) should reference pars "
+                              "(4), (5), and (7)")
+                break
+
 
 # ===========================================================================
 # §114 Webcaster Acts Tests

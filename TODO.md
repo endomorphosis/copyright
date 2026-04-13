@@ -15,10 +15,16 @@ All six sections had "Copyright Royalty Judges" (a 2004 term) in pre-2004 versio
 - [x] §119 pre-STELA reconstruction — replaced all pre-2010 versions with authentic pre-STELA text sourced from GovInfo 2009 U.S. Code edition; applied correct date substitutions for 2010 temporary extension acts (PL 111-118, 111-144, 111-151, 111-157)
 
 ### Remaining (intermediate version differentiation — in progress)
-Pre-STELA §119 versions v0-v11 currently all use the same 2009-era base text. Intermediate differences from these acts are not yet applied:
-- [ ] Satellite Home Viewer Act of 1994 (PL 103-369) — §119 specific text changes within pre-STELA structure
-- [ ] Earlier §119 amendments (PL 103-198, 105-80, 106-44, 106-113, 107-273, 108-419, 108-447, 109-303, 110-403) — intermediate version differentiation within the pre-STELA text
+- [x] §119 post-STELA reconstruction — v17 (PL 111-175) and v18 (PL 113-200) replaced with authentic post-STELA text sourced from GovInfo 2018 U.S. Code edition; 14 paragraphs in (a), subsections through (h), "non-network station" terminology, "paragraphs (4), (5), and (7)" references
+- [x] §119 pre-STELA base text — v0-v16 replaced with authentic pre-STELA text from GovInfo 2009 U.S. Code edition; uses "superstation", 16 paragraphs in (a), correct paragraph cross-references
+- [x] §119 institutional terminology — CRT (v0, 1988), LoC (v1-v7, 1993-2002), CRJ (v8+, 2004+)
+- [x] §119 PL 110-403 (Pro-IP Act 2008) — reversed "sections 509 and 510" → "section 510" and "506 and 509" removals for v0-v10
+- [x] §119 PL 111-118 date changes — v0-v11 use "December 31, 2009"; v12-v13 use "February 28, 2010"; v14-v16 use progressive temp extension dates
+- [x] §119 PL 103-369 (SHVA 1994) — reversed cents amounts (12→17.5/14, 3→6), date of enactment text, (d)(2) network station definition, (d)(6) FCC service language for v0-v1
+- [x] §119 PL 104-39 (DPRA 1995) — removed "and section 114(d)" insertion from v0-v2
 - [x] §111 intermediate version differentiation — v0-v3 differentiated: PL 100-667 (a)(4)→(5) renumbering + §119 exclusion; PL 101-318 "recorded the notice" removal; PL 103-198 CRT consultation phrases + d(2)/d(4)(B) text restoration
+
+§119 still has 8 identical adjacent version pairs remaining (v3-v7 share LoC pre-STELA text; v8-v10 share CRJ pre-v11 text; v12-v13; v19-v20). Further differentiation requires identifying specific text changes from PL 105-80, 106-44, 106-113, 107-273, 108-447, 109-303 within the pre-STELA structure.
 
 ## Acts With No File Changes (23 total — in progress)
 
