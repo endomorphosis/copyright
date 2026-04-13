@@ -1,5 +1,5 @@
 101	2022-10-17	117-201	Artistic Recognition for Talented Students Act of 2022 (ARTS Act)
-101	2020-12-27	116-260	Protecting Lawful Streaming Act of 2020
+101	2020-12-27	116-260	Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)
 101	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
 101	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
 101	2018-10-09	115-261	Marrakesh Treaty Implementation Act of 2018
@@ -20,7 +20,7 @@
 101	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
 101	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
 101	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
-101	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+101	1998-10-27	105-298, Title II	Fairness in Music Licensing Act of 1998
 101	1997-12-16	105-147	No Electronic Theft Act of 1997 (NET Act)
 101	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
 101	1995-11-01	104-39	Digital Performance Right in Sound Recordings Act of 1995
@@ -59,7 +59,7 @@
 107	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
 108	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
 108	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
-108	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+108	1998-10-27	105-298, Title I	Sonny Bono Copyright Term Extension Act of 1998
 108	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
 108	1992-06-26	102-307	Copyright Renewal Act of 1992
 109	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
@@ -74,7 +74,7 @@
 110	2005-04-27	109-9	Family Entertainment and Copyright Act of 2005
 110	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
 110	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
-110	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+110	1998-10-27	105-298, Title II	Fairness in Music Licensing Act of 1998
 110	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
 110	1982-10-25	97-366	Nonprofit Performance Exemption Act of 1982
 111	2014-12-04	113-200	STELA Reauthorization Act of 2014
@@ -162,21 +162,21 @@
 122	1999-11-29	106-113	Intellectual Property and Communications Omnibus Reform Act of 1999
 201	1978-11-06	95-598	Bankruptcy Reform Act of 1978 (Copyright Provision)
 203	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
-203	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+203	1998-10-27	105-298, Title I	Sonny Bono Copyright Term Extension Act of 1998
 205	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
 205	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
 205	1988-10-31	100-568	Berne Convention Implementation Act of 1988
 205	1976-10-19	94-553	Copyright Act of 1976
 301	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
-301	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+301	1998-10-27	105-298, Title I	Sonny Bono Copyright Term Extension Act of 1998
 301	1990-12-01	101-650	Architectural Works Copyright Protection Act of 1990
 301	1988-10-31	100-568	Berne Convention Implementation Act of 1988
-302	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+302	1998-10-27	105-298, Title I	Sonny Bono Copyright Term Extension Act of 1998
 303	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
-303	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+303	1998-10-27	105-298, Title I	Sonny Bono Copyright Term Extension Act of 1998
 303	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
 304	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
-304	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+304	1998-10-27	105-298, Title I	Sonny Bono Copyright Term Extension Act of 1998
 304	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
 304	1992-06-26	102-307	Copyright Renewal Act of 1992
 304	1976-10-19	94-553	Copyright Act of 1976
@@ -229,7 +229,7 @@
 504	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
 504	2004-12-23	108-482	Intellectual Property Protection and Courts Amendments Act of 2004
 504	1999-12-09	106-160	Digital Theft Deterrence and Copyright Damages Improvement Act of 1999
-504	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+504	1998-10-27	105-298, Title II	Fairness in Music Licensing Act of 1998
 504	1997-11-13	105-80	Copyright Technical Amendments Act of 1997
 504	1988-10-31	100-568	Berne Convention Implementation Act of 1988
 506	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
@@ -248,11 +248,11 @@
 512	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
 512	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
 513	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
-513	1998-10-27	105-298	Fairness in Music Licensing Act of 1998
+513	1998-10-27	105-298, Title II	Fairness in Music Licensing Act of 1998
 602	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
 602	2008-10-13	110-403	Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)
 603	1996-07-02	104-153	Anticounterfeiting Consumer Protection Act of 1996 (Copyright Provisions)
-701	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+701	2019-12-20	116-94, Title XIV	Library of Congress Technical Corrections Act of 2019
 701	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
 701	1990-07-03	101-319	Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989
 701	1977-10-28	95-146	CONTU Extension Act of 1977
@@ -285,7 +285,7 @@
 801	1988-10-31	100-568	Berne Convention Implementation Act of 1988
 801	1986-08-27	99-397	Cable Compulsory License Amendments of 1986
 801	1976-10-19	94-553	Copyright Act of 1976
-802	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+802	2019-12-20	116-94, Title XIV	Library of Congress Technical Corrections Act of 2019
 802	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
 802	2004-11-30	108-419	Copyright Royalty and Distribution Reform Act of 2004
 802	2002-11-02	107-273	Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)
@@ -295,7 +295,7 @@
 802	1993-12-17	103-198	Copyright Royalty Tribunal Reform Act of 1993
 802	1990-07-03	101-319	Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989
 802	1976-10-19	94-553	Copyright Act of 1976
-803	2019-12-20	116-94	Satellite Television Community Protection and Promotion Act of 2019
+803	2019-12-20	116-94, Title XIV	Library of Congress Technical Corrections Act of 2019
 803	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
 803	2010-12-09	111-295	Copyright Cleanup, Clarification, and Corrections Act of 2010
 803	2006-10-06	109-303	Copyright Royalty Judges Program Technical Corrections Act of 2006
@@ -367,5 +367,5 @@
 1301	1998-10-28	105-304	Digital Millennium Copyright Act of 1998 (DMCA)
 1302	1999-08-05	106-44	Technical Corrections to Title 17 Act of 1999
 1401	2018-10-11	115-264	Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018
-1501	2020-12-27	116-260	Protecting Lawful Streaming Act of 2020
-1502	2020-12-27	116-260	Protecting Lawful Streaming Act of 2020
+1501	2020-12-27	116-260	Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)
+1502	2020-12-27	116-260	Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)

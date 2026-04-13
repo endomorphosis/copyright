@@ -26,35 +26,45 @@ All six sections had "Copyright Royalty Judges" (a 2004 term) in pre-2004 versio
 
 §119 still has 8 identical adjacent version pairs remaining (v3-v7 share LoC pre-STELA text; v8-v10 share CRJ pre-v11 text; v12-v13; v19-v20). Further differentiation requires identifying specific text changes from PL 105-80, 106-44, 106-113, 107-273, 108-447, 109-303 within the pre-STELA structure.
 
-## Acts With No File Changes (23 total — in progress)
+## Acts With No File Changes (originally 23 — most now fixed)
 
-These acts exist as commits in the repo but have empty `files_changed` in acts.json. All 23 should have changed Title 17 text based on OLRC amendment notes.
+These acts exist as commits in the repo but have empty `files_changed` in acts.json. Most have been fixed; remaining items are blocked on complex reconstruction.
 
-### Full snapshots ready (10 — in progress, ready to apply) — all expected section files exist in data/act-snapshots/
-- [ ] Individuals with Disabilities Education Improvement Act of 2004 (PL 108-446) — §121
-- [ ] Intellectual Property Protection and Courts Amendments Act of 2004 (PL 108-482) — §504
-- [ ] Temporary Extension Act of 2010 (PL 111-144) — §119
-- [ ] Continuing Extension Act of 2010 (PL 111-157) — §119
-- [ ] Unlocking Consumer Choice and Wireless Competition Act of 2014 (PL 113-144) — §1201
-- [ ] Library of Congress Technical Corrections Act of 2019 (PL 116-94) — 6 sections
-- [ ] Protecting Lawful Streaming Act of 2020 (PL 116-260) — 3 sections
-- [ ] James M. Inhofe NDAA for FY2023 (PL 117-263) — §105
-- [ ] NDAA for FY2025 (PL 118-159) — §105
-- [ ] NDAA for FY2026 (PL 119-60) — §105
+### Full snapshots applied (7 complete)
+- [x] Individuals with Disabilities Education Improvement Act of 2004 (PL 108-446) — §121
+- [x] Intellectual Property Protection and Courts Amendments Act of 2004 (PL 108-482) — §504
+- [x] Temporary Extension Act of 2010 (PL 111-144) — §119
+- [x] Continuing Extension Act of 2010 (PL 111-157) — §119
+- [x] James M. Inhofe NDAA for FY2023 (PL 117-263) — §105
+- [x] NDAA for FY2025 (PL 118-159) — §105
+- [x] NDAA for FY2026 (PL 119-60) — §105
 
-### Partial snapshots — missing §101 reconstruction (11 — in progress, blocked on §101)
-- [ ] Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 (PL 101-319) — has §701, missing §101, §802
-- [ ] Semiconductor International Protection Extension Act of 1991 (PL 102-64) — has §914, missing §101
-- [ ] Satellite Home Viewer Act of 1994 (PL 103-369) — has §111/§119, missing §101
-- [ ] Digital Theft Deterrence and Copyright Damages Improvement Act of 1999 (PL 106-160) — has §504, missing §101
-- [ ] Small Webcaster Amendments Act of 2002 (PL 107-321) — has §114, missing §101
-- [ ] Vessel Hull Design Protection Amendments of 2008 (PL 110-434) — has §1301, missing §101
-- [ ] Webcaster Settlement Act of 2008 (PL 110-435) — has §114, missing §101
-- [ ] Webcaster Settlement Act of 2009 (PL 111-36) — has §114, missing §101
-- [ ] Satellite Television Extension Act of 2010 (PL 111-151) — has §119, missing §101
-- [ ] Marrakesh Treaty Implementation Act of 2018 (PL 115-261) — has §121, missing §101
-- [ ] Artistic Recognition for Talented Students Act of 2022 (PL 117-201) — has §708, missing §101
+### §101 snapshots created (11 complete — §101 added, builds now produce file changes)
+- [x] Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 (PL 101-319) — §101/§701 applied (§802 still blocked on pre-2004 reconstruction)
+- [x] Semiconductor International Protection Extension Act of 1991 (PL 102-64) — §101/§914 applied
+- [x] Satellite Home Viewer Act of 1994 (PL 103-369) — §101/§111/§119 applied
+- [x] Digital Theft Deterrence and Copyright Damages Improvement Act of 1999 (PL 106-160) — §101/§504 applied
+- [x] Small Webcaster Amendments Act of 2002 (PL 107-321) — §101/§114 applied
+- [x] Vessel Hull Design Protection Amendments of 2008 (PL 110-434) — §101/§1301 applied
+- [x] Webcaster Settlement Act of 2008 (PL 110-435) — §101/§114 applied
+- [x] Webcaster Settlement Act of 2009 (PL 111-36) — §101/§114 applied
+- [x] Satellite Television Extension Act of 2010 (PL 111-151) — §101/§119 applied
+- [x] Marrakesh Treaty Implementation Act of 2018 (PL 115-261) — §101/§121 applied
+- [x] Artistic Recognition for Talented Students Act of 2022 (PL 117-201) — §101/§708 applied
 
-### Partial snapshots — other missing sections (2 — in progress)
-- [ ] TEACH Act of 2002 (PL 107-273) — has 12 sections, missing §802
-- [ ] Fairness in Music Licensing Act of 1998 (PL 105-298 Title II) — has §101/§110/§504/§513; NOTE: sections_expected in acts.json is wrong (includes CTEA Title I sections 108, 203, 301, 302, 303, 304 — should only list 101, 110, 504, 513)
+### Other fixes applied
+- [x] Fairness in Music Licensing Act of 1998 (PL 105-298 Title II) — sections_expected corrected to [101, 110, 504, 513]; CTEA Title I sections [108, 203, 301, 302, 303, 304] now correctly attributed to Sonny Bono CTEA; amendment map and build_site.py updated for multi-title PL handling
+- [x] Library of Congress Technical Corrections Act of 2019 (PL 116-94, Title XIV) — separated from Satellite TV act; §701/§802/§803 now correctly attributed to Title XIV in amendment map
+- [x] Protecting Lawful Streaming Act of 2020 (PL 116-260) — confirmed no Title 17 text changes; §1501/§1502 correctly attributed to CASE Act only
+
+### Acts with no Title 17 text changes (correctly empty)
+- Unlocking Consumer Choice and Wireless Competition Act of 2014 (PL 113-144) — regulatory changes only (37 CFR §201.40(b)), no §1201 text amendments
+- Protecting Lawful Streaming Act of 2020 (PL 116-260) — adds 18 U.S.C. §2319C only, no Title 17 changes
+
+### Remaining (blocked on pre-2004 §802 reconstruction)
+- [ ] Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 (PL 101-319) — §802 needs pre-2004 text (PL 108-419 rewrote entire royalty chapter)
+- [ ] TEACH Act of 2002 (PL 107-273) — has 12 sections, §802 needs pre-2004 text
+
+### Remaining (identical snapshot text — needs manual version differentiation)
+- [ ] TEACH Act of 2002 (PL 107-273, Subtitle C) — snapshot files identical to Intellectual Property Technical Amendments (Subtitle B); both subtitles need distinct intermediate versions
+- [ ] Library of Congress Technical Corrections Act of 2019 (PL 116-94, Title XIV) — §802 snapshot identical to prior version (auto-reversal incomplete)

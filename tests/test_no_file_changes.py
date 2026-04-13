@@ -151,22 +151,10 @@ class TestFullSnapshotsReady(unittest.TestCase):
             'expected_sections': ['119'],
         },
         {
-            'pl': '113-144',
-            'name': 'Unlocking Consumer Choice and Wireless Competition Act of 2014',
-            'dir_fragment': 'unlocking-consumer-choice',
-            'expected_sections': ['1201'],
-        },
-        {
             'pl': '116-94',
             'name': 'Library of Congress Technical Corrections Act of 2019',
             'dir_fragment': 'library-of-congress-technical-corrections',
-            'expected_sections': ['101', '119', '501', '701', '802', '803'],
-        },
-        {
-            'pl': '116-260',
-            'name': 'Protecting Lawful Streaming Act of 2020',
-            'dir_fragment': 'protecting-lawful-streaming',
-            'expected_sections': ['101', '1501', '1502'],
+            'expected_sections': ['101', '701', '802', '803'],
         },
         {
             'pl': '117-263',

@@ -225,9 +225,14 @@ def build_acts_json(commits, tags, acts_metadata, repo, data_dir=None):
         date = yaml_meta.get('effective_date') or yaml_meta.get('date') or meta.get('effective_date', '')
 
         # Look up expected sections from the amendment map (by PL number)
+        # Try full PL string first (e.g. "105-298, Title II") for multi-title
+        # PLs, then fall back to base PL number (e.g. "105-298")
         pl_raw = meta.get('public_law', yaml_meta.get('public_law', '')) or ''
-        pl_num = re.sub(r'Pub\. L\. ', '', pl_raw).split(',')[0].strip()
-        sections_expected = sorted(pl_sections.get(pl_num, []))
+        pl_full = re.sub(r'Pub\. L\. ', '', pl_raw).strip()
+        pl_base = pl_full.split(',')[0].strip()
+        sections_expected = sorted(
+            pl_sections.get(pl_full, pl_sections.get(pl_base, []))
+        )
 
         has_diff = len(files_changed) > 0
 
