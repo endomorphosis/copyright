@@ -186,6 +186,8 @@ def build_repo(acts, data_dir, output_dir):
     # Init repo
     run('git init', cwd=output_dir)
     run('git checkout -b main', cwd=output_dir)
+    run('git remote add origin git@github.com:katelynsills/copyright-history.git',
+        cwd=output_dir)
 
     # Create initial README
     readme_path = os.path.join(output_dir, 'README.md')
