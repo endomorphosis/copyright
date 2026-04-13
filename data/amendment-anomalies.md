@@ -230,3 +230,95 @@ entries always quote the old text but never the new text, since the new text is
 the current law. This works for backward reconstruction but not forward
 reconstruction. When multiple "amended generally" notes stack up (as in §119),
 you need the full text at each intermediate point.
+
+---
+
+## 10. §110(6) — "Concessionnaire" Typo (1976–present)
+
+The word "concessionnaire" in §110(6) has been misspelled since the original
+1976 Copyright Act (PL 94-553). The standard English spelling is
+"concessionaire." The OLRC carries a footnote: "So in original. Probably should
+be 'concessionaire.'" Despite dozens of amendments to §110 over ~50 years —
+including the TEACH Act completely rewriting par. (2) and the Family Movie Act
+adding par. (11) — no Congress has ever fixed this one-letter typo in par. (6).
+
+**Impact:** A curiosity rather than a functional problem, but it illustrates
+that conforming/technical corrections are easy to overlook when an amendment
+targets specific paragraphs and leaves others untouched.
+
+---
+
+## 11. §119 — Section Heading Not Updated by PL 108-447 (2004–2010)
+
+PL 108-447 (2004) expanded §119's scope to cover viewing "in a commercial
+establishment," removing the limitation to private home viewing. But the
+section heading was never updated from "Secondary transmissions of
+superstations and network stations for private home viewing." The OLRC noted:
+"So in original. Heading was not amended to conform to amendments by
+Pub. L. 108-447."
+
+The heading remained stale for six years until PL 111-175 (STELA, 2010)
+completely rewrote the section.
+
+**Impact:** Heading/body mismatches can mislead readers about a section's scope.
+This is a common class of drafting error — conforming amendments to headings
+are frequently forgotten because headings are not considered part of the
+operative statutory text.
+
+---
+
+## 12. §119 — Three Uncorrected Grammatical Errors (1988–2010)
+
+The pre-STELA §119 text contained at least three grammatical errors flagged by
+the OLRC with "So in original" footnotes:
+- "is" that should be "are" (subject-verb agreement)
+- The word "to" that "probably should not appear"
+- A missing word "station" at the end of a clause
+
+These persisted through 22 years and dozens of amendments. They were only fixed
+when STELA (PL 111-175, 2010) replaced the entire section text.
+
+**Observation:** Congress does not proofread existing text when amending
+specific provisions. Grammatical errors in untouched portions of a section can
+persist indefinitely. The OLRC flags them but has no authority to correct them.
+
+---
+
+## 13. §119 — Four Stopgap Extensions in Five Months (2009–2010)
+
+Congress passed four separate temporary extension acts to keep §119's satellite
+compulsory license alive while the STELA rewrite was still being negotiated:
+
+| Public Law | Enacted | Extended license to |
+|---|---|---|
+| PL 111-118 | Dec 19, 2009 | Feb 28, 2010 |
+| PL 111-144 | Mar 2, 2010 | Mar 28, 2010 |
+| PL 111-151 | Mar 26, 2010 | Apr 30, 2010 |
+| PL 111-157 | Apr 26, 2010 | May 31, 2010 |
+| PL 111-175 (STELA) | May 27, 2010 | *(complete rewrite)* |
+
+Each stopgap only changed expiration dates. The satellite license came within
+days of lapsing multiple times. This pattern mirrors the §304 term-extension
+saga (1962–1974), where Congress passed twelve serial extensions while working
+on what became the 1976 Copyright Act.
+
+**Impact on version reconstruction:** Each stopgap produces a version entry
+that differs from the previous only in date strings. When the base text is
+wrong (as it was before reconstruction), these date-only versions are
+indistinguishable from each other.
+
+---
+
+## 14. §105 — Duplicate Subsection (c) Persisted for Two Years (2019–2022)
+
+*(Extends anomaly #3.)* The duplicate subsection (c) created by PL 116-92
+(2019) was not just a momentary drafting error — it persisted as the
+authoritative text of §105 for over two years until PL 117-263 (2022) fixed it.
+During that period, the U.S. Code officially contained two subsections with the
+same letter in the same section. Any legal citation to "§105(c)" during
+2020–2022 was inherently ambiguous.
+
+**Observation:** Unlike software, where a duplicate identifier would cause a
+compile error, statutory law has no validation step. Drafting errors become
+binding law the moment the President signs the bill, and can only be fixed by
+another act of Congress.
