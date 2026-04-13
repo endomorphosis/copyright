@@ -34,7 +34,11 @@
       "WebFetch(domain:www.ellenwhite.info)",
       "WebFetch(domain:www.gutenberg.org)",
       "WebFetch(domain:law.gwu.libguides.com)",
-      "WebFetch(domain:supreme.justia.com)"
+      "WebFetch(domain:supreme.justia.com)",
+      "Bash(grep*)",
+      "Bash(git:*)",
+      "WebFetch(domain:katelynsills.com)",
+      "Bash(python -m pytest tests/ --co -q)"
     ]
   }
 }
