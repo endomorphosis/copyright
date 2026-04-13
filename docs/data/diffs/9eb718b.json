@@ -1,0 +1,133 @@
+{
+ "hash": "9eb718b",
+ "act_name": "Cable Compulsory License Amendments of 1986",
+ "files": [
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 111"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7111. Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Certain Secondary Transmissions Exempted.-The secondary transmission of a performance or display of a work embodied in a primary transmission is not an infringement of copyright if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the secondary transmission is not made by a cable system, and consists entirely of the relaying, by the management of a hotel, apartment house, or similar establishment, of signals transmitted by a broadcast station licensed by the Federal Communications Commission, within the local service area of such station, to the private lodgings of guests or residents of such establishment, and no direct charge is made to see or hear the secondary transmission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) the secondary transmission is made solely for the purpose and under the conditions specified by clause (2) of section 110; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the secondary transmission is made by any carrier who has no direct or indirect control over the content or selection of the primary transmission or over the particular recipients of the secondary transmission, and whose activities with respect to the secondary transmission consist solely of providing wires, cables, or other communications channels for the use of others: Provided, That the provisions of this paragraph extend only to the activities of said carrier with respect to secondary transmissions and do not exempt from liability the activities of others with respect to their own primary or secondary transmissions;"
+      },
+      {
+       "type": "del",
+       "text": "(4) the secondary transmission is not made by a cable system but is made by a governmental body, or other nonprofit organization, without any purpose of direct or indirect commercial advantage, and without charge to the recipients of the secondary transmission other than assessments necessary to defray the actual and reasonable costs of maintaining and operating the secondary transmission service."
+      },
+      {
+       "type": "add",
+       "text": "(5) the secondary transmission is not made by a cable system but is made by a governmental body, or other nonprofit organization, without any purpose of direct or indirect commercial advantage, and without charge to the recipients of the secondary transmission other than assessments necessary to defray the actual and reasonable costs of maintaining and operating the secondary transmission service."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Secondary Transmission of Primary Transmission to Controlled Group.-Notwithstanding the provisions of subsections (a) and (c), the secondary transmission to the public of a performance or display of a work embodied in a primary transmission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the primary transmission is not made for reception by the public at large but is controlled and limited to reception by particular members of the public: Provided, however, That such secondary transmission is not actionable as an act of infringement if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the primary transmission is made by a broadcast station licensed by the Federal Communications Commission; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) the carriage of the signals comprising the secondary transmission is required under the rules, regulations, or authorizations of the Federal Communications Commission; and"
+      }
+     ]
+    },
+    {
+     "old_start": 17,
+     "new_start": 19,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4) Notwithstanding the provisions of paragraph (1) of this subsection, the secondary transmission to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by an appropriate governmental authority of Canada or Mexico is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if (A) with respect to Canadian signals, the community of the cable system is located more than 150 miles from the United States-Canadian border and is also located south of the forty-second parallel of latitude, or (B) with respect to Mexican signals, the secondary transmission is made by a cable system which received the primary transmission by means other than direct interception of a free space radio wave emitted by such broadcast television station, unless prior to April 15, 1976, such cable system was actually carrying, or was specifically authorized to carry, the signal of such foreign station on the system pursuant to the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Statutory License for Secondary Transmissions by Cable Systems.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Statement of account and royalty fees.-Subject to paragraph (5), a cable system whose secondary transmissions have been subject to statutory licensing under subsection (c) shall, on a semiannual basis, deposit with the Register of Copyrights, in accordance with requirements that the Register shall, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted), prescribe by regulation the following:"
+      },
+      {
+       "type": "del",
+       "text": "(A) A statement of account, covering the six months next preceding, specifying the number of channels on which the cable system made secondary transmissions for private home viewing to its subscribers, the names and locations of all primary transmitters whose transmissions were further transmitted by the cable system, the total number of subscribers, the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, and such other data as the Register of Copyrights may, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted), from time to time prescribe by regulation. Such statement shall also include a special statement of account covering any non-network television programming that was carried by the cable system in whole or in part beyond the local service area of the primary transmitter, under rules, regulations, or authorizations of the Federal Communications Commission permitting the substitution or addition of signals under certain circumstances, together with logs showing the times, dates, stations, and programs involved in such substituted or added carriage."
+      },
+      {
+       "type": "add",
+       "text": "(A) A statement of account, covering the six months next preceding, specifying the number of channels on which the cable system made secondary transmissions for private home viewing to its subscribers, the names and locations of all primary transmitters whose transmissions were further transmitted by the cable system, the total number of subscribers, the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, and such other data as the Register of Copyrights may, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted), from time to time prescribe by regulation. In determining the total number of subscribers and the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, the system shall not include subscribers and amounts collected from subscribers receiving secondary transmissions pursuant to section 119. Such statement shall also include a special statement of account covering any non-network television programming that was carried by the cable system in whole or in part beyond the local service area of the primary transmitter, under rules, regulations, or authorizations of the Federal Communications Commission permitting the substitution or addition of signals under certain circumstances, together with logs showing the times, dates, stations, and programs involved in such substituted or added carriage."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Except in the case of a cable system whose royalty fee is specified in subparagraph (E) or (F), a total royalty fee payable to copyright owners pursuant to paragraph (3) for the period covered by the statement, computed on the basis of specified percentages of the gross receipts from subscribers to the cable service during such period for the basic service of providing secondary transmissions of primary broadcast transmitters, as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) 1.064 percent of such gross receipts for the privilege of further transmitting, beyond the local service area of such primary transmitter, any non-network programming of a primary transmitter in whole or in part, such amount to be applied against the fee, if any, payable pursuant to clauses (ii) through (iv);"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) 1.064 percent of such gross receipts for the first distant signal equivalent;"
+      }
+     ]
+    },
+    {
+     "old_start": 147,
+     "new_start": 149,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ", 1235, 1238;"
+      },
+      {
+       "type": "ctx",
+       "text": "Pub. L. 113\u2013200,"
+      },
+      {
+       "type": "ctx",
+       "text": "title II, \u00a7\u00a7201(1), 203, Dec. 4, 2014, 128 Stat. 2066"
+      },
+      {
+       "type": "del",
+       "text": ", 2067.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": ", 2067.)"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

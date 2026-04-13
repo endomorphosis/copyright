@@ -1,0 +1,67 @@
+{
+ "hash": "836b3db",
+ "act_name": "Legislative Branch Appropriation Act of 1978 (Copyright Office Fees)",
+ "files": [
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 708"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7708. Copyright Office fees"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) The following fees shall be paid to the Register of Copyrights:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) for the registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration, $10;"
+      }
+     ]
+    },
+    {
+     "old_start": 12,
+     "new_start": 14,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(10) for the making and reporting of a search as provided by section 705, and for any related services, $10 for each hour or fraction of an hour consumed;"
+      },
+      {
+       "type": "ctx",
+       "text": "(11) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "del",
+       "text": "(c) The Register of Copyrights shall deposit all fees in the Treasury of the United States in such manner as the Secretary of the Treasury directs. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section. Before making a refund in any case involving a refusal to register a claim under section 410(b), the Register may deduct all or any part of the prescribed registration fee to cover the reasonable administrative costs of processing the claim."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(c) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section. Before making a refund in any case involving a refusal to register a claim under section 410(b), the Register may deduct all or any part of the prescribed registration fee to cover the reasonable administrative costs of processing the claim."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

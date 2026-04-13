@@ -1,0 +1,69 @@
+{
+ "hash": "3dd1394",
+ "act_name": "Legislative Branch Appropriations Act of 1994 (Copyright Provision)",
+ "files": [
+  {
+   "path": "amendments/1993-08-11-legislative-branch-appropriations-act-of-1994.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# Legislative Branch Appropriations Act of 1994 (Copyright Provision)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*1993-08-11*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Public Law:** Pub. L. 103-69"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Citation:** 107 Stat. 692"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Changes"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Section 307 imposed personnel reduction requirements on legislative branch entities but exempted positions required for the administration of compulsory licensing under Section 803."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "> [TODO] Apply text changes to section files."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

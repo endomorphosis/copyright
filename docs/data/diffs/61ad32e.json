@@ -1,0 +1,641 @@
+{
+ "hash": "61ad32e",
+ "act_name": "Copyright Royalty Tribunal Reform Act of 1993",
+ "files": [
+  {
+   "path": "sections/1004.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1004"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71004. Royalty payments"
+      },
+      {
+       "type": "add",
+       "text": "(a) Digital Audio Recording Devices.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Amount of payment.-The royalty payment due under section 1003 for each digital audio recording device imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 2 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such device shall be required to pay the royalty with respect to such device."
+      },
+      {
+       "type": "add",
+       "text": "(2) Calculation for devices distributed with other devices.-With respect to a digital audio recording device first distributed in combination with one or more devices, either as a physically integrated unit or as separate components, the royalty payment shall be calculated as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(A) If the digital audio recording device and such other devices are part of a physically integrated unit, the royalty payment shall be based on the transfer price of the unit, but shall be reduced by any royalty payment made on any digital audio recording device included within the unit that was not first distributed in combination with the unit."
+      },
+      {
+       "type": "add",
+       "text": "(B) If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on the average transfer price of such devices during those 4 quarters."
+      },
+      {
+       "type": "add",
+       "text": "(C) If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have not been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on a constructed price reflecting the proportional value of such device to the combination as a whole."
+      },
+      {
+       "type": "add",
+       "text": "(3) Limits on royalties.-Notwithstanding paragraph (1) or (2), the amount of the royalty payment for each digital audio recording device shall not be less than $1 nor more than the royalty maximum. The royalty maximum shall be $8 per device, except that in the case of a physically integrated unit containing more than 1 digital audio recording device, the royalty maximum for such unit shall be $12. During the 6th year after the effective date of this chapter, and not more than once each year thereafter, any interested copyright party may petition the Librarian of Congress to increase the royalty maximum and, if more than 20 percent of the royalty payments are at the relevant royalty maximum, the Librarian of Congress shall prospectively increase such royalty maximum with the goal of having no more than 10 percent of such payments at the new royalty maximum; however the amount of any such increase as a percentage of the royalty maximum shall in no event exceed the percentage increase in the Consumer Price Index during the period under review."
+      },
+      {
+       "type": "add",
+       "text": "(b) Digital Audio Recording Media.-The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1005.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1005"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71005. Deposit of royalty payments and deduction of expenses"
+      },
+      {
+       "type": "add",
+       "text": "The Register of Copyrights shall receive all royalty payments deposited under this chapter and, after deducting the reasonable costs incurred by the Copyright Office under this chapter, shall deposit the balance in the Treasury of the United States as offsetting receipts, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest under section 1007. The Register may, in the Register's discretion, 4 years after the close of any calendar year, close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1006.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1006"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71006. Entitlement to royalty payments"
+      },
+      {
+       "type": "add",
+       "text": "(a) Interested Copyright Parties.-The royalty payments deposited pursuant to section 1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party-"
+      },
+      {
+       "type": "add",
+       "text": "(1) whose musical work or sound recording has been-"
+      },
+      {
+       "type": "add",
+       "text": "(A) embodied in a digital musical recording or an analog musical recording lawfully made under this title that has been distributed, and"
+      },
+      {
+       "type": "add",
+       "text": "(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) who has filed a claim under section 1007."
+      },
+      {
+       "type": "add",
+       "text": "(b) Allocation of Royalty Payments to Groups.-The royalty payments shall be divided into 2 funds as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "add",
+       "text": "(2) The musical works fund.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) 331/3 percent of the royalty payments shall be allocated to the Musical Works Fund for distribution to interested copyright parties described in section 1001(7)(B)."
+      },
+      {
+       "type": "add",
+       "text": "(B)(i) Music publishers shall be entitled to 50 percent of the royalty payments allocated to the Musical Works Fund."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Writers shall be entitled to the other 50 percent of the royalty payments allocated to the Musical Works Fund."
+      },
+      {
+       "type": "add",
+       "text": "(c) Allocation of Royalty Payments Within Groups.-If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Librarian of Congress shall convene a copyright arbitration royalty panel which shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period-"
+      },
+      {
+       "type": "add",
+       "text": "(1) for the Sound Recordings Fund, each sound recording was distributed in the form of digital musical recordings or analog musical recordings; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1007.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1007"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71007. Procedures for distributing royalty payments"
+      },
+      {
+       "type": "add",
+       "text": "(a) Filing of Claims and Negotiations.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Filing of claims.-During the first 2 months of each calendar year, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Copyright Royalty Judges a claim for payments collected during the preceding year in such form and manner as the Copyright Royalty Judges shall prescribe by regulation."
+      },
+      {
+       "type": "add",
+       "text": "(2) Negotiations.-Notwithstanding any provision of the antitrust laws, for purposes of this section interested copyright parties within each group specified in section 1006(b) may agree among themselves to the proportionate division of royalty payments, may lump their claims together and file them jointly or as a single claim, or may designate a common agent, including any organization described in section 1001(7)(D), to negotiate or receive payment on their behalf; except that no agreement under this subsection may modify the allocation of royalties specified in section 1006(b)."
+      },
+      {
+       "type": "add",
+       "text": "(b) Distribution of Payments in the Absence of a Dispute.-After the period established for the filing of claims under subsection (a), in each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a). The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      },
+      {
+       "type": "add",
+       "text": "(c) Resolution of Disputes.-If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1010.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1010"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71010. Determination of certain disputes"
+      },
+      {
+       "type": "add",
+       "text": "(a) Scope of Determination.-Before the date of first distribution in the United States of a digital audio recording device or a digital audio interface device, any party manufacturing, importing, or distributing such device, and any interested copyright party may mutually agree to petition the Copyright Royalty Judges to determine whether such device is subject to section 1002, or the basis on which royalty payments for such device are to be made under section 1003."
+      },
+      {
+       "type": "add",
+       "text": "(b) Initiation of Proceedings.-The parties under subsection (a) shall file the petition with the Copyright Royalty Judges requesting the commencement of a proceeding. Within 2 weeks after receiving such a petition, the Chief Copyright Royalty Judge shall cause notice to be published in the Federal Register of the initiation of the proceeding."
+      },
+      {
+       "type": "add",
+       "text": "(c) Stay of Judicial Proceedings.-Any civil action brought under section 1009 against a party to a proceeding under this section shall, on application of one of the parties to the proceeding, be stayed until completion of the proceeding."
+      },
+      {
+       "type": "add",
+       "text": "(d) Proceeding.-The Copyright Royalty Judges shall conduct a proceeding with respect to the matter concerned, in accordance with such procedures as the Copyright Royalty Judges may adopt. The Copyright Royalty Judges shall act on the basis of a fully documented written record. Any party to the proceeding may submit relevant information and proposals to the Copyright Royalty Judges. The parties to the proceeding shall each bear their respective costs of participation."
+      },
+      {
+       "type": "add",
+       "text": "(e) Judicial Review.-Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with section 803(d) of this title. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 5,
+     "new_start": 5,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) the secondary transmission is not made by a cable system, and consists entirely of the relaying, by the management of a hotel, apartment house, or similar establishment, of signals transmitted by a broadcast station licensed by the Federal Communications Commission, within the local service area of such station, to the private lodgings of guests or residents of such establishment, and no direct charge is made to see or hear the secondary transmission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) the secondary transmission is made solely for the purpose and under the conditions specified by clause (2) of section 110; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the secondary transmission is made by any carrier who has no direct or indirect control over the content or selection of the primary transmission or over the particular recipients of the secondary transmission, and whose activities with respect to the secondary transmission consist solely of providing wires, cables, or other communications channels for the use of others: Provided, That the provisions of this paragraph extend only to the activities of said carrier with respect to secondary transmissions and do not exempt from liability the activities of others with respect to their own primary or secondary transmissions;"
+      },
+      {
+       "type": "add",
+       "text": "(4) the secondary transmission is made by a satellite carrier for private home viewing pursuant to a statutory license under section 119 or section 122;"
+      },
+      {
+       "type": "ctx",
+       "text": "(5) the secondary transmission is not made by a cable system but is made by a governmental body, or other nonprofit organization, without any purpose of direct or indirect commercial advantage, and without charge to the recipients of the secondary transmission other than assessments necessary to defray the actual and reasonable costs of maintaining and operating the secondary transmission service."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Secondary Transmission of Primary Transmission to Controlled Group.-Notwithstanding the provisions of subsections (a) and (c), the secondary transmission to the public of a performance or display of a work embodied in a primary transmission is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the primary transmission is not made for reception by the public at large but is controlled and limited to reception by particular members of the public: Provided, however, That such secondary transmission is not actionable as an act of infringement if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the primary transmission is made by a broadcast station licensed by the Federal Communications Commission; and"
+      }
+     ]
+    },
+    {
+     "old_start": 77,
+     "new_start": 78,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(f) Definitions.-As used in this section, the following terms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Primary transmission.-A \"primary transmission\" is a transmission made to the public by a transmitting facility whose signals are being received and further transmitted by a secondary transmission service, regardless of where or when the performance or display was first transmitted. In the case of a television broadcast station, the primary stream and any multicast streams transmitted by the station constitute primary transmissions."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Secondary transmission.-A \"secondary transmission\" is the further transmitting of a primary transmission simultaneously with the primary transmission, or nonsimultaneously with the primary transmission if by a cable system not located in whole or in part within the boundary of the forty-eight contiguous States, Hawaii, or Puerto Rico: Provided, however, That a nonsimultaneous further transmission by a cable system located in Hawaii of a primary transmission shall be deemed to be a secondary transmission if the carriage of the television broadcast signal comprising such further transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "del",
+       "text": "(3) Cable system.-A \"cable system\" is a facility, located in any State, territory, trust territory, or possession of the United States, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, or other communications channels to subscribing members of the public who pay for such service. For purposes of determining the royalty fee under subsection (d)(1), two or more cable systems in contiguous communities under common ownership or control or operating from one headend shall be considered as one system."
+      },
+      {
+       "type": "del",
+       "text": "(4) Local service area of a primary transmitter.-The \"local service area of a primary transmitter\", in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations, or in the case of a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico, the area in which it would be entitled to insist upon its signal being retransmitted if it were a television broadcast station subject to such rules, regulations, and authorizations. In the case of a low power television station, as defined by the rules and regulations of the Federal Communications Commission, the \"local service area of a primary transmitter\" comprises the area within 35 miles of the transmitter site, except that in the case of such a station located in a standard metropolitan statistical area which has one of the 50 largest populations of all standard metropolitan statistical areas (based on the 1980 decennial census of population taken by the Secretary of Commerce), wholly or partially within 20 miles of such transmitter site. The \"local service area of a primary transmitter\", in the case of a radio broadcast station, comprises the primary service area of such station, pursuant to the rules and regulations of the Federal Communications Commission."
+      },
+      {
+       "type": "add",
+       "text": "(3) Cable system.-A \"cable system\" is a facility, located in any State, territory, trust territory, or possession of the United States, that in whole or in part receives signals transmitted or programs broadcast by one or more television broadcast stations licensed by the Federal Communications Commission, and makes secondary transmissions of such signals or programs by wires, cables, microwave, or other communications channels to subscribing members of the public who pay for such service. For purposes of determining the royalty fee under subsection (d)(1), two or more cable systems in contiguous communities under common ownership or control or operating from one headend shall be considered as one system."
+      },
+      {
+       "type": "add",
+       "text": "(4) Local service area of a primary transmitter.-The \"local service area of a primary transmitter\", in the case of both the primary stream and any multicast streams transmitted by a primary transmitter that is a television broadcast station, comprises the area where such primary transmitter could have insisted upon its signal being retransmitted by a cable system pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, or such station's television market as defined in section 76.55(e) of title 47, Code of Federal Regulations (as in effect on September 18, 1993), or any modifications to such television market made, on or after September 18, 1993, pursuant to section 76.55(e) or 76.59 of title 47, Code of Federal Regulations, or within the noise-limited contour as defined in 73.622(e)(1) of title 47, Code of Federal Regulations, or in the case of a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico, the area in which it would be entitled to insist upon its signal being retransmitted if it were a television broadcast station subject to such rules, regulations, and authorizations. In the case of a low power television station, as defined by the rules and regulations of the Federal Communications Commission, the \"local service area of a primary transmitter\" comprises the area within 35 miles of the transmitter site, except that in the case of such a station located in a standard metropolitan statistical area which has one of the 50 largest populations of all standard metropolitan statistical areas (based on the 1980 decennial census of population taken by the Secretary of Commerce), wholly or partially within 20 miles of such transmitter site. The \"local service area of a primary transmitter\", in the case of a radio broadcast station, comprises the primary service area of such station, pursuant to the rules and regulations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(5) Distant signal equivalent.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Except as provided under subparagraph (B), a \"distant signal equivalent\"-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) is the value assigned to the secondary transmission of any non-network television programming carried by a cable system in whole or in part beyond the local service area of the primary transmitter of such programming; and"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/116.md",
+   "hunks": [
+    {
+     "old_start": 3,
+     "new_start": 3,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "\u00a7116. Negotiated licenses for public performances by means of coin-operated phonorecord players"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Applicability of Section.-This section applies to any nondramatic musical work embodied in a phonorecord."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Negotiated Licenses.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Authority for negotiations.-Any owners of copyright in works to which this section applies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments."
+      },
+      {
+       "type": "del",
+       "text": "(2) Arbitration.-Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates."
+      },
+      {
+       "type": "del",
+       "text": "(c) Copyright Royalty Tribunal Determinations.-License agreements voluntarily negotiated at any time between one or more copyright owners of nondramatic musical works and one or more operators of coin-operated phonorecord players, which are filed with the Copyright Royalty Tribunal within 30 days of execution, shall be given effect in lieu of any otherwise applicable determination by the Copyright Royalty Tribunal."
+      },
+      {
+       "type": "add",
+       "text": "(1) Authority for negotiations.-Any owners of copyright in works to which this section applies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents on a nonexclusive basis to negotiate, agree to, pay, or receive such royalty payments."
+      },
+      {
+       "type": "add",
+       "text": "(2) Determination by Copyright Royalty Judges.-Parties not subject to such a negotiation may submit to the Copyright Royalty Judges the determination of the terms and rates and the division of fees described in paragraph (1)."
+      },
+      {
+       "type": "add",
+       "text": "(c) Determinations by Copyright Royalty Judges.-License agreements voluntarily negotiated at any time between one or more copyright owners of nondramatic musical works and one or more operators of coin-operated phonorecord players, which are filed with the Copyright Royalty Judges within 30 days of execution, shall be given effect in lieu of any otherwise applicable determination by the Copyright Royalty Judges."
+      },
+      {
+       "type": "add",
+       "text": "(d) Definitions.-As used in this section, the term-"
+      },
+      {
+       "type": "add",
+       "text": "(1) \"coin-operated phonorecord player\" means a machine or device that-"
+      },
+      {
+       "type": "add",
+       "text": "(A) is employed solely for the performance of nondramatic musical works by means of phonorecords upon being activated by the insertion of coins, currency, tokens, or other monetary units or their equivalent;"
+      },
+      {
+       "type": "add",
+       "text": "(B) is located in an establishment making no direct or indirect charge for admission;"
+      },
+      {
+       "type": "add",
+       "text": "(C) is accompanied by a list of the titles of all the musical works available for performance on it, which list is affixed to the phonorecord player or posted in the establishment in a prominent position where it can be readily examined by the public; and"
+      },
+      {
+       "type": "add",
+       "text": "(D) affords a choice of works available for performance and permits the choice to be made by the patrons of the establishment in which it is located."
+      },
+      {
+       "type": "add",
+       "text": "(2) \"operator\" means any person who, alone or jointly with others-"
+      },
+      {
+       "type": "add",
+       "text": "(A) owns a coin-operated phonorecord player;"
+      },
+      {
+       "type": "add",
+       "text": "(B) has the power to make a coin-operated phonorecord player available for placement in an establishment for purposes of public performance; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/118.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 118"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) The exclusive rights provided by section 106 shall, with respect to the works specified by subsection (b) and the activities specified by subsection (d),1 be subject to the conditions and limitations prescribed by this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Notwithstanding any provision of the antitrust laws, any owners of copyright in published nondramatic musical works and published pictorial, graphic, and sculptural works and any public broadcasting entities, respectively, may negotiate and agree upon the terms and rates of royalty payments and the proportionate division of fees paid among various copyright owners, and may designate common agents to negotiate, agree to, pay, or receive payments."
+      },
+      {
+       "type": "del",
+       "text": "(1) Any owner of copyright in a work specified in this subsection or any public broadcasting entity may submit to the Copyright Royalty Tribunal proposed licenses covering such activities with respect to such works."
+      },
+      {
+       "type": "del",
+       "text": "(2) License agreements voluntarily negotiated at any time between one or more copyright owners and one or more public broadcasting entities shall be given effect in lieu of any determination by the Copyright Royalty Tribunal: Provided, That copies of such agreements are filed in the Copyright Office within thirty days of execution in accordance with regulations that the Copyright Royalty Tribunal shall prescribe."
+      },
+      {
+       "type": "add",
+       "text": "(1) Any owner of copyright in a work specified in this subsection or any public broadcasting entity may submit to the Copyright Royalty Judges proposed licenses covering such activities with respect to such works."
+      },
+      {
+       "type": "add",
+       "text": "(2) License agreements voluntarily negotiated at any time between one or more copyright owners and one or more public broadcasting entities shall be given effect in lieu of any determination by the Librarian of Congress or the Copyright Royalty Judges, if copies of such agreements are filed with the Copyright Royalty Judges within 30 days of execution in accordance with regulations that the Copyright Royalty Judges shall issue."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Voluntary negotiation proceedings initiated pursuant to a petition filed under section 804(a) for the purpose of determining a schedule of terms and rates of royalty payments by public broadcasting entities to copyright owners in works specified by this subsection and the proportionate division of fees paid among various copyright owners shall cover the 5-year period beginning on January 1 of the second year following the year in which the petition is filed. The parties to each negotiation proceeding shall bear their own costs."
+      },
+      {
+       "type": "del",
+       "text": "(4) In the absence of license agreements negotiated under paragraph (2) or (3), the Copyright Royalty Tribunal shall, pursuant to chapter 8, conduct a proceeding to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (2), shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether such copyright owners have submitted proposals to the Copyright Royalty Tribunal. In establishing such rates and terms the Copyright Royalty Tribunal may consider the rates for comparable circumstances under voluntary license agreements negotiated as provided in paragraph (2) or (3). The Copyright Royalty Tribunal shall also establish requirements by which copyright owners may receive reasonable notice of the use of their works under this section, and under which records of such use shall be kept by public broadcasting entities."
+      },
+      {
+       "type": "del",
+       "text": "(c) Subject to the terms of any voluntary license agreements that have been negotiated as provided by subsection (b)(2) or (3), a public broadcasting entity may, upon compliance with the provisions of this section, including the rates and terms established by the Copyright Royalty Tribunal under subsection (b)(4), engage in the following activities with respect to published nondramatic musical works and published pictorial, graphic, and sculptural works:"
+      },
+      {
+       "type": "add",
+       "text": "(4) In the absence of license agreements negotiated under paragraph (2) or (3), the Copyright Royalty Judges shall, pursuant to chapter 8, conduct a proceeding to determine and publish in the Federal Register a schedule of rates and terms which, subject to paragraph (2), shall be binding on all owners of copyright in works specified by this subsection and public broadcasting entities, regardless of whether such copyright owners have submitted proposals to the Copyright Royalty Judges. In establishing such rates and terms the Copyright Royalty Judges may consider the rates for comparable circumstances under voluntary license agreements negotiated as provided in paragraph (2) or (3). The Copyright Royalty Judges shall also establish requirements by which copyright owners may receive reasonable notice of the use of their works under this section, and under which records of such use shall be kept by public broadcasting entities."
+      },
+      {
+       "type": "add",
+       "text": "(c) Subject to the terms of any voluntary license agreements that have been negotiated as provided by subsection (b)(2) or (3), a public broadcasting entity may, upon compliance with the provisions of this section, including the rates and terms established by the Copyright Royalty Judges under subsection (b)(4), to the extent that they were accepted by the Librarian of Congress, engage in the following activities with respect to published nondramatic musical works and published pictorial, graphic, and sculptural works:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) performance or display of a work by or in the course of a transmission made by a noncommercial educational broadcast station referred to in subsection (f); and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) production of a transmission program, reproduction of copies or phonorecords of such a transmission program, and distribution of such copies or phonorecords, where such production, reproduction, or distribution is made by a nonprofit institution or organization solely for the purpose of transmissions specified in paragraph (1); and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the making of reproductions by a governmental body or a nonprofit institution of a transmission program simultaneously with its transmission as specified in paragraph (1), and the performance or display of the contents of such program under the conditions specified by paragraph (1) of section 110, but only if the reproductions are used for performances or displays for a period of no more than seven days from the date of the transmission specified in paragraph (1), and are destroyed before or at the end of such period. No person supplying, in accordance with paragraph (2), a reproduction of a transmission program to governmental bodies or nonprofit institutions under this paragraph shall have any liability as a result of failure of such body or institution to destroy such reproduction: Provided, That it shall have notified such body or institution of the requirement for such destruction pursuant to this paragraph: And provided further, That if such body or institution itself fails to destroy such reproduction it shall be deemed to have infringed."
+      },
+      {
+       "type": "del",
+       "text": "(d) Except as expressly provided in this subsection, this section shall have no applicability to works other than those specified in subsection (b). Owners of copyright in nondramatic literary works and public broadcasting entities may, during the course of voluntary negotiations, agree among themselves, respectively, as to the terms and rates of royalty payments without liability under the antitrust laws. Any such terms and rates of royalty payments shall be effective upon filing with the Copyright Royalty Tribunal, in accordance with regulations that the Copyright Royalty Tribunal shall prescribe as provided in section 803(b)(6)."
+      },
+      {
+       "type": "add",
+       "text": "(d) Except as expressly provided in this subsection, this section shall have no applicability to works other than those specified in subsection (b). Owners of copyright in nondramatic literary works and public broadcasting entities may, during the course of voluntary negotiations, agree among themselves, respectively, as to the terms and rates of royalty payments without liability under the antitrust laws. Any such terms and rates of royalty payments shall be effective upon filing with the Copyright Royalty Judges, in accordance with regulations that the Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) Nothing in this section shall be construed to permit, beyond the limits of fair use as provided by section 107, the unauthorized dramatization of a nondramatic musical work, the production of a transmission program drawn to any substantial extent from a published compilation of pictorial, graphic, or sculptural works, or the unauthorized use of any portion of an audiovisual work."
+      },
+      {
+       "type": "del",
+       "text": "(f) As used in this section, the term \"public broadcasting entity\" means a noncommercial educational broadcast station as defined in section 397 of title 47 and any nonprofit institution or organization engaged in the activities described in paragraph (2) of subsection (c)."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(f) As used in this section, the term \"public broadcasting entity\" means a noncommercial educational broadcast station as defined in section 397 of title 47 and any nonprofit institution or organization engaged in the activities described in paragraph (2) of subsection (c)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 70,
+     "new_start": 70,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) Pattern of violations.-If a satellite carrier engages in a willful or repeated pattern or practice of delivering a primary transmission made by a network station and embodying a performance or display of a work to subscribers who are not eligible to receive the transmission under this section, then in addition to the remedies set forth in subparagraph (A)-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) if the pattern or practice has been carried out on a substantially nationwide basis, the court shall order a permanent injunction barring the secondary transmission by the satellite carrier, for private home viewing, of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $250,000 for each 6-month period during which the pattern or practice was carried out; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) if the pattern or practice has been carried out on a local or regional basis, the court shall order a permanent injunction barring the secondary transmission, for private home viewing in that locality or region, by the satellite carrier of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $250,000 for each 6-month period during which the pattern or practice was carried out."
+      },
+      {
+       "type": "del",
+       "text": "(C) Previous subscribers excluded.-Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before the date of the enactment of the Satellite Home Viewer Act of 1988."
+      },
+      {
+       "type": "add",
+       "text": "(C) Previous subscribers excluded.-Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before November 16, 1988."
+      },
+      {
+       "type": "ctx",
+       "text": "(D) Burden of proof.-In any action brought under this paragraph, the satellite carrier shall have the burden of proving that its secondary transmission of a primary transmission by a network station is to a subscriber who is eligible to receive the secondary transmission under this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(E) Exception.-The secondary transmission by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a network station to subscribers who do not reside in unserved households shall not be an act of infringement if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) the station on May 1, 1991, was retransmitted by a satellite carrier and was not on that date owned or operated by or affiliated with a television network that offered interconnected program service on a regular basis for 15 or more hours per week to at least 25 affiliated television licensees in 10 or more States;"
+      }
+     ]
+    },
+    {
+     "old_start": 153,
+     "new_start": 153,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(ii) shall be adjusted by the Librarian of Congress on January 1, 2007, and on January 1 of each year thereafter, to reflect any changes occurring during the preceding 12 months in the cost of living as determined by the most recent Consumer Price Index (for all consumers and items) published by the Secretary of Labor."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Definitions.-As used in this section-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Distributor.-The term \"distributor\" means an entity which contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities in accordance with the provisions of this section."
+      },
+      {
+       "type": "del",
+       "text": "(2) Network station.-The term \"network station\" has the meaning given that term in section 111(f) of this title, and includes any translator station or terrestrial satellite station that rebroadcasts all or substantially all of the programming broadcast by a network station."
+      },
+      {
+       "type": "add",
+       "text": "(2) Network station.-The term \"network station\" means-"
+      },
+      {
+       "type": "add",
+       "text": "(A) a television station licensed by the Federal Communications Commission, including any translator station or terrestrial satellite station that rebroadcasts all or substantially all of the programming broadcast by a network station, that is owned or operated by, or affiliated with, one or more of the television networks in the United States which offer an interconnected program service on a regular basis for 15 or more hours per week to at least 25 of its affiliated television licensees in 10 or more States; or"
+      },
+      {
+       "type": "add",
+       "text": "(B) a noncommercial educational broadcast station (as defined in section 397 of the Communications Act of 1934);"
+      },
+      {
+       "type": "add",
+       "text": "except that the term does not include the signal of the Alaska Rural Communications Service, or any successor entity to that service."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Primary network station.-The term \"primary network station\" means a network station that broadcasts or rebroadcasts the basic programming service of a particular national network."
+      },
+      {
+       "type": "ctx",
+       "text": "(4) Primary transmission.-The term \"primary transmission\" has the meaning given that term in section 111(f) of this title."
+      },
+      {
+       "type": "ctx",
+       "text": "(5) Private home viewing.-The term \"private home viewing\" means the viewing, for private use in a household by means of satellite reception equipment which is operated by an individual in that household and which serves only such household, of a secondary transmission delivered by a satellite carrier of a primary transmission of a television station licensed by the Federal Communications Commission."
+      },
+      {
+       "type": "del",
+       "text": "(6) Satellite carrier.-The term \"satellite carrier\" means an entity that uses the facilities of a satellite or satellite service licensed by the Federal Communications Commission, to establish and operate a channel of communications for point-to-multipoint distribution of television station signals, and that owns or leases a capacity or service on a satellite in order to provide such point-to-multipoint distribution, except to the extent that such entity provides such distribution pursuant to tariff under the Communications Act of 1934, other than for private home viewing pursuant to this section."
+      },
+      {
+       "type": "add",
+       "text": "(6) Satellite carrier.-The term \"satellite carrier\" means an entity that uses the facilities of a satellite or satellite service licensed by the Federal Communications Commission and operates in the Fixed-Satellite Service under part 25 of title 47 of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations, to establish and operate a channel of communications for point-to-multipoint distribution of television station signals, and that owns or leases a capacity or service on a satellite in order to provide such point-to-multipoint distribution, except to the extent that such entity provides such distribution pursuant to tariff under the Communications Act of 1934, other than for private home viewing pursuant to this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(7) Secondary transmission.-The term \"secondary transmission\" has the meaning given that term in section 111(f) of this title."
+      },
+      {
+       "type": "ctx",
+       "text": "(8) Subscriber.-The term \"subscriber\" means an individual or entity that receives a secondary transmission service by means of a secondary transmission from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor in accordance with the provisions of this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(9) Superstation.-The term \"superstation\" means a television station, other than a network station, licensed by the Federal Communications Commission, that is secondarily transmitted by a satellite carrier."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

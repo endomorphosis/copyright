@@ -1,0 +1,158 @@
+{
+ "hash": "4eddd85",
+ "act_name": "Semiconductor Chip Protection Extension Act of 1987",
+ "files": [
+  {
+   "path": "sections/902.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 902"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7902. Subject matter of protection"
+      },
+      {
+       "type": "add",
+       "text": "(a)(1) Subject to the provisions of subsection (b), a mask work fixed in a semiconductor chip product, by or under the authority of the owner of the mask work, is eligible for protection under this chapter if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) on the date on which the mask work is registered under section 908, or is first commercially exploited anywhere in the world, whichever occurs first, the owner of the mask work is (i) a national or domiciliary of the United States, (ii) a national, domiciliary, or sovereign authority of a foreign nation that is a party to a treaty affording protection to mask works to which the United States is also a party, or (iii) a stateless person, wherever that person may be domiciled;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the mask work is first commercially exploited in the United States; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) the mask work comes within the scope of a Presidential proclamation issued under paragraph (2)."
+      },
+      {
+       "type": "add",
+       "text": "(2) Whenever the President finds that a foreign nation extends, to mask works of owners who are nationals or domiciliaries of the United States protection (A) on substantially the same basis as that on which the foreign nation extends protection to mask works of its own nationals and domiciliaries and mask works first commercially exploited in that nation, or (B) on substantially the same basis as provided in this chapter, the President may by proclamation extend protection under this chapter to mask works (i) of owners who are, on the date on which the mask works are registered under section 908, or the date on which the mask works are first commercially exploited anywhere in the world, whichever occurs first, nationals, domiciliaries, or sovereign authorities of that nation, or (ii) which are first commercially exploited in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection extended under any such proclamation."
+      },
+      {
+       "type": "add",
+       "text": "(b) Protection under this chapter shall not be available for a mask work that-"
+      },
+      {
+       "type": "add",
+       "text": "(1) is not original; or"
+      },
+      {
+       "type": "add",
+       "text": "(2) consists of designs that are staple, commonplace, or familiar in the semiconductor industry, or variations of such designs, combined in a way that, considered as a whole, is not original."
+      },
+      {
+       "type": "add",
+       "text": "(c) In no case does protection under this chapter for a mask work extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/914.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 914"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7914. International transitional provisions"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Notwithstanding the conditions set forth in subparagraphs (A) and (C) of section 902(a)(1) with respect to the availability of protection under this chapter to nationals, domiciliaries, and sovereign authorities of a foreign nation, the Secretary of Commerce may, upon the petition of any person, or upon the Secretary's own motion, issue an order extending protection under this chapter to such foreign nationals, domiciliaries, and sovereign authorities if the Secretary finds-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) that the foreign nation is making good faith efforts and reasonable progress toward-"
+      }
+     ]
+    },
+    {
+     "old_start": 14,
+     "new_start": 16,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(e) The authority of the Secretary of Commerce under this section shall commence on the date of the enactment of this chapter, and shall terminate on July 1, 1991."
+      },
+      {
+       "type": "ctx",
+       "text": "(f)(1) The Secretary of Commerce shall promptly notify the Register of Copyrights and the Committees on the Judiciary of the Senate and the House of Representatives of the issuance or termination of any order under this section, together with a statement of the reasons for such action. The Secretary shall also publish such notification and statement of reasons in the Federal Register."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Two years after the date of the enactment of this chapter, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the actions taken under this section and on the current status of international recognition of mask work protection. The report shall include such recommendations for modifications of the protection accorded under this chapter to mask works owned by nationals, domiciliaries, or sovereign authorities of foreign nations as the Secretary, in consultation with the Register of Copyrights, considers would promote the purposes of this chapter and international comity with respect to mask work protection. Not later than July 1, 1990, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 98\u2013620,"
+      },
+      {
+       "type": "del",
+       "text": "title III, \u00a7302, Nov. 8, 1984, 98 Stat. 3355"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 100\u2013159,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a7\u00a72, 4, Nov. 9, 1987, 101 Stat. 899"
+      },
+      {
+       "type": "del",
+       "text": ", 900;"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 102\u201364,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a7\u00a73, 4, June 28, 1991, 105 Stat. 320"
+      },
+      {
+       "type": "del",
+       "text": ", 321.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

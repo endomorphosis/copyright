@@ -1,0 +1,179 @@
+{
+ "hash": "f470ca7",
+ "act_name": "No Electronic Theft Act of 1997 (NET Act)",
+ "files": [
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 13,
+     "new_start": 13,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"computer program\" is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copies\" are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term \"copies\" includes the material object, other than a phonorecord, in which the work is first fixed."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copyright owner\", with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right."
+      },
+      {
+       "type": "add",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"device\", \"machine\", or \"process\" is one now known or later developed."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/506.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 506"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7506. Criminal offenses"
+      },
+      {
+       "type": "del",
+       "text": "(a) Criminal Infringement.-Any person who infringes a copyright willfully and for purposes of commercial advantage or private financial gain shall be punished as provided in section 2319 of title 18."
+      },
+      {
+       "type": "add",
+       "text": "(a) Criminal Infringement.-Any person who infringes a copyright willfully either-"
+      },
+      {
+       "type": "add",
+       "text": "(1) for purposes of commercial advantage or private financial gain, or"
+      },
+      {
+       "type": "add",
+       "text": "(2) by the reproduction or distribution, including by electronic means, during any 180-day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000,"
+      },
+      {
+       "type": "add",
+       "text": "shall be punished as provided under section 2319 of title 18, United States Code. For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Forfeiture and Destruction.-When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Fraudulent Copyright Notice.-Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Fraudulent Removal of Copyright Notice.-Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/507.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "del",
+       "text": "\u00a7three07. Limitations on actions"
+      },
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 507"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7507. Limitations on actions"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Criminal Proceedings.-No criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Civil Actions.-No civil action shall be maintained under the provisions of this title unless it is commenced within three years after the claim accrued."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2586"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013147,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a72(c), Dec. 16, 1997, 111 Stat. 2678"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7102(e), Oct. 28, 1998, 112 Stat. 2863"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

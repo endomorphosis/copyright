@@ -1,0 +1,194 @@
+{
+ "hash": "bbce7d6",
+ "act_name": "Computer Software Copyright Act of 1980",
+ "files": [
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "ctx",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      }
+     ]
+    },
+    {
+     "old_start": 11,
+     "new_start": 13,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"computer program\" is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copies\" are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term \"copies\" includes the material object, other than a phonorecord, in which the work is first fixed."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copyright owner\", with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right."
+      },
+      {
+       "type": "add",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"device\", \"machine\", or \"processs\" is one now known or later developed."
+      }
+     ]
+    },
+    {
+     "old_start": 141,
+     "new_start": 144,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ";"
+      },
+      {
+       "type": "ctx",
+       "text": "Pub. L. 111\u2013295,"
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a76(a), Dec. 9, 2010, 124 Stat. 3181"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/117.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 117"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7117. Limitations on exclusive rights: Computer programs"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Making of Additional Copy or Adaptation by Owner of Copy.-Notwithstanding the provisions of section 106, it is not an infringement for the owner of a copy of a computer program to make or authorize the making of another copy or adaptation of that computer program provided:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) that such a new copy or adaptation is created as an essential step in the utilization of the computer program in conjunction with a machine and that it is used in no other manner, or"
+      }
+     ]
+    },
+    {
+     "old_start": 9,
+     "new_start": 11,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(d) Definitions.-For purposes of this section-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the \"maintenance\" of a machine is the servicing of the machine in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that machine; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) the \"repair\" of a machine is the restoring of the machine to the state of working in accordance with its original specifications and any changes to those specifications authorized for that machine."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2565"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 96\u2013517,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a710(b), Dec. 12, 1980, 94 Stat. 3028"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title III, \u00a7302, Oct. 28, 1998, 112 Stat. 2887"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

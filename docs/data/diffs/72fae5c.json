@@ -1,0 +1,1920 @@
+{
+ "hash": "72fae5c",
+ "act_name": "Digital Millennium Copyright Act of 1998 (DMCA)",
+ "files": [
+  {
+   "path": "sections/104.md",
+   "hunks": [
+    {
+     "old_start": 3,
+     "new_start": 3,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "\u00a7104. Subject matter of copyright: National origin"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Unpublished Works.-The works specified by sections 102 and 103, while unpublished, are subject to protection under this title without regard to the nationality or domicile of the author."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Published Works.-The works specified by sections 102 and 103, when published, are subject to protection under this title if-"
+      },
+      {
+       "type": "del",
+       "text": "(1) on the date of first publication, one or more of the authors is a national or domiciliary of the United States, or is a national, domiciliary, or sovereign authority of a foreign nation that is a party to a copyright treaty to which the United States is also a party, or is a stateless person, wherever that person may be domiciled; or"
+      },
+      {
+       "type": "del",
+       "text": "(2) the work is first published in the United States or in a foreign nation that, on the date of first publication, is a party to the Universal Copyright Convention; or"
+      },
+      {
+       "type": "del",
+       "text": "(3) the work is first published by the United Nations or any of its specialized agencies, or by the Organization of American States; or"
+      },
+      {
+       "type": "del",
+       "text": "(4) the work is a Berne Convention work; or"
+      },
+      {
+       "type": "del",
+       "text": "(5) the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation."
+      },
+      {
+       "type": "add",
+       "text": "(1) on the date of first publication, one or more of the authors is a national or domiciliary of the United States, or is a national, domiciliary, or sovereign authority of a treaty party, or is a stateless person, wherever that person may be domiciled; or"
+      },
+      {
+       "type": "add",
+       "text": "(2) the work is first published in the United States or in a foreign nation that, on the date of first publication, is a treaty party; or"
+      },
+      {
+       "type": "add",
+       "text": "(3) the work is a sound recording that was first fixed in a treaty party; or"
+      },
+      {
+       "type": "add",
+       "text": "(4) the work is a pictorial, graphic, or sculptural work that is incorporated in a building or other structure, or an architectural work that is embodied in a building and the building or structure is located in the United States or a treaty party; or"
+      },
+      {
+       "type": "add",
+       "text": "(5) the work is first published by the United Nations or any of its specialized agencies, or by the Organization of American States; or"
+      },
+      {
+       "type": "add",
+       "text": "(6) the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation."
+      },
+      {
+       "type": "add",
+       "text": "For purposes of paragraph (2), a work that is published in the United States or a treaty party within 30 days after publication in a foreign nation that is not a treaty party shall be considered to be first published in the United States or such treaty party, as the case may be."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Effect of Berne Convention.-No right or interest in a work eligible for protection under this title may be claimed by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto. Any rights in a work eligible for protection under this title that derive from this title, other Federal or State statutes, or the common law, shall not be expanded or reduced by virtue of, or in reliance upon, the provisions of the Berne Convention, or the adherence of the United States thereto."
+      },
+      {
+       "type": "add",
+       "text": "(d) Effect of Phonograms Treaties.-Notwithstanding the provisions of subsection (b), no works other than sound recordings shall be eligible for protection under this title solely by virtue of the adherence of the United States to the Geneva Phonograms Convention or the WIPO Performances and Phonograms Treaty."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/112.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 112"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7112. Limitations on exclusive rights: Ephemeral recordings"
+      },
+      {
+       "type": "del",
+       "text": "(a)(1) Notwithstanding the provisions of section 106, and except in the case of a motion picture or other audiovisual work, it is not an infringement of copyright for a transmitting organization entitled to transmit to the public a performance or display of a work, under a license or transfer of the copyright or under the limitations on exclusive rights in sound recordings specified by section 114(a), or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis, to make no more than one copy or phonorecord of a particular transmission program embodying the performance or display, if-"
+      },
+      {
+       "type": "add",
+       "text": "(a)(1) Notwithstanding the provisions of section 106, and except in the case of a motion picture or other audiovisual work, it is not an infringement of copyright for a transmitting organization entitled to transmit to the public a performance or display of a work, under a license, including a statutory license under section 114(f), or transfer of the copyright or under the limitations on exclusive rights in sound recordings specified by section 114(a), or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis, to make no more than one copy or phonorecord of a particular transmission program embodying the performance or display, if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) the copy or phonorecord is retained and used solely by the transmitting organization that made it, and no further copies or phonorecords are reproduced from it; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the copy or phonorecord is used solely for the transmitting organization's own transmissions within its local service area, or for purposes of archival preservation or security; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) unless preserved exclusively for archival purposes, the copy or phonorecord is destroyed within six months from the date the transmission program was first transmitted to the public."
+      }
+     ]
+    },
+    {
+     "old_start": 34,
+     "new_start": 36,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(7) If a transmitting organization entitled to make a phonorecord under this subsection is prevented from making such phonorecord by reason of the application by the copyright owner of technical measures that prevent the reproduction of the sound recording, the copyright owner shall make available to the transmitting organization the necessary means for permitting the making of such phonorecord as permitted under this subsection, if it is technologically feasible and economically reasonable for the copyright owner to do so. If the copyright owner fails to do so in a timely manner in light of the transmitting organization's reasonable business requirements, the transmitting organization shall not be liable for a violation of section 1201(a)(1) of this title for engaging in such activities as are necessary to make such phonorecords as permitted under this subsection."
+      },
+      {
+       "type": "ctx",
+       "text": "(8) Nothing in this subsection annuls, limits, impairs, or otherwise affects in any way the existence or value of any of the exclusive rights of the copyright owners in a sound recording, except as otherwise provided in this subsection, or in a musical work, including the exclusive rights to reproduce and distribute a sound recording or musical work, including by means of a digital phonorecord delivery, under sections 106(1), 106(3), and 115, and the right to perform publicly a sound recording or musical work, including by means of a digital audio transmission, under sections 106(4) and 106(6)."
+      },
+      {
+       "type": "ctx",
+       "text": "(f) The transmission program embodied in a copy or phonorecord made under this section is not subject to protection as a derivative work under this title except with the express consent of the owners of copyright in the preexisting works employed in the program."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2558"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title IV, \u00a7\u00a7402, 405(b), Oct. 28, 1998, 112 Stat. 2888"
+      },
+      {
+       "type": "del",
+       "text": ", 2899;"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u201344,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a71(b), Aug. 5, 1999, 113 Stat. 221"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 107\u2013273,"
+      },
+      {
+       "type": "del",
+       "text": "div. C, title III, \u00a713301(c)(1), Nov. 2, 2002, 116 Stat. 1912"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 108\u2013419,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a75(b), Nov. 30, 2004, 118 Stat. 2361"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/114.md",
+   "hunks": [
+    {
+     "old_start": 76,
+     "new_start": 76,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) entities performing sound recordings affected by this section may designate common agents to act on their behalf to obtain licenses and collect and pay royalty fees: Provided, That each entity performing sound recordings shall determine the royalty rates and material license terms and conditions unilaterally, that is, not in agreement, combination, or concert with other entities performing sound recordings."
+      },
+      {
+       "type": "ctx",
+       "text": "(f) Licenses for Certain Nonexempt Transmissions.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1)(A) Proceedings under chapter 8 shall determine reasonable rates and terms of royalty payments for transmissions subject to statutory licensing under subsection (d)(2) during the 5-year period beginning on January 1 of the second year following the year in which the proceedings are to be commenced pursuant to subparagraph (A) or (B) of section 804(b)(3), as the case may be, or such other period as the parties may agree. The parties to each proceeding shall bear their own costs."
+      },
+      {
+       "type": "del",
+       "text": "(B) The schedule of reasonable rates and terms determined by the Copyright Royalty Judges shall, subject to paragraph (2), be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the 5-year period specified in subparagraph (A), or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of services then in operation and shall include a minimum fee for each such type of service, such differences to be based on criteria including the quantity and nature of the use of sound recordings and the degree to which use of the service may substitute for or may promote the purchase of phonorecords by consumers. The Copyright Royalty Judges shall establish rates and terms that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and a willing seller. In determining such rates and terms, the Copyright Royalty Judges-"
+      },
+      {
+       "type": "add",
+       "text": "(B) The schedule of reasonable rates and terms determined by the Librarian of Congress shall, subject to paragraph (2), be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the 5-year period specified in subparagraph (A), or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of services then in operation and shall include a minimum fee for each such type of service, such differences to be based on criteria including the quantity and nature of the use of sound recordings and the degree to which use of the service may substitute for or may promote the purchase of phonorecords by consumers. The Librarian of Congress shall establish rates and terms that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and a willing seller. In determining such rates and terms, the Librarian of Congress-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) shall base their decision on economic, competitive, and programming information presented by the parties, including-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) whether use of the service may substitute for or may promote the sales of phonorecords or otherwise may interfere with or may enhance the sound recording copyright owner's other streams of revenue from the copyright owner's sound recordings; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(II) the relative roles of the copyright owner and the transmitting entity in the copyrighted work and the service made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, and risk; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) may consider the rates and terms for comparable types of audio transmission services and comparable circumstances under voluntary license agreements."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) The procedures under subparagraphs (A) and (B) shall also be initiated pursuant to a petition filed by any sound recording copyright owner or any transmitting entity indicating that a new type of service on which sound recordings are performed is or is about to become operational, for the purpose of determining reasonable terms and rates of royalty payments with respect to such new type of service for the period beginning with the inception of such new type of service and ending on the date on which the royalty rates and terms for eligible nonsubscription services and new subscription services, or preexisting subscription services and preexisting satellite digital audio radio services, as the case may be, most recently determined under subparagraph (A) or (B) and chapter 8 expire, or such other period as the parties may agree."
+      },
+      {
+       "type": "del",
+       "text": "(2) License agreements voluntarily negotiated at any time between 1 or more copyright owners of sound recordings and 1 or more entities performing sound recordings shall be given effect in lieu of any decision by the Librarian of Congress or determination by the Copyright Royalty Judges."
+      },
+      {
+       "type": "del",
+       "text": "(3)(A) The Copyright Royalty Judges shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings. The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees."
+      },
+      {
+       "type": "add",
+       "text": "(2) License agreements voluntarily negotiated at any time between 1 or more copyright owners of sound recordings and 1 or more entities performing sound recordings shall be given effect in lieu of any decision by the Librarian of Congress or determination by the Librarian of Congress."
+      },
+      {
+       "type": "add",
+       "text": "(3)(A) The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings. The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Librarian of Congress. If new regulations are promulgated under this subparagraph, the Librarian of Congress shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Any person who wishes to perform a sound recording publicly by means of a transmission eligible for statutory licensing under this subsection may do so without infringing the exclusive right of the copyright owner of the sound recording-"
+      },
+      {
+       "type": "del",
+       "text": "(i) by complying with such notice requirements as the Copyright Royalty Judges shall prescribe by regulation and by paying royalty fees in accordance with this subsection; or"
+      },
+      {
+       "type": "add",
+       "text": "(i) by complying with such notice requirements as the Librarian of Congress shall prescribe by regulation and by paying royalty fees in accordance with this subsection; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) if such royalty fees have not been set, by agreeing to pay such royalty fees as shall be determined in accordance with this subsection."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Any royalty payments in arrears shall be made on or before the twentieth day of the month next succeeding the month in which the royalty fees are set."
+      },
+      {
+       "type": "del",
+       "text": "(4)(A) Notwithstanding section 112(e) and the other provisions of this subsection, the receiving agent may enter into agreements for the reproduction and performance of sound recordings under section 112(e) and this section by any 1 or more commercial webcasters or noncommercial webcasters for a period of not more than 11 years beginning on January 1, 2005, that, once published in the Federal Register pursuant to subparagraph (B), shall be binding on all copyright owners of sound recordings and other persons entitled to payment under this section, in lieu of any determination by the Copyright Royalty Judges. Any such agreement for commercial webcasters may include provisions for payment of royalties on the basis of a percentage of revenue or expenses, or both, and include a minimum fee. Any such agreement may include other terms and conditions, including requirements by which copyright owners may receive notice of the use of their sound recordings and under which records of such use shall be kept and made available by commercial webcasters or noncommercial webcasters. The receiving agent shall be under no obligation to negotiate any such agreement. The receiving agent shall have no obligation to any copyright owner of sound recordings or any other person entitled to payment under this section in negotiating any such agreement, and no liability to any copyright owner of sound recordings or any other person entitled to payment under this section for having entered into such agreement."
+      },
+      {
+       "type": "add",
+       "text": "(4)(A) Notwithstanding section 112(e) and the other provisions of this subsection, the receiving agent may enter into agreements for the reproduction and performance of sound recordings under section 112(e) and this section by any 1 or more small commercial webcasters or nonsmall commercial webcasters during the period beginning on October 28, 1998, and ending on December 31, 2004, that, once published in the Federal Register pursuant to subparagraph (B), shall be binding on all copyright owners of sound recordings and other persons entitled to payment under this section, in lieu of any determination by the Librarian of Congress. Any such agreement for small commercial webcasters shall include provisions for payment of royalties on the basis of a percentage of revenue or expenses, or both, and include a minimum fee. Any such agreement may include other terms and conditions, including requirements by which copyright owners may receive notice of the use of their sound recordings and under which records of such use shall be kept and made available by small commercial webcasters or nonsmall commercial webcasters. The receiving agent shall be under no obligation to negotiate any such agreement. The receiving agent shall have no obligation to any copyright owner of sound recordings or any other person entitled to payment under this section in negotiating any such agreement, and no liability to any copyright owner of sound recordings or any other person entitled to payment under this section for having entered into such agreement."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) The Copyright Office shall cause to be published in the Federal Register any agreement entered into pursuant to subparagraph (A). Such publication shall include a statement containing the substance of subparagraph (C). Such agreements shall not be included in the Code of Federal Regulations. Thereafter, the terms of such agreement shall be available, as an option, to any commercial webcaster or noncommercial webcaster meeting the eligibility conditions of such agreement."
+      },
+      {
+       "type": "del",
+       "text": "(C) Neither subparagraph (A) nor any provisions of any agreement entered into pursuant to subparagraph (A), including any rate structure, fees, terms, conditions, or notice and recordkeeping requirements set forth therein, shall be admissible as evidence or otherwise taken into account in any administrative, judicial, or other government proceeding involving the setting or adjustment of the royalties payable for the public performance or reproduction in ephemeral phonorecords or copies of sound recordings, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements by the Copyright Royalty Judges under paragraph (3) or section 112(e)(4). It is the intent of Congress that any royalty rates, rate structure, definitions, terms, conditions, or notice and recordkeeping requirements, included in such agreements shall be considered as a compromise motivated by the unique business, economic and political circumstances of webcasters, copyright owners, and performers rather than as matters that would have been negotiated in the marketplace between a willing buyer and a willing seller, or otherwise meet the objectives set forth in section 801(b). This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection."
+      },
+      {
+       "type": "del",
+       "text": "(D) Nothing in the Webcaster Settlement Act of 2008, the Webcaster Settlement Act of 2009, or any agreement entered into pursuant to subparagraph (A) shall be taken into account by the United States Court of Appeals for the District of Columbia Circuit in its review of the determination by the Copyright Royalty Judges of May 1, 2007, of rates and terms for the digital performance of sound recordings and ephemeral recordings, pursuant to sections 112 and 114."
+      },
+      {
+       "type": "add",
+       "text": "(C) Neither subparagraph (A) nor any provisions of any agreement entered into pursuant to subparagraph (A), including any rate structure, fees, terms, conditions, or notice and recordkeeping requirements set forth therein, shall be admissible as evidence or otherwise taken into account in any administrative, judicial, or other government proceeding involving the setting or adjustment of the royalties payable for the public performance or reproduction in ephemeral phonorecords or copies of sound recordings, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements by the Librarian of Congress under paragraph (3) or section 112(e)(4). It is the intent of Congress that any royalty rates, rate structure, definitions, terms, conditions, or notice and recordkeeping requirements, included in such agreements shall be considered as a compromise motivated by the unique business, economic and political circumstances of webcasters, copyright owners, and performers rather than as matters that would have been negotiated in the marketplace between a willing buyer and a willing seller, or otherwise meet the objectives set forth in section 801(b). This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection."
+      },
+      {
+       "type": "add",
+       "text": "(D) Nothing in any agreement entered into pursuant to subparagraph (A) shall be taken into account by the United States Court of Appeals for the District of Columbia Circuit in its review of the determination by the Librarian of Congress of October 28, 1998, of rates and terms for the digital performance of sound recordings and ephemeral recordings, pursuant to sections 112 and 114."
+      },
+      {
+       "type": "ctx",
+       "text": "(E) As used in this paragraph-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) the term \"noncommercial webcaster\" means a webcaster that-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501);"
+      }
+     ]
+    },
+    {
+     "old_start": 99,
+     "new_start": 99,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(III) is operated by a State or possession or any governmental entity or subordinate thereof, or by the United States or District of Columbia, for exclusively public purposes;"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) the term \"receiving agent\" shall have the meaning given that term in section 261.2 of title 37, Code of Federal Regulations, as published in the Federal Register on July 8, 2002; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(iii) the term \"webcaster\" means a person or entity that has obtained a compulsory license under section 112 or 114 and the implementing regulations therefor."
+      },
+      {
+       "type": "del",
+       "text": "(F) The authority to make settlements pursuant to subparagraph (A) shall expire at 11:59 p.m. Eastern time on the 30th day after the date of the enactment of the Webcaster Settlement Act of 2009."
+      },
+      {
+       "type": "ctx",
+       "text": "(g) Proceeds From Licensing of Transmissions.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Except in the case of a transmission licensed under a statutory license in accordance with subsection (f) of this section-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) a featured recording artist who performs on a sound recording that has been licensed for a transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the artist's contract; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) a nonfeatured recording artist who performs on a sound recording that has been licensed for a transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the nonfeatured recording artist's applicable contract or other applicable agreement."
+      },
+      {
+       "type": "del",
+       "text": "(2) Except as provided for in paragraph (6), a nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall distribute such receipts as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(2) Except as provided for in paragraph (6), a nonprofit collective designated by the Librarian of Congress to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall distribute such receipts as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) 50 percent of the receipts shall be paid to the copyright owner of the exclusive right under section 106(6) of this title to publicly perform a sound recording by means of a digital audio transmission."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) 2\u00bd percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians) who have performed on sound recordings."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) 2\u00bd percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists) who have performed on sound recordings."
+      },
+      {
+       "type": "ctx",
+       "text": "(D) 45 percent of the receipts shall be paid, on a per sound recording basis, to the recording artist or artists featured on such sound recording (or the persons conveying rights in the artists' performance in the sound recordings)."
+      },
+      {
+       "type": "del",
+       "text": "(3) A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts to any person or entity entitled thereto other than copyright owners and performers who have elected to receive royalties from another designated nonprofit collective and have notified such nonprofit collective in writing of such election, the reasonable costs of such collective incurred after November 1, 1995, in-"
+      },
+      {
+       "type": "add",
+       "text": "(3) A nonprofit collective designated by the Librarian of Congress to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts to any person or entity entitled thereto other than copyright owners and performers who have elected to receive royalties from another designated nonprofit collective and have notified such nonprofit collective in writing of such election, the reasonable costs of such collective incurred after November 1, 1995, in-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) the administration of the collection, distribution, and calculation of the royalties;"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the settlement of disputes relating to the collection and calculation of the royalties; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) the licensing and enforcement of rights with respect to the making of ephemeral recordings and performances subject to licensing under section 112 and this section, including those incurred in participating in negotiations or arbitration proceedings under section 112 and this section, except that all costs incurred relating to the section 112 ephemeral recordings right may only be deducted from the royalties received pursuant to section 112."
+      },
+      {
+       "type": "ctx",
+       "text": "(4) Notwithstanding paragraph (3), any nonprofit collective designated to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts, the reasonable costs identified in paragraph (3) of such collective incurred after November 1, 1995, with respect to such copyright owners and performers who have entered with such collective a contractual relationship that specifies that such costs may be deducted from such royalty receipts."
+      },
+      {
+       "type": "del",
+       "text": "(5) Letter of direction.-"
+      },
+      {
+       "type": "del",
+       "text": "(A) In general.-A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall adopt and reasonably implement a policy that provides, in circumstances determined by the collective to be appropriate, for acceptance of instructions from a payee identified under subparagraph (A) or (D) of paragraph (2) to distribute, to a producer, mixer, or sound engineer who was part of the creative process that created a sound recording, a portion of the payments to which the payee would otherwise be entitled from the licensing of transmissions of the sound recording. In this section, such instructions shall be referred to as a \"letter of direction\"."
+      },
+      {
+       "type": "del",
+       "text": "(B) Acceptance of letter.-To the extent that a collective described in subparagraph (A) accepts a letter of direction under that subparagraph, the person entitled to payment pursuant to the letter of direction shall, during the period in which the letter of direction is in effect and carried out by the collective, be treated for all purposes as the owner of the right to receive such payment, and the payee providing the letter of direction to the collective shall be treated as having no interest in such payment."
+      },
+      {
+       "type": "del",
+       "text": "(C) Authority of collective.-This paragraph shall not be construed in such a manner so that the collective is not authorized to accept or act upon payment instructions in circumstances other than those to which this paragraph applies."
+      },
+      {
+       "type": "del",
+       "text": "(6) Sound recordings fixed before november 1, 1995.-"
+      },
+      {
+       "type": "del",
+       "text": "(A) Payment absent letter of direction.-A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) (in this paragraph referred to as the \"collective\") shall adopt and reasonably implement a policy that provides, in circumstances determined by the collective to be appropriate, for the deduction of 2 percent of all the receipts that are collected from the licensing of transmissions of a sound recording fixed before November 1, 1995, but which is withdrawn from the amount otherwise payable under paragraph (2)(D) to the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording), and the distribution of such amount to 1 or more persons described in subparagraph (B) of this paragraph, after deduction of costs described in paragraph (3) or (4), as applicable, if each of the following requirements is met:"
+      },
+      {
+       "type": "del",
+       "text": "(i) Certification of attempt to obtain a letter of direction.-The person described in subparagraph (B) who is to receive the distribution has certified to the collective, under penalty of perjury, that-"
+      },
+      {
+       "type": "del",
+       "text": "(I) for a period of not less than 120 days, that person made reasonable efforts to contact the artist payee for such sound recording to request and obtain a letter of direction instructing the collective to pay to that person a portion of the royalties payable to the featured recording artist or artists; and"
+      },
+      {
+       "type": "del",
+       "text": "(II) during the period beginning on the date on which that person began the reasonable efforts described in subclause (I) and ending on the date of that person's certification to the collective, the artist payee did not affirm or deny in writing the request for a letter of direction."
+      },
+      {
+       "type": "del",
+       "text": "(ii) Collective attempt to contact artist.-After receipt of the certification described in clause (i) and for a period of not less than 120 days before the first distribution by the collective to the person described in subparagraph (B), the collective attempts, in a reasonable manner as determined by the collective, to notify the artist payee of the certification made by the person described in subparagraph (B)."
+      },
+      {
+       "type": "del",
+       "text": "(iii) No objection received.-The artist payee does not, as of the date that was 10 business days before the date on which the first distribution is made, submit to the collective in writing an objection to the distribution."
+      },
+      {
+       "type": "del",
+       "text": "(B) Eligibility for payment.-A person shall be eligible for payment under subparagraph (A) if the person-"
+      },
+      {
+       "type": "del",
+       "text": "(i) is a producer, mixer, or sound engineer of the sound recording;"
+      },
+      {
+       "type": "del",
+       "text": "(ii) has entered into a written contract with a record company involved in the creation or lawful exploitation of the sound recording, or with the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording), under which the person seeking payment is entitled to participate in royalty payments that are based on the exploitation of the sound recording and are payable from royalties otherwise payable to the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording);"
+      },
+      {
+       "type": "del",
+       "text": "(iii) made a creative contribution to the creation of the sound recording; and"
+      },
+      {
+       "type": "del",
+       "text": "(iv) submits to the collective-"
+      },
+      {
+       "type": "del",
+       "text": "(I) a written certification stating, under penalty of perjury, that the person meets the requirements in clauses (i) through (iii); and"
+      },
+      {
+       "type": "del",
+       "text": "(II) a true copy of the contract described in clause (ii)."
+      },
+      {
+       "type": "del",
+       "text": "(C) Multiple certifications.-Subject to subparagraph (D), in a case in which more than 1 person described in subparagraph (B) has met the requirements for a distribution under subparagraph (A) with respect to a sound recording as of the date that is 10 business days before the date on which the distribution is made, the collective shall divide the 2 percent distribution equally among all such persons."
+      },
+      {
+       "type": "del",
+       "text": "(D) Objection to payment.-Not later than 10 business days after the date on which the collective receives from the artist payee a written objection to a distribution made pursuant to subparagraph (A), the collective shall cease making any further payment relating to such distribution. In any case in which the collective has made 1 or more distributions pursuant to subparagraph (A) to a person described in subparagraph (B) before the date that is 10 business days after the date on which the collective receives from the artist payee an objection to such distribution, the objection shall not affect that person's entitlement to any distribution made before the collective ceases such distribution under this subparagraph."
+      },
+      {
+       "type": "del",
+       "text": "(E) Ownership of the right to receive payments.-To the extent that the collective determines that a distribution will be made under subparagraph (A) to a person described in subparagraph (B), such person shall, during the period covered by such distribution, be treated for all purposes as the owner of the right to receive such payments, and the artist payee to whom such payments would otherwise be payable shall be treated as having no interest in such payments."
+      },
+      {
+       "type": "del",
+       "text": "(F) Artist payee defined.-In this paragraph, the term \"artist payee\" means a person, other than a person described in subparagraph (B), who owns the right to receive all or part of the receipts payable under paragraph (2)(D) with respect to a sound recording. In a case in which there are multiple artist payees with respect to a sound recording, an objection by 1 such payee shall apply only to that payee's share of the receipts payable under paragraph (2)(D), and shall not preclude payment under subparagraph (A) from the share of an artist payee that does not so object."
+      },
+      {
+       "type": "del",
+       "text": "(7) Preemption of state property laws.-The holding and distribution of receipts under section 112 and this section by a nonprofit collective designated by the Copyright Royalty Judges in accordance with this subsection and regulations adopted by the Copyright Royalty Judges, or by an independent administrator pursuant to subparagraphs (B) and (C) of section 114(g)(2), shall supersede and preempt any State law (including common law) concerning escheatment or abandoned property, or any analogous provision, that might otherwise apply."
+      },
+      {
+       "type": "ctx",
+       "text": "(h) Licensing to Affiliates.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) If the copyright owner of a sound recording licenses an affiliated entity the right to publicly perform a sound recording by means of a digital audio transmission under section 106(6), the copyright owner shall make the licensed sound recording available under section 106(6) on no less favorable terms and conditions to all bona fide entities that offer similar services, except that, if there are material differences in the scope of the requested license with respect to the type of service, the particular sound recordings licensed, the frequency of use, the number of subscribers served, or the duration, then the copyright owner may establish different terms and conditions for such other services."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The limitation set forth in paragraph (1) of this subsection shall not apply in the case where the copyright owner of a sound recording licenses-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1201.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a71201. Circumvention of copyright protection systems"
+      },
+      {
+       "type": "add",
+       "text": "(a) Violations Regarding Circumvention of Technological Measures.-(1)(A) No person shall circumvent a technological measure that effectively controls access to a work protected under this title. The prohibition contained in the preceding sentence shall take effect at the end of the 2-year period beginning on the date of the enactment of this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(B) The prohibition contained in subparagraph (A) shall not apply to persons who are users of a copyrighted work which is in a particular class of works, if such persons are, or are likely to be in the succeeding 3-year period, adversely affected by virtue of such prohibition in their ability to make noninfringing uses of that particular class of works under this title, as determined under subparagraph (C)."
+      },
+      {
+       "type": "add",
+       "text": "(C) During the 2-year period described in subparagraph (A), and during each succeeding 3-year period, the Librarian of Congress, upon the recommendation of the Register of Copyrights, who shall consult with the Assistant Secretary for Communications and Information of the Department of Commerce and report and comment on his or her views in making such recommendation, shall make the determination in a rulemaking proceeding for purposes of subparagraph (B) of whether persons who are users of a copyrighted work are, or are likely to be in the succeeding 3-year period, adversely affected by the prohibition under subparagraph (A) in their ability to make noninfringing uses under this title of a particular class of copyrighted works. In conducting such rulemaking, the Librarian shall examine-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the availability for use of copyrighted works;"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the availability for use of works for nonprofit archival, preservation, and educational purposes;"
+      },
+      {
+       "type": "add",
+       "text": "(iii) the impact that the prohibition on the circumvention of technological measures applied to copyrighted works has on criticism, comment, news reporting, teaching, scholarship, or research;"
+      },
+      {
+       "type": "add",
+       "text": "(iv) the effect of circumvention of technological measures on the market for or value of copyrighted works; and"
+      },
+      {
+       "type": "add",
+       "text": "(v) such other factors as the Librarian considers appropriate."
+      },
+      {
+       "type": "add",
+       "text": "(D) The Librarian shall publish any class of copyrighted works for which the Librarian has determined, pursuant to the rulemaking conducted under subparagraph (C), that noninfringing uses by persons who are users of a copyrighted work are, or are likely to be, adversely affected, and the prohibition contained in subparagraph (A) shall not apply to such users with respect to such class of works for the ensuing 3-year period."
+      },
+      {
+       "type": "add",
+       "text": "(E) Neither the exception under subparagraph (B) from the applicability of the prohibition contained in subparagraph (A), nor any determination made in a rulemaking conducted under subparagraph (C), may be used as a defense in any action to enforce any provision of this title other than this paragraph."
+      },
+      {
+       "type": "add",
+       "text": "(2) No person shall manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, device, component, or part thereof, that-"
+      },
+      {
+       "type": "add",
+       "text": "(A) is primarily designed or produced for the purpose of circumventing a technological measure that effectively controls access to a work protected under this title;"
+      },
+      {
+       "type": "add",
+       "text": "(B) has only limited commercially significant purpose or use other than to circumvent a technological measure that effectively controls access to a work protected under this title; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) is marketed by that person or another acting in concert with that person with that person's knowledge for use in circumventing a technological measure that effectively controls access to a work protected under this title."
+      },
+      {
+       "type": "add",
+       "text": "(3) As used in this subsection-"
+      },
+      {
+       "type": "add",
+       "text": "(A) to \"circumvent a technological measure\" means to descramble a scrambled work, to decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological measure, without the authority of the copyright owner; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) a technological measure \"effectively controls access to a work\" if the measure, in the ordinary course of its operation, requires the application of information, or a process or a treatment, with the authority of the copyright owner, to gain access to the work."
+      },
+      {
+       "type": "add",
+       "text": "(b) Additional Violations.-(1) No person shall manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, device, component, or part thereof, that-"
+      },
+      {
+       "type": "add",
+       "text": "(A) is primarily designed or produced for the purpose of circumventing protection afforded by a technological measure that effectively protects a right of a copyright owner under this title in a work or a portion thereof;"
+      },
+      {
+       "type": "add",
+       "text": "(B) has only limited commercially significant purpose or use other than to circumvent protection afforded by a technological measure that effectively protects a right of a copyright owner under this title in a work or a portion thereof; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) is marketed by that person or another acting in concert with that person with that person's knowledge for use in circumventing protection afforded by a technological measure that effectively protects a right of a copyright owner under this title in a work or a portion thereof."
+      },
+      {
+       "type": "add",
+       "text": "(2) As used in this subsection-"
+      },
+      {
+       "type": "add",
+       "text": "(A) to \"circumvent protection afforded by a technological measure\" means avoiding, bypassing, removing, deactivating, or otherwise impairing a technological measure; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) a technological measure \"effectively protects a right of a copyright owner under this title\" if the measure, in the ordinary course of its operation, prevents, restricts, or otherwise limits the exercise of a right of a copyright owner under this title."
+      },
+      {
+       "type": "add",
+       "text": "(c) Other Rights, Etc., Not Affected.-(1) Nothing in this section shall affect rights, remedies, limitations, or defenses to copyright infringement, including fair use, under this title."
+      },
+      {
+       "type": "add",
+       "text": "(2) Nothing in this section shall enlarge or diminish vicarious or contributory liability for copyright infringement in connection with any technology, product, service, device, component, or part thereof."
+      },
+      {
+       "type": "add",
+       "text": "(3) Nothing in this section shall require that the design of, or design and selection of parts and components for, a consumer electronics, telecommunications, or computing product provide for a response to any particular technological measure, so long as such part or component, or the product in which such part or component is integrated, does not otherwise fall within the prohibitions of subsection (a)(2) or (b)(1)."
+      },
+      {
+       "type": "add",
+       "text": "(4) Nothing in this section shall enlarge or diminish any rights of free speech or the press for activities using consumer electronics, telecommunications, or computing products."
+      },
+      {
+       "type": "add",
+       "text": "(d) Exemption for Nonprofit Libraries, Archives, and Educational Institutions.-(1) A nonprofit library, archives, or educational institution which gains access to a commercially exploited copyrighted work solely in order to make a good faith determination of whether to acquire a copy of that work for the sole purpose of engaging in conduct permitted under this title shall not be in violation of subsection (a)(1)(A). A copy of a work to which access has been gained under this paragraph-"
+      },
+      {
+       "type": "add",
+       "text": "(A) may not be retained longer than necessary to make such good faith determination; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) may not be used for any other purpose."
+      },
+      {
+       "type": "add",
+       "text": "(2) The exemption made available under paragraph (1) shall only apply with respect to a work when an identical copy of that work is not reasonably available in another form."
+      },
+      {
+       "type": "add",
+       "text": "(3) A nonprofit library, archives, or educational institution that willfully for the purpose of commercial advantage or financial gain violates paragraph (1)-"
+      },
+      {
+       "type": "add",
+       "text": "(A) shall, for the first offense, be subject to the civil remedies under section 1203; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) shall, for repeated or subsequent offenses, in addition to the civil remedies under section 1203, forfeit the exemption provided under paragraph (1)."
+      },
+      {
+       "type": "add",
+       "text": "(4) This subsection may not be used as a defense to a claim under subsection (a)(2) or (b), nor may this subsection permit a nonprofit library, archives, or educational institution to manufacture, import, offer to the public, provide, or otherwise traffic in any technology, product, service, component, or part thereof, which circumvents a technological measure."
+      },
+      {
+       "type": "add",
+       "text": "(5) In order for a library or archives to qualify for the exemption under this subsection, the collections of that library or archives shall be-"
+      },
+      {
+       "type": "add",
+       "text": "(A) open to the public; or"
+      },
+      {
+       "type": "add",
+       "text": "(B) available not only to researchers affiliated with the library or archives or with the institution of which it is a part, but also to other persons doing research in a specialized field."
+      },
+      {
+       "type": "add",
+       "text": "(e) Law Enforcement, Intelligence, and Other Government Activities.-This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term \"information security\" means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network."
+      },
+      {
+       "type": "add",
+       "text": "(f) Reverse Engineering.-(1) Notwithstanding the provisions of subsection (a)(1)(A), a person who has lawfully obtained the right to use a copy of a computer program may circumvent a technological measure that effectively controls access to a particular portion of that program for the sole purpose of identifying and analyzing those elements of the program that are necessary to achieve interoperability of an independently created computer program with other programs, and that have not previously been readily available to the person engaging in the circumvention, to the extent any such acts of identification and analysis do not constitute infringement under this title."
+      },
+      {
+       "type": "add",
+       "text": "(2) Notwithstanding the provisions of subsections (a)(2) and (b), a person may develop and employ technological means to circumvent a technological measure, or to circumvent protection afforded by a technological measure, in order to enable the identification and analysis under paragraph (1), or for the purpose of enabling interoperability of an independently created computer program with other programs, if such means are necessary to achieve such interoperability, to the extent that doing so does not constitute infringement under this title."
+      },
+      {
+       "type": "add",
+       "text": "(3) The information acquired through the acts permitted under paragraph (1), and the means permitted under paragraph (2), may be made available to others if the person referred to in paragraph (1) or (2), as the case may be, provides such information or means solely for the purpose of enabling interoperability of an independently created computer program with other programs, and to the extent that doing so does not constitute infringement under this title or violate applicable law other than this section."
+      },
+      {
+       "type": "add",
+       "text": "(4) For purposes of this subsection, the term \"interoperability\" means the ability of computer programs to exchange information, and of such programs mutually to use the information which has been exchanged."
+      },
+      {
+       "type": "add",
+       "text": "(g) Encryption Research.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Definitions.-For purposes of this subsection-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the term \"encryption research\" means activities necessary to identify and analyze flaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) the term \"encryption technology\" means the scrambling and descrambling of information using mathematical formulas or algorithms."
+      },
+      {
+       "type": "add",
+       "text": "(2) Permissible acts of encryption research.-Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure as applied to a copy, phonorecord, performance, or display of a published work in the course of an act of good faith encryption research if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the person lawfully obtained the encrypted copy, phonorecord, performance, or display of the published work;"
+      },
+      {
+       "type": "add",
+       "text": "(B) such act is necessary to conduct such encryption research;"
+      },
+      {
+       "type": "add",
+       "text": "(C) the person made a good faith effort to obtain authorization before the circumvention; and"
+      },
+      {
+       "type": "add",
+       "text": "(D) such act does not constitute infringement under this title or a violation of applicable law other than this section, including section 1030 of title 18 and those provisions of title 18 amended by the Computer Fraud and Abuse Act of 1986."
+      },
+      {
+       "type": "add",
+       "text": "(3) Factors in determining exemption.-In determining whether a person qualifies for the exemption under paragraph (2), the factors to be considered shall include-"
+      },
+      {
+       "type": "add",
+       "text": "(A) whether the information derived from the encryption research was disseminated, and if so, whether it was disseminated in a manner reasonably calculated to advance the state of knowledge or development of encryption technology, versus whether it was disseminated in a manner that facilitates infringement under this title or a violation of applicable law other than this section, including a violation of privacy or breach of security;"
+      },
+      {
+       "type": "add",
+       "text": "(B) whether the person is engaged in a legitimate course of study, is employed, or is appropriately trained or experienced, in the field of encryption technology; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) whether the person provides the copyright owner of the work to which the technological measure is applied with notice of the findings and documentation of the research, and the time when such notice is provided."
+      },
+      {
+       "type": "add",
+       "text": "(4) Use of technological means for research activities.-Notwithstanding the provisions of subsection (a)(2), it is not a violation of that subsection for a person to-"
+      },
+      {
+       "type": "add",
+       "text": "(A) develop and employ technological means to circumvent a technological measure for the sole purpose of that person performing the acts of good faith encryption research described in paragraph (2); and"
+      },
+      {
+       "type": "add",
+       "text": "(B) provide the technological means to another person with whom he or she is working collaboratively for the purpose of conducting the acts of good faith encryption research described in paragraph (2) or for the purpose of having that other person verify his or her acts of good faith encryption research described in paragraph (2)."
+      },
+      {
+       "type": "add",
+       "text": "(5) Report to congress.-Not later than 1 year after the date of the enactment of this chapter, the Register of Copyrights and the Assistant Secretary for Communications and Information of the Department of Commerce shall jointly report to the Congress on the effect this subsection has had on-"
+      },
+      {
+       "type": "add",
+       "text": "(A) encryption research and the development of encryption technology;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the adequacy and effectiveness of technological measures designed to protect copyrighted works; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) protection of copyright owners against the unauthorized access to their encrypted copyrighted works."
+      },
+      {
+       "type": "add",
+       "text": "The report shall include legislative recommendations, if any."
+      },
+      {
+       "type": "add",
+       "text": "(h) Exceptions Regarding Minors.-In applying subsection (a) to a component or part, the court may consider the necessity for its intended and actual incorporation in a technology, product, service, or device, which-"
+      },
+      {
+       "type": "add",
+       "text": "(1) does not itself violate the provisions of this title; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) has the sole purpose to prevent the access of minors to material on the Internet."
+      },
+      {
+       "type": "add",
+       "text": "(i) Protection of Personally Identifying Information.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Circumvention permitted.-Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to circumvent a technological measure that effectively controls access to a work protected under this title, if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the technological measure, or the work it protects, contains the capability of collecting or disseminating personally identifying information reflecting the online activities of a natural person who seeks to gain access to the work protected;"
+      },
+      {
+       "type": "add",
+       "text": "(B) in the normal course of its operation, the technological measure, or the work it protects, collects or disseminates personally identifying information about the person who seeks to gain access to the work protected, without providing conspicuous notice of such collection or dissemination to such person, and without providing such person with the capability to prevent or restrict such collection or dissemination;"
+      },
+      {
+       "type": "add",
+       "text": "(C) the act of circumvention has the sole effect of identifying and disabling the capability described in subparagraph (A), and has no other effect on the ability of any person to gain access to any work; and"
+      },
+      {
+       "type": "add",
+       "text": "(D) the act of circumvention is carried out solely for the purpose of preventing the collection or dissemination of personally identifying information about a natural person who seeks to gain access to the work protected, and is not in violation of any other law."
+      },
+      {
+       "type": "add",
+       "text": "(2) Inapplicability to certain technological measures.-This subsection does not apply to a technological measure, or a work it protects, that does not collect or disseminate personally identifying information and that is disclosed to a user as not having or using such capability."
+      },
+      {
+       "type": "add",
+       "text": "(j) Security Testing.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Definition.-For purposes of this subsection, the term \"security testing\" means accessing a computer, computer system, or computer network, solely for the purpose of good faith testing, investigating, or correcting, a security flaw or vulnerability, with the authorization of the owner or operator of such computer, computer system, or computer network."
+      },
+      {
+       "type": "add",
+       "text": "(2) Permissible acts of security testing.-Notwithstanding the provisions of subsection (a)(1)(A), it is not a violation of that subsection for a person to engage in an act of security testing, if such act does not constitute infringement under this title or a violation of applicable law other than this section, including section 1030 of title 18 and those provisions of title 18 amended by the Computer Fraud and Abuse Act of 1986."
+      },
+      {
+       "type": "add",
+       "text": "(3) Factors in determining exemption.-In determining whether a person qualifies for the exemption under paragraph (2), the factors to be considered shall include-"
+      },
+      {
+       "type": "add",
+       "text": "(A) whether the information derived from the security testing was used solely to promote the security of the owner or operator of such computer, computer system or computer network, or shared directly with the developer of such computer, computer system, or computer network; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) whether the information derived from the security testing was used or maintained in a manner that does not facilitate infringement under this title or a violation of applicable law other than this section, including a violation of privacy or breach of security."
+      },
+      {
+       "type": "add",
+       "text": "(4) Use of technological means for security testing.-Notwithstanding the provisions of subsection (a)(2), it is not a violation of that subsection for a person to develop, produce, distribute or employ technological means for the sole purpose of performing the acts of security testing described in subsection (2),1 provided such technological means does not otherwise violate section\u00a02 (a)(2)."
+      },
+      {
+       "type": "add",
+       "text": "(k) Certain Analog Devices and Certain Technological Measures.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Certain analog devices.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Effective 18 months after the date of the enactment of this chapter, no person shall manufacture, import, offer to the public, provide or otherwise traffic in any-"
+      },
+      {
+       "type": "add",
+       "text": "(i) VHS format analog video cassette recorder unless such recorder conforms to the automatic gain control copy control technology;"
+      },
+      {
+       "type": "add",
+       "text": "(ii) 8mm format analog video cassette camcorder unless such camcorder conforms to the automatic gain control technology;"
+      },
+      {
+       "type": "add",
+       "text": "(iii) Beta format analog video cassette recorder, unless such recorder conforms to the automatic gain control copy control technology, except that this requirement shall not apply until there are 1,000 Beta format analog video cassette recorders sold in the United States in any one calendar year after the date of the enactment of this chapter;"
+      },
+      {
+       "type": "add",
+       "text": "(iv) 8mm format analog video cassette recorder that is not an analog video cassette camcorder, unless such recorder conforms to the automatic gain control copy control technology, except that this requirement shall not apply until there are 20,000 such recorders sold in the United States in any one calendar year after the date of the enactment of this chapter; or"
+      },
+      {
+       "type": "add",
+       "text": "(v) analog video cassette recorder that records using an NTSC format video input and that is not otherwise covered under clauses (i) through (iv), unless such device conforms to the automatic gain control copy control technology."
+      },
+      {
+       "type": "add",
+       "text": "(B) Effective on the date of the enactment of this chapter, no person shall manufacture, import, offer to the public, provide or otherwise traffic in-"
+      },
+      {
+       "type": "add",
+       "text": "(i) any VHS format analog video cassette recorder or any 8mm format analog video cassette recorder if the design of the model of such recorder has been modified after such date of enactment so that a model of recorder that previously conformed to the automatic gain control copy control technology no longer conforms to such technology; or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) any VHS format analog video cassette recorder, or any 8mm format analog video cassette recorder that is not an 8mm analog video cassette camcorder, if the design of the model of such recorder has been modified after such date of enactment so that a model of recorder that previously conformed to the four-line colorstripe copy control technology no longer conforms to such technology."
+      },
+      {
+       "type": "add",
+       "text": "Manufacturers that have not previously manufactured or sold a VHS format analog video cassette recorder, or an 8mm format analog cassette recorder, shall be required to conform to the four-line colorstripe copy control technology in the initial model of any such recorder manufactured after the date of the enactment of this chapter, and thereafter to continue conforming to the four-line colorstripe copy control technology. For purposes of this subparagraph, an analog video cassette recorder \"conforms to\" the four-line colorstripe copy control technology if it records a signal that, when played back by the playback function of that recorder in the normal viewing mode, exhibits, on a reference display device, a display containing distracting visible lines through portions of the viewable picture."
+      },
+      {
+       "type": "add",
+       "text": "(2) Certain encoding restrictions.-No person shall apply the automatic gain control copy control technology or colorstripe copy control technology to prevent or limit consumer copying except such copying-"
+      },
+      {
+       "type": "add",
+       "text": "(A) of a single transmission, or specified group of transmissions, of live events or of audiovisual works for which a member of the public has exercised choice in selecting the transmissions, including the content of the transmissions or the time of receipt of such transmissions, or both, and as to which such member is charged a separate fee for each such transmission or specified group of transmissions;"
+      },
+      {
+       "type": "add",
+       "text": "(B) from a copy of a transmission of a live event or an audiovisual work if such transmission is provided by a channel or service where payment is made by a member of the public for such channel or service in the form of a subscription fee that entitles the member of the public to receive all of the programming contained in such channel or service;"
+      },
+      {
+       "type": "add",
+       "text": "(C) from a physical medium containing one or more prerecorded audiovisual works; or"
+      },
+      {
+       "type": "add",
+       "text": "(D) from a copy of a transmission described in subparagraph (A) or from a copy made from a physical medium described in subparagraph (C)."
+      },
+      {
+       "type": "add",
+       "text": "In the event that a transmission meets both the conditions set forth in subparagraph (A) and those set forth in subparagraph (B), the transmission shall be treated as a transmission described in subparagraph (A)."
+      },
+      {
+       "type": "add",
+       "text": "(3) Inapplicability.-This subsection shall not-"
+      },
+      {
+       "type": "add",
+       "text": "(A) require any analog video cassette camcorder to conform to the automatic gain control copy control technology with respect to any video signal received through a camera lens;"
+      },
+      {
+       "type": "add",
+       "text": "(B) apply to the manufacture, importation, offer for sale, provision of, or other trafficking in, any professional analog video cassette recorder; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) apply to the offer for sale or provision of, or other trafficking in, any previously owned analog video cassette recorder, if such recorder was legally manufactured and sold when new and not subsequently modified in violation of paragraph (1)(B)."
+      },
+      {
+       "type": "add",
+       "text": "(4) Definitions.-For purposes of this subsection:"
+      },
+      {
+       "type": "add",
+       "text": "(A) An \"analog video cassette recorder\" means a device that records, or a device that includes a function that records, on electromagnetic tape in an analog format the electronic impulses produced by the video and audio portions of a television program, motion picture, or other form of audiovisual work."
+      },
+      {
+       "type": "add",
+       "text": "(B) An \"analog video cassette camcorder\" means an analog video cassette recorder that contains a recording function that operates through a camera lens and through a video input that may be connected with a television or other video playback device."
+      },
+      {
+       "type": "add",
+       "text": "(C) An analog video cassette recorder \"conforms\" to the automatic gain control copy control technology if it-"
+      },
+      {
+       "type": "add",
+       "text": "(i) detects one or more of the elements of such technology and does not record the motion picture or transmission protected by such technology; or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) records a signal that, when played back, exhibits a meaningfully distorted or degraded display."
+      },
+      {
+       "type": "add",
+       "text": "(D) The term \"professional analog video cassette recorder\" means an analog video cassette recorder that is designed, manufactured, marketed, and intended for use by a person who regularly employs such a device for a lawful business or industrial use, including making, performing, displaying, distributing, or transmitting copies of motion pictures on a commercial scale."
+      },
+      {
+       "type": "add",
+       "text": "(E) The terms \"VHS format\", \"8mm format\", \"Beta format\", \"automatic gain control copy control technology\", \"colorstripe copy control technology\", \"four-line version of the colorstripe copy control technology\", and \"NTSC\" have the meanings that are commonly understood in the consumer electronics and motion picture industries as of the date of the enactment of this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(5) Violations.-Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an \"act of circumvention\" for the purposes of section 1203(c)(3)(A) of this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "add",
+       "text": "title I, \u00a7103(a), Oct. 28, 1998, 112 Stat. 2863"
+      },
+      {
+       "type": "add",
+       "text": "; amended"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 106\u2013113,"
+      },
+      {
+       "type": "add",
+       "text": "div. B, \u00a71000(a)(9) [title V, \u00a75006], Nov. 29, 1999, 113 Stat. 1536"
+      },
+      {
+       "type": "add",
+       "text": ", 1501A-594.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1202.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a71202. Integrity of copyright management information"
+      },
+      {
+       "type": "add",
+       "text": "(a) False Copyright Management Information.-No person shall knowingly and with the intent to induce, enable, facilitate, or conceal infringement-"
+      },
+      {
+       "type": "add",
+       "text": "(1) provide copyright management information that is false, or"
+      },
+      {
+       "type": "add",
+       "text": "(2) distribute or import for distribution copyright management information that is false."
+      },
+      {
+       "type": "add",
+       "text": "(b) Removal or Alteration of Copyright Management Information.-No person shall, without the authority of the copyright owner or the law-"
+      },
+      {
+       "type": "add",
+       "text": "(1) intentionally remove or alter any copyright management information,"
+      },
+      {
+       "type": "add",
+       "text": "(2) distribute or import for distribution copyright management information knowing that the copyright management information has been removed or altered without authority of the copyright owner or the law, or"
+      },
+      {
+       "type": "add",
+       "text": "(3) distribute, import for distribution, or publicly perform works, copies of works, or phonorecords, knowing that copyright management information has been removed or altered without authority of the copyright owner or the law,"
+      },
+      {
+       "type": "add",
+       "text": "knowing, or, with respect to civil remedies under section 1203, having reasonable grounds to know, that it will induce, enable, facilitate, or conceal an infringement of any right under this title."
+      },
+      {
+       "type": "add",
+       "text": "(c) Definition.-As used in this section, the term \"copyright management information\" means any of the following information conveyed in connection with copies or phonorecords of a work or performances or displays of a work, including in digital form, except that such term does not include any personally identifying information about a user of a work or of a copy, phonorecord, performance, or display of a work:"
+      },
+      {
+       "type": "add",
+       "text": "(1) The title and other information identifying the work, including the information set forth on a notice of copyright."
+      },
+      {
+       "type": "add",
+       "text": "(2) The name of, and other identifying information about, the author of a work."
+      },
+      {
+       "type": "add",
+       "text": "(3) The name of, and other identifying information about, the copyright owner of the work, including the information set forth in a notice of copyright."
+      },
+      {
+       "type": "add",
+       "text": "(4) With the exception of public performances of works by radio and television broadcast stations, the name of, and other identifying information about, a performer whose performance is fixed in a work other than an audiovisual work."
+      },
+      {
+       "type": "add",
+       "text": "(5) With the exception of public performances of works by radio and television broadcast stations, in the case of an audiovisual work, the name of, and other identifying information about, a writer, performer, or director who is credited in the audiovisual work."
+      },
+      {
+       "type": "add",
+       "text": "(6) Terms and conditions for use of the work."
+      },
+      {
+       "type": "add",
+       "text": "(7) Identifying numbers or symbols referring to such information or links to such information."
+      },
+      {
+       "type": "add",
+       "text": "(8) Such other information as the Register of Copyrights may prescribe by regulation, except that the Register of Copyrights may not require the provision of any information concerning the user of a copyrighted work."
+      },
+      {
+       "type": "add",
+       "text": "(d) Law Enforcement, Intelligence, and Other Government Activities.-This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term \"information security\" means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network."
+      },
+      {
+       "type": "add",
+       "text": "(e) Limitations on Liability.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Analog transmissions.-In the case of an analog transmission, a person who is making transmissions in its capacity as a broadcast station, or as a cable system, or someone who provides programming to such station or system, shall not be liable for a violation of subsection (b) if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) avoiding the activity that constitutes such violation is not technically feasible or would create an undue financial hardship on such person; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) such person did not intend, by engaging in such activity, to induce, enable, facilitate, or conceal infringement of a right under this title."
+      },
+      {
+       "type": "add",
+       "text": "(2) Digital transmissions.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) If a digital transmission standard for the placement of copyright management information for a category or works is set in a voluntary, consensus standard-setting process involving a representative cross-section of broadcast stations or cable systems and copyright owners of a category of works that are intended for public performance by such stations or systems, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to the particular copyright management information addressed by such standard if-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the placement of such information by someone other than such person is not in accordance with such standard; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title."
+      },
+      {
+       "type": "add",
+       "text": "(B) Until a digital transmission standard has been set pursuant to subparagraph (A) with respect to the placement of copyright management information for a category of works, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to such copyright management information, if the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title, and if-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the transmission of such information by such person would result in a perceptible visual or aural degradation of the digital signal; or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the transmission of such information by such person would conflict with-"
+      },
+      {
+       "type": "add",
+       "text": "(I) an applicable government regulation relating to transmission of information in a digital signal;"
+      },
+      {
+       "type": "add",
+       "text": "(II) an applicable industry-wide standard relating to the transmission of information in a digital signal that was adopted by a voluntary consensus standards body prior to the effective date of this chapter; or"
+      },
+      {
+       "type": "add",
+       "text": "(III) an applicable industry-wide standard relating to the transmission of information in a digital signal that was adopted in a voluntary, consensus standards-setting process open to participation by a representative cross-section of broadcast stations or cable systems and copyright owners of a category of works that are intended for public performance by such stations or systems."
+      },
+      {
+       "type": "add",
+       "text": "(3) Definitions.-As used in this subsection-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the term \"broadcast station\" has the meaning given that term in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and"
+      },
+      {
+       "type": "add",
+       "text": "(B) the term \"cable system\" has the meaning given that term in section 602 of the Communications Act of 1934 (47 U.S.C. 522)."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "add",
+       "text": "title I, \u00a7103(a), Oct. 28, 1998, 112 Stat. 2872"
+      },
+      {
+       "type": "add",
+       "text": "; amended"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 106\u201344,"
+      },
+      {
+       "type": "add",
+       "text": "\u00a71(e), Aug. 5, 1999, 113 Stat. 222"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1301.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1301"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71301. Designs protected"
+      },
+      {
+       "type": "add",
+       "text": "(a) Designs Protected.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) In general.-The designer or other owner of an original design of a useful article which makes the article attractive or distinctive in appearance to the purchasing or using public may secure the protection provided by this chapter upon complying with and subject to this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(2) Vessel features.-The design of a vessel hull, deck, or combination of a hull and deck, including a plug or mold, is subject to protection under this chapter, notwithstanding section 1302(4)."
+      },
+      {
+       "type": "add",
+       "text": "(3) Exceptions.-Department of Defense rights in a registered design under this chapter, including the right to build to such registered design, shall be determined solely by operation of section 2320 of title 10 or by the instrument under which the design was developed for the United States Government."
+      },
+      {
+       "type": "add",
+       "text": "(b) Definitions.-For the purpose of this chapter, the following terms have the following meanings:"
+      },
+      {
+       "type": "add",
+       "text": "(1) A design is \"original\" if it is the result of the designer's creative endeavor that provides a distinguishable variation over prior work pertaining to similar articles which is more than merely trivial and has not been copied from another source."
+      },
+      {
+       "type": "add",
+       "text": "(2) A \"useful article\" is a vessel hull or deck, including a plug or mold, which in normal use has an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information. An article which normally is part of a useful article shall be deemed to be a useful article."
+      },
+      {
+       "type": "add",
+       "text": "(3) A \"vessel\" is a craft-"
+      },
+      {
+       "type": "add",
+       "text": "(A) that is designed and capable of independently steering a course on or through water through its own means of propulsion; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) that is designed and capable of carrying and transporting one or more passengers."
+      },
+      {
+       "type": "add",
+       "text": "(4) A \"hull\" is the exterior frame or body of a vessel, exclusive of the deck, superstructure, masts, sails, yards, rigging, hardware, fixtures, and other attachments."
+      },
+      {
+       "type": "add",
+       "text": "(5) A \"plug\" means a device or model used to make a mold for the purpose of exact duplication, regardless of whether the device or model has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information."
+      },
+      {
+       "type": "add",
+       "text": "(6) A \"mold\" means a matrix or form in which a substance for material is used, regardless of whether the matrix or form has an intrinsic utilitarian function that is not only to portray the appearance of the product or to convey information."
+      },
+      {
+       "type": "add",
+       "text": "(7) A \"deck\" is the horizontal surface of a vessel that covers the hull, including exterior cabin and cockpit surfaces, and exclusive of masts, sails, yards, rigging, hardware, fixtures, and other attachments."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/411.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 411"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7411. Registration and civil infringement actions"
+      },
+      {
+       "type": "del",
+       "text": "(a) Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b),1 no civil action for infringement of the copyright in any  work shall be instituted until  registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute a civil action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shall not deprive the court of jurisdiction to determine that issue."
+      },
+      {
+       "type": "add",
+       "text": "(a) Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b),1 no civil action for infringement of the copyright in any United States work shall be instituted until  registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute a civil action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shall not deprive the court of jurisdiction to determine that issue."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) A certificate of registration satisfies the requirements of this section and section 412, regardless of whether the certificate contains any inaccurate information, unless-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) the inaccurate information was included on the application for copyright registration with knowledge that it was inaccurate; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the inaccuracy of the information, if known, would have caused the Register of Copyrights to refuse registration."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/507.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 507"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7507. Limitations on actions"
+      },
+      {
+       "type": "del",
+       "text": "(a) Criminal Proceedings.-No criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose."
+      },
+      {
+       "type": "add",
+       "text": "(a) Criminal Proceedings.-Except as expressly provided otherwise in this title, no criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Civil Actions.-No civil action shall be maintained under the provisions of this title unless it is commenced within three years after the claim accrued."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/512.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 512"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7512. Limitations on liability relating to material online"
+      },
+      {
+       "type": "add",
+       "text": "(a) Transitory Digital Network Communications.-A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider's transmitting, routing, or providing connections for, material through a system or network controlled or operated by or for the service provider, or by reason of the intermediate and transient storage of that material in the course of such transmitting, routing, or providing connections, if-"
+      },
+      {
+       "type": "add",
+       "text": "(1) the transmission of the material was initiated by or at the direction of a person other than the service provider;"
+      },
+      {
+       "type": "add",
+       "text": "(2) the transmission, routing, provision of connections, or storage is carried out through an automatic technical process without selection of the material by the service provider;"
+      },
+      {
+       "type": "add",
+       "text": "(3) the service provider does not select the recipients of the material except as an automatic response to the request of another person;"
+      },
+      {
+       "type": "add",
+       "text": "(4) no copy of the material made by the service provider in the course of such intermediate or transient storage is maintained on the system or network in a manner ordinarily accessible to anyone other than anticipated recipients, and no such copy is maintained on the system or network in a manner ordinarily accessible to such anticipated recipients for a longer period than is reasonably necessary for the transmission, routing, or provision of connections; and"
+      },
+      {
+       "type": "add",
+       "text": "(5) the material is transmitted through the system or network without modification of its content."
+      },
+      {
+       "type": "add",
+       "text": "(b) System Caching.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Limitation on liability.-A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the intermediate and temporary storage of material on a system or network controlled or operated by or for the service provider in a case in which-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the material is made available online by a person other than the service provider;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the material is transmitted from the person described in subparagraph (A) through the system or network to a person other than the person described in subparagraph (A) at the direction of that other person; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) the storage is carried out through an automatic technical process for the purpose of making the material available to users of the system or network who, after the material is transmitted as described in subparagraph (B), request access to the material from the person described in subparagraph (A),"
+      },
+      {
+       "type": "add",
+       "text": "if the conditions set forth in paragraph (2) are met."
+      },
+      {
+       "type": "add",
+       "text": "(2) Conditions.-The conditions referred to in paragraph (1) are that-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the material described in paragraph (1) is transmitted to the subsequent users described in paragraph (1)(C) without modification to its content from the manner in which the material was transmitted from the person described in paragraph (1)(A);"
+      },
+      {
+       "type": "add",
+       "text": "(B) the service provider described in paragraph (1) complies with rules concerning the refreshing, reloading, or other updating of the material when specified by the person making the material available online in accordance with a generally accepted industry standard data communications protocol for the system or network through which that person makes the material available, except that this subparagraph applies only if those rules are not used by the person described in paragraph (1)(A) to prevent or unreasonably impair the intermediate storage to which this subsection applies;"
+      },
+      {
+       "type": "add",
+       "text": "(C) the service provider does not interfere with the ability of technology associated with the material to return to the person described in paragraph (1)(A) the information that would have been available to that person if the material had been obtained by the subsequent users described in paragraph (1)(C) directly from that person, except that this subparagraph applies only if that technology-"
+      },
+      {
+       "type": "add",
+       "text": "(i) does not significantly interfere with the performance of the provider's system or network or with the intermediate storage of the material;"
+      },
+      {
+       "type": "add",
+       "text": "(ii) is consistent with generally accepted industry standard communications protocols; and"
+      },
+      {
+       "type": "add",
+       "text": "(iii) does not extract information from the provider's system or network other than the information that would have been available to the person described in paragraph (1)(A) if the subsequent users had gained access to the material directly from that person;"
+      },
+      {
+       "type": "add",
+       "text": "(D) if the person described in paragraph (1)(A) has in effect a condition that a person must meet prior to having access to the material, such as a condition based on payment of a fee or provision of a password or other information, the service provider permits access to the stored material in significant part only to users of its system or network that have met those conditions and only in accordance with those conditions; and"
+      },
+      {
+       "type": "add",
+       "text": "(E) if the person described in paragraph (1)(A) makes that material available online without the authorization of the copyright owner of the material, the service provider responds expeditiously to remove, or disable access to, the material that is claimed to be infringing upon notification of claimed infringement as described in subsection (c)(3), except that this subparagraph applies only if-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the material has previously been removed from the originating site or access to it has been disabled, or a court has ordered that the material be removed from the originating site or that access to the material on the originating site be disabled; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the party giving the notification includes in the notification a statement confirming that the material has been removed from the originating site or access to it has been disabled or that a court has ordered that the material be removed from the originating site or that access to the material on the originating site be disabled."
+      },
+      {
+       "type": "add",
+       "text": "(c) Information Residing on Systems or Networks At Direction of Users.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) In general.-A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the storage at the direction of a user of material that resides on a system or network controlled or operated by or for the service provider, if the service provider-"
+      },
+      {
+       "type": "add",
+       "text": "(A)(i) does not have actual knowledge that the material or an activity using the material on the system or network is infringing;"
+      },
+      {
+       "type": "add",
+       "text": "(ii) in the absence of such actual knowledge, is not aware of facts or circumstances from which infringing activity is apparent; or"
+      },
+      {
+       "type": "add",
+       "text": "(iii) upon obtaining such knowledge or awareness, acts expeditiously to remove, or disable access to, the material;"
+      },
+      {
+       "type": "add",
+       "text": "(B) does not receive a financial benefit directly attributable to the infringing activity, in a case in which the service provider has the right and ability to control such activity; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) upon notification of claimed infringement as described in paragraph (3), responds expeditiously to remove, or disable access to, the material that is claimed to be infringing or to be the subject of infringing activity."
+      },
+      {
+       "type": "add",
+       "text": "(2) Designated agent.-The limitations on liability established in this subsection apply to a service provider only if the service provider has designated an agent to receive notifications of claimed infringement described in paragraph (3), by making available through its service, including on its website in a location accessible to the public, and by providing to the Copyright Office, substantially the following information:"
+      },
+      {
+       "type": "add",
+       "text": "(A) the name, address, phone number, and electronic mail address of the agent."
+      },
+      {
+       "type": "add",
+       "text": "(B) other contact information which the Register of Copyrights may deem appropriate."
+      },
+      {
+       "type": "add",
+       "text": "The Register of Copyrights shall maintain a current directory of agents available to the public for inspection, including through the Internet, and may require payment of a fee by service providers to cover the costs of maintaining the directory."
+      },
+      {
+       "type": "add",
+       "text": "(3) Elements of notification.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) To be effective under this subsection, a notification of claimed infringement must be a written communication provided to the designated agent of a service provider that includes substantially the following:"
+      },
+      {
+       "type": "add",
+       "text": "(i) A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Identification of the copyrighted work claimed to have been infringed, or, if multiple copyrighted works at a single online site are covered by a single notification, a representative list of such works at that site."
+      },
+      {
+       "type": "add",
+       "text": "(iii) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate the material."
+      },
+      {
+       "type": "add",
+       "text": "(iv) Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted."
+      },
+      {
+       "type": "add",
+       "text": "(v) A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law."
+      },
+      {
+       "type": "add",
+       "text": "(vi) A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed."
+      },
+      {
+       "type": "add",
+       "text": "(B)(i) Subject to clause (ii), a notification from a copyright owner or from a person authorized to act on behalf of the copyright owner that fails to comply substantially with the provisions of subparagraph (A) shall not be considered under paragraph (1)(A) in determining whether a service provider has actual knowledge or is aware of facts or circumstances from which infringing activity is apparent."
+      },
+      {
+       "type": "add",
+       "text": "(ii) In a case in which the notification that is provided to the service provider's designated agent fails to comply substantially with all the provisions of subparagraph (A) but substantially complies with clauses (ii), (iii), and (iv) of subparagraph (A), clause (i) of this subparagraph applies only if the service provider promptly attempts to contact the person making the notification or takes other reasonable steps to assist in the receipt of notification that substantially complies with all the provisions of subparagraph (A)."
+      },
+      {
+       "type": "add",
+       "text": "(d) Information Location Tools.-A service provider shall not be liable for monetary relief, or, except as provided in subsection (j), for injunctive or other equitable relief, for infringement of copyright by reason of the provider referring or linking users to an online location containing infringing material or infringing activity, by using information location tools, including a directory, index, reference, pointer, or hypertext link, if the service provider-"
+      },
+      {
+       "type": "add",
+       "text": "(1)(A) does not have actual knowledge that the material or activity is infringing;"
+      },
+      {
+       "type": "add",
+       "text": "(B) in the absence of such actual knowledge, is not aware of facts or circumstances from which infringing activity is apparent; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) upon obtaining such knowledge or awareness, acts expeditiously to remove, or disable access to, the material;"
+      },
+      {
+       "type": "add",
+       "text": "(2) does not receive a financial benefit directly attributable to the infringing activity, in a case in which the service provider has the right and ability to control such activity; and"
+      },
+      {
+       "type": "add",
+       "text": "(3) upon notification of claimed infringement as described in subsection (c)(3), responds expeditiously to remove, or disable access to, the material that is claimed to be infringing or to be the subject of infringing activity, except that, for purposes of this paragraph, the information described in subsection (c)(3)(A)(iii) shall be identification of the reference or link, to material or activity claimed to be infringing, that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate that reference or link."
+      },
+      {
+       "type": "add",
+       "text": "(e) Limitation on Liability of Nonprofit Educational Institutions.-(1) When a public or other nonprofit institution of higher education is a service provider, and when a faculty member or graduate student who is an employee of such institution is performing a teaching or research function, for the purposes of subsections (a) and (b) such faculty member or graduate student shall be considered to be a person other than the institution, and for the purposes of subsections (c) and (d) such faculty member's or graduate student's knowledge or awareness of his or her infringing activities shall not be attributed to the institution, if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) such faculty member's or graduate student's infringing activities do not involve the provision of online access to instructional materials that are or were required or recommended, within the preceding 3-year period, for a course taught at the institution by such faculty member or graduate student;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the institution has not, within the preceding 3-year period, received more than two notifications described in subsection (c)(3) of claimed infringement by such faculty member or graduate student, and such notifications of claimed infringement were not actionable under subsection (f); and"
+      },
+      {
+       "type": "add",
+       "text": "(C) the institution provides to all users of its system or network informational materials that accurately describe, and promote compliance with, the laws of the United States relating to copyright."
+      },
+      {
+       "type": "add",
+       "text": "(2) For the purposes of this subsection, the limitations on injunctive relief contained in subsections (j)(2) and (j)(3), but not those in (j)(1), shall apply."
+      },
+      {
+       "type": "add",
+       "text": "(f) Misrepresentations.-Any person who knowingly materially misrepresents under this section-"
+      },
+      {
+       "type": "add",
+       "text": "(1) that material or activity is infringing, or"
+      },
+      {
+       "type": "add",
+       "text": "(2) that material or activity was removed or disabled by mistake or misidentification,"
+      },
+      {
+       "type": "add",
+       "text": "shall be liable for any damages, including costs and attorneys' fees, incurred by the alleged infringer, by any copyright owner or copyright owner's authorized licensee, or by a service provider, who is injured by such misrepresentation, as the result of the service provider relying upon such misrepresentation in removing or disabling access to the material or activity claimed to be infringing, or in replacing the removed material or ceasing to disable access to it."
+      },
+      {
+       "type": "add",
+       "text": "(g) Replacement of Removed or Disabled Material and Limitation on Other Liability.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) No liability for taking down generally.-Subject to paragraph (2), a service provider shall not be liable to any person for any claim based on the service provider's good faith disabling of access to, or removal of, material or activity claimed to be infringing or based on facts or circumstances from which infringing activity is apparent, regardless of whether the material or activity is ultimately determined to be infringing."
+      },
+      {
+       "type": "add",
+       "text": "(2) Exception.-Paragraph (1) shall not apply with respect to material residing at the direction of a subscriber of the service provider on a system or network controlled or operated by or for the service provider that is removed, or to which access is disabled by the service provider, pursuant to a notice provided under subsection (c)(1)(C), unless the service provider-"
+      },
+      {
+       "type": "add",
+       "text": "(A) takes reasonable steps promptly to notify the subscriber that it has removed or disabled access to the material;"
+      },
+      {
+       "type": "add",
+       "text": "(B) upon receipt of a counter notification described in paragraph (3), promptly provides the person who provided the notification under subsection (c)(1)(C) with a copy of the counter notification, and informs that person that it will replace the removed material or cease disabling access to it in 10 business days; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) replaces the removed material and ceases disabling access to it not less than 10, nor more than 14, business days following receipt of the counter notice, unless its designated agent first receives notice from the person who submitted the notification under subsection (c)(1)(C) that such person has filed an action seeking a court order to restrain the subscriber from engaging in infringing activity relating to the material on the service provider's system or network."
+      },
+      {
+       "type": "add",
+       "text": "(3) Contents of counter notification.-To be effective under this subsection, a counter notification must be a written communication provided to the service provider's designated agent that includes substantially the following:"
+      },
+      {
+       "type": "add",
+       "text": "(A) A physical or electronic signature of the subscriber."
+      },
+      {
+       "type": "add",
+       "text": "(B) Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or access to it was disabled."
+      },
+      {
+       "type": "add",
+       "text": "(C) A statement under penalty of perjury that the subscriber has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled."
+      },
+      {
+       "type": "add",
+       "text": "(D) The subscriber's name, address, and telephone number, and a statement that the subscriber consents to the jurisdiction of Federal District Court for the judicial district in which the address is located, or if the subscriber's address is outside of the United States, for any judicial district in which the service provider may be found, and that the subscriber will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person."
+      },
+      {
+       "type": "add",
+       "text": "(4) Limitation on other liability.-A service provider's compliance with paragraph (2) shall not subject the service provider to liability for copyright infringement with respect to the material identified in the notice provided under subsection (c)(1)(C)."
+      },
+      {
+       "type": "add",
+       "text": "(h) Subpoena To Identify Infringer.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Request.-A copyright owner or a person authorized to act on the owner's behalf may request the clerk of any United States district court to issue a subpoena to a service provider for identification of an alleged infringer in accordance with this subsection."
+      },
+      {
+       "type": "add",
+       "text": "(2) Contents of request.-The request may be made by filing with the clerk-"
+      },
+      {
+       "type": "add",
+       "text": "(A) a copy of a notification described in subsection (c)(3)(A);"
+      },
+      {
+       "type": "add",
+       "text": "(B) a proposed subpoena; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) a sworn declaration to the effect that the purpose for which the subpoena is sought is to obtain the identity of an alleged infringer and that such information will only be used for the purpose of protecting rights under this title."
+      },
+      {
+       "type": "add",
+       "text": "(3) Contents of subpoena.-The subpoena shall authorize and order the service provider receiving the notification and the subpoena to expeditiously disclose to the copyright owner or person authorized by the copyright owner information sufficient to identify the alleged infringer of the material described in the notification to the extent such information is available to the service provider."
+      },
+      {
+       "type": "add",
+       "text": "(4) Basis for granting subpoena.-If the notification filed satisfies the provisions of subsection (c)(3)(A), the proposed subpoena is in proper form, and the accompanying declaration is properly executed, the clerk shall expeditiously issue and sign the proposed subpoena and return it to the requester for delivery to the service provider."
+      },
+      {
+       "type": "add",
+       "text": "(5) Actions of service provider receiving subpoena.-Upon receipt of the issued subpoena, either accompanying or subsequent to the receipt of a notification described in subsection (c)(3)(A), the service provider shall expeditiously disclose to the copyright owner or person authorized by the copyright owner the information required by the subpoena, notwithstanding any other provision of law and regardless of whether the service provider responds to the notification."
+      },
+      {
+       "type": "add",
+       "text": "(6) Rules applicable to subpoena.-Unless otherwise provided by this section or by applicable rules of the court, the procedure for issuance and delivery of the subpoena, and the remedies for noncompliance with the subpoena, shall be governed to the greatest extent practicable by those provisions of the Federal Rules of Civil Procedure governing the issuance, service, and enforcement of a subpoena duces tecum."
+      },
+      {
+       "type": "add",
+       "text": "(i) Conditions for Eligibility.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Accommodation of technology.-The limitations on liability established by this section shall apply to a service provider only if the service provider-"
+      },
+      {
+       "type": "add",
+       "text": "(A) has adopted and reasonably implemented, and informs subscribers and account holders of the service provider's system or network of, a policy that provides for the termination in appropriate circumstances of subscribers and account holders of the service provider's system or network who are repeat infringers; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) accommodates and does not interfere with standard technical measures."
+      },
+      {
+       "type": "add",
+       "text": "(2) Definition.-As used in this subsection, the term \"standard technical measures\" means technical measures that are used by copyright owners to identify or protect copyrighted works and-"
+      },
+      {
+       "type": "add",
+       "text": "(A) have been developed pursuant to a broad consensus of copyright owners and service providers in an open, fair, voluntary, multi-industry standards process;"
+      },
+      {
+       "type": "add",
+       "text": "(B) are available to any person on reasonable and nondiscriminatory terms; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) do not impose substantial costs on service providers or substantial burdens on their systems or networks."
+      },
+      {
+       "type": "add",
+       "text": "(j) Injunctions.-The following rules shall apply in the case of any application for an injunction under section 502 against a service provider that is not subject to monetary remedies under this section:"
+      },
+      {
+       "type": "add",
+       "text": "(1) Scope of relief.-(A) With respect to conduct other than that which qualifies for the limitation on remedies set forth in subsection (a), the court may grant injunctive relief with respect to a service provider only in one or more of the following forms:"
+      },
+      {
+       "type": "add",
+       "text": "(i) An order restraining the service provider from providing access to infringing material or activity residing at a particular online site on the provider's system or network."
+      },
+      {
+       "type": "add",
+       "text": "(ii) An order restraining the service provider from providing access to a subscriber or account holder of the service provider's system or network who is engaging in infringing activity and is identified in the order, by terminating the accounts of the subscriber or account holder that are specified in the order."
+      },
+      {
+       "type": "add",
+       "text": "(iii) Such other injunctive relief as the court may consider necessary to prevent or restrain infringement of copyrighted material specified in the order of the court at a particular online location, if such relief is the least burdensome to the service provider among the forms of relief comparably effective for that purpose."
+      },
+      {
+       "type": "add",
+       "text": "(B) If the service provider qualifies for the limitation on remedies described in subsection (a), the court may only grant injunctive relief in one or both of the following forms:"
+      },
+      {
+       "type": "add",
+       "text": "(i) An order restraining the service provider from providing access to a subscriber or account holder of the service provider's system or network who is using the provider's service to engage in infringing activity and is identified in the order, by terminating the accounts of the subscriber or account holder that are specified in the order."
+      },
+      {
+       "type": "add",
+       "text": "(ii) An order restraining the service provider from providing access, by taking reasonable steps specified in the order to block access, to a specific, identified, online location outside the United States."
+      },
+      {
+       "type": "add",
+       "text": "(2) Considerations.-The court, in considering the relevant criteria for injunctive relief under applicable law, shall consider-"
+      },
+      {
+       "type": "add",
+       "text": "(A) whether such an injunction, either alone or in combination with other such injunctions issued against the same service provider under this subsection, would significantly burden either the provider or the operation of the provider's system or network;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the magnitude of the harm likely to be suffered by the copyright owner in the digital network environment if steps are not taken to prevent or restrain the infringement;"
+      },
+      {
+       "type": "add",
+       "text": "(C) whether implementation of such an injunction would be technically feasible and effective, and would not interfere with access to noninfringing material at other online locations; and"
+      },
+      {
+       "type": "add",
+       "text": "(D) whether other less burdensome and comparably effective means of preventing or restraining access to the infringing material are available."
+      },
+      {
+       "type": "add",
+       "text": "(3) Notice and ex parte orders.-Injunctive relief under this subsection shall be available only after notice to the service provider and an opportunity for the service provider to appear are provided, except for orders ensuring the preservation of evidence or other orders having no material adverse effect on the operation of the service provider's communications network."
+      },
+      {
+       "type": "add",
+       "text": "(k) Definitions.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Service provider.-(A) As used in subsection (a), the term \"service provider\" means an entity offering the transmission, routing, or providing of connections for digital online communications, between or among points specified by a user, of material of the user's choosing, without modification to the content of the material as sent or received."
+      },
+      {
+       "type": "add",
+       "text": "(B) As used in this section, other than subsection (a), the term \"service provider\" means a provider of online services or network access, or the operator of facilities therefor, and includes an entity described in subparagraph (A)."
+      },
+      {
+       "type": "add",
+       "text": "(2) Monetary relief.-As used in this section, the term \"monetary relief\" means damages, costs, attorneys' fees, and any other form of monetary payment."
+      },
+      {
+       "type": "add",
+       "text": "(l) Other Defenses Not Affected.-The failure of a service provider's conduct to qualify for limitation of liability under this section shall not bear adversely upon the consideration of a defense by the service provider that the service provider's conduct is not infringing under this title or any other defense."
+      },
+      {
+       "type": "add",
+       "text": "(m) Protection of Privacy.-Nothing in this section shall be construed to condition the applicability of subsections (a) through (d) on-"
+      },
+      {
+       "type": "add",
+       "text": "(1) a service provider monitoring its service or affirmatively seeking facts indicating infringing activity, except to the extent consistent with a standard technical measure complying with the provisions of subsection (i); or"
+      },
+      {
+       "type": "add",
+       "text": "(2) a service provider gaining access to, removing, or disabling access to material in cases in which such conduct is prohibited by law."
+      },
+      {
+       "type": "add",
+       "text": "(n) Construction.-Subsections (a), (b), (c), and (d) describe separate and distinct functions for purposes of applying this section. Whether a service provider qualifies for the limitation on liability in any one of those subsections shall be based solely on the criteria in that subsection, and shall not affect a determination of whether that service provider qualifies for the limitations on liability under any other such subsection."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/701.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7701. The Copyright Office: General responsibilities and organization"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) All administrative functions and duties under this title, except as otherwise specified, are the responsibility of the Register of Copyrights as director of the Copyright Office of the Library of Congress. The Register of Copyrights, together with the subordinate officers and employees of the Copyright Office, shall be appointed by the Librarian of Congress, and shall act under the Librarian's general direction and supervision."
+      },
+      {
+       "type": "del",
+       "text": "(b) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, to authenticate all certified documents issued by the Copyright Office."
+      },
+      {
+       "type": "del",
+       "text": "(c) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress."
+      },
+      {
+       "type": "del",
+       "text": "(d) The Register of Copyrights shall be compensated at the rate of pay in effect for level IV of the Executive Schedule under section 5315 of title 5. Each Associate Register of Copyrights shall be paid at a rate not to exceed the maximum annual rate of basic pay payable for GS\u201318 of the General Schedule under section 5332 of title 5."
+      },
+      {
+       "type": "add",
+       "text": "(b) In addition to the functions and duties set out elsewhere in this chapter, the Register of Copyrights shall perform the following functions:"
+      },
+      {
+       "type": "add",
+       "text": "(1) Advise Congress on national and international issues relating to copyright, other matters arising under this title, and related matters."
+      },
+      {
+       "type": "add",
+       "text": "(2) Provide information and assistance to Federal departments and agencies and the Judiciary on national and international issues relating to copyright, other matters arising under this title, and related matters."
+      },
+      {
+       "type": "add",
+       "text": "(3) Participate in meetings of international intergovernmental organizations and meetings with foreign government officials relating to copyright, other matters arising under this title, and related matters, including as a member of United States delegations as authorized by the appropriate Executive branch authority."
+      },
+      {
+       "type": "add",
+       "text": "(4) Conduct studies and programs regarding copyright, other matters arising under this title, and related matters, the administration of the Copyright Office, or any function vested in the Copyright Office by law, including educational programs conducted cooperatively with foreign intellectual property offices and international intergovernmental organizations."
+      },
+      {
+       "type": "add",
+       "text": "(5) Perform such other functions as Congress may direct, or as may be appropriate in furtherance of the functions and duties specifically set forth in this title."
+      },
+      {
+       "type": "add",
+       "text": "(c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, to authenticate all certified documents issued by the Copyright Office."
+      },
+      {
+       "type": "add",
+       "text": "(d) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) Except as provided by section 706(b) and the regulations issued thereunder, all actions taken by the Register of Copyrights under this title are subject to the provisions of the Administrative Procedure Act of June 11, 1946, as amended (c. 324, 60 Stat. 237, title 5, United States Code, Chapter 5, Subchapter II and Chapter 7)."
+      },
+      {
+       "type": "add",
+       "text": "(f) The Register of Copyrights shall be compensated at the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. Each Associate Register of Copyrights shall be paid at a rate not to exceed the maximum annual rate of basic pay payable for GS\u201318 of the General Schedule under section 5332 of title 5."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

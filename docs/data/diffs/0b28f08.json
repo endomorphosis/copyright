@@ -1,0 +1,494 @@
+{
+ "hash": "0b28f08",
+ "act_name": "Copyright Fees and Technical Amendments Act of 1989",
+ "files": [
+  {
+   "path": "sections/106.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 106"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7106. Exclusive rights in copyrighted works"
+      },
+      {
+       "type": "ctx",
+       "text": "Subject to sections 107 through 119, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) to reproduce the copyrighted work in copies or phonorecords;"
+      }
+     ]
+    },
+    {
+     "old_start": 6,
+     "new_start": 8,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and motion pictures and other audiovisual works, to perform the copyrighted work publicly;"
+      },
+      {
+       "type": "ctx",
+       "text": "(5) in the case of literary, musical, dramatic, and choreographic works, pantomimes, and pictorial, graphic, or sculptural works, including the individual images of a motion picture or other audiovisual work, to display the copyrighted work publicly; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(6) in the case of sound recordings, to perform the copyrighted work publicly by means of a digital audio transmission."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2546"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 101\u2013318,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(d), July 3, 1990, 104 Stat. 288"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 101\u2013650,"
+      },
+      {
+       "type": "del",
+       "text": "title VII, \u00a7704(b)(2), Dec. 1, 1990, 104 Stat. 5134"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 104\u201339,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a72, Nov. 1, 1995, 109 Stat. 336"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u201344,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a71(g)(2), Aug. 5, 1999, 113 Stat. 222"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 107\u2013273,"
+      },
+      {
+       "type": "del",
+       "text": "div. C, title III, \u00a713210(4)(A), Nov. 2, 2002, 116 Stat. 1909"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 18,
+     "new_start": 18,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(3) Notwithstanding the provisions of paragraph (1) of this subsection and subject to the provisions of subsection (e) of this section, the secondary transmission to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcements transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the cable system through changes, deletions, or additions, except for the alteration, deletion, or substitution of commercial advertisements performed by those engaged in television commercial advertising market research: Provided, That the research company has obtained the prior consent of the advertiser who has purchased the original commercial advertisement, the television station broadcasting that commercial advertisement, and the cable system performing the secondary transmission: And provided further, That such commercial alteration, deletion, or substitution is not performed for the purpose of deriving income from the sale of that commercial time."
+      },
+      {
+       "type": "ctx",
+       "text": "(4) Notwithstanding the provisions of paragraph (1) of this subsection, the secondary transmission to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by an appropriate governmental authority of Canada or Mexico is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if (A) with respect to Canadian signals, the community of the cable system is located more than 150 miles from the United States-Canadian border and is also located south of the forty-second parallel of latitude, or (B) with respect to Mexican signals, the secondary transmission is made by a cable system which received the primary transmission by means other than direct interception of a free space radio wave emitted by such broadcast television station, unless prior to April 15, 1976, such cable system was actually carrying, or was specifically authorized to carry, the signal of such foreign station on the system pursuant to the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Statutory License for Secondary Transmissions by Cable Systems.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Statement of account and royalty fees.-Subject to paragraph (5), a cable system whose secondary transmissions have been subject to statutory licensing under subsection (c) shall, on a semiannual basis, deposit with the Register of Copyrights, in accordance with requirements that the Register shall, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted), prescribe by regulation the following:"
+      },
+      {
+       "type": "del",
+       "text": "(A) A statement of account, covering the six months next preceding, specifying the number of channels on which the cable system made secondary transmissions for private home viewing to its subscribers, the names and locations of all primary transmitters whose transmissions were further transmitted by the cable system, the total number of subscribers, the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, and such other data as the Register of Copyrights may, after consultation with the Copyright Royalty Tribunal (if and when the Tribunal has been constituted), from time to time prescribe by regulation. In determining the total number of subscribers and the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, the system shall not include subscribers and amounts collected from subscribers receiving secondary transmissions pursuant to section 119. Such statement shall also include a special statement of account covering any non-network television programming that was carried by the cable system in whole or in part beyond the local service area of the primary transmitter, under rules, regulations, or authorizations of the Federal Communications Commission permitting the substitution or addition of signals under certain circumstances, together with logs showing the times, dates, stations, and programs involved in such substituted or added carriage."
+      },
+      {
+       "type": "add",
+       "text": "(1) Statement of account and royalty fees.-Subject to paragraph (5), a cable system whose secondary transmissions have been subject to statutory licensing under subsection (c) shall, on a semiannual basis, deposit with the Register of Copyrights, in accordance with requirements that the Register shall prescribe by regulation the following:"
+      },
+      {
+       "type": "add",
+       "text": "(A) A statement of account, covering the six months next preceding, specifying the number of channels on which the cable system made secondary transmissions for private home viewing to its subscribers, the names and locations of all primary transmitters whose transmissions were further transmitted by the cable system, the total number of subscribers, the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, and such other data as the Register of Copyrights may from time to time prescribe by regulation. In determining the total number of subscribers and the gross amounts paid to the cable system for the basic service of providing secondary transmissions of primary broadcast transmitters, the system shall not include subscribers and amounts collected from subscribers receiving secondary transmissions pursuant to section 119. Such statement shall also include a special statement of account covering any non-network television programming that was carried by the cable system in whole or in part beyond the local service area of the primary transmitter, under rules, regulations, or authorizations of the Federal Communications Commission permitting the substitution or addition of signals under certain circumstances, together with logs showing the times, dates, stations, and programs involved in such substituted or added carriage."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Except in the case of a cable system whose royalty fee is specified in subparagraph (E) or (F), a total royalty fee payable to copyright owners pursuant to paragraph (3) for the period covered by the statement, computed on the basis of specified percentages of the gross receipts from subscribers to the cable service during such period for the basic service of providing secondary transmissions of primary broadcast transmitters, as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) 1.064 percent of such gross receipts for the privilege of further transmitting, beyond the local service area of such primary transmitter, any non-network programming of a primary transmitter in whole or in part, such amount to be applied against the fee, if any, payable pursuant to clauses (ii) through (iv);"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) 1.064 percent of such gross receipts for the first distant signal equivalent;"
+      }
+     ]
+    },
+    {
+     "old_start": 39,
+     "new_start": 39,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(i) 0.5 percent of any gross receipts up to $263,800, regardless of the number of distant signal equivalents, if any; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) 1 percent of any gross receipts in excess of $263,800, but less than $527,600, regardless of the number of distant signal equivalents, if any."
+      },
+      {
+       "type": "ctx",
+       "text": "(G) A filing fee, as determined by the Register of Copyrights pursuant to section 708(a)."
+      },
+      {
+       "type": "del",
+       "text": "(2) Handling of fees.-The Register of Copyrights shall receive all fees (including the filing fee specified in paragraph (1)(G)) deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section, shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Copyright Royalty Tribunal as provided by this title. The Register shall submit to the Copyright Royalty Tribunal, on a semiannual basis, a compilation of all statements of account covering the relevant six-month period provided by clause (1) of this subsection."
+      },
+      {
+       "type": "add",
+       "text": "(2) Handling of fees.-The Register of Copyrights shall receive all fees (including the filing fee specified in paragraph (1)(G)) deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section, shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest by the Librarian of Congress upon authorization by the Librarian of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Distribution of royalty fees to copyright owners.-The royalty fees thus deposited shall, in accordance with the procedures provided by paragraph (4), be distributed to those among the following copyright owners who claim that their works were the subject of secondary transmissions by cable systems during the relevant semiannual period:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) Any such owner whose work was included in a secondary transmission made by a cable system of a non-network television program in whole or in part beyond the local service area of the primary transmitter."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Any such owner whose work was included in a secondary transmission identified in a special statement of account deposited under paragraph (1)(A)."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Any such owner whose work was included in non-network programming consisting exclusively of aural signals carried by a cable system in whole or in part beyond the local service area of the primary transmitter of such programs."
+      },
+      {
+       "type": "ctx",
+       "text": "(4) Procedures for royalty fee distribution.-The royalty fees thus deposited shall be distributed in accordance with the following procedures:"
+      },
+      {
+       "type": "del",
+       "text": "(A) During the month of July in each year, every person claiming to be entitled to statutory license fees for secondary transmissions shall file a claim with the Copyright Royalty Tribunal, in accordance with requirements that the Copyright Royalty Tribunal shall prescribe by regulation. Notwithstanding any provisions of the antitrust laws, for purposes of this clause any claimants may agree among themselves as to the proportionate division of statutory licensing fees among them, may lump their claims together and file them jointly or as a single claim, or may designate a common agent to receive payment on their behalf."
+      },
+      {
+       "type": "del",
+       "text": "(B) After the first day of August of each year, the Copyright Royalty Tribunal shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Tribunal determines that no such controversy exists, it shall, after deducting its reasonable administrative costs under this section, distribute such fees to the copyright owners entitled, or to their designated agents. If the Tribunal finds the existence of a controversy, it shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees."
+      },
+      {
+       "type": "del",
+       "text": "(C) During the pendency of any proceeding under this subsection, the Copyright Royalty Tribunal shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall have discretion to proceed to distribute any amounts that are not in controversy."
+      },
+      {
+       "type": "del",
+       "text": "(5) 3.75 percent rate and syndicated exclusivity surcharge not applicable to multicast streams.-The royalty rates specified in sections 256.2(c) and 256.2(d) of title 37, Code of Federal Regulations (commonly referred to as the \"3.75 percent rate\" and the \"syndicated exclusivity surcharge\", respectively), as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010, as such rates may be adjusted, or such sections redesignated, thereafter by the Copyright Royalty Tribunal, shall not apply to the secondary transmission of a multicast stream."
+      },
+      {
+       "type": "add",
+       "text": "(A) During the month of July in each year, every person claiming to be entitled to statutory license fees for secondary transmissions shall file a claim with the Librarian of Congress, in accordance with requirements that the Librarian of Congress shall prescribe by regulation. Notwithstanding any provisions of the antitrust laws, for purposes of this clause any claimants may agree among themselves as to the proportionate division of statutory licensing fees among them, may lump their claims together and file them jointly or as a single claim, or may designate a common agent to receive payment on their behalf."
+      },
+      {
+       "type": "add",
+       "text": "(B) After the first day of August of each year, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Librarian of Congress determine that no such controversy exists, the Librarian of Congress shall authorize the Librarian of Congress to proceed to distribute such fees to the copyright owners entitled to receive them, or to their designated agents, subject to the deduction of reasonable administrative costs under this section. If the Librarian of Congress find the existence of a controversy, the Librarian of Congress shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees."
+      },
+      {
+       "type": "add",
+       "text": "(C) During the pendency of any proceeding under this subsection, the Librarian of Congress shall have the discretion to authorize the Librarian of Congress to proceed to distribute any amounts that are not in controversy."
+      },
+      {
+       "type": "add",
+       "text": "(5) 3.75 percent rate and syndicated exclusivity surcharge not applicable to multicast streams.-The royalty rates specified in sections 256.2(c) and 256.2(d) of title 37, Code of Federal Regulations (commonly referred to as the \"3.75 percent rate\" and the \"syndicated exclusivity surcharge\", respectively), as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010, as such rates may be adjusted, or such sections redesignated, thereafter by the Librarian of Congress, shall not apply to the secondary transmission of a multicast stream."
+      },
+      {
+       "type": "ctx",
+       "text": "(6) Verification of accounts and fee payments.-The Register of Copyrights shall issue regulations to provide for the confidential verification by copyright owners whose works were embodied in the secondary transmissions of primary transmissions pursuant to this section of the information reported on the semiannual statements of account filed under this subsection for accounting periods beginning on or after January 1, 2010, in order that the auditor designated under subparagraph (A) is able to confirm the correctness of the calculations and royalty payments reported therein. The regulations shall-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) establish procedures for the designation of a qualified independent auditor-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) with exclusive authority to request verification of such a statement of account on behalf of all copyright owners whose works were the subject of secondary transmissions of primary transmissions by the cable system (that deposited the statement) during the accounting period covered by the statement; and"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/704.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 704"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7704. Retention and disposition of articles deposited in Copyright Office"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Upon their deposit in the Copyright Office under sections 407 and 408, all copies, phonorecords, and identifying material, including those deposited in connection with claims that have been refused registration, are the property of the United States Government."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) In the case of published works, all copies, phonorecords, and identifying material deposited are available to the Library of Congress for its collections, or for exchange or transfer to any other library. In the case of unpublished works, the Library is entitled, under regulations that the Register of Copyrights shall prescribe, to select any deposits for its collections or for transfer to the National Archives of the United States or to a Federal records center, as defined in section 2901 of title 44."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The Register of Copyrights is authorized, for specific or general categories of works, to make a facsimile reproduction of all or any part of the material deposited under section 408, and to make such reproduction a part of the Copyright Office records of the registration, before transferring such material to the Library of Congress as provided by subsection (b), or before destroying or otherwise disposing of such material as provided by subsection (d)."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Deposits not selected by the Library under subsection (b), or identifying portions or reproductions of them, shall be retained under the control of the Copyright Office, including retention in Government storage facilities, for the longest period considered practicable and desirable by the Register of Copyrights and the Librarian of Congress. After that period it is within the joint discretion of the Register and the Librarian to order their destruction or other disposition; but, in the case of unpublished works, no deposit shall be knowingly or intentionally destroyed or otherwise disposed of during its term of copyright unless a facsimile reproduction of the entire deposit has been made a part of the Copyright Office records as provided by subsection (c)."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) The depositor of copies, phonorecords, or identifying material under section 408, or the copyright owner of record, may request retention, under the control of the Copyright Office, of one or more of such articles for the full term of copyright in the work. The Register of Copyrights shall prescribe, by regulation, the conditions under which such requests are to be made and granted, and shall fix the fee to be charged under section 708(a)(10) if the request is granted."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2591"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 101\u2013318,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a72(c), July 3, 1990, 104 Stat. 288"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 111\u2013295,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a76(e), Dec. 9, 2010, 124 Stat. 3181"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7708. Copyright Office fees"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) The following fees shall be paid to the Register of Copyrights:"
+      },
+      {
+       "type": "del",
+       "text": "(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;"
+      },
+      {
+       "type": "del",
+       "text": "(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, $6;"
+      },
+      {
+       "type": "del",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407, $2;"
+      },
+      {
+       "type": "del",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document of six pages or less, covering no more than one title, $10; for each page over six and each title over one, 50 cents additional;"
+      },
+      {
+       "type": "del",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to make phonorecords, $6;"
+      },
+      {
+       "type": "del",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of six pages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;"
+      },
+      {
+       "type": "del",
+       "text": "(7) for the issuance, under section 601, of an import statement, $3;"
+      },
+      {
+       "type": "del",
+       "text": "(8) for the issuance, under section 706, of an additional certificate of registration, $4;"
+      },
+      {
+       "type": "del",
+       "text": "(9) for the issuance of any other certification, $4; the Register of Copyrights has discretion, on the basis of their cost, to fix the fees for preparing copies of Copyright Office records, whether they are to be certified or not;"
+      },
+      {
+       "type": "del",
+       "text": "(10) for the making and reporting of a search as provided by section 705, and for any related services, $10 for each hour or fraction of an hour consumed;"
+      },
+      {
+       "type": "del",
+       "text": "(11) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "del",
+       "text": "(b) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "del",
+       "text": "(c) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      },
+      {
+       "type": "add",
+       "text": "(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made, $20;"
+      },
+      {
+       "type": "add",
+       "text": "(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, $12;"
+      },
+      {
+       "type": "add",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407, $4;"
+      },
+      {
+       "type": "add",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document covering not more than one title, $20; for additional titles, $10 for each group of not more than 10 titles;"
+      },
+      {
+       "type": "add",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license, $12;"
+      },
+      {
+       "type": "add",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $20 for a document covering not more than one title; for each additional title, $2;"
+      },
+      {
+       "type": "add",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration, $8;"
+      },
+      {
+       "type": "add",
+       "text": "(8) for the issuance of any other certification, $20 for each hour or fraction of an hour consumed with respect thereto;"
+      },
+      {
+       "type": "add",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services, $20 for each hour or fraction of an hour consumed with respect thereto; and"
+      },
+      {
+       "type": "add",
+       "text": "(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "add",
+       "text": "The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation."
+      },
+      {
+       "type": "add",
+       "text": "(b) In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized."
+      },
+      {
+       "type": "add",
+       "text": "(c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "add",
+       "text": "(d) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

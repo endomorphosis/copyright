@@ -48,12 +48,6 @@ const App = {
     } else if (parts[0] === 'compare' && parts[1]) {
       this.showView('view-compare');
       Compare.render(parts[1], parts[2] || null, parts[3] || null);
-    } else if (parts[0] === 'ramseyer' && parts[1]) {
-      this.showView('view-ramseyer');
-      Ramseyer.render(parts[1], parts[2] || null, parts[3] || null);
-    } else if (parts[0] === 'asof') {
-      this.showView('view-asof');
-      AsOfView.render(parts[1] || null);
     } else {
       this.showView('view-home');
       HomeView.render();
@@ -98,7 +92,6 @@ const HomeView = {
         <h2>235 Years of Copyright Law</h2>
         <p>${App.acts.length - 1} legislative acts from 1790 to 2025, each recorded as a git commit.
            Browse the timeline, explore individual sections, or compare versions side by side.</p>
-        <a href="#/asof" class="asof-link">View the law at any date &rarr;</a>
       </div>
 
       <div class="home-section">
@@ -113,44 +106,16 @@ const HomeView = {
       </div>
 
       <div class="home-section">
-        <h2>Legislative Activity by Decade</h2>
-        <p>Number of acts passed and distinct sections amended per decade.</p>
-        <div class="decade-chart">${this.decadeData().map(d => `
-          <div class="decade-row">
-            <div class="decade-label">${App.esc(d.label)}</div>
-            <div class="decade-bars">
-              <div class="decade-bar-group">
-                <div class="decade-bar acts-bar" style="width: ${d.actsPct}%" title="${d.acts} acts"></div>
-                <span class="decade-val">${d.acts}</span>
-              </div>
-              <div class="decade-bar-group">
-                <div class="decade-bar sections-bar" style="width: ${d.secPct}%" title="${d.sections} sections"></div>
-                <span class="decade-val">${d.sections}</span>
-              </div>
-            </div>
-          </div>
-        `).join('')}</div>
-        <div class="decade-legend">
-          <span class="legend-item"><span class="legend-swatch acts-swatch"></span> Acts passed</span>
-          <span class="legend-item"><span class="legend-swatch sections-swatch"></span> Sections amended</span>
-        </div>
-      </div>
-
-      <div class="home-section">
         <h2>Most Amended Sections</h2>
-        <div class="bar-chart">${topSections.map(s => {
-          const dates = this.amendmentDates(s.num);
-          const sparkline = this.sparklineSVG(dates);
-          return `
+        <div class="bar-chart">${topSections.map(s => `
           <div class="bar-row" onclick="location.hash='#/section/${s.num}'">
             <div class="bar-label">&sect;${App.esc(s.num)}</div>
             <div class="bar-track">
               <div class="bar-fill" style="width: ${(s.count / topSections[0].count) * 100}%"></div>
             </div>
-            <div class="bar-sparkline">${sparkline}</div>
             <div class="bar-count">${s.count}</div>
-          </div>`;
-        }).join('')}</div>
+          </div>
+        `).join('')}</div>
       </div>
 
       <div class="home-section">
@@ -197,48 +162,6 @@ const HomeView = {
     return Object.entries(App.sectionsIndex)
       .filter(([, info]) => info.amendment_count <= 1)
       .map(([num, info]) => ({ num, title: info.title }));
-  },
-
-  decadeData() {
-    const decades = {};
-    // Skip the initial "scaffold" commit (index 0) which has no date or is the base
-    for (const act of App.acts) {
-      if (!act.date) continue;
-      const decade = act.date.slice(0, 3) + '0s';
-      if (!decades[decade]) decades[decade] = { acts: 0, sectionsSet: new Set() };
-      decades[decade].acts++;
-      if (act.sections_affected) {
-        for (const s of act.sections_affected) decades[decade].sectionsSet.add(s);
-      }
-    }
-    const rows = Object.entries(decades)
-      .map(([label, d]) => ({ label, acts: d.acts, sections: d.sectionsSet.size }))
-      .sort((a, b) => a.label.localeCompare(b.label));
-    const maxActs = Math.max(...rows.map(r => r.acts), 1);
-    const maxSec = Math.max(...rows.map(r => r.sections), 1);
-    for (const r of rows) {
-      r.actsPct = (r.acts / maxActs) * 100;
-      r.secPct = (r.sections / maxSec) * 100;
-    }
-    return rows;
-  },
-
-  amendmentDates(secNum) {
-    return App.acts
-      .filter(a => a.sections_affected && a.sections_affected.includes(secNum))
-      .map(a => ({ date: a.date, name: a.name }));
-  },
-
-  sparklineSVG(dates) {
-    if (!dates.length) return '';
-    const w = 120, h = 16, r = 2.5;
-    const minYear = 1976, maxYear = 2025;
-    const dots = dates.map(d => {
-      const year = parseInt(d.date);
-      const x = ((year - minYear) / (maxYear - minYear)) * (w - 2 * r) + r;
-      return `<circle cx="${x}" cy="${h / 2}" r="${r}" fill="var(--accent)" opacity="0.7"><title>${App.esc(d.name)} (${d.date})</title></circle>`;
-    }).join('');
-    return `<svg width="${w}" height="${h}" class="sparkline">${dots}</svg>`;
   },
 
   allSections() {
@@ -328,119 +251,6 @@ const ActView = {
         </div>
       `;
     }
-  },
-};
-
-
-/* === Point-in-Time View === */
-const AsOfView = {
-  render(dateStr) {
-    const el = document.getElementById('view-asof');
-
-    // Default to a useful date if none provided
-    if (!dateStr) {
-      dateStr = '1998-10-28'; // day after DMCA
-    }
-
-    // Find the last act on or before this date
-    const actsBeforeDate = App.acts.filter(a => a.date && a.date <= dateStr);
-    const lastAct = actsBeforeDate.length ? actsBeforeDate[actsBeforeDate.length - 1] : null;
-
-    // Collect all sections that existed by this date
-    const allSections = Object.entries(App.sectionsIndex)
-      .map(([num, info]) => ({ num, title: info.title }))
-      .sort((a, b) => {
-        const na = parseInt(a.num), nb = parseInt(b.num);
-        if (na !== nb) return na - nb;
-        return a.num.localeCompare(b.num);
-      });
-
-    el.innerHTML = `
-      <div class="asof-header">
-        <h1>Title 17 as of a Given Date</h1>
-        <p class="asof-desc">See every section of copyright law as it existed on a specific date.</p>
-        <div class="asof-picker">
-          <label for="asof-date">Date:</label>
-          <input type="date" id="asof-date" value="${App.esc(dateStr)}"
-                 min="1790-05-31" max="2025-12-31"
-                 onchange="AsOfView.onDateChange()">
-        </div>
-        ${lastAct ? `
-          <div class="asof-context">
-            Showing law after <a href="#/act/${lastAct.hash}">${App.esc(lastAct.name)}</a>
-            <span class="asof-context-date">(${App.esc(lastAct.date)})</span>
-          </div>
-        ` : `
-          <div class="asof-context">No acts found before this date.</div>
-        `}
-      </div>
-      <div class="asof-sections" id="asof-sections">
-        ${allSections.map(s => `
-          <div class="asof-section" id="asof-sec-${s.num}">
-            <div class="asof-section-header" onclick="AsOfView.toggleSection('${s.num}', '${dateStr}')">
-              <span class="asof-toggle">+</span>
-              <span class="asof-sec-num">&sect;${App.esc(s.num)}</span>
-              <span class="asof-sec-title">${App.esc(s.title)}</span>
-            </div>
-            <div class="asof-section-body hidden" id="asof-body-${s.num}"></div>
-          </div>
-        `).join('')}
-      </div>
-    `;
-  },
-
-  onDateChange() {
-    const input = document.getElementById('asof-date');
-    if (input && input.value) {
-      location.hash = `#/asof/${input.value}`;
-    }
-  },
-
-  async toggleSection(secNum, dateStr) {
-    const body = document.getElementById(`asof-body-${secNum}`);
-    const header = body.previousElementSibling;
-    const toggle = header.querySelector('.asof-toggle');
-
-    if (!body.classList.contains('hidden')) {
-      body.classList.add('hidden');
-      toggle.textContent = '+';
-      return;
-    }
-
-    // Show loading state
-    body.classList.remove('hidden');
-    toggle.textContent = '\u2212';
-    body.innerHTML = '<p class="asof-loading">Loading...</p>';
-
-    const data = await App.fetchJSON(`data/sections/${secNum}.json`);
-    if (!data || !data.versions || !data.versions.length) {
-      body.innerHTML = '<p class="asof-no-text">No text available for this section.</p>';
-      return;
-    }
-
-    // Find the latest version whose act date <= target date
-    let matchedVersion = null;
-    for (const v of data.versions) {
-      const act = App.findAct(v.act_hash);
-      if (act && act.date && act.date <= dateStr) {
-        matchedVersion = v;
-      }
-    }
-
-    if (!matchedVersion) {
-      body.innerHTML = '<p class="asof-no-text">This section did not yet exist on ' + App.esc(dateStr) + '.</p>';
-      return;
-    }
-
-    const act = App.findAct(matchedVersion.act_hash);
-    body.innerHTML = `
-      <div class="asof-version-info">
-        Version from <a href="#/act/${matchedVersion.act_hash}">${App.esc(act ? act.name : matchedVersion.act_name)}</a>
-        ${act ? `<span class="asof-context-date">(${App.esc(act.date)})</span>` : ''}
-        &mdash; <a href="#/section/${secNum}/${matchedVersion.act_hash}">View in section viewer</a>
-      </div>
-      <div class="statute-text asof-text">${App.esc(matchedVersion.text)}</div>
-    `;
   },
 };
 

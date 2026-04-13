@@ -1,0 +1,45 @@
+{
+ "hash": "05a4de9",
+ "act_name": "First Copyright Term Extension Act of 1962",
+ "files": [
+  {
+   "path": "pre-1976/first-copyright-term-extension-act-of-1962.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# Joint Resolution Extending the duration of copyright protection in certain cases"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*Pub. L. 87-668, 76 Stat. 555 (1962)*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*Resolved by the Senate and House of Representatives of the United States of America in Congress assembled,* That in any case in which the renewal term of copyright subsisting in any work on the date of approval of this resolution, would expire prior to December 31, 1965, such term is hereby continued until December 31, 1965."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "APPROVED, September 19, 1962."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

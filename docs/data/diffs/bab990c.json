@@ -1,0 +1,275 @@
+{
+ "hash": "bab990c",
+ "act_name": "Audio Home Recording Act of 1992",
+ "files": [
+  {
+   "path": "sections/1001.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a71001. Definitions"
+      },
+      {
+       "type": "add",
+       "text": "As used in this chapter, the following terms have the following meanings:"
+      },
+      {
+       "type": "add",
+       "text": "(1) A \"digital audio copied recording\" is a reproduction in a digital recording format of a digital musical recording, whether that reproduction is made directly from another digital musical recording or indirectly from a transmission."
+      },
+      {
+       "type": "add",
+       "text": "(2) A \"digital audio interface device\" is any machine or device that is designed specifically to communicate digital audio information and related interface data to a digital audio recording device through a nonprofessional interface."
+      },
+      {
+       "type": "add",
+       "text": "(3) A \"digital audio recording device\" is any machine or device of a type commonly distributed to individuals for use by individuals, whether or not included with or as part of some other machine or device, the digital recording function of which is designed or marketed for the primary purpose of, and that is capable of, making a digital audio copied recording for private use, except for-"
+      },
+      {
+       "type": "add",
+       "text": "(A) professional model products, and"
+      },
+      {
+       "type": "add",
+       "text": "(B) dictation machines, answering machines, and other audio recording equipment that is designed and marketed primarily for the creation of sound recordings resulting from the fixation of nonmusical sounds."
+      },
+      {
+       "type": "add",
+       "text": "(4)(A) A \"digital audio recording medium\" is any material object in a form commonly distributed for use by individuals, that is primarily marketed or most commonly used by consumers for the purpose of making digital audio copied recordings by use of a digital audio recording device."
+      },
+      {
+       "type": "add",
+       "text": "(B) Such term does not include any material object-"
+      },
+      {
+       "type": "add",
+       "text": "(i) that embodies a sound recording at the time it is first distributed by the importer or manufacturer; or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) that is primarily marketed and most commonly used by consumers either for the purpose of making copies of motion pictures or other audiovisual works or for the purpose of making copies of nonmusical literary works, including computer programs or data bases."
+      },
+      {
+       "type": "add",
+       "text": "(5)(A) A \"digital musical recording\" is a material object-"
+      },
+      {
+       "type": "add",
+       "text": "(i) in which are fixed, in a digital recording format, only sounds, and material, statements, or instructions incidental to those fixed sounds, if any, and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) from which the sounds and material can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device."
+      },
+      {
+       "type": "add",
+       "text": "(B) A \"digital musical recording\" does not include a material object-"
+      },
+      {
+       "type": "add",
+       "text": "(i) in which the fixed sounds consist entirely of spoken word recordings, or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) in which one or more computer programs are fixed, except that a digital musical recording may contain statements or instructions constituting the fixed sounds and incidental material, and statements or instructions to be used directly or indirectly in order to bring about the perception, reproduction, or communication of the fixed sounds and incidental material."
+      },
+      {
+       "type": "add",
+       "text": "(C) For purposes of this paragraph-"
+      },
+      {
+       "type": "add",
+       "text": "(i) a \"spoken word recording\" is a sound recording in which are fixed only a series of spoken words, except that the spoken words may be accompanied by incidental musical or other sounds, and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the term \"incidental\" means related to and relatively minor by comparison."
+      },
+      {
+       "type": "add",
+       "text": "(6) \"Distribute\" means to sell, lease, or assign a product to consumers in the United States, or to sell, lease, or assign a product in the United States for ultimate transfer to consumers in the United States."
+      },
+      {
+       "type": "add",
+       "text": "(7) An \"interested copyright party\" is-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the owner of the exclusive right under section 106(1) of this title to reproduce a sound recording of a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the legal or beneficial owner of, or the person that controls, the right to reproduce in a digital musical recording or analog musical recording a musical work that has been embodied in a digital musical recording or analog musical recording lawfully made under this title that has been distributed;"
+      },
+      {
+       "type": "add",
+       "text": "(C) a featured recording artist who performs on a sound recording that has been distributed; or"
+      },
+      {
+       "type": "add",
+       "text": "(D) any association or other organization-"
+      },
+      {
+       "type": "add",
+       "text": "(i) representing persons specified in subparagraph (A), (B), or (C), or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) engaged in licensing rights in musical works to music users on behalf of writers and publishers."
+      },
+      {
+       "type": "add",
+       "text": "(8) To \"manufacture\" means to produce or assemble a product in the United States. A \"manufacturer\" is a person who manufactures."
+      },
+      {
+       "type": "add",
+       "text": "(9) A \"music publisher\" is a person that is authorized to license the reproduction of a particular musical work in a sound recording."
+      },
+      {
+       "type": "add",
+       "text": "(10) A \"professional model product\" is an audio recording device that is designed, manufactured, marketed, and intended for use by recording professionals in the ordinary course of a lawful business, in accordance with such requirements as the Secretary of Commerce shall establish by regulation."
+      },
+      {
+       "type": "add",
+       "text": "(11) The term \"serial copying\" means the duplication in a digital format of a copyrighted musical work or sound recording from a digital reproduction of a digital musical recording. The term \"digital reproduction of a digital musical recording\" does not include a digital musical recording as distributed, by authority of the copyright owner, for ultimate sale to consumers."
+      },
+      {
+       "type": "add",
+       "text": "(12) The \"transfer price\" of a digital audio recording device or a digital audio recording medium-"
+      },
+      {
+       "type": "add",
+       "text": "(A) is, subject to subparagraph (B)-"
+      },
+      {
+       "type": "add",
+       "text": "(i) in the case of an imported product, the actual entered value at United States Customs (exclusive of any freight, insurance, and applicable duty), and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) in the case of a domestic product, the manufacturer's transfer price (FOB the manufacturer, and exclusive of any direct sales taxes or excise taxes incurred in connection with the sale); and"
+      },
+      {
+       "type": "add",
+       "text": "(B) shall, in a case in which the transferor and transferee are related entities or within a single entity, not be less than a reasonable arms-length price under the principles of the regulations adopted pursuant to section 482 of the Internal Revenue Code of 1986, or any successor provision to such section."
+      },
+      {
+       "type": "add",
+       "text": "(13) A \"writer\" is the composer or lyricist of a particular musical work."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 102\u2013563,"
+      },
+      {
+       "type": "add",
+       "text": "\u00a72, Oct. 28, 1992, 106 Stat. 4237"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "del",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "add",
+       "text": "Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"architectural work\" is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Audiovisual works\" are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/912.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 912"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7912. Relation to other laws"
+      },
+      {
+       "type": "del",
+       "text": "(a) Nothing in this chapter shall affect any right or remedy held by any person under chapters 1 through 8  of this title, or under title 35."
+      },
+      {
+       "type": "add",
+       "text": "(a) Nothing in this chapter shall affect any right or remedy held by any person under chapters 1 through 8 or 10 of this title, or under title 35."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Except as provided in section 908(b) of this title, references to \"this title\" or \"title 17\" in chapters 1 through 8 or 10 of this title shall be deemed not to apply to this chapter."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The provisions of this chapter shall preempt the laws of any State to the extent those laws provide any rights or remedies with respect to a mask work which are equivalent to those rights or remedies provided by this chapter, except that such preemption shall be effective only with respect to actions filed on or after January 1, 1986."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Notwithstanding subsection (c), nothing in this chapter shall detract from any rights of a mask work owner, whether under Federal law (exclusive of this chapter) or under the common law or the statutes of a State, heretofore or hereafter declared or enacted, with respect to any mask work first commercially exploited before July 1, 1983."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

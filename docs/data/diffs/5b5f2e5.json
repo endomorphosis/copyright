@@ -1,0 +1,456 @@
+{
+ "hash": "5b5f2e5",
+ "act_name": "Work Made for Hire and Copyright Corrections Act of 2000",
+ "files": [
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "del",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "add",
+       "text": "Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"architectural work\" is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Audiovisual works\" are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied."
+      }
+     ]
+    },
+    {
+     "old_start": 13,
+     "new_start": 13,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"computer program\" is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copies\" are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term \"copies\" includes the material object, other than a phonorecord, in which the work is first fixed."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copyright owner\", with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right."
+      },
+      {
+       "type": "add",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "del",
+       "text": "A \"device\", \"machine\", or \"processs\" is one now known or later developed."
+      },
+      {
+       "type": "add",
+       "text": "A \"device\", \"machine\", or \"process\" is one now known or later developed."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"digital transmission\" is a transmission in whole or in part in a digital or other non-analog format."
+      },
+      {
+       "type": "ctx",
+       "text": "To \"display\" a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"establishment\" is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/121.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 121"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7121. Limitations on exclusive rights: reproduction for blind or other people with disabilities"
+      },
+      {
+       "type": "del",
+       "text": "(a) Notwithstanding the provisions of sections 106 and 710, it is not an infringement of copyright for an authorized entity to reproduce or to distribute in the United States copies or phonorecords of a previously published literary work or of a previously published musical work that has been fixed in the form of text or notation if such copies or phonorecords are reproduced or distributed in accessible formats exclusively for use by eligible persons."
+      },
+      {
+       "type": "add",
+       "text": "(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for an authorized entity to reproduce or to distribute copies or phonorecords of a previously published, nondramatic literary work if such copies or phonorecords are reproduced or distributed in specialized formats exclusively for use by blind or other persons with disabilities."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) Copies or phonorecords to which this section applies shall-"
+      },
+      {
+       "type": "del",
+       "text": "(A) not be reproduced or distributed in the United States in a format other than an accessible format exclusively for use by eligible persons;"
+      },
+      {
+       "type": "del",
+       "text": "(B) bear a notice that any further reproduction or distribution in a format other than an accessible format is an infringement; and"
+      },
+      {
+       "type": "add",
+       "text": "(A) not be reproduced or distributed in a format other than a specialized format exclusively for use by blind or other persons with disabilities;"
+      },
+      {
+       "type": "add",
+       "text": "(B) bear a notice that any further reproduction or distribution in a format other than a specialized format is an infringement; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) include a copyright notice identifying the copyright owner and the date of the original publication."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The provisions of this subsection shall not apply to standardized, secure, or norm-referenced tests and related testing material, or to computer programs, except the portions thereof that are in conventional human language (including descriptions of pictorial works) and displayed to users in the ordinary course of using the computer programs."
+      },
+      {
+       "type": "del",
+       "text": "(c) Notwithstanding the provisions of section 106, it is not an infringement of copyright for a publisher of print instructional materials for use in elementary or secondary schools to create and distribute to the National Instructional Materials Access Center copies of the electronic files described in sections 612(a)(23)(C), 613(a)(6), and section 674(e) of the Individuals with Disabilities Education Act that contain the contents of print instructional materials using the National Instructional Material Accessibility Standard (as defined in section 674(e)(3) of that Act), if-"
+      },
+      {
+       "type": "del",
+       "text": "(1) the inclusion of the contents of such print instructional materials is required by any State educational agency or local educational agency;"
+      },
+      {
+       "type": "del",
+       "text": "(2) the publisher had the right to publish such print instructional materials in print formats; and"
+      },
+      {
+       "type": "del",
+       "text": "(3) such copies are used solely for reproduction or distribution of the contents of such print instructional materials in accessible formats."
+      },
+      {
+       "type": "del",
+       "text": "(d) For purposes of this section, the term-"
+      },
+      {
+       "type": "del",
+       "text": "(1) \"accessible format\" means an alternative manner or form that gives an eligible person access to the work when the copy or phonorecord in the accessible format is used exclusively by the eligible person to permit him or her to have access as feasibly and comfortably as a person without such disability as described in paragraph (3);"
+      },
+      {
+       "type": "del",
+       "text": "(2) \"authorized entity\" means a nonprofit organization or a governmental agency that has a primary mission to provide specialized services relating to training, education, or adaptive reading or information access needs of blind or other persons with disabilities;"
+      },
+      {
+       "type": "del",
+       "text": "(3) \"eligible person\" means an individual who, regardless of any other disability-"
+      },
+      {
+       "type": "del",
+       "text": "(A) is blind;"
+      },
+      {
+       "type": "del",
+       "text": "(B) has a visual impairment or perceptual or reading disability that cannot be improved to give visual function substantially equivalent to that of a person who has no such impairment or disability and so is unable to read printed works to substantially the same degree as a person without an impairment or disability; or"
+      },
+      {
+       "type": "del",
+       "text": "(C) is otherwise unable, through physical disability, to hold or manipulate a book or to focus or move the eyes to the extent that would be normally acceptable for reading; and"
+      },
+      {
+       "type": "del",
+       "text": "(4) \"print instructional materials\" has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act."
+      },
+      {
+       "type": "add",
+       "text": "(c) For purposes of this section, the term-"
+      },
+      {
+       "type": "add",
+       "text": "(1) \"authorized entity\" means a nonprofit organization or a governmental agency that has a primary mission to provide specialized services relating to training, education, or adaptive reading or information access needs of blind or other persons with disabilities;"
+      },
+      {
+       "type": "add",
+       "text": "(2) \"blind or other persons with disabilities\" means individuals who are eligible or who may qualify in accordance with the Act entitled \"An Act to provide books for the adult blind\", approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats; and"
+      },
+      {
+       "type": "add",
+       "text": "(3) \"specialized formats\" means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/705.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 705"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7705. Copyright Office records: Preparation, maintenance, public inspection, and searching"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) The Register of Copyrights shall ensure that records of deposits, registrations, recordations, and other actions taken under this title are maintained, and that indexes of such records are prepared."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Such records and indexes, as well as the articles deposited in connection with completed copyright registrations and retained under the control of the Copyright Office, shall be open to public inspection."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Upon request and payment of the fee specified by section 708, the Copyright Office shall make a search of its public records, indexes, and deposits, and shall furnish a report of the information they disclose with respect to any particular deposits, registrations, or recorded documents."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2592"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u2013379,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(a)(2), Oct. 27, 2000, 114 Stat. 1445"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 708"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7708. Copyright Office fees"
+      },
+      {
+       "type": "del",
+       "text": "(a) The following fees shall be paid to the Register of Copyrights:"
+      },
+      {
+       "type": "del",
+       "text": "(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made, $20;"
+      },
+      {
+       "type": "del",
+       "text": "(2) on filing each application for registration of a claim for renewal of a subsisting copyright under section 304(a), including the issuance of a certificate of registration if registration is made, $20;"
+      },
+      {
+       "type": "del",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407, $4;"
+      },
+      {
+       "type": "del",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document covering not more than one title, $20; for additional titles, $10 for each group of not more than 10 titles;"
+      },
+      {
+       "type": "del",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license, $12;"
+      },
+      {
+       "type": "del",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $20 for a document covering not more than one title; for each additional title, $2;"
+      },
+      {
+       "type": "del",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration, $8;"
+      },
+      {
+       "type": "del",
+       "text": "(8) for the issuance of any other certification, $20 for each hour or fraction of an hour consumed with respect thereto;"
+      },
+      {
+       "type": "del",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services, $20 for each hour or fraction of an hour consumed with respect thereto; and"
+      },
+      {
+       "type": "add",
+       "text": "(a) Fees.-Fees shall be paid to the Register of Copyrights-"
+      },
+      {
+       "type": "add",
+       "text": "(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made;"
+      },
+      {
+       "type": "add",
+       "text": "(2) on filing each application for registration of a claim for renewal of a subsisting copyright under section 304(a), including the issuance of a certificate of registration if registration is made;"
+      },
+      {
+       "type": "add",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407;"
+      },
+      {
+       "type": "add",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document;"
+      },
+      {
+       "type": "add",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license;"
+      },
+      {
+       "type": "add",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;"
+      },
+      {
+       "type": "add",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration;"
+      },
+      {
+       "type": "add",
+       "text": "(8) for the issuance of any other certification;"
+      },
+      {
+       "type": "add",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "del",
+       "text": "The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation."
+      },
+      {
+       "type": "del",
+       "text": "(b) In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:"
+      },
+      {
+       "type": "del",
+       "text": "(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any increase in fees and the authority to use such fees consistent with the budget."
+      },
+      {
+       "type": "del",
+       "text": "(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), increase fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs."
+      },
+      {
+       "type": "add",
+       "text": "The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service."
+      },
+      {
+       "type": "add",
+       "text": "(b) Adjustment of Fees.-The Register of Copyrights may, by regulation, adjust the fees for the services specified in paragraphs (1) through (9) of subsection (a) in the following manner:"
+      },
+      {
+       "type": "add",
+       "text": "(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any adjustment in fees and the authority to use such fees consistent with the budget."
+      },
+      {
+       "type": "add",
+       "text": "(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), adjust fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Any fee established under paragraph (2) shall be rounded off to the nearest dollar, or for a fee less than $12, rounded off to the nearest 50 cents."
+      },
+      {
+       "type": "ctx",
+       "text": "(4) Fees established under this subsection shall be fair and equitable and give due consideration to the objectives of the copyright system."
+      },
+      {
+       "type": "del",
+       "text": "(5) If the Register determines under paragraph (2) that fees should be increased, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule."
+      },
+      {
+       "type": "add",
+       "text": "(5) If the Register determines under paragraph (2) that fees should be adjusted, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "ctx",
+       "text": "(d)(1) Except as provided in paragraph (2), all fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office. Such fees that are collected shall remain available until expended. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest in interest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands. Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands. Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

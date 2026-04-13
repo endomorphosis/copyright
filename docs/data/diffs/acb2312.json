@@ -1,0 +1,296 @@
+{
+ "hash": "acb2312",
+ "act_name": "Satellite Television Extension and Localism Act of 2010 (STELA)",
+ "files": [
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 12,
+     "new_start": 12,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) the carriage of the signals comprising the secondary transmission is required under the rules, regulations, or authorizations of the Federal Communications Commission; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the signal of the primary transmitter is not altered or changed in any way by the secondary transmitter."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Secondary Transmissions by Cable Systems.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection , secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "add",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection and section 114(d), secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Notwithstanding the provisions of paragraph (1) of this subsection, the willful or repeated secondary transmission to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, in the following cases:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) where the carriage of the signals comprising the secondary transmission is not permissible under the rules, regulations, or authorizations of the Federal Communications Commission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) where the cable system has not deposited the statement of account and royalty fee required by subsection (d)."
+      }
+     ]
+    },
+    {
+     "old_start": 69,
+     "new_start": 69,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(D) within forty-five days after the end of each calendar quarter, an owner or officer of the cable system executes an affidavit attesting (i) to the steps and precautions taken to prevent duplication of the videotape, and (ii) subject to paragraph (2), to the erasure or destruction of all videotapes made or used during such quarter;"
+      },
+      {
+       "type": "ctx",
+       "text": "(E) such owner or officer places or causes each such affidavit, and affidavits received pursuant to paragraph (2)(C), to be placed in a file, open to public inspection, at such system's main office in the community where the transmission is made or in the nearest community where such system maintains an office; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(F) the nonsimultaneous transmission is one that the cable system would be authorized to transmit under the rules, regulations, and authorizations of the Federal Communications Commission in effect at the time of the nonsimultaneous transmission if the transmission had been made simultaneously, except that this subparagraph shall not apply to inadvertent or accidental transmissions."
+      },
+      {
+       "type": "del",
+       "text": "(2) If a cable system transfers to any person a videotape of a program nonsimultaneously transmitted by it, such transfer is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, except that, pursuant to a written, nonprofit contract providing for the equitable sharing of the costs of such videotape and its transfer, a videotape nonsimultaneously transmitted by it, in accordance with paragraph (1), may be transferred by one cable system in Alaska to another system in Alaska, by one cable system in Hawaii permitted to make such nonsimultaneous transmissions to another such cable system in Hawaii, or by one cable system in Guam, the Northern Mariana Islands, or the Trust Territory of the Pacific Islands, to another cable system in any of those five entities, if-"
+      },
+      {
+       "type": "add",
+       "text": "(2) If a cable system transfers to any person a videotape of a program nonsimultaneously transmitted by it, such transfer is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, except that, pursuant to a written, nonprofit contract providing for the equitable sharing of the costs of such videotape and its transfer, a videotape nonsimultaneously transmitted by it, in accordance with paragraph (1), may be transferred by one cable system in Alaska to another system in Alaska, by one cable system in Hawaii permitted to make such nonsimultaneous transmissions to another such cable system in Hawaii, or by one cable system in Guam, the Northern Mariana Islands, the Federated States of Micronesia, the Republic of Palau, or the Republic of the Marshall Islands, to another cable system in any of those five entities, if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) each such contract is available for public inspection in the offices of the cable systems involved, and a copy of such contract is filed, within thirty days after such contract is entered into, with the Copyright Office (which Office shall make each such contract available for public inspection);"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the cable system to which the videotape is transferred complies with paragraph (1)(A), (B), (C)(i), (iii), and (iv), and (D) through (F); and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) such system provides a copy of the affidavit required to be made in accordance with paragraph (1)(D) to each cable system making a previous nonsimultaneous transmission of the same videotape."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 100,
+     "new_start": 100,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(I) Publication of notice.-Within 10 days after publication in the Federal Register of a notice of the initiation of voluntary negotiation proceedings, parties who have reached a voluntary agreement may request that the royalty fees in that agreement be applied to all satellite carriers, distributors, and copyright owners without convening a proceeding under subparagraph (F)."
+      },
+      {
+       "type": "ctx",
+       "text": "(II) Public notice of fees.-Upon receiving a request under subclause (I), the Copyright Royalty Judges shall immediately provide public notice of the royalty fees from the voluntary agreement and afford parties an opportunity to state that they object to those fees."
+      },
+      {
+       "type": "ctx",
+       "text": "(III) Adoption of fees.-The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II)."
+      },
+      {
+       "type": "del",
+       "text": "(E) Period agreement is in effect.-The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2014, or in accordance with the terms of the agreement, whichever is later."
+      },
+      {
+       "type": "add",
+       "text": "(E) Period agreement is in effect.-The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement, and shall remain in effect until December 31, 2019, or in accordance with the terms of the agreement, whichever is later."
+      },
+      {
+       "type": "ctx",
+       "text": "(F) Fee set by copyright royalty judges proceeding.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) Notice of initiation of the proceeding.-On or before September 1, 2010, the Copyright Royalty Judges shall cause notice to be published in the Federal Register of the initiation of a proceeding for the purpose of determining the royalty fees to be paid for the secondary transmission of the primary transmissions of network stations and non-network stations under subsection (b)(1)(B) by satellite carriers and distributors-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) in the absence of a voluntary agreement filed in accordance with subparagraph (D) that establishes royalty fees to be paid by all satellite carriers and distributors; or"
+      }
+     ]
+    },
+    {
+     "old_start": 149,
+     "new_start": 149,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) if there is no stream described in subparagraph (A), then either-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) the single digital stream of programming associated with the network last transmitted by the station as an analog signal; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) if there is no stream described in clause (i), then the single digital stream of programming affiliated with the network that, as of July 1, 2009, had been offered by the television broadcast station for the longest period of time."
+      },
+      {
+       "type": "del",
+       "text": "(e) Moratorium on Copyright Liability.-Until December 31, 2014, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98-201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999."
+      },
+      {
+       "type": "add",
+       "text": "(e) Moratorium on Copyright Liability.-Until December 31, 2019, a subscriber who does not receive a signal of Grade A intensity (as defined in the regulations of the Federal Communications Commission under section 73.683(a) of title 47, Code of Federal Regulations, as in effect on January 1, 1999, or predicted by the Federal Communications Commission using the Individual Location Longley-Rice methodology described by the Federal Communications Commission in Docket No. 98-201) of a local network television broadcast station shall remain eligible to receive signals of network stations affiliated with the same network, if that subscriber had satellite service of such network signal terminated after July 11, 1998, and before October 31, 1999, as required by this section, or received such service on October 31, 1999."
+      },
+      {
+       "type": "ctx",
+       "text": "(f) Expedited Consideration by Justice Department of Voluntary Agreements to Provide Satellite Secondary Transmissions to Local Markets.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In general.-In a case in which no satellite carrier makes available, to subscribers located in a local market, as defined in section 122(j)(2), the secondary transmission into that market of a primary transmission of one or more television broadcast stations licensed by the Federal Communications Commission, and two or more satellite carriers request a business review letter in accordance with section 50.6 of title 28, Code of Federal Regulations (as in effect on July 7, 2004), in order to assess the legality under the antitrust laws of proposed business conduct to make or carry out an agreement to provide such secondary transmission into such local market, the appropriate official of the Department of Justice shall respond to the request no later than 90 days after the date on which the request is received."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Definition.-For purposes of this subsection, the term \"antitrust laws\"-"
+      }
+     ]
+    },
+    {
+     "old_start": 211,
+     "new_start": 211,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(A) In general.-An entity provides \"local-into-local service to all DMAs\" if the entity provides local service in all designated market areas (as such term is defined in section 122(j)(2)(C)) pursuant to the license under section 122."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Household coverage.-For purposes of subparagraph (A), an entity that makes available local-into-local service with a good quality satellite signal to at least 90 percent of the households in a designated market area based on the most recent census data released by the United States Census Bureau shall be considered to be providing local service to such designated market area."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Good quality satellite signal defined.-The term \"good quality satellite signal\" has the meaning given such term under section 342(e)(2) of Communications 2 Act of 1934."
+      },
+      {
+       "type": "add",
+       "text": "(h) Termination of License.-This section shall cease to be effective on December 31, 2019."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 10,
+     "new_start": 10,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;"
+      },
+      {
+       "type": "ctx",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration;"
+      },
+      {
+       "type": "ctx",
+       "text": "(8) for the issuance of any other certification;"
+      },
+      {
+       "type": "del",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services; and"
+      },
+      {
+       "type": "del",
+       "text": "(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "del",
+       "text": "The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service."
+      },
+      {
+       "type": "add",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services;"
+      },
+      {
+       "type": "add",
+       "text": "(10) on filing a statement of account based on secondary transmissions of primary transmissions pursuant to section 119 or 122; and"
+      },
+      {
+       "type": "add",
+       "text": "(11) on filing a statement of account based on secondary transmissions of primary transmissions pursuant to section 111."
+      },
+      {
+       "type": "add",
+       "text": "The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service. Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Adjustment of Fees.-The Register of Copyrights may, by regulation, adjust the fees for the services specified in paragraphs (1) through (9) of subsection (a) in the following manner:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any adjustment in fees and the authority to use such fees consistent with the budget."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), adjust fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/804.md",
+   "hunks": [
+    {
+     "old_start": 3,
+     "new_start": 3,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "\u00a7804. Institution of proceedings"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Filing of Petition.-With respect to proceedings referred to in paragraphs (1) and (2) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 111, 112, 114, 115, 116, 118, 119, and 1004, during the calendar years specified in the schedule set forth in subsection (b), any owner or user of a copyrighted work whose royalty rates are specified by this title, or are established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests a determination or adjustment of the rate. The Copyright Royalty Judges shall make a determination as to whether the petitioner has such a significant interest in the royalty rate in which a determination or adjustment is requested. If the Copyright Royalty Judges determine that the petitioner has such a significant interest, the Copyright Royalty Judges shall cause notice of this determination, with the reasons for such determination, to be published in the Federal Register, together with the notice of commencement of proceedings under this chapter. With respect to proceedings under paragraph (1) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 112 and 114, during the calendar years specified in the schedule set forth in subsection (b), the Copyright Royalty Judges shall cause notice of commencement of proceedings under this chapter to be published in the Federal Register as provided in section 803(b)(1)(A)."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Timing of Proceedings.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Section 111 proceedings.-(A) A petition described in subsection (a) to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (A) or (D) of section 801(b)(2) applies may be filed during the year 2005 and in each subsequent fifth calendar year."
+      },
+      {
+       "type": "add",
+       "text": "(1) Section 111 proceedings.-(A) A petition described in subsection (a) to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (A) or (D) of section 801(b)(2) applies may be filed during the year 2015 and in each subsequent fifth calendar year."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) In order to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (B) or (C) of section 801(b)(2) applies, within 12 months after an event described in either of those subsections, any owner or user of a copyrighted work whose royalty rates are specified by section 111, or by a rate established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests an adjustment of the rate. The Copyright Royalty Judges shall then proceed as set forth in subsection (a) of this section. Any change in royalty rates made under this chapter pursuant to this subparagraph may be reconsidered in the year 2015, and each fifth calendar year thereafter, in accordance with the provisions in section 801(b)(2)(B) or (C), as the case may be. A petition for adjustment of rates established by section 111(d)(1)(B) as a result of a change in the rules and regulations of the Federal Communications Commission shall set forth the change on which the petition is based."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Any adjustment of royalty rates under section 111 shall take effect as of the first accounting period commencing after the publication of the determination of the Copyright Royalty Judges in the Federal Register, or on such other date as is specified in that determination."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Certain section 112 proceedings.-Proceedings under this chapter shall be commenced in the year 2007 to determine reasonable terms and rates of royalty payments for the activities described in section 112(e)(1) relating to the limitation on exclusive rights specified by section 114(d)(1)(C)(iv), to become effective on January 1, 2009. Such proceedings shall be repeated in each subsequent fifth calendar year."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

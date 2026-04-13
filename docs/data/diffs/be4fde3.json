@@ -1,0 +1,33 @@
+{
+ "hash": "be4fde3",
+ "act_name": "Fair Use of Unpublished Works Act of 1992",
+ "files": [
+  {
+   "path": "sections/107.md",
+   "hunks": [
+    {
+     "old_start": 6,
+     "new_start": 6,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) the nature of the copyrighted work;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(4) the effect of the use upon the potential market for or value of the copyrighted work."
+      },
+      {
+       "type": "add",
+       "text": "The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

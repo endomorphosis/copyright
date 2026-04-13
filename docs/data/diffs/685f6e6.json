@@ -1,0 +1,1020 @@
+{
+ "hash": "685f6e6",
+ "act_name": "Copyright Technical Amendments Act of 1997",
+ "files": [
+  {
+   "path": "sections/1006.md",
+   "hunks": [
+    {
+     "old_start": 7,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) who has filed a claim under section 1007."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Allocation of Royalty Payments to Groups.-The royalty payments shall be divided into 2 funds as follows:"
+      },
+      {
+       "type": "del",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "add",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The musical works fund.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) 331/3 percent of the royalty payments shall be allocated to the Musical Works Fund for distribution to interested copyright parties described in section 1001(7)(B)."
+      },
+      {
+       "type": "ctx",
+       "text": "(B)(i) Music publishers shall be entitled to 50 percent of the royalty payments allocated to the Musical Works Fund."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 13,
+     "new_start": 13,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"computer program\" is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copies\" are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term \"copies\" includes the material object, other than a phonorecord, in which the work is first fixed."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Copyright owner\", with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right."
+      },
+      {
+       "type": "del",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "del",
+       "text": "A \"device\", \"machine\", or \"processs\" is one now known or later developed."
+      },
+      {
+       "type": "add",
+       "text": "A \"device\", \"machine\", or \"process\" is one now known or later developed."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"digital transmission\" is a transmission in whole or in part in a digital or other non-analog format."
+      },
+      {
+       "type": "ctx",
+       "text": "To \"display\" a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"establishment\" is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/108.md",
+   "hunks": [
+    {
+     "old_start": 9,
+     "new_start": 9,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if-"
+      },
+      {
+       "type": "del",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a pair price; and"
+      },
+      {
+       "type": "add",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy."
+      },
+      {
+       "type": "ctx",
+       "text": "For purposes of this subsection, a format shall be considered obsolete if the machine or device necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) The rights of reproduction and distribution under this section apply to a copy, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, of no more than one article or other contribution to a copyrighted collection or periodical issue, or to a copy or phonorecord of a small part of any other copyrighted work, if-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/110.md",
+   "hunks": [
+    {
+     "old_start": 17,
+     "new_start": 17,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(i) the notice shall be in writing and signed by the copyright owner or such owner's duly authorized agent; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) the notice shall be served on the person responsible for the performance at least seven days before the date of the performance, and shall state the reasons for the objection; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(iii) the notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation;"
+      },
+      {
+       "type": "del",
+       "text": "(5) communication of a transmission embodying a performance or display of a work by the public reception of the transmission on a single receiving apparatus of a kind commonly used in private homes, unless-"
+      },
+      {
+       "type": "add",
+       "text": "(5)(A) except as provided in subparagraph (B), communication of a transmission embodying a performance or display of a work by the public reception of the transmission on a single receiving apparatus of a kind commonly used in private homes, unless-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) a direct charge is made to see or hear the transmission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the transmission thus received is further transmitted to the public;"
+      },
+      {
+       "type": "del",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(B) communication by an establishment of a transmission or retransmission embodying a performance or display of a nondramatic musical work intended to be received by the general public, originated by a radio or television broadcast station licensed as such by the Federal Communications Commission, or, if an audiovisual transmission, by a cable system or satellite carrier, if-"
+      },
+      {
+       "type": "add",
+       "text": "(i) in the case of an establishment other than a food service or drinking establishment, either the establishment in which the communication occurs has less than 2,000 gross square feet of space (excluding space used for customer parking and for no other purpose), or the establishment in which the communication occurs has 2,000 or more gross square feet of space (excluding space used for customer parking and for no other purpose) and-"
+      },
+      {
+       "type": "add",
+       "text": "(I) if the performance is by audio means only, the performance is communicated by means of a total of not more than 6 loudspeakers, of which not more than 4 loudspeakers are located in any 1 room or adjoining outdoor space; or"
+      },
+      {
+       "type": "add",
+       "text": "(II) if the performance or display is by audiovisual means, any visual portion of the performance or display is communicated by means of a total of not more than 4 audiovisual devices, of which not more than 1 audiovisual device is located in any 1 room, and no such audiovisual device has a diagonal screen size greater than 55 inches, and any audio portion of the performance or display is communicated by means of a total of not more than 6 loudspeakers, of which not more than 4 loudspeakers are located in any 1 room or adjoining outdoor space;"
+      },
+      {
+       "type": "add",
+       "text": "(ii) in the case of a food service or drinking establishment, either the establishment in which the communication occurs has less than 3,750 gross square feet of space (excluding space used for customer parking and for no other purpose), or the establishment in which the communication occurs has 3,750 gross square feet of space or more (excluding space used for customer parking and for no other purpose) and-"
+      },
+      {
+       "type": "add",
+       "text": "(I) if the performance is by audio means only, the performance is communicated by means of a total of not more than 6 loudspeakers, of which not more than 4 loudspeakers are located in any 1 room or adjoining outdoor space; or"
+      },
+      {
+       "type": "add",
+       "text": "(II) if the performance or display is by audiovisual means, any visual portion of the performance or display is communicated by means of a total of not more than 4 audiovisual devices, of which not more than one audiovisual device is located in any 1 room, and no such audiovisual device has a diagonal screen size greater than 55 inches, and any audio portion of the performance or display is communicated by means of a total of not more than 6 loudspeakers, of which not more than 4 loudspeakers are located in any 1 room or adjoining outdoor space;"
+      },
+      {
+       "type": "add",
+       "text": "(iii) no direct charge is made to see or hear the transmission or retransmission;"
+      },
+      {
+       "type": "add",
+       "text": "(iv) the transmission or retransmission is not further transmitted beyond the establishment where it is received; and"
+      },
+      {
+       "type": "add",
+       "text": "(v) the transmission or retransmission is licensed by the copyright owner of the work so publicly performed or displayed;"
+      },
+      {
+       "type": "ctx",
+       "text": "(6) performance of a nondramatic musical work by a governmental body or a nonprofit agricultural or horticultural organization, in the course of an annual agricultural or horticultural fair or exhibition conducted by such body or organization; the exemption provided by this clause shall extend to any liability for copyright infringement that would otherwise be imposed on such body or organization, under doctrines of vicarious liability or related infringement, for a performance by a concessionnaire,1 business establishment, or other person at such fair or exhibition, but shall not excuse any such person from liability for the performance;"
+      },
+      {
+       "type": "del",
+       "text": "(7) performance of a nondramatic musical work by a vending establishment open to the public at large without any direct or indirect admission charge, where the sole purpose of the performance is to promote the retail sale of copies or phonorecords of the work, and the performance is not transmitted beyond the place where the establishment is located and is within the immediate area where the sale is occurring;"
+      },
+      {
+       "type": "add",
+       "text": "(7) performance of a nondramatic musical work by a vending establishment open to the public at large without any direct or indirect admission charge, where the sole purpose of the performance is to promote the retail sale of copies or phonorecords of the work, or of the audiovisual or other devices utilized in such performance, and the performance is not transmitted beyond the place where the establishment is located and is within the immediate area where the sale is occurring;"
+      },
+      {
+       "type": "ctx",
+       "text": "(8) performance of a nondramatic literary work, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, or deaf or other handicapped persons who are unable to hear the aural signals accompanying a transmission of visual signals, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of: (i) a governmental body; or (ii) a noncommercial educational broadcast station (as defined in section 397 of title 47); or (iii) a radio subcarrier authorization (as defined in 47 CFR 73.293\u201373.295 and 73.593\u201373.595); or (iv) a cable system (as defined in section 111(f));"
+      },
+      {
+       "type": "ctx",
+       "text": "(9) performance on a single occasion of a dramatic literary work published at least ten years before the date of the performance, by or in the course of a transmission specifically designed for and primarily directed to blind or other handicapped persons who are unable to read normal printed material as a result of their handicap, if the performance is made without any purpose of direct or indirect commercial advantage and its transmission is made through the facilities of a radio subcarrier authorization referred to in clause (8)(iii), Provided, That the provisions of this clause shall not be applicable to more than one performance of the same work by the same performers or under the auspices of the same organization;"
+      },
+      {
+       "type": "ctx",
+       "text": "(10) notwithstanding paragraph (4), the following is not an infringement of copyright: performance of a nondramatic literary or musical work in the course of a social function which is organized and promoted by a nonprofit veterans' organization or a nonprofit fraternal organization to which the general public is not invited, but not including the invitees of the organizations, if the proceeds from the performance, after deducting the reasonable costs of producing the performance, are used exclusively for charitable purposes and not for financial gain. For purposes of this section the social functions of any college or university fraternity or sorority shall not be included unless the social function is held solely to raise funds for a specific charitable purpose; and"
+      },
+      {
+       "type": "add",
+       "text": "The exemptions provided under paragraph (5) shall not be taken into account in any administrative, judicial, or other governmental proceeding to set or adjust the royalties payable to copyright owners for the public performance or display of their works. Royalties payable to copyright owners for any public performance or display of their works other than such performances or displays as are exempted under paragraph (5) shall not be diminished in any respect as a result of such exemption."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Secondary Transmissions by Satellite Carriers.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection , secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "add",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network stations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Secondary transmissions to unserved households.-"
+      }
+     ]
+    },
+    {
+     "old_start": 24,
+     "new_start": 24,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(ii) if the pattern or practice has been carried out on a local or regional basis, the court shall order a permanent injunction barring the secondary transmission, for private home viewing in that locality or region, by the satellite carrier of the primary transmissions of any primary network station affiliated with the same network, and the court may order statutory damages of not to exceed $2,500,000 for each 6-month period during which the pattern or practice was carried out."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Previous subscribers excluded.-Subparagraphs (A) and (B) do not apply to secondary transmissions by a satellite carrier to persons who subscribed to receive such secondary transmissions from the satellite carrier or a distributor before November 16, 1988."
+      },
+      {
+       "type": "ctx",
+       "text": "(D) Burden of proof.-In any action brought under this paragraph, the satellite carrier shall have the burden of proving that its secondary transmission of a primary transmission by a network station is to a subscriber who is eligible to receive the secondary transmission under this section."
+      },
+      {
+       "type": "del",
+       "text": "The court shall direct one half of any statutory damages ordered under clause (i)\u00a01 to be deposited with the Register of Copyrights for distribution to copyright owners pursuant to subsection (b). The Copyright Royalty Judges shall issue regulations establishing procedures for distributing such funds, on a proportional basis, to copyright owners whose works were included in the secondary transmissions that were the subject of the statutory damages."
+      },
+      {
+       "type": "add",
+       "text": "The court shall direct one half of any statutory damages ordered under clause (i)\u00a01 to be deposited with the Register of Copyrights for distribution to copyright owners pursuant to subsection (b). The Librarian of Congress shall issue regulations establishing procedures for distributing such funds, on a proportional basis, to copyright owners whose works were included in the secondary transmissions that were the subject of the statutory damages."
+      },
+      {
+       "type": "ctx",
+       "text": "(6) Discrimination by a satellite carrier.-Notwithstanding the provisions of paragraph (1), the willful or repeated secondary transmission to the public by a satellite carrier of a performance or display of a work embodied in a primary transmission made by a non-network station or a network station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, if the satellite carrier unlawfully discriminates against a distributor."
+      },
+      {
+       "type": "ctx",
+       "text": "(7) Geographic limitation on secondary transmissions.-The statutory license created by this section shall apply only to secondary transmissions to households located in the United States."
+      },
+      {
+       "type": "ctx",
+       "text": "(8) Service to recreational vehicles and commercial trucks.-"
+      }
+     ]
+    },
+    {
+     "old_start": 52,
+     "new_start": 52,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(C) a filing fee, as determined by the Register of Copyrights pursuant to section 708(a)."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Verification of accounts and fee payments.-The Register of Copyrights shall issue regulations to permit interested parties to verify and audit the statements of account and royalty fees submitted by satellite carriers under this subsection."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Investment of fees.-The Register of Copyrights shall receive all fees (including the filing fee specified in paragraph (1)(C)) deposited under this section and, after deducting the reasonable costs incurred by the Copyright Office under this section (other than the costs deducted under paragraph (5)), shall deposit the balance in the Treasury of the United States, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing securities of the United States for later distribution with interest by the Librarian of Congress as provided by this title."
+      },
+      {
+       "type": "del",
+       "text": "(4) Persons to whom fees are distributed.-The royalty fees deposited under paragraph (3) shall, in accordance with the procedures provided by paragraph (5), be distributed to those copyright owners whose works were included in a secondary transmission made by a satellite carrier during the applicable 6-month accounting period and who file a claim with the Copyright Royalty Judges under paragraph (5)."
+      },
+      {
+       "type": "add",
+       "text": "(4) Persons to whom fees are distributed.-The royalty fees deposited under paragraph (3) shall, in accordance with the procedures provided by paragraph (5), be distributed to those copyright owners whose works were included in a secondary transmission made by a satellite carrier during the applicable 6-month accounting period and who file a claim with the Librarian of Congress under paragraph (5)."
+      },
+      {
+       "type": "ctx",
+       "text": "(5) Procedures for distribution.-The royalty fees deposited under paragraph (3) shall be distributed in accordance with the following procedures:"
+      },
+      {
+       "type": "del",
+       "text": "(A) Filing of claims for fees.-During the month of July in each year, each person claiming to be entitled to statutory license fees for secondary transmissions shall file a claim with the Copyright Royalty Judges, in accordance with requirements that the Copyright Royalty Judges shall prescribe by regulation. For purposes of this paragraph, any claimants may agree among themselves as to the proportionate division of statutory license fees among them, may lump their claims together and file them jointly or as a single claim, or may designate a common agent to receive payment on their behalf."
+      },
+      {
+       "type": "del",
+       "text": "(B) Determination of controversy; distributions.-After the first day of August of each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall authorize the Librarian of Congress to proceed to distribute such fees to the copyright owners entitled to receive them, or to their designated agents, subject to the deduction of reasonable administrative costs under this section. If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees."
+      },
+      {
+       "type": "del",
+       "text": "(C) Withholding of fees during controversy.-During the pendency of any proceeding under this subsection, the Copyright Royalty Judges shall have the discretion to authorize the Librarian of Congress to proceed to distribute any amounts that are not in controversy."
+      },
+      {
+       "type": "add",
+       "text": "(A) Filing of claims for fees.-During the month of July in each year, each person claiming to be entitled to statutory license fees for secondary transmissions shall file a claim with the Librarian of Congress, in accordance with requirements that the Librarian of Congress shall prescribe by regulation. For purposes of this paragraph, any claimants may agree among themselves as to the proportionate division of statutory license fees among them, may lump their claims together and file them jointly or as a single claim, or may designate a common agent to receive payment on their behalf."
+      },
+      {
+       "type": "add",
+       "text": "(B) Determination of controversy; distributions.-After the first day of August of each year, the Librarian of Congress shall determine whether there exists a controversy concerning the distribution of royalty fees. If the Librarian of Congress determine that no such controversy exists, the Librarian of Congress shall authorize the Librarian of Congress to proceed to distribute such fees to the copyright owners entitled to receive them, or to their designated agents, subject to the deduction of reasonable administrative costs under this section. If the Librarian of Congress find the existence of a controversy, the Librarian of Congress shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty fees."
+      },
+      {
+       "type": "add",
+       "text": "(C) Withholding of fees during controversy.-During the pendency of any proceeding under this subsection, the Librarian of Congress shall have the discretion to authorize the Librarian of Congress to proceed to distribute any amounts that are not in controversy."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Adjustment of Royalty Fees.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Applicability and determination of royalty fees for signals.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) Initial fee.-The appropriate fee for purposes of determining the royalty fee under subsection (b)(1)(B) for the secondary transmission of the primary transmissions of network stations and non-network stations shall be the appropriate fee set forth in part 258 of title 37, Code of Federal Regulations, as in effect on July 1, 2009, as modified under this paragraph."
+      },
+      {
+       "type": "del",
+       "text": "(B) Fee set by voluntary negotiation.-On or before June 1, 2010, the Copyright Royalty Judges shall cause to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining the royalty fee to be paid by satellite carriers for the secondary transmission of the primary transmissions of network stations and non-network stations under subsection (b)(1)(B)."
+      },
+      {
+       "type": "del",
+       "text": "(C) Negotiations.-Satellite carriers, distributors, and copyright owners entitled to royalty fees under this section shall negotiate in good faith in an effort to reach a voluntary agreement or agreements for the payment of royalty fees. Any such satellite carriers, distributors and copyright owners may at any time negotiate and agree to the royalty fee, and may designate common agents to negotiate, agree to, or pay such fees. If the parties fail to identify common agents, the Copyright Royalty Judges shall do so, after requesting recommendations from the parties to the negotiation proceeding. The parties to each negotiation proceeding shall bear the cost thereof."
+      },
+      {
+       "type": "add",
+       "text": "(B) Fee set by voluntary negotiation.-On or before June 1, 2010, the Librarian of Congress shall cause to be published in the Federal Register of the initiation of voluntary negotiation proceedings for the purpose of determining the royalty fee to be paid by satellite carriers for the secondary transmission of the primary transmissions of network stations and non-network stations under subsection (b)(1)(B)."
+      },
+      {
+       "type": "add",
+       "text": "(C) Negotiations.-Satellite carriers, distributors, and copyright owners entitled to royalty fees under this section shall negotiate in good faith in an effort to reach a voluntary agreement or agreements for the payment of royalty fees. Any such satellite carriers, distributors and copyright owners may at any time negotiate and agree to the royalty fee, and may designate common agents to negotiate, agree to, or pay such fees. If the parties fail to identify common agents, the Librarian of Congress shall do so, after requesting recommendations from the parties to the negotiation proceeding. The parties to each negotiation proceeding shall bear the cost thereof."
+      },
+      {
+       "type": "ctx",
+       "text": "(D) Agreements binding on parties; filing of agreements; public notice.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) Voluntary agreements; filing.-Voluntary agreements negotiated at any time in accordance with this paragraph shall be binding upon all satellite carriers, distributors, and copyright owners that are parties thereto. Copies of such agreements shall be filed with the Copyright Office within 30 days after execution in accordance with regulations that the Register of Copyrights shall prescribe."
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) Procedure for adoption of fees.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) Publication of notice.-Within 10 days after publication in the Federal Register of a notice of the initiation of voluntary negotiation proceedings, parties who have reached a voluntary agreement may request that the royalty fees in that agreement be applied to all satellite carriers, distributors, and copyright owners without convening a proceeding under subparagraph (F)."
+      },
+      {
+       "type": "del",
+       "text": "(II) Public notice of fees.-Upon receiving a request under subclause (I), the Copyright Royalty Judges shall immediately provide public notice of the royalty fees from the voluntary agreement and afford parties an opportunity to state that they object to those fees."
+      },
+      {
+       "type": "del",
+       "text": "(III) Adoption of fees.-The Copyright Royalty Judges shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II)."
+      },
+      {
+       "type": "del",
+       "text": "(E) Period agreement is in effect.-The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Copyright Royalty Judges in accordance with this paragraph shall become effective on the date specified in the agreement and shall remain in effect in accordance with the terms of the agreement until the subscriber for which the royalty is payable is no longer eligible to receive a secondary transmission pursuant to the license under this section."
+      },
+      {
+       "type": "add",
+       "text": "(II) Public notice of fees.-Upon receiving a request under subclause (I), the Librarian of Congress shall immediately provide public notice of the royalty fees from the voluntary agreement and afford parties an opportunity to state that they object to those fees."
+      },
+      {
+       "type": "add",
+       "text": "(III) Adoption of fees.-The Librarian of Congress shall adopt the royalty fees from the voluntary agreement for all satellite carriers, distributors, and copyright owners without convening the proceeding under subparagraph (F) unless a party with an intent to participate in that proceeding and a significant interest in the outcome of that proceeding objects under subclause (II)."
+      },
+      {
+       "type": "add",
+       "text": "(E) Period agreement is in effect.-The obligation to pay the royalty fees established under a voluntary agreement which has been filed with the Librarian of Congress in accordance with this paragraph shall become effective on the date specified in the agreement and shall remain in effect in accordance with the terms of the agreement until the subscriber for which the royalty is payable is no longer eligible to receive a secondary transmission pursuant to the license under this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(F) Fee set by copyright royalty judges proceeding.-"
+      },
+      {
+       "type": "del",
+       "text": "(i) Notice of initiation of the proceeding.-On or before September 1, 2010, the Copyright Royalty Judges shall cause notice to be published in the Federal Register of the initiation of a proceeding for the purpose of determining the royalty fees to be paid for the secondary transmission of the primary transmissions of network stations and non-network stations under subsection (b)(1)(B) by satellite carriers and distributors-"
+      },
+      {
+       "type": "add",
+       "text": "(i) Notice of initiation of the proceeding.-On or before September 1, 2010, the Librarian of Congress shall cause notice to be published in the Federal Register of the initiation of a proceeding for the purpose of determining the royalty fees to be paid for the secondary transmission of the primary transmissions of network stations and non-network stations under subsection (b)(1)(B) by satellite carriers and distributors-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) in the absence of a voluntary agreement filed in accordance with subparagraph (D) that establishes royalty fees to be paid by all satellite carriers and distributors; or"
+      },
+      {
+       "type": "del",
+       "text": "(II) if an objection to the fees from a voluntary agreement submitted for adoption by the Copyright Royalty Judges to apply to all satellite carriers, distributors, and copyright owners is received under subparagraph (D) from a party with an intent to participate in the proceeding and a significant interest in the outcome of that proceeding."
+      },
+      {
+       "type": "add",
+       "text": "(II) if an objection to the fees from a voluntary agreement submitted for adoption by the Librarian of Congress to apply to all satellite carriers, distributors, and copyright owners is received under subparagraph (D) from a party with an intent to participate in the proceeding and a significant interest in the outcome of that proceeding."
+      },
+      {
+       "type": "ctx",
+       "text": "Such proceeding shall be conducted under chapter 8."
+      },
+      {
+       "type": "del",
+       "text": "(ii) Establishment of royalty fees.-In determining royalty fees under this subparagraph, the Copyright Royalty Judges shall establish fees for the secondary transmissions of the primary transmissions of network stations and non-network stations that most clearly represent the fair market value of secondary transmissions, except that the Copyright Royalty Judges shall adjust royalty fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Copyright Royalty Judges in accordance with subparagraph (D). In determining the fair market value, the Judges shall base their decision on economic, competitive, and programming information presented by the parties, including-"
+      },
+      {
+       "type": "add",
+       "text": "(ii) Establishment of royalty fees.-In determining royalty fees under this subparagraph, the Librarian of Congress shall establish fees for the secondary transmissions of the primary transmissions of network stations and non-network stations that most clearly represent the fair market value of secondary transmissions, except that the Librarian of Congress shall adjust royalty fees to account for the obligations of the parties under any applicable voluntary agreement filed with the Librarian of Congress in accordance with subparagraph (D). In determining the fair market value, the Judges shall base their decision on economic, competitive, and programming information presented by the parties, including-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) the competitive environment in which such programming is distributed, the cost of similar signals in similar private and compulsory license marketplaces, and any special features and conditions of the retransmission marketplace;"
+      },
+      {
+       "type": "ctx",
+       "text": "(II) the economic impact of such fees on copyright owners and satellite carriers; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(III) the impact on the continued availability of secondary transmissions to the public."
+      },
+      {
+       "type": "del",
+       "text": "(iii) Effective date for decision of copyright royalty judges.-The obligation to pay the royalty fees established under a determination that is made by the Copyright Royalty Judges in a proceeding under this paragraph shall be effective as of January 1, 2010."
+      },
+      {
+       "type": "add",
+       "text": "(iii) Effective date for decision of copyright royalty judges.-The obligation to pay the royalty fees established under a determination that is made by the Librarian of Congress in a proceeding under this paragraph shall be effective as of January 1, 2010."
+      },
+      {
+       "type": "ctx",
+       "text": "(iv) Persons subject to royalty fees.-The royalty fees referred to in clause (iii) shall be binding on all satellite carriers, distributors and copyright owners, who are not party to a voluntary agreement filed with the Copyright Office under subparagraph (D)."
+      },
+      {
+       "type": "del",
+       "text": "(2) Annual royalty fee adjustment.-Effective January 1 of each year, the royalty fee payable under subsection (b)(1)(B) for the secondary transmission of the primary transmissions of network stations and non-network stations shall be adjusted by the Copyright Royalty Judges to reflect any changes occurring in the cost of living as determined by the most recent Consumer Price Index (for all consumers and for all items) published by the Secretary of Labor before December 1 of the preceding year. Notification of the adjusted fees shall be published in the Federal Register at least 25 days before January 1."
+      },
+      {
+       "type": "add",
+       "text": "(2) Annual royalty fee adjustment.-Effective January 1 of each year, the royalty fee payable under subsection (b)(1)(B) for the secondary transmission of the primary transmissions of network stations and non-network stations shall be adjusted by the Librarian of Congress to reflect any changes occurring in the cost of living as determined by the most recent Consumer Price Index (for all consumers and for all items) published by the Secretary of Labor before December 1 of the preceding year. Notification of the adjusted fees shall be published in the Federal Register at least 25 days before January 1."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Definitions.-As used in this section-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Distributor.-The term \"distributor\" means an entity that contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities in accordance with the provisions of this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network station.-The term \"network station\" means-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/303.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 303"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2573"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u201380,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a711, Nov. 13, 1997, 111 Stat. 1534"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013298,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7102(c), Oct. 27, 1998, 112 Stat. 2827"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 111\u2013295,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a75(a), Dec. 9, 2010, 124 Stat. 3181"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/304.md",
+   "hunks": [
+    {
+     "old_start": 25,
+     "new_start": 25,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4)(A) If an application to register a claim to the renewed and extended term of copyright in a work is not made within 1 year before the expiration of the original term of copyright in a work, or if the claim pursuant to such application is not registered, then a derivative work prepared under authority of a grant of a transfer or license of the copyright that is made before the expiration of the original term of copyright may continue to be used under the terms of the grant during the renewed and extended term of copyright without infringing the copyright, except that such use does not extend to the preparation during such renewed and extended term of other derivative works based upon the copyrighted work covered by such grant."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate of such registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate. The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act.-Any copyright still in its renewal term at the time that the Sonny Bono Copyright Term Extension Act becomes effective shall have a copyright term of 95 years from the date copyright was originally secured."
+      },
+      {
+       "type": "del",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by the subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "add",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it. In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Where an author is dead, his or her termination interest is owned, and may be exercised, as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) The widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/405.md",
+   "hunks": [
+    {
+     "old_start": 5,
+     "new_start": 5,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) the notice has been omitted from no more than a relatively small number of copies or phonorecords distributed to the public; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) registration for the work has been made before or is made within five years after the publication without notice, and a reasonable effort is made to add notice to all copies or phonorecords that are distributed to the public in the United States after the omission has been discovered; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the notice has been omitted in violation of an express requirement in writing that, as a condition of the copyright owner's authorization of the public distribution of copies or phonorecords, they bear the prescribed notice."
+      },
+      {
+       "type": "del",
+       "text": "(b) Effect of Omission on Innocent Infringers.-Any person who innocently infringes a copyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice. In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition or permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court."
+      },
+      {
+       "type": "add",
+       "text": "(b) Effect of Omission on Innocent Infringers.-Any person who innocently infringes a copyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice. In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition for permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Removal of Notice.-Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/407.md",
+   "hunks": [
+    {
+     "old_start": 9,
+     "new_start": 9,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(c) The Register of Copyrights may by regulation exempt any categories of material from the deposit requirements of this section, or require deposit of only one copy or phonorecord with respect to any categories. Such regulations shall provide either for complete exemption from the deposit requirements of this section, or for alternative forms of deposit aimed at providing a satisfactory archival record of a work without imposing practical or financial hardships on the depositor, where the individual author is the owner of copyright in a pictorial, graphic, or sculptural work and (i) less than five copies of the work have been published, or (ii) the work has been published in a limited edition consisting of numbered copies, the monetary value of which would make the mandatory deposit of two copies of the best edition of the work burdensome, unfair, or unreasonable."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) At any time after publication of a work as provided by subsection (a), the Register of Copyrights may make written demand for the required deposit on any of the persons obligated to make the deposit under subsection (a). Unless deposit is made within three months after the demand is received, the person or persons on whom the demand was made are liable-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) to a fine of not more than $250 for each work; and"
+      },
+      {
+       "type": "del",
+       "text": "(2) to pay into a specially designated fund in the Library of Congress the total retail price of the copies or phonorecords demanded, or, if no retail price has been fixed, the reasonable cost of the Library of Congress of acquiring them; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) to pay into a specially designated fund in the Library of Congress the total retail price of the copies or phonorecords demanded, or, if no retail price has been fixed, the reasonable cost to the Library of Congress of acquiring them; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) to pay a fine of $2,500, in addition to any fine or liability imposed under clauses (1) and (2), if such person willfully or repeatedly fails or refuses to comply with such a demand."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) With respect to transmission programs that have been fixed and transmitted to the public in the United States but have not been published, the Register of Copyrights shall, after consulting with the Librarian of Congress and other interested organizations and officials, establish regulations governing the acquisition, through deposit or otherwise, of copies or phonorecords of such programs for the collections of the Library of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(1) The Librarian of Congress shall be permitted, under the standards and conditions set forth in such regulations, to make a fixation of a transmission program directly from a transmission to the public, and to reproduce one copy or phonorecord from such fixation for archival purposes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/504.md",
+   "hunks": [
+    {
+     "old_start": 7,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(b) Actual Damages and Profits.-The copyright owner is entitled to recover the actual damages suffered by him or her as a result of the infringement, and any profits of the infringer that are attributable to the infringement and are not taken into account in computing the actual damages. In establishing the infringer's profits, the copyright owner is required to present proof only of the infringer's gross revenue, and the infringer is required to prove his or her deductible expenses and the elements of profit attributable to factors other than the copyrighted work."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Statutory Damages.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $500 or more than $20,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work."
+      },
+      {
+       "type": "del",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court it its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "add",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/509.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "del",
+       "text": "\u00a7509. Seizure and forfeiture"
+      },
+      {
+       "type": "del",
+       "text": "(a) All copies or phonorecords manufactured, reproduced, distributed, sold, or otherwise used, intended for use, or possessed with intent to use in violation of section 506(a), and all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced, and all electronic, mechanical, or other devices for manufacturing, reproducing, or assembling such copies or phonorecords may be seized and forfeited to the United States."
+      },
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 509"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "del",
+       "text": "(b) The applicable procedures relating to (i) the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violations of the customs laws contained in title 19, (ii) the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof, (iii) the remission or mitigation of such forfeitures, (iv) the compromise of claims, and (v) the award of compensation to informers in respect of such forfeitures, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions of this section; except that such duties as are imposed upon any officer or employee of the Treasury Department or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the provisions of the customs laws contained in title 19 shall be performed with respect to seizure and forfeiture of all articles described in subsection (a) by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 509"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "[\u00a7509. Repealed."
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 110\u2013403,"
+      },
+      {
+       "type": "add",
+       "text": "title II, \u00a7201(b)(1), Oct. 13, 2008, 122 Stat. 4260"
+      },
+      {
+       "type": "add",
+       "text": "]"
+      },
+      {
+       "type": "add",
+       "text": "Section,"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "add",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2587"
+      },
+      {
+       "type": "add",
+       "text": ";"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 105\u201380,"
+      },
+      {
+       "type": "add",
+       "text": "\u00a712(a)(14), Nov. 13, 1997, 111 Stat. 1535"
+      },
+      {
+       "type": "add",
+       "text": ", related to seizure and forfeiture."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 13,
+     "new_start": 13,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services, $20 for each hour or fraction of an hour consumed with respect thereto; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "ctx",
+       "text": "The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation."
+      },
+      {
+       "type": "del",
+       "text": "(b) In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized."
+      },
+      {
+       "type": "add",
+       "text": "(b) In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:"
+      },
+      {
+       "type": "add",
+       "text": "(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any increase in fees and the authority to use such fees consistent with the budget."
+      },
+      {
+       "type": "add",
+       "text": "(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), increase fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs."
+      },
+      {
+       "type": "add",
+       "text": "(3) Any fee established under paragraph (2) shall be rounded off to the nearest dollar, or for a fee less than $12, rounded off to the nearest 50 cents."
+      },
+      {
+       "type": "add",
+       "text": "(4) Fees established under this subsection shall be fair and equitable and give due consideration to the objectives of the copyright system."
+      },
+      {
+       "type": "add",
+       "text": "(5) If the Register determines under paragraph (2) that fees should be increased, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "del",
+       "text": "(d) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      },
+      {
+       "type": "add",
+       "text": "(d)(1) Except as provided in paragraph (2), all fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office. Such fees that are collected shall remain available until expended. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      },
+      {
+       "type": "add",
+       "text": "(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest in interest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands. Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands. Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities."
+      },
+      {
+       "type": "add",
+       "text": "(3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/909.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 909"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7909. Mask work notice"
+      },
+      {
+       "type": "add",
+       "text": "(a) The owner of a mask work provided protection under this chapter may affix notice to the mask work, and to masks and semiconductor chip products embodying the mask work, in such manner and location as to give reasonable notice of such protection. The Register of Copyrights shall prescribe by regulation, as examples, specific methods of affixation and positions of notice for purposes of this section, but these specifications shall not be considered exhaustive. The affixation of such notice is not a condition of protection under this chapter, but shall constitute prima facie evidence of notice of protection."
+      },
+      {
+       "type": "add",
+       "text": "(b) The notice referred to in subsection (a) shall consist of-"
+      },
+      {
+       "type": "add",
+       "text": "(1) the words \"mask work\", the symbol *M*, or the symbol (M) (the letter M in a circle); and"
+      },
+      {
+       "type": "add",
+       "text": "(2) the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/910.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 910"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7910. Enforcement of exclusive rights"
+      },
+      {
+       "type": "del",
+       "text": "(a) Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. as used in this subsection, the term \"any person\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "add",
+       "text": "(a) Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. As used in this subsection, the term \"any person\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) The owner of a mask work protected under this chapter, or the exclusive licensee of all rights under this chapter with respect to the mask work, shall, after a certificate of registration of a claim of protection in that mask work has been issued under section 908, be entitled to institute a civil action for any infringement with respect to the mask work which is committed after the commencement of protection of the mask work under section 904(a)."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) In any case in which an application for registration of a claim of protection in a mask work and the required deposit of identifying material and fee have been received in the Copyright Office in proper form and registration of the mask work has been refused, the applicant is entitled to institute a civil action for infringement under this chapter with respect to the mask work if notice of the action, together with a copy of the complaint, is served on the Register of Copyrights, in accordance with the Federal Rules of Civil Procedure. The Register may, at his or her option, become a party to the action with respect to the issue of whether the claim of protection is eligible for registration by entering an appearance within sixty days after such service, but the failure of the Register to become a party to the action shall not deprive the court of jurisdiction to determine that issue."
+      },
+      {
+       "type": "ctx",
+       "text": "(c)(1) The Secretary of the Treasury and the United States Postal Service shall separately or jointly issue regulations for the enforcement of the rights set forth in section 905 with respect to importation. These regulations may require, as a condition for the exclusion of articles from the United States, that the person seeking exclusion take any one or more of the following actions:"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

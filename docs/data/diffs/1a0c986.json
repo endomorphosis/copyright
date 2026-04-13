@@ -1,0 +1,165 @@
+{
+ "hash": "1a0c986",
+ "act_name": "Fairness in Music Licensing Act of 1998",
+ "files": [
+  {
+   "path": "sections/110.md",
+   "hunks": [
+    {
+     "old_start": 18,
+     "new_start": 18,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(ii) the notice shall be served on the person responsible for the performance at least seven days before the date of the performance, and shall state the reasons for the objection; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(iii) the notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation;"
+      },
+      {
+       "type": "ctx",
+       "text": "(5)(A) except as provided in subparagraph (B), communication of a transmission embodying a performance or display of a work by the public reception of the transmission on a single receiving apparatus of a kind commonly used in private homes, unless-"
+      },
+      {
+       "type": "del",
+       "text": "(A) a direct charge is made to see or hear the transmission; or"
+      },
+      {
+       "type": "del",
+       "text": "(B) the transmission thus received is further transmitted to the public;"
+      },
+      {
+       "type": "add",
+       "text": "(i) a direct charge is made to see or hear the transmission; or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the transmission thus received is further transmitted to the public;"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) communication by an establishment of a transmission or retransmission embodying a performance or display of a nondramatic musical work intended to be received by the general public, originated by a radio or television broadcast station licensed as such by the Federal Communications Commission, or, if an audiovisual transmission, by a cable system or satellite carrier, if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) in the case of an establishment other than a food service or drinking establishment, either the establishment in which the communication occurs has less than 2,000 gross square feet of space (excluding space used for customer parking and for no other purpose), or the establishment in which the communication occurs has 2,000 or more gross square feet of space (excluding space used for customer parking and for no other purpose) and-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) if the performance is by audio means only, the performance is communicated by means of a total of not more than 6 loudspeakers, of which not more than 4 loudspeakers are located in any 1 room or adjoining outdoor space; or"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/504.md",
+   "hunks": [
+    {
+     "old_start": 8,
+     "new_start": 8,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(c) Statutory Damages.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $500 or more than $20,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "add",
+       "text": "(d) Additional Damages in Certain Cases.-In any case in which the court finds that a defendant proprietor of an establishment who claims as a defense that its activities were exempt under section 110(5) did not have reasonable grounds to believe that its use of a copyrighted work was exempt under such section, the plaintiff shall be entitled to, in addition to any award of damages under this section, an additional award of two times the amount of the license fee that the proprietor of the establishment concerned should have paid the plaintiff for such use during the preceding period of up to 3 years."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/513.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 513"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7513. Determination of reasonable license fees for individual proprietors"
+      },
+      {
+       "type": "ctx",
+       "text": "In the case of any performing rights society subject to a consent decree which provides for the determination of reasonable license rates or fees to be charged by the performing rights society, notwithstanding the provisions of that consent decree, an individual proprietor who owns or operates fewer than 7 non-publicly traded establishments in which nondramatic musical works are performed publicly and who claims that any license agreement offered by that performing rights society is unreasonable in its license rate or fee as to that individual proprietor, shall be entitled to determination of a reasonable license rate or fee as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) The individual proprietor may commence such proceeding for determination of a reasonable license rate or fee by filing an application in the applicable district court under paragraph (2) that a rate disagreement exists and by serving a copy of the application on the performing rights society. Such proceeding shall commence in the applicable district court within 90 days after the service of such copy, except that such 90-day requirement shall be subject to the administrative requirements of the court."
+      }
+     ]
+    },
+    {
+     "old_start": 9,
+     "new_start": 11,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(7) Any such final determination shall be binding only as to the individual proprietor commencing the proceeding, and shall not be applicable to any other proprietor or any other performing rights society, and the performing rights society shall be relieved of any obligation of nondiscrimination among similarly situated music users that may be imposed by the consent decree governing its operations."
+      },
+      {
+       "type": "ctx",
+       "text": "(8) An individual proprietor may not bring more than one proceeding provided for in this section for the determination of a reasonable license rate or fee under any license agreement with respect to any one performing rights society."
+      },
+      {
+       "type": "ctx",
+       "text": "(9) For purposes of this section, the term \"industry rate\" means the license fee a performing rights society has agreed to with, or which has been determined by the court for, a significant segment of the music user industry to which the individual proprietor belongs."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013298,"
+      },
+      {
+       "type": "del",
+       "text": "title II, \u00a7203(a), Oct. 27, 1998, 112 Stat. 2831"
+      },
+      {
+       "type": "del",
+       "text": ", \u00a7512; renumbered \u00a7513,"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u201344,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a71(c)(1), Aug. 5, 1999, 113 Stat. 221"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

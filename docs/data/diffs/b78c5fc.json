@@ -1,0 +1,122 @@
+{
+ "hash": "b78c5fc",
+ "act_name": "Architectural Works Copyright Protection Act of 1990",
+ "files": [
+  {
+   "path": "sections/102.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 102"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7102. Subject matter of copyright: In general"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Copyright protection subsists, in accordance with this title, in original works of authorship fixed in any tangible medium of expression, now known or later developed, from which they can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. Works of authorship include the following categories:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) literary works;"
+      }
+     ]
+    },
+    {
+     "old_start": 6,
+     "new_start": 8,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4) pantomimes and choreographic works;"
+      },
+      {
+       "type": "ctx",
+       "text": "(5) pictorial, graphic, and sculptural works;"
+      },
+      {
+       "type": "ctx",
+       "text": "(6) motion pictures and other audiovisual works;"
+      },
+      {
+       "type": "del",
+       "text": "(7) sound recordings."
+      },
+      {
+       "type": "del",
+       "text": "(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(7) sound recordings; and"
+      },
+      {
+       "type": "add",
+       "text": "(8) architectural works."
+      },
+      {
+       "type": "add",
+       "text": "(b) In no case does copyright protection for an original work of authorship extend to any idea, procedure, process, system, method of operation, concept, principle, or discovery, regardless of the form in which it is described, explained, illustrated, or embodied in such work."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/106.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 106"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7106. Exclusive rights in copyrighted works"
+      },
+      {
+       "type": "del",
+       "text": "Subject to sections 107 through 119, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:"
+      },
+      {
+       "type": "add",
+       "text": "Subject to sections 107 through 120, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) to reproduce the copyrighted work in copies or phonorecords;"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) to prepare derivative works based upon the copyrighted work;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) to distribute copies or phonorecords of the copyrighted work to the public by sale or other transfer of ownership, or by rental, lease, or lending;"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

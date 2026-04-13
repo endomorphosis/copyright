@@ -1,0 +1,279 @@
+{
+ "hash": "197afde",
+ "act_name": "Semiconductor Chip Protection Act of 1984",
+ "files": [
+  {
+   "path": "sections/901.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a7901. Definitions"
+      },
+      {
+       "type": "add",
+       "text": "(a) As used in this chapter-"
+      },
+      {
+       "type": "add",
+       "text": "(1) a \"semiconductor chip product\" is the final or intermediate form of any product-"
+      },
+      {
+       "type": "add",
+       "text": "(A) having two or more layers of metallic, insulating, or semiconductor material, deposited or otherwise placed on, or etched away or otherwise removed from, a piece of semiconductor material in accordance with a predetermined pattern; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) intended to perform electronic circuitry functions;"
+      },
+      {
+       "type": "add",
+       "text": "(2) a \"mask work\" is a series of related images, however fixed or encoded-"
+      },
+      {
+       "type": "add",
+       "text": "(A) having or representing the predetermined, three-dimensional pattern of metallic, insulating, or semiconductor material present or removed from the layers of a semiconductor chip product; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) in which series the relation of the images to one another is that each image has the pattern of the surface of one form of the semiconductor chip product;"
+      },
+      {
+       "type": "add",
+       "text": "(3) a mask work is \"fixed\" in a semiconductor chip product when its embodiment in the product is sufficiently permanent or stable to permit the mask work to be perceived or reproduced from the product for a period of more than transitory duration;"
+      },
+      {
+       "type": "add",
+       "text": "(4) to \"distribute\" means to sell, or to lease, bail, or otherwise transfer, or to offer to sell, lease, bail, or otherwise transfer;"
+      },
+      {
+       "type": "add",
+       "text": "(5) to \"commercially exploit\" a mask work is to distribute to the public for commercial purposes a semiconductor chip product embodying the mask work; except that such term includes an offer to sell or transfer a semiconductor chip product only when the offer is in writing and occurs after the mask work is fixed in the semiconductor chip product;"
+      },
+      {
+       "type": "add",
+       "text": "(6) the \"owner\" of a mask work is the person who created the mask work, the legal representative of that person if that person is deceased or under a legal incapacity, or a party to whom all the rights under this chapter of such person or representative are transferred in accordance with section 903(b); except that, in the case of a work made within the scope of a person's employment, the owner is the employer for whom the person created the mask work or a party to whom all the rights under this chapter of the employer are transferred in accordance with section 903(b);"
+      },
+      {
+       "type": "add",
+       "text": "(7) an \"innocent purchaser\" is a person who purchases a semiconductor chip product in good faith and without having notice of protection with respect to the semiconductor chip product;"
+      },
+      {
+       "type": "add",
+       "text": "(8) having \"notice of protection\" means having actual knowledge that, or reasonable grounds to believe that, a mask work is protected under this chapter; and"
+      },
+      {
+       "type": "add",
+       "text": "(9) an \"infringing semiconductor chip product\" is a semiconductor chip product which is made, imported, or distributed in violation of the exclusive rights of the owner of a mask work under this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(b) For purposes of this chapter, the distribution or importation of a product incorporating a semiconductor chip product as a part thereof is a distribution or importation of that semiconductor chip product."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 98\u2013620,"
+      },
+      {
+       "type": "add",
+       "text": "title III, \u00a7302, Nov. 8, 1984, 98 Stat. 3347"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/913.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a7913. Transitional provisions"
+      },
+      {
+       "type": "add",
+       "text": "(a) No application for registration under section 908 may be filed, and no civil action under section 910 or other enforcement proceeding under this chapter may be instituted, until sixty days after the date of the enactment of this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(b) No monetary relief under section 911 may be granted with respect to any conduct that occurred before the date of the enactment of this chapter, except as provided in subsection (d)."
+      },
+      {
+       "type": "add",
+       "text": "(c) Subject to subsection (a), the provisions of this chapter apply to all mask works that are first commercially exploited or are registered under this chapter, or both, on or after the date of the enactment of this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(d)(1) Subject to subsection (a), protection is available under this chapter to any mask work that was first commercially exploited on or after July 1, 1983, and before the date of the enactment of this chapter, if a claim of protection in the mask work is registered in the Copyright Office before July 1, 1985, under section 908."
+      },
+      {
+       "type": "add",
+       "text": "(2) In the case of any mask work described in paragraph (1) that is provided protection under this chapter, infringing semiconductor chip product units manufactured before the date of the enactment of this chapter may, without liability under sections 910 and 911, be imported into or distributed in the United States, or both, until two years after the date of registration of the mask work under section 908, but only if the importer or distributor, as the case may be, first pays or offers to pay the reasonable royalty referred to in section 907(a)(2) to the mask work owner, on all such units imported or distributed, or both, after the date of the enactment of this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(3) In the event that a person imports or distributes infringing semiconductor chip product units described in paragraph (2) of this subsection without first paying or offering to pay the reasonable royalty specified in such paragraph, or if the person refuses or fails to make such payment, the mask work owner shall be entitled to the relief provided in sections 910 and 911."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 98\u2013620,"
+      },
+      {
+       "type": "add",
+       "text": "title III, \u00a7302, Nov. 8, 1984, 98 Stat. 3354"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/914.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a7914. International transitional provisions"
+      },
+      {
+       "type": "add",
+       "text": "(a) Notwithstanding the conditions set forth in subparagraphs (A) and (C) of section 902(a)(1) with respect to the availability of protection under this chapter to nationals, domiciliaries, and sovereign authorities of a foreign nation, the Secretary of Commerce may, upon the petition of any person, or upon the Secretary's own motion, issue an order extending protection under this chapter to such foreign nationals, domiciliaries, and sovereign authorities if the Secretary finds-"
+      },
+      {
+       "type": "add",
+       "text": "(1) that the foreign nation is making good faith efforts and reasonable progress toward-"
+      },
+      {
+       "type": "add",
+       "text": "(A) entering into a treaty described in section 902(a)(1)(A); or"
+      },
+      {
+       "type": "add",
+       "text": "(B) enacting  legislation that would be in compliance with subparagraph (A) or (B) of section 902(a)(2); and"
+      },
+      {
+       "type": "add",
+       "text": "(2) that the nationals, domiciliaries, and sovereign authorities of the foreign nation, and persons controlled by them, are not engaged in the misappropriation, or unauthorized distribution or commercial exploitation, of mask works; and"
+      },
+      {
+       "type": "add",
+       "text": "(3) that issuing the order would promote the purposes of this chapter and international comity with respect to the protection of mask works."
+      },
+      {
+       "type": "add",
+       "text": "(b) While an order under subsection (a) is in effect with respect to a foreign nation, no application for registration of a claim for protection in a mask work under this chapter may be denied solely because the owner of the mask work is a national, domiciliary, or sovereign authority of that foreign nation, or solely because the mask work was first commercially exploited in that foreign nation."
+      },
+      {
+       "type": "add",
+       "text": "(c) Any order issued by the Secretary of Commerce under subsection (a) shall be effective for such period as the Secretary designates in the order, except that no such order may be effective after the date on which the authority of the Secretary of Commerce terminates under subsection (e). The effective date of any such order shall also be designated in the order. In the case of an order issued upon the petition of a person, such effective date may be no earlier than the date on which the Secretary receives such petition."
+      },
+      {
+       "type": "add",
+       "text": "(d)(1) Any order issued under this section shall terminate if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the Secretary of Commerce finds that any of the conditions set forth in paragraphs (1), (2), and (3) of subsection (a) no longer exist; or"
+      },
+      {
+       "type": "add",
+       "text": "(B) mask works of nationals, domiciliaries, and sovereign authorities of that foreign nation or mask works first commercially exploited in that foreign nation become eligible for protection under subparagraph (A) or (C) of section 902(a)(1)."
+      },
+      {
+       "type": "add",
+       "text": "(2) Upon the termination or expiration of an order issued under this section, registrations of claims of protection in mask works made pursuant to that order shall remain valid for the period specified in section 904."
+      },
+      {
+       "type": "add",
+       "text": "(e) The authority of the Secretary of Commerce under this section shall commence on the date of the enactment of this chapter, and shall terminate on July 1, 1991."
+      },
+      {
+       "type": "add",
+       "text": "(f)(1) The Secretary of Commerce shall promptly notify the Register of Copyrights and the Committees on the Judiciary of the Senate and the House of Representatives of the issuance or termination of any order under this section, together with a statement of the reasons for such action. The Secretary shall also publish such notification and statement of reasons in the Federal Register."
+      },
+      {
+       "type": "add",
+       "text": "(2) Two years after the date of the enactment of this chapter, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report on the actions taken under this section and on the current status of international recognition of mask work protection. The report shall include such recommendations for modifications of the protection accorded under this chapter to mask works owned by nationals, domiciliaries, or sovereign authorities of foreign nations as the Secretary, in consultation with the Register of Copyrights, considers would promote the purposes of this chapter and international comity with respect to mask work protection. Not later than July 1, 1990, the Secretary of Commerce, in consultation with the Register of Copyrights, shall transmit to the Committees on the Judiciary of the Senate and the House of Representatives a report updating the matters contained in the report transmitted under the preceding sentence."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 98\u2013620,"
+      },
+      {
+       "type": "add",
+       "text": "title III, \u00a7302, Nov. 8, 1984, 98 Stat. 3355"
+      },
+      {
+       "type": "add",
+       "text": "; amended"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 100\u2013159,"
+      },
+      {
+       "type": "add",
+       "text": "\u00a7\u00a72, 4, Nov. 9, 1987, 101 Stat. 899"
+      },
+      {
+       "type": "add",
+       "text": ", 900;"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 102\u201364,"
+      },
+      {
+       "type": "add",
+       "text": "\u00a7\u00a73, 4, June 28, 1991, 105 Stat. 320"
+      },
+      {
+       "type": "add",
+       "text": ", 321.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
