@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#404060;stop-opacity:0"/>
+      <stop offset="10%" style="stop-color:#404060"/>
+      <stop offset="90%" style="stop-color:#404060"/>
+      <stop offset="100%" style="stop-color:#404060;stop-opacity:0"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bg)"/>
+
+  <!-- Subtle grid lines -->
+  <g opacity="0.06" stroke="#a0a0c0" stroke-width="1">
+    <line x1="0" y1="100" x2="1200" y2="100"/>
+    <line x1="0" y1="200" x2="1200" y2="200"/>
+    <line x1="0" y1="300" x2="1200" y2="300"/>
+    <line x1="0" y1="400" x2="1200" y2="400"/>
+    <line x1="0" y1="500" x2="1200" y2="500"/>
+  </g>
+
+  <!-- Section symbol watermark -->
+  <text x="950" y="520" font-family="Georgia, serif" font-size="400" fill="#f0c040" opacity="0.04">§</text>
+
+  <!-- Title -->
+  <text x="100" y="200" font-family="Georgia, serif" font-size="72" fill="#f0c040" font-weight="bold">US Copyright Law</text>
+  <text x="100" y="275" font-family="Georgia, serif" font-size="72" fill="#f0c040" font-weight="bold">as Code</text>
+
+  <!-- Subtitle -->
+  <text x="100" y="330" font-family="Georgia, serif" font-size="28" fill="#a0a0c0">236 Years of Legislative History in Git</text>
+
+  <!-- Timeline -->
+  <line x1="100" y1="420" x2="1100" y2="420" stroke="url(#line)" stroke-width="3"/>
+
+  <!-- Timeline dots and labels -->
+  <g font-family="'SF Mono', Menlo, Consolas, monospace" font-size="13" fill="#a0a0c0">
+    <!-- 1790 -->
+    <circle cx="150" cy="420" r="7" fill="#f0c040"/>
+    <text x="150" y="450" text-anchor="middle" fill="#f0c040" font-size="15" font-weight="bold">1790</text>
+    <text x="150" y="468" text-anchor="middle">14 yrs</text>
+
+    <!-- 1831 -->
+    <circle cx="310" cy="420" r="6" fill="#f0c040" opacity="0.8"/>
+    <text x="310" y="450" text-anchor="middle" fill="#f0c040" font-size="14">1831</text>
+    <text x="310" y="468" text-anchor="middle">28 yrs</text>
+
+    <!-- 1909 -->
+    <circle cx="470" cy="420" r="6" fill="#f0c040" opacity="0.8"/>
+    <text x="470" y="450" text-anchor="middle" fill="#f0c040" font-size="14">1909</text>
+    <text x="470" y="468" text-anchor="middle">28+28</text>
+
+    <!-- 1976 -->
+    <circle cx="680" cy="420" r="8" fill="#f0c040"/>
+    <text x="680" y="450" text-anchor="middle" fill="#f0c040" font-size="15" font-weight="bold">1976</text>
+    <text x="680" y="468" text-anchor="middle">Life+50</text>
+
+    <!-- 1998 -->
+    <circle cx="840" cy="420" r="6" fill="#f0c040" opacity="0.8"/>
+    <text x="840" y="450" text-anchor="middle" fill="#f0c040" font-size="14">1998</text>
+    <text x="840" y="468" text-anchor="middle">Life+70</text>
+
+    <!-- 2025 -->
+    <circle cx="1050" cy="420" r="7" fill="#f0c040"/>
+    <text x="1050" y="450" text-anchor="middle" fill="#f0c040" font-size="15" font-weight="bold">2025</text>
+    <text x="1050" y="468" text-anchor="middle">121 acts</text>
+  </g>
+
+  <!-- Stats bar at bottom -->
+  <rect x="0" y="530" width="1200" height="100" fill="#0d1117" opacity="0.6"/>
+  <g font-family="'SF Mono', Menlo, Consolas, monospace" text-anchor="middle">
+    <text x="200" y="572" font-size="32" fill="#f0c040" font-weight="bold">121</text>
+    <text x="200" y="596" font-size="14" fill="#8080a0">Acts of Congress</text>
+
+    <text x="440" y="572" font-size="32" fill="#f0c040" font-weight="bold">122</text>
+    <text x="440" y="596" font-size="14" fill="#8080a0">Statute Sections</text>
+
+    <text x="680" y="572" font-size="32" fill="#f0c040" font-weight="bold">510</text>
+    <text x="680" y="596" font-size="14" fill="#8080a0">Accuracy Tests</text>
+
+    <text x="960" y="580" font-size="16" fill="#a0a0c0">katelynsills.com/copyright</text>
+  </g>
+</svg>
