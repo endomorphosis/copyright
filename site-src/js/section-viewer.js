@@ -42,7 +42,13 @@ const SectionViewer = {
           <button class="compare-btn" onclick="SectionViewer.openCompare('${secNum}')">
             Compare versions
           </button>
+          <button class="compare-btn" onclick="SectionViewer.openRamseyer('${secNum}')">
+            Ramseyer format
+          </button>
         ` : ''}
+        <button class="compare-btn cite-btn" onclick="SectionViewer.copyCitation('${secNum}')">
+          Copy citation
+        </button>
       </div>
 
       <div class="statute-text" id="statute-text">${App.esc(displayText)}</div>
@@ -79,5 +85,42 @@ const SectionViewer = {
     const older = versions[versions.length - 2].act_hash;
     const newer = versions[versions.length - 1].act_hash;
     location.hash = `#/compare/${secNum}/${older}/${newer}`;
+  },
+
+  copyCitation(secNum) {
+    const select = document.getElementById('version-select');
+    const selectedHash = select ? select.value : null;
+    const act = selectedHash ? App.findAct(selectedHash) : null;
+    const versions = this.currentData ? this.currentData.versions || [] : [];
+    const isLatest = selectedHash === (versions.length ? versions[versions.length - 1].act_hash : null);
+
+    let citation = `17 U.S.C. \u00A7 ${secNum}`;
+    if (act && !isLatest) {
+      citation += ` (as amended by ${act.name}, ${act.date})`;
+    }
+    citation += `\n${window.location.href}`;
+
+    navigator.clipboard.writeText(citation).then(() => {
+      const btn = document.querySelector('.cite-btn');
+      if (btn) {
+        const orig = btn.textContent;
+        btn.textContent = 'Copied!';
+        setTimeout(() => { btn.textContent = orig; }, 1500);
+      }
+    });
+  },
+
+  openRamseyer(secNum) {
+    const data = this.currentData;
+    if (!data || !data.versions || data.versions.length < 2) return;
+    const versions = data.versions;
+    // Find the selected version and its predecessor
+    const select = document.getElementById('version-select');
+    const selectedHash = select ? select.value : null;
+    const idx = selectedHash ? versions.findIndex(v => v.act_hash === selectedHash) : versions.length - 1;
+    const prevIdx = idx > 0 ? idx - 1 : 0;
+    const older = versions[prevIdx].act_hash;
+    const newer = versions[idx >= 0 ? idx : versions.length - 1].act_hash;
+    location.hash = `#/ramseyer/${secNum}/${older}/${newer}`;
   },
 };
