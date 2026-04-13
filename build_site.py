@@ -6,7 +6,7 @@ Walks the git history and extracts all data into JSON files that the
 frontend can load on demand. No external dependencies required.
 
 Usage:
-    python3 build_site.py [--history-repo ~/code/copyright-history] [--output site/]
+    python3 build_site.py [--history-repo ~/code/copyright-history] [--output docs/]
 """
 
 import argparse
@@ -22,7 +22,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from build import parse_acts
 
 DEFAULT_HISTORY_REPO = os.path.expanduser('~/code/copyright-history')
-DEFAULT_OUTPUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'site')
+DEFAULT_OUTPUT = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'docs')
 
 
 def git(*args, repo):
