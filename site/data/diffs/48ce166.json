@@ -1,0 +1,760 @@
+{
+ "hash": "48ce166",
+ "act_name": "Copyright Technical Amendments Act of 1997",
+ "files": [
+  {
+   "path": "sections/1006.md",
+   "hunks": [
+    {
+     "old_start": 7,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) who has filed a claim under section 1007."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Allocation of Royalty Payments to Groups.-The royalty payments shall be divided into 2 funds as follows:"
+      },
+      {
+       "type": "del",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "add",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The musical works fund.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) 331/3 percent of the royalty payments shall be allocated to the Musical Works Fund for distribution to interested copyright parties described in section 1001(7)(B)."
+      },
+      {
+       "type": "ctx",
+       "text": "(B)(i) Music publishers shall be entitled to 50 percent of the royalty payments allocated to the Musical Works Fund."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "del",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "add",
+       "text": "Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"architectural work\" is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Audiovisual works\" are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied."
+      }
+     ]
+    },
+    {
+     "old_start": 16,
+     "new_start": 16,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "del",
+       "text": "A \"device\", \"machine\", or \"processs\" is one now known or later developed."
+      },
+      {
+       "type": "add",
+       "text": "A \"device\", \"machine\", or \"process\" is one now known or later developed."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"digital transmission\" is a transmission in whole or in part in a digital or other non-analog format."
+      },
+      {
+       "type": "ctx",
+       "text": "To \"display\" a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"establishment\" is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/108.md",
+   "hunks": [
+    {
+     "old_start": 9,
+     "new_start": 9,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if-"
+      },
+      {
+       "type": "del",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a pair price; and"
+      },
+      {
+       "type": "add",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy."
+      },
+      {
+       "type": "ctx",
+       "text": "For purposes of this subsection, a format shall be considered obsolete if the machine or device necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) The rights of reproduction and distribution under this section apply to a copy, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, of no more than one article or other contribution to a copyrighted collection or periodical issue, or to a copy or phonorecord of a small part of any other copyrighted work, if-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/303.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 303"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2573"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u201380,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a711, Nov. 13, 1997, 111 Stat. 1534"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013298,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7102(c), Oct. 27, 1998, 112 Stat. 2827"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 111\u2013295,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a75(a), Dec. 9, 2010, 124 Stat. 3181"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/304.md",
+   "hunks": [
+    {
+     "old_start": 25,
+     "new_start": 25,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4)(A) If an application to register a claim to the renewed and extended term of copyright in a work is not made within 1 year before the expiration of the original term of copyright in a work, or if the claim pursuant to such application is not registered, then a derivative work prepared under authority of a grant of a transfer or license of the copyright that is made before the expiration of the original term of copyright may continue to be used under the terms of the grant during the renewed and extended term of copyright without infringing the copyright, except that such use does not extend to the preparation during such renewed and extended term of other derivative works based upon the copyrighted work covered by such grant."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate of such registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate. The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act.-Any copyright still in its renewal term at the time that the Sonny Bono Copyright Term Extension Act becomes effective shall have a copyright term of 95 years from the date copyright was originally secured."
+      },
+      {
+       "type": "del",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by the subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "add",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it. In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Where an author is dead, his or her termination interest is owned, and may be exercised, as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) The widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/405.md",
+   "hunks": [
+    {
+     "old_start": 5,
+     "new_start": 5,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) the notice has been omitted from no more than a relatively small number of copies or phonorecords distributed to the public; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) registration for the work has been made before or is made within five years after the publication without notice, and a reasonable effort is made to add notice to all copies or phonorecords that are distributed to the public in the United States after the omission has been discovered; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the notice has been omitted in violation of an express requirement in writing that, as a condition of the copyright owner's authorization of the public distribution of copies or phonorecords, they bear the prescribed notice."
+      },
+      {
+       "type": "del",
+       "text": "(b) Effect of Omission on Innocent Infringers.-Any person who innocently infringes a copyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice. In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition or permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court."
+      },
+      {
+       "type": "add",
+       "text": "(b) Effect of Omission on Innocent Infringers.-Any person who innocently infringes a copyright, in reliance upon an authorized copy or phonorecord from which the copyright notice has been omitted and which was publicly distributed by authority of the copyright owner before the effective date of the Berne Convention Implementation Act of 1988, incurs no liability for actual or statutory damages under section 504 for any infringing acts committed before receiving actual notice that registration for the work has been made under section 408, if such person proves that he or she was misled by the omission of notice. In a suit for infringement in such a case the court may allow or disallow recovery of any of the infringer's profits attributable to the infringement, and may enjoin the continuation of the infringing undertaking or may require, as a condition for permitting the continuation of the infringing undertaking, that the infringer pay the copyright owner a reasonable license fee in an amount and on terms fixed by the court."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Removal of Notice.-Protection under this title is not affected by the removal, destruction, or obliteration of the notice, without the authorization of the copyright owner, from any publicly distributed copies or phonorecords."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/407.md",
+   "hunks": [
+    {
+     "old_start": 9,
+     "new_start": 9,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(c) The Register of Copyrights may by regulation exempt any categories of material from the deposit requirements of this section, or require deposit of only one copy or phonorecord with respect to any categories. Such regulations shall provide either for complete exemption from the deposit requirements of this section, or for alternative forms of deposit aimed at providing a satisfactory archival record of a work without imposing practical or financial hardships on the depositor, where the individual author is the owner of copyright in a pictorial, graphic, or sculptural work and (i) less than five copies of the work have been published, or (ii) the work has been published in a limited edition consisting of numbered copies, the monetary value of which would make the mandatory deposit of two copies of the best edition of the work burdensome, unfair, or unreasonable."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) At any time after publication of a work as provided by subsection (a), the Register of Copyrights may make written demand for the required deposit on any of the persons obligated to make the deposit under subsection (a). Unless deposit is made within three months after the demand is received, the person or persons on whom the demand was made are liable-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) to a fine of not more than $250 for each work; and"
+      },
+      {
+       "type": "del",
+       "text": "(2) to pay into a specially designated fund in the Library of Congress the total retail price of the copies or phonorecords demanded, or, if no retail price has been fixed, the reasonable cost of the Library of Congress of acquiring them; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) to pay into a specially designated fund in the Library of Congress the total retail price of the copies or phonorecords demanded, or, if no retail price has been fixed, the reasonable cost to the Library of Congress of acquiring them; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) to pay a fine of $2,500, in addition to any fine or liability imposed under clauses (1) and (2), if such person willfully or repeatedly fails or refuses to comply with such a demand."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) With respect to transmission programs that have been fixed and transmitted to the public in the United States but have not been published, the Register of Copyrights shall, after consulting with the Librarian of Congress and other interested organizations and officials, establish regulations governing the acquisition, through deposit or otherwise, of copies or phonorecords of such programs for the collections of the Library of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(1) The Librarian of Congress shall be permitted, under the standards and conditions set forth in such regulations, to make a fixation of a transmission program directly from a transmission to the public, and to reproduce one copy or phonorecord from such fixation for archival purposes."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/504.md",
+   "hunks": [
+    {
+     "old_start": 7,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(b) Actual Damages and Profits.-The copyright owner is entitled to recover the actual damages suffered by him or her as a result of the infringement, and any profits of the infringer that are attributable to the infringement and are not taken into account in computing the actual damages. In establishing the infringer's profits, the copyright owner is required to present proof only of the infringer's gross revenue, and the infringer is required to prove his or her deductible expenses and the elements of profit attributable to factors other than the copyrighted work."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Statutory Damages.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $500 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work."
+      },
+      {
+       "type": "del",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court it its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "add",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "ctx",
+       "text": "(3)(A) In a case of infringement, it shall be a rebuttable presumption that the infringement was committed willfully for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the infringement."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Nothing in this paragraph limits what may be considered willful infringement under this subsection."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) For purposes of this paragraph, the term \"domain name\" has the meaning given that term in section 45 of the Act entitled \"An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes\" approved July 5, 1946 (commonly referred to as the \"Trademark Act of 1946\"; 15 U.S.C. 1127)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/509.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "del",
+       "text": "\u00a7509. Seizure and forfeiture"
+      },
+      {
+       "type": "del",
+       "text": "(a) All copies or phonorecords manufactured, reproduced, distributed, sold, or otherwise used, intended for use, or possessed with intent to use in violation of section 506(a), and all plates, molds, matrices, masters, tapes, film negatives, or other articles by means of which such copies or phonorecords may be reproduced, and all electronic, mechanical, or other devices for manufacturing, reproducing, or assembling such copies or phonorecords may be seized and forfeited to the United States."
+      },
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 509"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "del",
+       "text": "(b) The applicable procedures relating to (i) the seizure, summary and judicial forfeiture, and condemnation of vessels, vehicles, merchandise, and baggage for violations of the customs laws contained in title 19, (ii) the disposition of such vessels, vehicles, merchandise, and baggage or the proceeds from the sale thereof, (iii) the remission or mitigation of such forfeitures, (iv) the compromise of claims, and (v) the award of compensation to informers in respect of such forfeitures, shall apply to seizures and forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions of this section; except that such duties as are imposed upon any officer or employee of the Treasury Department or any other person with respect to the seizure and forfeiture of vessels, vehicles, merchandise, and baggage under the provisions of the customs laws contained in title 19 shall be performed with respect to seizure and forfeiture of all articles described in subsection (a) by such officers, agents, or other persons as may be authorized or designated for that purpose by the Attorney General."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 509"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "[\u00a7509. Repealed."
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 110\u2013403,"
+      },
+      {
+       "type": "add",
+       "text": "title II, \u00a7201(b)(1), Oct. 13, 2008, 122 Stat. 4260"
+      },
+      {
+       "type": "add",
+       "text": "]"
+      },
+      {
+       "type": "add",
+       "text": "Section,"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "add",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2587"
+      },
+      {
+       "type": "add",
+       "text": ";"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 105\u201380,"
+      },
+      {
+       "type": "add",
+       "text": "\u00a712(a)(14), Nov. 13, 1997, 111 Stat. 1535"
+      },
+      {
+       "type": "add",
+       "text": ", related to seizure and forfeiture."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 708"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7708. Copyright Office fees"
+      },
+      {
+       "type": "del",
+       "text": "(a) The following fees shall be paid to the Register of Copyrights:"
+      },
+      {
+       "type": "del",
+       "text": "(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made, $20;"
+      },
+      {
+       "type": "del",
+       "text": "(2) on filing each application for registration of a claim for renewal of a subsisting copyright under section 304(a), including the issuance of a certificate of registration if registration is made, $20;"
+      },
+      {
+       "type": "del",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407, $4;"
+      },
+      {
+       "type": "del",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document covering not more than one title, $20; for additional titles, $10 for each group of not more than 10 titles;"
+      },
+      {
+       "type": "del",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license, $12;"
+      },
+      {
+       "type": "del",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $20 for a document covering not more than one title; for each additional title, $2;"
+      },
+      {
+       "type": "del",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration, $8;"
+      },
+      {
+       "type": "del",
+       "text": "(8) for the issuance of any other certification, $20 for each hour or fraction of an hour consumed with respect thereto;"
+      },
+      {
+       "type": "del",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services, $20 for each hour or fraction of an hour consumed with respect thereto; and"
+      },
+      {
+       "type": "add",
+       "text": "(a) Fees.-Fees shall be paid to the Register of Copyrights-"
+      },
+      {
+       "type": "add",
+       "text": "(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made;"
+      },
+      {
+       "type": "add",
+       "text": "(2) on filing each application for registration of a claim for renewal of a subsisting copyright under section 304(a), including the issuance of a certificate of registration if registration is made;"
+      },
+      {
+       "type": "add",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407;"
+      },
+      {
+       "type": "add",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document;"
+      },
+      {
+       "type": "add",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license;"
+      },
+      {
+       "type": "add",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;"
+      },
+      {
+       "type": "add",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration;"
+      },
+      {
+       "type": "add",
+       "text": "(8) for the issuance of any other certification;"
+      },
+      {
+       "type": "add",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "del",
+       "text": "The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation."
+      },
+      {
+       "type": "del",
+       "text": "(b) In calendar year 1997 and in any subsequent calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) in the following manner:"
+      },
+      {
+       "type": "del",
+       "text": "(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any increase in fees and the authority to use such fees consistent with the budget."
+      },
+      {
+       "type": "del",
+       "text": "(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), increase fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs."
+      },
+      {
+       "type": "add",
+       "text": "The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service."
+      },
+      {
+       "type": "add",
+       "text": "(b) Adjustment of Fees.-The Register of Copyrights may, by regulation, adjust the fees for the services specified in paragraphs (1) through (9) of subsection (a) in the following manner:"
+      },
+      {
+       "type": "add",
+       "text": "(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any adjustment in fees and the authority to use such fees consistent with the budget."
+      },
+      {
+       "type": "add",
+       "text": "(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), adjust fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Any fee established under paragraph (2) shall be rounded off to the nearest dollar, or for a fee less than $12, rounded off to the nearest 50 cents."
+      },
+      {
+       "type": "ctx",
+       "text": "(4) Fees established under this subsection shall be fair and equitable and give due consideration to the objectives of the copyright system."
+      },
+      {
+       "type": "del",
+       "text": "(5) If the Register determines under paragraph (2) that fees should be increased, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule."
+      },
+      {
+       "type": "add",
+       "text": "(5) If the Register determines under paragraph (2) that fees should be adjusted, the Register shall prepare a proposed fee schedule and submit the schedule with the accompanying economic analysis to the Congress. The fees proposed by the Register may be instituted after the end of 120 days after the schedule is submitted to the Congress unless, within that 120-day period, a law is enacted stating in substance that the Congress does not approve the schedule."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "ctx",
+       "text": "(d)(1) Except as provided in paragraph (2), all fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office. Such fees that are collected shall remain available until expended. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest in interest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands. Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands. Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/909.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 909"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7909. Mask work notice"
+      },
+      {
+       "type": "add",
+       "text": "(a) The owner of a mask work provided protection under this chapter may affix notice to the mask work, and to masks and semiconductor chip products embodying the mask work, in such manner and location as to give reasonable notice of such protection. The Register of Copyrights shall prescribe by regulation, as examples, specific methods of affixation and positions of notice for purposes of this section, but these specifications shall not be considered exhaustive. The affixation of such notice is not a condition of protection under this chapter, but shall constitute prima facie evidence of notice of protection."
+      },
+      {
+       "type": "add",
+       "text": "(b) The notice referred to in subsection (a) shall consist of-"
+      },
+      {
+       "type": "add",
+       "text": "(1) the words \"mask work\", the symbol *M*, or the symbol (M) (the letter M in a circle); and"
+      },
+      {
+       "type": "add",
+       "text": "(2) the name of the owner or owners of the mask work or an abbreviation by which the name is recognized or is generally known."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/910.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 910"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7910. Enforcement of exclusive rights"
+      },
+      {
+       "type": "del",
+       "text": "(a) Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. as used in this subsection, the term \"any person\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "add",
+       "text": "(a) Except as otherwise provided in this chapter, any person who violates any of the exclusive rights of the owner of a mask work under this chapter, by conduct in or affecting commerce, shall be liable as an infringer of such rights. As used in this subsection, the term \"any person\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this chapter in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) The owner of a mask work protected under this chapter, or the exclusive licensee of all rights under this chapter with respect to the mask work, shall, after a certificate of registration of a claim of protection in that mask work has been issued under section 908, be entitled to institute a civil action for any infringement with respect to the mask work which is committed after the commencement of protection of the mask work under section 904(a)."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) In any case in which an application for registration of a claim of protection in a mask work and the required deposit of identifying material and fee have been received in the Copyright Office in proper form and registration of the mask work has been refused, the applicant is entitled to institute a civil action for infringement under this chapter with respect to the mask work if notice of the action, together with a copy of the complaint, is served on the Register of Copyrights, in accordance with the Federal Rules of Civil Procedure. The Register may, at his or her option, become a party to the action with respect to the issue of whether the claim of protection is eligible for registration by entering an appearance within sixty days after such service, but the failure of the Register to become a party to the action shall not deprive the court of jurisdiction to determine that issue."
+      },
+      {
+       "type": "ctx",
+       "text": "(c)(1) The Secretary of the Treasury and the United States Postal Service shall separately or jointly issue regulations for the enforcement of the rights set forth in section 905 with respect to importation. These regulations may require, as a condition for the exclusion of articles from the United States, that the person seeking exclusion take any one or more of the following actions:"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

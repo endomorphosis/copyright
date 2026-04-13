@@ -1,0 +1,123 @@
+{
+ "hash": "7517d42",
+ "act_name": "National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/105.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 105"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7105. Subject matter of copyright: United States Government works"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) In General.-Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Copyright Protection of Certain Works.-Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work."
+      }
+     ]
+    },
+    {
+     "old_start": 25,
+     "new_start": 27,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(N) National Intelligence University."
+      },
+      {
+       "type": "ctx",
+       "text": "(O) United States Merchant Marine Academy."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Covered work.-The term \"covered work\" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2546"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 116\u201392,"
+      },
+      {
+       "type": "del",
+       "text": "div. A, title V, \u00a7544, Dec. 20, 2019, 133 Stat. 1376"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 117\u2013263,"
+      },
+      {
+       "type": "del",
+       "text": "div. C, title XXXV, \u00a73514, div. F, title LXIII, \u00a76306, Dec. 23, 2022, 136 Stat. 3068"
+      },
+      {
+       "type": "del",
+       "text": ", 3504;"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 118\u2013159,"
+      },
+      {
+       "type": "del",
+       "text": "div. F, title LXIX, \u00a76902(e), Dec. 23, 2024, 138 Stat. 2518"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 119\u201360,"
+      },
+      {
+       "type": "del",
+       "text": "div. A, title XVII, \u00a71702, Dec. 18, 2025, 139 Stat. 1210"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

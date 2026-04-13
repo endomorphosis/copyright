@@ -1,0 +1,157 @@
+{
+ "hash": "bfec7a5",
+ "act_name": "Satellite Television Community Protection and Promotion Act of 2019",
+ "files": [
+  {
+   "path": "sections/501.md",
+   "hunks": [
+    {
+     "old_start": 5,
+     "new_start": 5,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs."
+      },
+      {
+       "type": "del",
+       "text": "(e) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(5), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station."
+      },
+      {
+       "type": "add",
+       "text": "(e) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(3), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station."
+      },
+      {
+       "type": "ctx",
+       "text": "(f)(1) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 122, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local market of that station."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) A television broadcast station may file a civil action against any satellite carrier that has refused to carry television broadcast signals, as required under section 122(a)(2), to enforce that television broadcast station's rights under section 338(a) of the Communications Act of 1934."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/701.md",
+   "hunks": [
+    {
+     "old_start": 11,
+     "new_start": 11,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, to authenticate all certified documents issued by the Copyright Office."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) Except as provided by section 706(b) and the regulations issued thereunder, all actions taken by the Register of Copyrights under this title are subject to the provisions of the Administrative Procedure Act of June 11, 1946, as amended (c. 324, 60 Stat. 237, title 5, United States Code, Chapter 5, Subchapter II and Chapter 7)."
+      },
+      {
+       "type": "del",
+       "text": "(f) The Register of Copyrights shall be compensated at the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. The rate of basic pay for each Associate Register of Copyrights shall be fixed in accordance with section 5376 of title 5."
+      },
+      {
+       "type": "add",
+       "text": "(f) The Register of Copyrights shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. The rate of basic pay for each Associate Register of Copyrights shall be fixed in accordance with section 5376 of title 5."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/803.md",
+   "hunks": [
+    {
+     "old_start": 37,
+     "new_start": 37,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(A) shall be applied in cases in which there is no genuine issue of material fact, there is no need for evidentiary hearings, and all participants in the proceeding agree in writing to the procedure; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) may be applied under such other circumstances as the Copyright Royalty Judges consider appropriate."
+      },
+      {
+       "type": "ctx",
+       "text": "(6) Regulations.-"
+      },
+      {
+       "type": "del",
+       "text": "(A) In general.-The Copyright Royalty Judges may issue regulations to carry out their functions under this title. All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d). Not later than 120 days after Copyright Royalty Judges or interim Copyright Royalty Judges, as the case may be, are first appointed after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, such judges shall issue regulations to govern proceedings under this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-The Copyright Royalty Judges may issue regulations to carry out their functions under this title. All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress. Not later than 120 days after Copyright Royalty Judges or interim Copyright Royalty Judges, as the case may be, are first appointed after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, such judges shall issue regulations to govern proceedings under this chapter."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Interim regulations.-Until regulations are adopted under subparagraph (A), the Copyright Royalty Judges shall apply the regulations in effect under this chapter on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004, to the extent such regulations are not inconsistent with this chapter, except that functions carried out under such regulations by the Librarian of Congress, the Register of Copyrights, or copyright arbitration royalty panels that, as of such date of enactment, are to be carried out by the Copyright Royalty Judges under this chapter, shall be carried out by the Copyright Royalty Judges under such regulations."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Requirements.-Regulations issued under subparagraph (A) shall include the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) The written direct statements and written rebuttal statements of all participants in a proceeding under paragraph (2) shall be filed by a date specified by the Copyright Royalty Judges, which, in the case of written direct statements, may be not earlier than 4 months, and not later than 5 months, after the end of the voluntary negotiation period under paragraph (3). Notwithstanding the preceding sentence, the Copyright Royalty Judges may allow a participant in a proceeding to file an amended written direct statement based on new information received during the discovery process, within 15 days after the end of the discovery period specified in clause (iv)."
+      }
+     ]
+    },
+    {
+     "old_start": 65,
+     "new_start": 65,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(D) No negative inference.-No negative inference shall be drawn from lack of participation in a rehearing."
+      },
+      {
+       "type": "ctx",
+       "text": "(E) Continuity of rates and terms.-(i) If the decision of the Copyright Royalty Judges on any motion for a rehearing is not rendered before the expiration of the statutory rates and terms that were previously in effect, in the case of a proceeding to determine successors to rates and terms that expire on a specified date, then-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion shall be effective as of the day following the date on which the rates and terms that were previously in effect expire; and"
+      },
+      {
+       "type": "del",
+       "text": "(II) in the case of a proceeding under section 114(f)(1)(C), royalty rates and terms shall, for purposes of section 114(f)(3)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination."
+      },
+      {
+       "type": "add",
+       "text": "(II) in the case of a proceeding under section 114(f)(1)(C), royalty rates and terms shall, for purposes of section 114(f)(4)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination."
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) The pendency of a motion for a rehearing under this paragraph shall not relieve persons obligated to make royalty payments who would be affected by the determination on that motion from providing the statements of account and any reports of use, to the extent required, and paying the royalties required under the relevant determination or regulations."
+      },
+      {
+       "type": "ctx",
+       "text": "(iii) Notwithstanding clause (ii), whenever royalties described in clause (ii) are paid to a person other than the Copyright Office, the entity designated by the Copyright Royalty Judges to which such royalties are paid by the copyright user (and any successor thereto) shall, within 60 days after the motion for rehearing is resolved or, if the motion is granted, within 60 days after the rehearing is concluded, return any excess amounts previously paid to the extent necessary to comply with the final determination of royalty rates by the Copyright Royalty Judges. Any underpayment of royalties resulting from a rehearing shall be paid within the same period."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Contents of determination.-A determination of the Copyright Royalty Judges shall be supported by the written record and shall set forth the findings of fact relied on by the Copyright Royalty Judges. Among other terms adopted in a determination, the Copyright Royalty Judges may specify notice and recordkeeping requirements of users of the copyrights at issue that apply in lieu of those that would otherwise apply under regulations."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

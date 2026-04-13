@@ -1,0 +1,87 @@
+{
+ "hash": "e390006",
+ "act_name": "Stop Counterfeiting in Manufactured Goods Act of 2006 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/1101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1101"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a71101. Unauthorized fixation and trafficking in sound recordings and music videos"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Unauthorized Acts.-Anyone who, without the consent of the performer or performers involved-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) fixes the sounds or sounds and images of a live musical performance in a copy or phonorecord, or reproduces copies or phonorecords of such a performance from an unauthorized fixation,"
+      }
+     ]
+    },
+    {
+     "old_start": 7,
+     "new_start": 9,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(b) Definition.-In this section, the term \"traffic\" has the same meaning as in section 2320(e)\u00a01 of title 18."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Applicability.-This section shall apply to any act or acts that occur on or after the date of the enactment of the Uruguay Round Agreements Act."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) State Law Not Preempted.-Nothing in this section may be construed to annul or limit any rights or remedies under the common law or statutes of any State."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 103\u2013465,"
+      },
+      {
+       "type": "del",
+       "text": "title V, \u00a7512(a), Dec. 8, 1994, 108 Stat. 4974"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u2013181,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a72(c)(3), Mar. 16, 2006, 120 Stat. 288"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

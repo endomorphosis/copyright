@@ -1,0 +1,339 @@
+{
+ "hash": "eb03ea1",
+ "act_name": "Technical Corrections to Title 17 Act of 1999",
+ "files": [
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "del",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "add",
+       "text": "Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"architectural work\" is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Audiovisual works\" are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied."
+      }
+     ]
+    },
+    {
+     "old_start": 16,
+     "new_start": 16,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "del",
+       "text": "A \"device\", \"machine\", or \"processs\" is one now known or later developed."
+      },
+      {
+       "type": "add",
+       "text": "A \"device\", \"machine\", or \"process\" is one now known or later developed."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"digital transmission\" is a transmission in whole or in part in a digital or other non-analog format."
+      },
+      {
+       "type": "ctx",
+       "text": "To \"display\" a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"establishment\" is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Secondary Transmissions by Satellite Carriers.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection , secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "add",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network stations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Secondary transmissions to unserved households.-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1202.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1202"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a71202. Integrity of copyright management information"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) False Copyright Management Information.-No person shall knowingly and with the intent to induce, enable, facilitate, or conceal infringement-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) provide copyright management information that is false, or"
+      }
+     ]
+    },
+    {
+     "old_start": 22,
+     "new_start": 24,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(A) avoiding the activity that constitutes such violation is not technically feasible or would create an undue financial hardship on such person; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) such person did not intend, by engaging in such activity, to induce, enable, facilitate, or conceal infringement of a right under this title."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Digital transmissions.-"
+      },
+      {
+       "type": "del",
+       "text": "(A) If a digital transmission standard for the placement of copyright management information for a category or works is set in a voluntary, consensus standard-setting process involving a representative cross-section of broadcast stations or cable systems and copyright owners of a category of works that are intended for public performance by such stations or systems, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to the particular copyright management information addressed by such standard if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) If a digital transmission standard for the placement of copyright management information for a category of works is set in a voluntary, consensus standard-setting process involving a representative cross-section of broadcast stations or cable systems and copyright owners of a category of works that are intended for public performance by such stations or systems, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to the particular copyright management information addressed by such standard if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) the placement of such information by someone other than such person is not in accordance with such standard; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Until a digital transmission standard has been set pursuant to subparagraph (A) with respect to the placement of copyright management information for a category of works, a person identified in paragraph (1) shall not be liable for a violation of subsection (b) with respect to such copyright management information, if the activity that constitutes such violation is not intended to induce, enable, facilitate, or conceal infringement of a right under this title, and if-"
+      }
+     ]
+    },
+    {
+     "old_start": 34,
+     "new_start": 36,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(3) Definitions.-As used in this subsection-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) the term \"broadcast station\" has the meaning given that term in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the term \"cable system\" has the meaning given that term in section 602 of the Communications Act of 1934 (47 U.S.C. 522)."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7103(a), Oct. 28, 1998, 112 Stat. 2872"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u201344,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a71(e), Aug. 5, 1999, 113 Stat. 222"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1302.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1302"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71302. Designs not subject to protection"
+      },
+      {
+       "type": "add",
+       "text": "Protection under this chapter shall not be available for a design that is-"
+      },
+      {
+       "type": "add",
+       "text": "(1) not original;"
+      },
+      {
+       "type": "add",
+       "text": "(2) staple or commonplace, such as a standard geometric figure, a familiar symbol, an emblem, or a motif, or another shape, pattern, or configuration which has become standard, common, prevalent, or ordinary;"
+      },
+      {
+       "type": "add",
+       "text": "(3) different from a design excluded by paragraph (2) only in insignificant details or in elements which are variants commonly used in the relevant trades;"
+      },
+      {
+       "type": "add",
+       "text": "(4) dictated solely by a utilitarian function of the article that embodies it; or"
+      },
+      {
+       "type": "add",
+       "text": "(5) embodied in a useful article that was made public by the designer or owner in the United States or a foreign country more than 2 years before the date of the application for registration under this chapter."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/501.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 501"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7501. Infringement of copyright"
+      },
+      {
+       "type": "del",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 118 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright. As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "add",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 121 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

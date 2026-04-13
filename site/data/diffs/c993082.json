@@ -1,0 +1,399 @@
+{
+ "hash": "c993082",
+ "act_name": "Copyright Cleanup, Clarification, and Corrections Act of 2010",
+ "files": [
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Secondary Transmissions by Satellite Carriers.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection , secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "add",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network stations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Secondary transmissions to unserved households.-"
+      }
+     ]
+    },
+    {
+     "old_start": 144,
+     "new_start": 144,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4) Qualified carrier obligations and compliance.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) Continuing obligations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) In general.-An entity recognized as a qualified carrier shall continue to provide local-into-local service to all DMAs."
+      },
+      {
+       "type": "del",
+       "text": "(ii) Cooperation with compliance examination.-An entity recognized as a qualified carrier shall fully cooperate with the special master appointed by the court under paragraph (3)(B) in the examinations set forth in subparagraph (B)."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Cooperation with compliance examination.-An entity recognized as a qualified carrier shall fully cooperate with the special master appointed by the court under paragraph (3)(B) in an examination set forth in subparagraph (B)."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Qualified carrier compliance examination.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) Examination and report.-A special master appointed by the court under paragraph (3)(B) shall conduct an examination of, and file a report on, the qualified carrier's compliance with the royalty payment and household eligibility requirements of the license under this section. The report shall address the qualified carrier's conduct during the period beginning on the date on which the qualified carrier is recognized as such under paragraph (3)(B) and ending on April 30, 2012."
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) Records of qualified carrier.-Beginning on the date that is one year after the date on which the qualified carrier is recognized as such under paragraph (3)(B), but not later than December 1, 2011, the qualified carrier shall provide the special master with all records that the special master considers to be directly pertinent to the following requirements under this section:"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1203.md",
+   "hunks": [
+    {
+     "old_start": 20,
+     "new_start": 20,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(5) Innocent violations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-The court in its discretion may reduce or remit the total award of damages in any case in which the violator sustains the burden of proving, and the court finds, that the violator was not aware and had no reason to believe that its acts constituted a violation."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Nonprofit library, archives, educational institutions, or public broadcasting entities.-"
+      },
+      {
+       "type": "del",
+       "text": "(i) Definition.-In this subparagraph, the term \"public broadcasting entity\" has the meaning given such term under section 118(g)."
+      },
+      {
+       "type": "add",
+       "text": "(i) Definition.-In this subparagraph, the term \"public broadcasting entity\" has the meaning given such term under section 118(f)."
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) In general.-In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1204.md",
+   "hunks": [
+    {
+     "old_start": 4,
+     "new_start": 4,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(a) In General.-Any person who violates section 1201 or 1202 willfully and for purposes of commercial advantage or private financial gain-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) shall be fined not more than $500,000 or imprisoned for not more than 5 years, or both, for the first offense; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) shall be fined not more than $1,000,000 or imprisoned for not more than 10 years, or both, for any subsequent offense."
+      },
+      {
+       "type": "del",
+       "text": "(b) Limitation for Nonprofit Library, Archives, Educational Institution, or Public Broadcasting Entity.-Subsection (a) shall not apply to a nonprofit library, archives, educational institution, or public broadcasting entity (as defined under section 118(g))."
+      },
+      {
+       "type": "add",
+       "text": "(b) Limitation for Nonprofit Library, Archives, Educational Institution, or Public Broadcasting Entity.-Subsection (a) shall not apply to a nonprofit library, archives, educational institution, or public broadcasting entity (as defined under section 118(f))."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Statute of Limitations.-No criminal proceeding shall be brought under this section unless such proceeding is commenced within 5 years after the cause of action arose."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/205.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 205"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7205. Recordation of transfers and other documents"
+      },
+      {
+       "type": "del",
+       "text": "(a) Conditions for Recordation.-Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document. "
+      },
+      {
+       "type": "add",
+       "text": "(a) Conditions for Recordation.-Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document. A sworn or official certification may be submitted to the Copyright Office electronically, pursuant to regulations established by the Register of Copyrights."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Certificate of Recordation.-The Register of Copyrights shall, upon receipt of a document as provided by subsection (a) and of the fee provided by section 708, record the document and return it with a certificate of recordation."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Recordation as Constructive Notice.-Recordation of a document in the Copyright Office gives all persons constructive notice of the facts stated in the recorded document, but only if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the document, or material attached to it, specifically identifies the work to which it pertains so that, after the document is indexed by the Register of Copyrights, it would be revealed by a reasonable search under the title or registration number of the work; and"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/303.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2047."
+      },
+      {
+       "type": "del",
+       "text": "(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein."
+      },
+      {
+       "type": "add",
+       "text": "(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of any musical work, dramatic work, or literary work embodied therein."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/409.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 409"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7409. Application for copyright registration"
+      },
+      {
+       "type": "del",
+       "text": "The application for copyright registration shall be made on a form prescribed by the Register of Copyrights  shall include-"
+      },
+      {
+       "type": "add",
+       "text": "The application for copyright registration shall be made on a form prescribed by the Register of Copyrights and shall include-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the name and address of the copyright claimant;"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) in the case of a work other than an anonymous or pseudonymous work, the name and nationality or domicile of the author or authors, and, if one or more of the authors is dead, the dates of their deaths;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) if the work is anonymous or pseudonymous, the nationality or domicile of the author or authors;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/504.md",
+   "hunks": [
+    {
+     "old_start": 6,
+     "new_start": 6,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) statutory damages, as provided by subsection (c)."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Actual Damages and Profits.-The copyright owner is entitled to recover the actual damages suffered by him or her as a result of the infringement, and any profits of the infringer that are attributable to the infringement and are not taken into account in computing the actual damages. In establishing the infringer's profits, the copyright owner is required to present proof only of the infringer's gross revenue, and the infringer is required to prove his or her deductible expenses and the elements of profit attributable to factors other than the copyrighted work."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Statutory Damages.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $500 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work."
+      },
+      {
+       "type": "del",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court it its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "add",
+       "text": "(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $750 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work."
+      },
+      {
+       "type": "add",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $150,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in section 118(f)) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "ctx",
+       "text": "(3)(A) In a case of infringement, it shall be a rebuttable presumption that the infringement was committed willfully for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the infringement."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Nothing in this paragraph limits what may be considered willful infringement under this subsection."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) For purposes of this paragraph, the term \"domain name\" has the meaning given that term in section 45 of the Act entitled \"An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes\" approved July 5, 1946 (commonly referred to as the \"Trademark Act of 1946\"; 15 U.S.C. 1127)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/704.md",
+   "hunks": [
+    {
+     "old_start": 5,
+     "new_start": 5,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(b) In the case of published works, all copies, phonorecords, and identifying material deposited are available to the Library of Congress for its collections, or for exchange or transfer to any other library. In the case of unpublished works, the Library is entitled, under regulations that the Register of Copyrights shall prescribe, to select any deposits for its collections or for transfer to the National Archives of the United States or to a Federal records center, as defined in section 2901 of title 44."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The Register of Copyrights is authorized, for specific or general categories of works, to make a facsimile reproduction of all or any part of the material deposited under section 408, and to make such reproduction a part of the Copyright Office records of the registration, before transferring such material to the Library of Congress as provided by subsection (b), or before destroying or otherwise disposing of such material as provided by subsection (d)."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Deposits not selected by the Library under subsection (b), or identifying portions or reproductions of them, shall be retained under the control of the Copyright Office, including retention in Government storage facilities, for the longest period considered practicable and desirable by the Register of Copyrights and the Librarian of Congress. After that period it is within the joint discretion of the Register and the Librarian to order their destruction or other disposition; but, in the case of unpublished works, no deposit shall be knowingly or intentionally destroyed or otherwise disposed of during its term of copyright unless a facsimile reproduction of the entire deposit has been made a part of the Copyright Office records as provided by subsection (c)."
+      },
+      {
+       "type": "del",
+       "text": "(e) The depositor of copies, phonorecords, or identifying material under section 408, or the copyright owner of record, may request retention, under the control of the Copyright Office, of one or more of such articles for the full term of copyright in the work. The Register of Copyrights shall prescribe, by regulation, the conditions under which such requests are to be made and granted, and shall fix the fee to be charged under section 708(a)(10) if the request is granted."
+      },
+      {
+       "type": "add",
+       "text": "(e) The depositor of copies, phonorecords, or identifying material under section 408, or the copyright owner of record, may request retention, under the control of the Copyright Office, of one or more of such articles for the full term of copyright in the work. The Register of Copyrights shall prescribe, by regulation, the conditions under which such requests are to be made and granted, and shall fix the fee to be charged under section 708(a) if the request is granted."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/803.md",
+   "hunks": [
+    {
+     "old_start": 37,
+     "new_start": 37,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(A) shall be applied in cases in which there is no genuine issue of material fact, there is no need for evidentiary hearings, and all participants in the proceeding agree in writing to the procedure; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) may be applied under such other circumstances as the Copyright Royalty Judges consider appropriate."
+      },
+      {
+       "type": "ctx",
+       "text": "(6) Regulations.-"
+      },
+      {
+       "type": "del",
+       "text": "(A) In general.-The Copyright Royalty Judges may issue regulations to carry out their functions under this title. All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress. Not later than 120 days after Copyright Royalty Judges or interim Copyright Royalty Judges, as the case may be, are first appointed after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, such judges shall issue regulations to govern proceedings under this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-The Copyright Royalty Judges may issue regulations to carry out their functions under this title. All regulations issued by the Copyright Royalty Judges are subject to the approval of the Librarian of Congress and are subject to judicial review pursuant to chapter 7 of title 5, except as set forth in subsection (d). Not later than 120 days after Copyright Royalty Judges or interim Copyright Royalty Judges, as the case may be, are first appointed after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, such judges shall issue regulations to govern proceedings under this chapter."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Interim regulations.-Until regulations are adopted under subparagraph (A), the Copyright Royalty Judges shall apply the regulations in effect under this chapter on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004, to the extent such regulations are not inconsistent with this chapter, except that functions carried out under such regulations by the Librarian of Congress, the Register of Copyrights, or copyright arbitration royalty panels that, as of such date of enactment, are to be carried out by the Copyright Royalty Judges under this chapter, shall be carried out by the Copyright Royalty Judges under such regulations."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Requirements.-Regulations issued under subparagraph (A) shall include the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) The written direct statements and written rebuttal statements of all participants in a proceeding under paragraph (2) shall be filed by a date specified by the Copyright Royalty Judges, which, in the case of written direct statements, may be not earlier than 4 months, and not later than 5 months, after the end of the voluntary negotiation period under paragraph (3). Notwithstanding the preceding sentence, the Copyright Royalty Judges may allow a participant in a proceeding to file an amended written direct statement based on new information received during the discovery process, within 15 days after the end of the discovery period specified in clause (iv)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

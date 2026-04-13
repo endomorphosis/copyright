@@ -1,0 +1,53 @@
+{
+ "hash": "1781d28",
+ "act_name": "Copyright Deposit Amendment of 1914",
+ "files": [
+  {
+   "path": "pre-1976/copyright-deposit-amendment-of-1914.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# Copyright Deposit Amendment of 1914"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*An Act to amend section twelve of an Act entitled \"An Act to amend and consolidate the Acts respecting copyright,\" approved March fourth, nineteen hundred and nine. 38 Stat. 311, Ch. 47 (March 28, 1914)*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That section twelve of the Act entitled \"An Act to amend and consolidate the Acts respecting copyright,\" approved March fourth, nineteen hundred and nine, be, and the same is hereby, amended by adding at the end thereof the following:"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\"In the case of books and periodicals published abroad in the English language, the deposit in the copyright office, not later than sixty days after publication in a foreign country, of one complete copy of the foreign edition, with a request for the reservation of the copyright and a statement of the name and nationality of the author and of the copyright proprietor and the date of publication of the said book or periodical, shall be sufficient to extend and continue the ad interim protection of section twenty-one of this Act: Provided, That the deposit of only one copy of the best edition of a published work shall suffice for registration in the case of works by authors who are citizens or subjects of foreign states or nations.\""
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "APPROVED, March 28, 1914."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

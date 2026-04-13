@@ -1,0 +1,333 @@
+{
+ "hash": "aa81bba",
+ "act_name": "Intellectual Property and High Technology Technical Amendments Act of 2002",
+ "files": [
+  {
+   "path": "sections/106.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 106"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7106. Exclusive rights in copyrighted works"
+      },
+      {
+       "type": "del",
+       "text": "Subject to sections 107 through 119, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:"
+      },
+      {
+       "type": "add",
+       "text": "Subject to sections 107 through 122, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) to reproduce the copyrighted work in copies or phonorecords;"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) to prepare derivative works based upon the copyrighted work;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) to distribute copies or phonorecords of the copyrighted work to the public by sale or other transfer of ownership, or by rental, lease, or lending;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Secondary Transmissions by Satellite Carriers.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection , secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "add",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network stations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Secondary transmissions to unserved households.-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/121.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 121"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "del",
+       "text": "\u00a7121. Limitations on exclusive rights: reproduction for blind or other people with disabilities"
+      },
+      {
+       "type": "add",
+       "text": "\u00a7121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for an authorized entity to reproduce or to distribute in the United States copies or phonorecords of a previously published literary work or of a previously published musical work that has been fixed in the form of text or notation if such copies or phonorecords are reproduced or distributed in accessible formats exclusively for use by eligible persons."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) Copies or phonorecords to which this section applies shall-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) not be reproduced or distributed in the United States in a format other than an accessible format exclusively for use by eligible persons;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/203.md",
+   "hunks": [
+    {
+     "old_start": 4,
+     "new_start": 4,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(a) Conditions for Termination.-In the case of any work other than a work made for hire, the exclusive or nonexclusive grant of a transfer or license of copyright or of any right under a copyright, executed by the author on or after January 1, 1978, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In the case of a grant executed by one author, termination of the grant may be effected by that author or, if the author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest. In the case of a grant executed by two or more authors of a joint work, termination of the grant may be effected by a majority of the authors who executed it; if any of such authors is dead, the termination interest of any such author may be exercised as a unit by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's interest."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Where an author is dead, his or her termination interest is owned, and may be exercised, as follows:"
+      },
+      {
+       "type": "del",
+       "text": "(A) the widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest."
+      },
+      {
+       "type": "add",
+       "text": "(A) The widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) The author's surviving children, and the surviving children of any dead child of the author, own the author's entire termination interest unless there is a widow or widower, in which case the ownership of one-half of the author's interest is divided among them."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) The rights of the author's children and grandchildren are in all cases divided among them and exercised on a per stirpes basis according to the number of such author's children represented; the share of the children of a dead child in a termination interest can be exercised only by the action of a majority of them."
+      },
+      {
+       "type": "ctx",
+       "text": "(D) In the event that the author's widow or widower, children, and grandchildren are not living, the author's executor, administrator, personal representative, or trustee shall own the author's entire termination interest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/304.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 304"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7304. Duration of copyright: Subsisting copyrights"
+      },
+      {
+       "type": "del",
+       "text": "(a) Copyrights in their First Term on January 1, 1978.-(1)(A) Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for 28 years from the date it was originally secured."
+      },
+      {
+       "type": "add",
+       "text": "(a) Copyrights in Their First Term on January 1, 1978.-(1)(A) Any copyright, the first term of which is subsisting on January 1, 1978, shall endure for 28 years from the date it was originally secured."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) In the case of-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) any posthumous work or of any periodical, cyclopedic, or other composite work upon which the copyright was originally secured by the proprietor thereof, or"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) any work copyrighted by a corporate body (otherwise than as assignee or licensee of the individual author) or by an employer for whom such work is made for hire,"
+      }
+     ]
+    },
+    {
+     "old_start": 25,
+     "new_start": 25,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4)(A) If an application to register a claim to the renewed and extended term of copyright in a work is not made within 1 year before the expiration of the original term of copyright in a work, or if the claim pursuant to such application is not registered, then a derivative work prepared under authority of a grant of a transfer or license of the copyright that is made before the expiration of the original term of copyright may continue to be used under the terms of the grant during the renewed and extended term of copyright without infringing the copyright, except that such use does not extend to the preparation during such renewed and extended term of other derivative works based upon the copyrighted work covered by such grant."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate of such registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate. The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act.-Any copyright still in its renewal term at the time that the Sonny Bono Copyright Term Extension Act becomes effective shall have a copyright term of 95 years from the date copyright was originally secured."
+      },
+      {
+       "type": "del",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by the subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "add",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it. In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Where an author is dead, his or her termination interest is owned, and may be exercised, as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) The widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/501.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 501"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7501. Infringement of copyright"
+      },
+      {
+       "type": "del",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 118 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright. As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "add",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 122 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/511.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 511"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7511. Liability of States, instrumentalities of States, and State officials for infringement of copyright"
+      },
+      {
+       "type": "del",
+       "text": "(a) In General.-Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the Eleventh Amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for a violation of any of the exclusive rights of a copyright owner provided by sections 106 through 121, for importing copies of phonorecords in violation of section 602, or for any other violation under this title."
+      },
+      {
+       "type": "add",
+       "text": "(a) In General.-Any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity, shall not be immune, under the Eleventh Amendment of the Constitution of the United States or under any other doctrine of sovereign immunity, from suit in Federal court by any person, including any governmental or nongovernmental entity, for a violation of any of the exclusive rights of a copyright owner provided by sections 106 through 122, for importing copies of phonorecords in violation of section 602, or for any other violation under this title."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Remedies.-In a suit described in subsection (a) for a violation described in that subsection, remedies (including remedies both at law and in equity) are available for the violation to the same extent as such remedies are available for such a violation in a suit against any public or private entity other than a State, instrumentality of a State, or officer or employee of a State acting in his or her official capacity. Such remedies include impounding and disposition of infringing articles under section 503, actual damages and profits and statutory damages under section 504, costs and attorney's fees under section 505, and the remedies provided in section 510."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

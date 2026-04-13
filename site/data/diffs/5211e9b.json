@@ -1,0 +1,236 @@
+{
+ "hash": "5211e9b",
+ "act_name": "Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)",
+ "files": [
+  {
+   "path": "sections/1501.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a71501. Definitions"
+      },
+      {
+       "type": "add",
+       "text": "In this chapter-"
+      },
+      {
+       "type": "add",
+       "text": "(1) the term \"claimant\" means the real party in interest that commences a proceeding before the Copyright Claims Board under section 1506(e), pursuant to a permissible claim of infringement brought under section 1504(c)(1), noninfringement brought under section 1504(c)(2), or misrepresentation brought under section 1504(c)(3);"
+      },
+      {
+       "type": "add",
+       "text": "(2) the term \"counterclaimant\" means a respondent in a proceeding before the Copyright Claims Board that-"
+      },
+      {
+       "type": "add",
+       "text": "(A) asserts a permissible counterclaim under section 1504(c)(4) against the claimant in the proceeding; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) is the real party in interest with respect to the counterclaim described in subparagraph (A);"
+      },
+      {
+       "type": "add",
+       "text": "(3) the term \"party\"-"
+      },
+      {
+       "type": "add",
+       "text": "(A) means a party; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) includes the attorney of a party, as applicable; and"
+      },
+      {
+       "type": "add",
+       "text": "(4) the term \"respondent\" means any person against whom a proceeding is brought before the Copyright Claims Board under section 1506(e), pursuant to a permissible claim of infringement brought under section 1504(c)(1), noninfringement brought under section 1504(c)(2), or misrepresentation brought under section 1504(c)(3)."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 116\u2013260,"
+      },
+      {
+       "type": "add",
+       "text": "div. Q, title II, \u00a7212(b), Dec. 27, 2020, 134 Stat. 2177"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1502.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a71502. Copyright Claims Board"
+      },
+      {
+       "type": "add",
+       "text": "(a) In General.-There is established in the Copyright Office the Copyright Claims Board, which shall serve as an alternative forum in which parties may voluntarily seek to resolve certain copyright claims regarding any category of copyrighted work, as provided in this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(b) Officers and Staff.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Copyright claims officers.-The Register of Copyrights shall recommend 3 full-time Copyright Claims Officers to serve on the Copyright Claims Board in accordance with paragraph (3)(A). The Officers shall be appointed by the Librarian of Congress to such positions after consultation with the Register of Copyrights."
+      },
+      {
+       "type": "add",
+       "text": "(2) Copyright claims attorneys.-The Register of Copyrights shall hire not fewer than 2 full-time Copyright Claims Attorneys to assist in the administration of the Copyright Claims Board."
+      },
+      {
+       "type": "add",
+       "text": "(3) Qualifications.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Copyright claims officers.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) In general.-Each Copyright Claims Officer shall be an attorney who has not fewer than 7 years of legal experience."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Experience.-Two of the Copyright Claims Officers shall-"
+      },
+      {
+       "type": "add",
+       "text": "(I) have substantial experience in the evaluation, litigation, or adjudication of copyright infringement claims; and"
+      },
+      {
+       "type": "add",
+       "text": "(II) between those 2 Officers, have represented or presided over a diversity of copyright interests, including those of both owners and users of copyrighted works."
+      },
+      {
+       "type": "add",
+       "text": "(iii) Alternative dispute resolution.-The Copyright Claims Officer not described in clause (ii) shall have substantial familiarity with copyright law and experience in the field of alternative dispute resolution, including the resolution of litigation matters through that method of resolution."
+      },
+      {
+       "type": "add",
+       "text": "(B) Copyright claims attorneys.-Each Copyright Claims Attorney shall be an attorney who has not fewer than 3 years of substantial experience in copyright law."
+      },
+      {
+       "type": "add",
+       "text": "(4) Compensation.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Copyright claims officers.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) Definition.-In this subparagraph, the term \"senior level employee of the Federal Government\" means an employee, other than an employee in the Senior Executive Service, the position of whom is classified above GS\u201315 of the General Schedule."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Pay range.-Each Copyright Claims Officer shall be compensated at a rate of pay that is not less than the minimum, and not more than the maximum, rate of pay payable for senior level employees of the Federal Government, including locality pay, as applicable."
+      },
+      {
+       "type": "add",
+       "text": "(B) Copyright claims attorneys.-Each Copyright Claims Attorney shall be compensated at a rate of pay that is not more than the maximum rate of pay payable for level 10 of GS\u201315 of the General Schedule, including locality pay, as applicable."
+      },
+      {
+       "type": "add",
+       "text": "(5) Terms.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-Subject to subparagraph (B), a Copyright Claims Officer shall serve for a renewable term of 6 years."
+      },
+      {
+       "type": "add",
+       "text": "(B) Initial terms.-The terms for the first Copyright Claims Officers appointed under this chapter shall be as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(i) The first such Copyright Claims Officer appointed shall be appointed for a term of 4 years."
+      },
+      {
+       "type": "add",
+       "text": "(ii) The second Copyright Claims Officer appointed shall be appointed for a term of 5 years."
+      },
+      {
+       "type": "add",
+       "text": "(iii) The third Copyright Claims Officer appointed shall be appointed for a term of 6 years."
+      },
+      {
+       "type": "add",
+       "text": "(6) Vacancies and incapacity.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Vacancy.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) In general.-If a vacancy occurs in the position of a Copyright Claims Officer, the Librarian of Congress shall, upon the recommendation of, and in consultation with, the Register of Copyrights, act expeditiously to appoint a Copyright Claims Officer for that position."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Vacancy before expiration.-An individual appointed to fill a vacancy occurring before the expiration of the term for which the predecessor of the individual was appointed shall be appointed to serve a 6-year term."
+      },
+      {
+       "type": "add",
+       "text": "(B) Incapacity.-If a Copyright Claims Officer is temporarily unable to perform the duties of the Officer, the Librarian of Congress shall, upon recommendation of, and in consultation with, the Register of Copyrights, act expeditiously to appoint an interim Copyright Claims Officer to perform such duties during the period of such incapacity."
+      },
+      {
+       "type": "add",
+       "text": "(7) Sanction or removal.-Subject to section 1503(b), the Librarian of Congress may sanction or remove a Copyright Claims Officer."
+      },
+      {
+       "type": "add",
+       "text": "(8) Administrative support.-The Register of Copyrights shall provide the Copyright Claims Officers and Copyright Claims Attorneys with necessary administrative support, including technological facilities, to carry out the duties of the Officers and Attorneys under this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(9) Location of copyright claims board.-The offices and facilities of the Copyright Claims Officers and Copyright Claims Attorneys shall be located at the Copyright Office."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 116\u2013260,"
+      },
+      {
+       "type": "add",
+       "text": "div. Q, title II, \u00a7212(b), Dec. 27, 2020, 134 Stat. 2177"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

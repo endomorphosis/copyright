@@ -1,0 +1,637 @@
+{
+ "hash": "70ee580",
+ "act_name": "Copyright Royalty and Distribution Reform Act of 2004",
+ "files": [
+  {
+   "path": "sections/1006.md",
+   "hunks": [
+    {
+     "old_start": 7,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) who has filed a claim under section 1007."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Allocation of Royalty Payments to Groups.-The royalty payments shall be divided into 2 funds as follows:"
+      },
+      {
+       "type": "del",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "add",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The musical works fund.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) 331/3 percent of the royalty payments shall be allocated to the Musical Works Fund for distribution to interested copyright parties described in section 1001(7)(B)."
+      },
+      {
+       "type": "ctx",
+       "text": "(B)(i) Music publishers shall be entitled to 50 percent of the royalty payments allocated to the Musical Works Fund."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1007.md",
+   "hunks": [
+    {
+     "old_start": 4,
+     "new_start": 4,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(a) Filing of Claims and Negotiations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Filing of claims.-During the first 2 months of each calendar year, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Copyright Royalty Judges a claim for payments collected during the preceding year in such form and manner as the Copyright Royalty Judges shall prescribe by regulation."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Negotiations.-Notwithstanding any provision of the antitrust laws, for purposes of this section interested copyright parties within each group specified in section 1006(b) may agree among themselves to the proportionate division of royalty payments, may lump their claims together and file them jointly or as a single claim, or may designate a common agent, including any organization described in section 1001(7)(D), to negotiate or receive payment on their behalf; except that no agreement under this subsection may modify the allocation of royalties specified in section 1006(b)."
+      },
+      {
+       "type": "del",
+       "text": "(b) Distribution of Payments in the Absence of a Dispute.-After the period established for the filing of claims under subsection (a), in each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a). The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      },
+      {
+       "type": "del",
+       "text": "(c) Resolution of Disputes.-If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      },
+      {
+       "type": "add",
+       "text": "(b) Distribution of Payments in the Absence of a Dispute.-After the period established for the filing of claims under subsection (a), in each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a). The Copyright Royalty Tribunal shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      },
+      {
+       "type": "add",
+       "text": "(c) Resolution of Disputes.-If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Copyright Royalty Tribunal shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 12,
+     "new_start": 12,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) the carriage of the signals comprising the secondary transmission is required under the rules, regulations, or authorizations of the Federal Communications Commission; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the signal of the primary transmitter is not altered or changed in any way by the secondary transmitter."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Secondary Transmissions by Cable Systems.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection and section 114(d), secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "add",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection , secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Notwithstanding the provisions of paragraph (1) of this subsection, the willful or repeated secondary transmission to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, in the following cases:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) where the carriage of the signals comprising the secondary transmission is not permissible under the rules, regulations, or authorizations of the Federal Communications Commission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) where the cable system has not deposited the statement of account and royalty fee required by subsection (d)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/112.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 112"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7112. Limitations on exclusive rights: Ephemeral recordings"
+      },
+      {
+       "type": "del",
+       "text": "(a)(1) Notwithstanding the provisions of section 106, and except in the case of a motion picture or other audiovisual work, it is not an infringement of copyright for a transmitting organization entitled to transmit to the public a performance or display of a work, under a license, including a statutory license under section 114(f), or transfer of the copyright or under the limitations on exclusive rights in sound recordings specified by section 114(a), or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis, to make no more than one copy or phonorecord of a particular transmission program embodying the performance or display, if-"
+      },
+      {
+       "type": "add",
+       "text": "(a)(1) Notwithstanding the provisions of section 106, and except in the case of a motion picture or other audiovisual work, it is not an infringement of copyright for a transmitting organization entitled to transmit to the public a performance or display of a work, under a license or transfer of the copyright or under the limitations on exclusive rights in sound recordings specified by section 114(a), or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis, to make no more than one copy or phonorecord of a particular transmission program embodying the performance or display, if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) the copy or phonorecord is retained and used solely by the transmitting organization that made it, and no further copies or phonorecords are reproduced from it; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the copy or phonorecord is used solely for the transmitting organization's own transmissions within its local service area, or for purposes of archival preservation or security; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) unless preserved exclusively for archival purposes, the copy or phonorecord is destroyed within six months from the date the transmission program was first transmitted to the public."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Secondary Transmissions by Satellite Carriers.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "add",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection , secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network stations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Secondary transmissions to unserved households.-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/801.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 801"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7801. Copyright Royalty Judges; appointment and functions"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Appointment.-The Librarian of Congress shall appoint 3 full-time Copyright Royalty Judges, and shall appoint 1 of the 3 as the Chief Copyright Royalty Judge. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Functions.-Subject to the provisions of this chapter, the functions of the Copyright Royalty Judges shall be as follows:"
+      }
+     ]
+    },
+    {
+     "old_start": 37,
+     "new_start": 39,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(d) Administrative Support.-The Librarian of Congress shall provide the Copyright Royalty Judges with the necessary administrative services related to proceedings under this chapter."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) Location in Library of Congress.-The offices of the Copyright Royalty Judges and staff shall be in the Library of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(f) Effective Date of Actions.-On and after the date of the enactment of the Copyright Royalty and Distribution Reform Act of 2004, in any case in which time limits are prescribed under this title for performance of an action with or by the Copyright Royalty Judges, and in which the last day of the prescribed period falls on a Saturday, Sunday, holiday, or other nonbusiness day within the District of Columbia or the Federal Government, the action may be taken on the next succeeding business day, and is effective as of the date when the period expired."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 108\u2013419,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(a), Nov. 30, 2004, 118 Stat. 2341"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u2013303,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a7\u00a73(1), (2), 5, Oct. 6, 2006, 120 Stat. 1478"
+      },
+      {
+       "type": "del",
+       "text": ", 1483;"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 115\u2013264,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7\u00a7102(b), 103(g)(2), Oct. 11, 2018, 132 Stat. 3721"
+      },
+      {
+       "type": "del",
+       "text": ", 3725.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/802.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 802"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7802. Copyright Royalty Judgeships; staff"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Qualifications of Copyright Royalty Judges.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In general.-Each Copyright Royalty Judge shall be an attorney who has at least 7 years of legal experience. The Chief Copyright Royalty Judge shall have at least 5 years of experience in adjudications, arbitrations, or court trials. Of the other 2 Copyright Royalty Judges, 1 shall have significant knowledge of copyright law, and the other shall have significant knowledge of economics. An individual may serve as a Copyright Royalty Judge only if the individual is free of any financial conflict of interest under subsection (h)."
+      }
+     ]
+    },
+    {
+     "old_start": 26,
+     "new_start": 28,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(g) Inconsistent Duties Barred.-No Copyright Royalty Judge may undertake duties that conflict with his or her duties and responsibilities as a Copyright Royalty Judge."
+      },
+      {
+       "type": "ctx",
+       "text": "(h) Standards of Conduct.-The Librarian of Congress shall adopt regulations regarding the standards of conduct, including financial conflict of interest and restrictions against ex parte communications, which shall govern the Copyright Royalty Judges and the proceedings under this chapter."
+      },
+      {
+       "type": "ctx",
+       "text": "(i) Removal or Sanction.-The Librarian of Congress may sanction or remove a Copyright Royalty Judge for violation of the standards of conduct adopted under subsection (h), misconduct, neglect of duty, or any disqualifying physical or mental disability. Any such sanction or removal may be made only after notice and opportunity for a hearing, but the Librarian of Congress may suspend the Copyright Royalty Judge during the pendency of such hearing. The Librarian shall appoint an interim Copyright Royalty Judge during the period of any such suspension."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 108\u2013419,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(a), Nov. 30, 2004, 118 Stat. 2345"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u2013303,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(3), (4), Oct. 6, 2006, 120 Stat. 1478"
+      },
+      {
+       "type": "del",
+       "text": ", 1479;"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 116\u201394,"
+      },
+      {
+       "type": "del",
+       "text": "div. P, title XIV, \u00a71405(a)(1), Dec. 20, 2019, 133 Stat. 3208"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/803.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 803"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7803. Proceedings of Copyright Royalty Judges"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Proceedings.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In general.-The Copyright Royalty Judges shall act in accordance with this title, and to the extent not inconsistent with this title, in accordance with subchapter II of chapter 5 of title 5, in carrying out the purposes set forth in section 801. The Copyright Royalty Judges shall act in accordance with regulations issued by the Copyright Royalty Judges and the Librarian of Congress, and on the basis of a written record, prior determinations and interpretations of the Copyright Royalty Tribunal, Librarian of Congress, the Register of Copyrights, copyright arbitration royalty panels (to the extent those determinations are not inconsistent with a decision of the Librarian of Congress or the Register of Copyrights), and the Copyright Royalty Judges (to the extent those determinations are not inconsistent with a decision of the Register of Copyrights that was timely delivered to the Copyright Royalty Judges pursuant to section 802(f)(1)(A) or (B), or with a decision of the Register of Copyrights pursuant to section 802(f)(1)(D)), under this chapter, and decisions of the court of appeals under this chapter before, on, or after the effective date of the Copyright Royalty and Distribution Reform Act of 2004."
+      }
+     ]
+    },
+    {
+     "old_start": 87,
+     "new_start": 89,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(A) Deduction from filing fees.-The Librarian of Congress may, to the extent not otherwise provided under this title, deduct from the filing fees collected under subsection (b) for a particular proceeding under this chapter the reasonable costs incurred by the Librarian of Congress, the Copyright Office, and the Copyright Royalty Judges in conducting that proceeding, other than the salaries of the Copyright Royalty Judges and the staff members appointed under section 802(b)."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Authorization of appropriations.-There are authorized to be appropriated such sums as may be necessary to pay the costs incurred under this chapter not covered by the filing fees collected under subsection (b). All funds made available pursuant to this subparagraph shall remain available until expended."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Positions required for administration of compulsory licensing.-Section 307 of the Legislative Branch Appropriations Act, 1994, shall not apply to employee positions in the Library of Congress that are required to be filled in order to carry out section 111, 112, 114, 115, 116, 118, or 119 or chapter 10."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 108\u2013419,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(a), Nov. 30, 2004, 118 Stat. 2348"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 108\u2013447,"
+      },
+      {
+       "type": "del",
+       "text": "div. J, title IX [title I, \u00a7112], Dec. 8, 2004, 118 Stat. 3409"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u2013303,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(5)\u2013(11), Oct. 6, 2006, 120 Stat. 1479"
+      },
+      {
+       "type": "del",
+       "text": ", 1481;"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 111\u2013295,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a75(b), Dec. 9, 2010, 124 Stat. 3181"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 115\u2013264,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7103(g)(3), Oct. 11, 2018, 132 Stat. 3725"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 116\u201394,"
+      },
+      {
+       "type": "del",
+       "text": "div. P, title XIV, \u00a71405(a)(2), Dec. 20, 2019, 133 Stat. 3208"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/804.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 804"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7804. Institution of proceedings"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Filing of Petition.-With respect to proceedings referred to in paragraphs (1) and (2) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 111, 112, 114, 115, 116, 118, 119, and 1004, during the calendar years specified in the schedule set forth in subsection (b), any owner or user of a copyrighted work whose royalty rates are specified by this title, or are established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests a determination or adjustment of the rate. The Copyright Royalty Judges shall make a determination as to whether the petitioner has such a significant interest in the royalty rate in which a determination or adjustment is requested. If the Copyright Royalty Judges determine that the petitioner has such a significant interest, the Copyright Royalty Judges shall cause notice of this determination, with the reasons for such determination, to be published in the Federal Register, together with the notice of commencement of proceedings under this chapter. With respect to proceedings under paragraph (1) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 112 and 114, during the calendar years specified in the schedule set forth in subsection (b), the Copyright Royalty Judges shall cause notice of commencement of proceedings under this chapter to be published in the Federal Register as provided in section 803(b)(1)(A)."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Timing of Proceedings.-"
+      }
+     ]
+    },
+    {
+     "old_start": 20,
+     "new_start": 22,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(6) Section 118 proceedings.-A petition described in subsection (a) to initiate proceedings under section 801(b)(1) concerning the determination of reasonable terms and rates of royalty payments as provided in section 118 may be filed in the year 2006 and in each subsequent fifth calendar year."
+      },
+      {
+       "type": "ctx",
+       "text": "(7) Section 1004 proceedings.-A petition described in subsection (a) to initiate proceedings under section 801(b)(1) concerning the adjustment of reasonable royalty rates under section 1004 may be filed as provided in section 1004(a)(3)."
+      },
+      {
+       "type": "ctx",
+       "text": "(8) Proceedings concerning distribution of royalty fees.-With respect to proceedings under section 801(b)(3) concerning the distribution of royalty fees in certain circumstances under section 111, 119, or 1007, the Copyright Royalty Judges shall, upon a determination that a controversy exists concerning such distribution, cause to be published in the Federal Register notice of commencement of proceedings under this chapter."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 108\u2013419,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(a), Nov. 30, 2004, 118 Stat. 2357"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u2013303,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(12), (13), Oct. 6, 2006, 120 Stat. 1481"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 111\u2013175,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7104(f), May 27, 2010, 124 Stat. 1238"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 115\u2013264,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7103(g)(4), (i), Oct. 11, 2018, 132 Stat. 3725"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

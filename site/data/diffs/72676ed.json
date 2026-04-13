@@ -1,0 +1,49 @@
+{
+ "hash": "72676ed",
+ "act_name": "Miscellaneous Trade and Technical Corrections Act of 1996 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/104A.md",
+   "hunks": [
+    {
+     "old_start": 51,
+     "new_start": 51,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) a WTO member country;"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) a nation adhering to the WIPO Copyright Treaty;"
+      },
+      {
+       "type": "ctx",
+       "text": "(D) a nation adhering to the WIPO Performances and Phonograms Treaty; or"
+      },
+      {
+       "type": "del",
+       "text": "(E) subject to a Presidential proclamation under section 104A(g)."
+      },
+      {
+       "type": "add",
+       "text": "(E) subject to a Presidential proclamation under subsection (g)."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The \"date of restoration\" of a restored copyright is-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) January 1, 1996, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date, or"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the date of adherence or proclamation, in the case of any other source country of the restored work."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,365 @@
+{
+ "hash": "8ab822d",
+ "act_name": "Copyright Law Codification Act of 1947",
+ "files": [
+  {
+   "path": "pre-1976/copyright-law-codification-act-of-1947.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# Copyright Law Codification Act of 1947"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*An Act to codify and enact into positive law, Title 17 of the United States Code, entitled \"Copyrights\". 61 Stat. 652, Ch. 391 (July 30, 1947)*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled, That Title 17 of the United States Code, entitled \"Copyrights,\" is codified and enacted into positive law and may be cited as \"17 U. S. C., Sec. ---.\" The sections of Title 17 as set forth in section 2 of this Act shall be legal evidence of the law contained therein, in all the courts of the United States and of the several States and Territories."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 2. Title 17 of the United States Code is hereby enacted as follows:"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "TITLE 17.--COPYRIGHTS"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "CHAPTER 1.--REGISTRATION OF COPYRIGHTS"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Sec."
+      },
+      {
+       "type": "add",
+       "text": "1. Exclusive rights as to copyrighted works."
+      },
+      {
+       "type": "add",
+       "text": "2. Rights of author or proprietor of unpublished work."
+      },
+      {
+       "type": "add",
+       "text": "3. Protection of component parts of work copyrighted; composite works or periodicals."
+      },
+      {
+       "type": "add",
+       "text": "4. All writings of author included."
+      },
+      {
+       "type": "add",
+       "text": "5. Classification of works for registration."
+      },
+      {
+       "type": "add",
+       "text": "6. Registration of compilations, abridgements, adaptations, and so forth."
+      },
+      {
+       "type": "add",
+       "text": "7. Copyright on compilations of works in public domain or of copyrighted works; subsisting copyrights not affected."
+      },
+      {
+       "type": "add",
+       "text": "8. Copyright not to subsist in works in public domain, or published prior to July 1, 1909, and not already copyrighted, or Government publications; publication by Government of copyrighted material."
+      },
+      {
+       "type": "add",
+       "text": "9. Authors or proprietors, entitled; aliens."
+      },
+      {
+       "type": "add",
+       "text": "10. Publication of work with notice."
+      },
+      {
+       "type": "add",
+       "text": "11. Registration of claim and issuance of certificate."
+      },
+      {
+       "type": "add",
+       "text": "12. Works not reproduced for sale."
+      },
+      {
+       "type": "add",
+       "text": "13. Deposit of copies after publication; action or proceeding for infringement."
+      },
+      {
+       "type": "add",
+       "text": "14. Same; failure to deposit; demand; penalty."
+      },
+      {
+       "type": "add",
+       "text": "15. Postmaster's receipt; transmission by mail without cost."
+      },
+      {
+       "type": "add",
+       "text": "16. Mechanical work to be done in United States."
+      },
+      {
+       "type": "add",
+       "text": "17. Affidavit to accompany copies."
+      },
+      {
+       "type": "add",
+       "text": "18. Making false affidavit."
+      },
+      {
+       "type": "add",
+       "text": "19. Notice; form."
+      },
+      {
+       "type": "add",
+       "text": "20. Same; place of application of; one notice in each volume or number of newspaper or periodical."
+      },
+      {
+       "type": "add",
+       "text": "21. Same; effect of accidental omission from copy or copies."
+      },
+      {
+       "type": "add",
+       "text": "22. Ad interim protection of book or periodical published abroad."
+      },
+      {
+       "type": "add",
+       "text": "23. Same; extension to full term."
+      },
+      {
+       "type": "add",
+       "text": "24. Duration; renewal and extension."
+      },
+      {
+       "type": "add",
+       "text": "25. Renewal of copyrights registered in Patent Office under repealed law."
+      },
+      {
+       "type": "add",
+       "text": "26. Terms defined."
+      },
+      {
+       "type": "add",
+       "text": "27. Copyright distinct from property in object copyrighted; effect of sale of object, and of assignment of copyright."
+      },
+      {
+       "type": "add",
+       "text": "28. Assignments and bequests."
+      },
+      {
+       "type": "add",
+       "text": "29. Same; executed in foreign country; acknowledgment and certificate."
+      },
+      {
+       "type": "add",
+       "text": "30. Same; record."
+      },
+      {
+       "type": "add",
+       "text": "31. Same; certificate of record."
+      },
+      {
+       "type": "add",
+       "text": "32. Same; use of name of assignee in notice."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "CHAPTER 2.--INFRINGEMENT PROCEEDINGS"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "101. Infringement."
+      },
+      {
+       "type": "add",
+       "text": "104. Willful infringement for profit."
+      },
+      {
+       "type": "add",
+       "text": "105. Fraudulent notice of copyright, or removal or alteration of notice."
+      },
+      {
+       "type": "add",
+       "text": "106. Importation of article bearing false notice or piratical copies of copyrighted work prohibited."
+      },
+      {
+       "type": "add",
+       "text": "107. Importation, during existence of copyright, of piratical copies, or of copies not produced in accordance with section 16 of this title, prohibited."
+      },
+      {
+       "type": "add",
+       "text": "108. Forfeiture and destruction of articles prohibited importation."
+      },
+      {
+       "type": "add",
+       "text": "109. Importation of prohibited articles; regulations; proof of deposit of copies by copyright claimants."
+      },
+      {
+       "type": "add",
+       "text": "112. Injunctions; service and enforcement."
+      },
+      {
+       "type": "add",
+       "text": "113. Transmission of certified copies of papers for enforcement of injunction by other court."
+      },
+      {
+       "type": "add",
+       "text": "114. Review of orders, judgments, or decrees."
+      },
+      {
+       "type": "add",
+       "text": "115. Limitations."
+      },
+      {
+       "type": "add",
+       "text": "116. Costs; attorney's fees."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "CHAPTER 3.--COPYRIGHT OFFICE"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "201. Copyright office; preservation of records."
+      },
+      {
+       "type": "add",
+       "text": "202. Register, assistant register, and subordinates."
+      },
+      {
+       "type": "add",
+       "text": "203. Same; deposit of moneys received; reports."
+      },
+      {
+       "type": "add",
+       "text": "204. Same; bond."
+      },
+      {
+       "type": "add",
+       "text": "205. Same; annual report."
+      },
+      {
+       "type": "add",
+       "text": "206. Seal of copyright office."
+      },
+      {
+       "type": "add",
+       "text": "207. Rules for registration of claims."
+      },
+      {
+       "type": "add",
+       "text": "208. Record books in copyright office."
+      },
+      {
+       "type": "add",
+       "text": "209. Certificate of registration; effect of registration."
+      },
+      {
+       "type": "add",
+       "text": "210. Catalogs of copyright entries; effect as evidence."
+      },
+      {
+       "type": "add",
+       "text": "211. Same; distribution and sale; disposal of proceeds."
+      },
+      {
+       "type": "add",
+       "text": "212. Records and works deposited in copyright office open to public inspection; taking copies of entries."
+      },
+      {
+       "type": "add",
+       "text": "213. Disposition of articles deposited in office."
+      },
+      {
+       "type": "add",
+       "text": "214. Destruction of articles deposited in office remaining undisposed of; removal of by author or proprietor; manuscripts of unpublished works."
+      },
+      {
+       "type": "add",
+       "text": "215. Fees."
+      },
+      {
+       "type": "add",
+       "text": "216. When the day for taking action falls on Saturday, Sunday, or a holiday."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 3. Any rights or liabilities now existing under previous Acts or portions thereof shall not be affected by the repeal of such Acts or portions thereof made by section two of this Act."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 4. If any part of Title 17, as set forth in section two of this Act, shall be held invalid, the remainder shall not be affected thereby."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 5. This Act shall take effect on September 1, 1947."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "APPROVED, July 30, 1947."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

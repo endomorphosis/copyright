@@ -1,0 +1,164 @@
+{
+ "hash": "d144804",
+ "act_name": "Record Rental Amendment of 1984",
+ "files": [
+  {
+   "path": "sections/109.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 109"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7109. Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Notwithstanding the provisions of section 106(3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord."
+      },
+      {
+       "type": "del",
+       "text": "(b) Notwithstanding the provisions of section 106(5), the owner of a particular copy lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to display that copy publicly, either directly or by the projection of no more than one image at a time, to viewers present at the place where the copy is located."
+      },
+      {
+       "type": "del",
+       "text": "(c) The privileges prescribed by subsections (a) and (b) do not, unless authorized by the copyright owner, extend to any person who has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, without acquiring ownership of it."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(b)(1) Notwithstanding the provisions of subsection (a), unless authorized by the owners of copyright in the sound recording and in the musical works embodied therein, the owner of a particular phonorecord may not, for purposes of direct or indirect commercial advantage, dispose of, or authorize the disposal of, the possession of that phonorecord by rental, lease, or lending, or by any other act or practice in the nature of rental, lease, or lending. Nothing in the preceding sentence shall apply to the rental, lease, or lending of a phonorecord for nonprofit purposes by a nonprofit library or nonprofit educational institution."
+      },
+      {
+       "type": "add",
+       "text": "(2) Nothing in this subsection shall affect any provision of the antitrust laws. For purposes of the preceding sentence, \"antitrust laws\" has the meaning given that term in the first section of the Clayton Act and includes section 5 of the Federal Trade Commission Act to the extent that section relates to unfair methods of competition."
+      },
+      {
+       "type": "add",
+       "text": "(3) Any person who distributes a phonorecord in violation of clause (1) is an infringer of copyright under section 501 of this title and is subject to the remedies set forth in sections 502, 503, 504, 505, and 509. Such violation shall not be a criminal offense under section 506 or cause such person to be subject to the criminal penalties set forth in section 2319 of title 18."
+      },
+      {
+       "type": "add",
+       "text": "(c) Notwithstanding the provisions of section 106(5), the owner of a particular copy lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to display that copy publicly, either directly or by the projection of no more than one image at a time, to viewers present at the place where the copy is located."
+      },
+      {
+       "type": "add",
+       "text": "(d) The privileges prescribed by subsections (a) and (c) do not, unless authorized by the copyright owner, extend to any person who has acquired possession of the copy or phonorecord from the copyright owner, by rental, lease, loan, or otherwise, without acquiring ownership of it."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/115.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 115"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7115. Scope of exclusive rights in nondramatic musical works: Compulsory license for making and distributing phonorecords"
+      },
+      {
+       "type": "ctx",
+       "text": "In the case of nondramatic musical works, the exclusive rights provided by clauses (1) and (3) of section 106, to make and to distribute phonorecords of such works, are subject to compulsory licensing under the conditions specified by this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Availability and Scope of Compulsory License.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) When phonorecords of a nondramatic musical work have been distributed to the public in the United States under the authority of the copyright owner, any other person may, by complying with the provisions of this section, obtain a compulsory license to make and distribute phonorecords of the work. A person may obtain a compulsory license only if his or her primary purpose in making phonorecords is to distribute them to the public for private use. A person may not obtain a compulsory license for use of the work in the making of phonorecords duplicating a sound recording fixed by another, unless: (i) such sound recording was fixed lawfully; and (ii) the making of the phonorecords was authorized by the owner of copyright in the sound recording or, if the sound recording was fixed before February 15, 1972, by any person who fixed the sound recording pursuant to an express license from the owner of the copyright in the musical work or pursuant to a valid compulsory license for use of such work in a sound recording."
+      },
+      {
+       "type": "add",
+       "text": "(1) When phonorecords of a nondramatic musical work have been distributed to the public in the United States under the authority of the copyright owner, any other person, including those who make phonorecords or digital phonorecord deliveries, may, by complying with the provisions of this section, obtain a compulsory license to make and distribute phonorecords of the work. A person may obtain a compulsory license only if his or her primary purpose in making phonorecords is to distribute them to the public for private use, including by means of a digital phonorecord delivery. A person may not obtain a compulsory license for use of the work in the making of phonorecords duplicating a sound recording fixed by another, unless: (i) such sound recording was fixed lawfully; and (ii) the making of the phonorecords was authorized by the owner of copyright in the sound recording or, if the sound recording was fixed before February 15, 1972, by any person who fixed the sound recording pursuant to an express license from the owner of the copyright in the musical work or pursuant to a valid compulsory license for use of such work in a sound recording."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) A compulsory license includes the privilege of making a musical arrangement of the work to the extent necessary to conform it to the style or manner of interpretation of the performance involved, but the arrangement shall not change the basic melody or fundamental character of the work, and shall not be subject to protection as a derivative work under this title, except with the express consent of the copyright owner."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Notice of Intention to Obtain Compulsory License.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Any person who wishes to obtain a compulsory license under this section shall, before or within thirty days after making, and before distributing any phonorecords of the work, serve notice of intention to do so on the copyright owner. If the registration or other public records of the Copyright Office do not identify the copyright owner and include an address at which notice can be served, it shall be sufficient to file the notice of intention in the Copyright Office. The notice shall comply, in form, content, and manner of service, with requirements that the Register of Copyrights shall prescribe by regulation."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Failure to serve or file the notice required by clause (1) forecloses the possibility of a compulsory license and, in the absence of a negotiated license, renders the making and distribution of phonorecords actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506 and 509."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Royalty Payable Under Compulsory License.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) To be entitled to receive royalties under a compulsory license, the copyright owner must be identified in the registration or other public records of the Copyright Office. The owner is entitled to royalties for phonorecords manufactured and distributed after being so identified, but is not entitled to recover for any phonorecords previously made and distributed."
+      },
+      {
+       "type": "del",
+       "text": "(2) Except as provided by clause (1), the royalty under a compulsory license shall be payable for every phonorecord made and distributed in accordance with the license. For this purpose, a phonorecord is considered \"distributed\" if the person exercising the compulsory license has voluntarily and permanently parted with its possession. With respect to each work embodied in the phonorecord, the royalty shall be either two and three-fourths cents, or one-half of one cent per minute of playing time or fraction thereof, whichever amount is larger."
+      },
+      {
+       "type": "del",
+       "text": "(3) Royalty payments shall be made on or before the twentieth day of each month and shall include all royalties for the month next preceding. Each monthly payment shall be made under oath and shall comply with requirements that the Register of Copyrights shall prescribe by regulation. The Register shall also prescribe regulations under which detailed cumulative annual statements of account, certified by a certified public accountant, shall be filed for every compulsory license under this section. The provisions of clause (6) of section 111(d) apply to any claim of a copyright owner under this section as well, in accordance with regulations that the Register of Copyrights shall prescribe."
+      },
+      {
+       "type": "del",
+       "text": "(4) If the copyright owner does not receive the monthly payment and the monthly and annual statements of account when due, the owner may give written notice to the licensee that, unless the default is remedied within thirty days from the date of the notice, the compulsory license will be automatically terminated. Such termination renders either the making or the distribution, or both, of all phonorecords for which the royalty had not been paid, actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506 and 509."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(2) Except as provided by clause (1), the royalty under a compulsory license shall be payable for every phonorecord made and distributed in accordance with the license. For this purpose, and other than as provided in paragraph (3), a phonorecord is considered \"distributed\" if the person exercising the compulsory license has voluntarily and permanently parted with its possession. With respect to each work embodied in the phonorecord, the royalty shall be either two and three-fourths cents, or one-half of one cent per minute of playing time or fraction thereof, whichever amount is larger."
+      },
+      {
+       "type": "add",
+       "text": "(3) [Digital phonorecord delivery rate-setting provisions added by PL 104-39.]"
+      },
+      {
+       "type": "add",
+       "text": "(4) Royalty payments shall be made on or before the twentieth day of each month and shall include all royalties for the month next preceding."
+      },
+      {
+       "type": "add",
+       "text": "(5) If the copyright owner does not receive the monthly payment and the monthly and annual statements of account when due, the owner may give written notice to the licensee that, unless the default is remedied within thirty days from the date of the notice, the compulsory license will be automatically terminated. Such termination renders either the making or the distribution, or both, of all phonorecords for which the royalty had not been paid, actionable as acts of infringement under section 501 and fully subject to the remedies provided by sections 502 through 506 and 509."
+      },
+      {
+       "type": "add",
+       "text": "(d) Definition of Digital Phonorecord Delivery.-As used in this section, the following term has the following meaning: A \"digital phonorecord delivery\" is each individual delivery of a phonorecord by digital transmission of a sound recording which results in a specifically identifiable reproduction by or for any transmission recipient of a phonorecord of that sound recording, regardless of whether the digital transmission is also a public performance of the sound recording or any nondramatic musical work embodied therein. A digital phonorecord delivery does not result from a real-time, non-interactive subscription transmission of a sound recording where no reproduction of the sound recording or the musical work embodied therein is made from the inception of the transmission through to its receipt by the transmission recipient in order to make the sound recording audible."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,179 @@
+{
+ "hash": "a42ec28",
+ "act_name": "Work Made for Hire and Copyright Corrections Act of 2000",
+ "files": [
+  {
+   "path": "sections/121.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 121"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7121. Limitations on exclusive rights: reproduction for blind or other people with disabilities"
+      },
+      {
+       "type": "del",
+       "text": "(a) Notwithstanding the provisions of sections 106 and 710, it is not an infringement of copyright for an authorized entity to reproduce or to distribute in the United States copies or phonorecords of a previously published literary work or of a previously published musical work that has been fixed in the form of text or notation if such copies or phonorecords are reproduced or distributed in accessible formats exclusively for use by eligible persons."
+      },
+      {
+       "type": "add",
+       "text": "(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for an authorized entity to reproduce or to distribute in the United States copies or phonorecords of a previously published literary work or of a previously published musical work that has been fixed in the form of text or notation if such copies or phonorecords are reproduced or distributed in accessible formats exclusively for use by eligible persons."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) Copies or phonorecords to which this section applies shall-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) not be reproduced or distributed in the United States in a format other than an accessible format exclusively for use by eligible persons;"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) bear a notice that any further reproduction or distribution in a format other than an accessible format is an infringement; and"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/705.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 705"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7705. Copyright Office records: Preparation, maintenance, public inspection, and searching"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) The Register of Copyrights shall ensure that records of deposits, registrations, recordations, and other actions taken under this title are maintained, and that indexes of such records are prepared."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Such records and indexes, as well as the articles deposited in connection with completed copyright registrations and retained under the control of the Copyright Office, shall be open to public inspection."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Upon request and payment of the fee specified by section 708, the Copyright Office shall make a search of its public records, indexes, and deposits, and shall furnish a report of the information they disclose with respect to any particular deposits, registrations, or recorded documents."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2592"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u2013379,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73(a)(2), Oct. 27, 2000, 114 Stat. 1445"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 10,
+     "new_start": 10,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;"
+      },
+      {
+       "type": "ctx",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration;"
+      },
+      {
+       "type": "ctx",
+       "text": "(8) for the issuance of any other certification;"
+      },
+      {
+       "type": "del",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services; and"
+      },
+      {
+       "type": "del",
+       "text": "(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "del",
+       "text": "The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service."
+      },
+      {
+       "type": "add",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services;"
+      },
+      {
+       "type": "add",
+       "text": "(10) on filing a statement of account based on secondary transmissions of primary transmissions pursuant to section 119 or 122; and"
+      },
+      {
+       "type": "add",
+       "text": "(11) on filing a statement of account based on secondary transmissions of primary transmissions pursuant to section 111."
+      },
+      {
+       "type": "add",
+       "text": "The Register is authorized to fix fees for other services, including the cost of preparing copies of Copyright Office records, whether or not such copies are certified, based on the cost of providing the service. Fees established under paragraphs (10) and (11) shall be reasonable and may not exceed one-half of the cost necessary to cover reasonable expenses incurred by the Copyright Office for the collection and administration of the statements of account and any royalty fees deposited with such statements."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Adjustment of Fees.-The Register of Copyrights may, by regulation, adjust the fees for the services specified in paragraphs (1) through (9) of subsection (a) in the following manner:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) The Register shall conduct a study of the costs incurred by the Copyright Office for the registration of claims, the recordation of documents, and the provision of services. The study shall also consider the timing of any adjustment in fees and the authority to use such fees consistent with the budget."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The Register may, on the basis of the study under paragraph (1), and subject to paragraph (5), adjust fees to not more than that necessary to cover the reasonable costs incurred by the Copyright Office for the services described in paragraph (1), plus a reasonable inflation adjustment to account for any estimated increase in costs."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

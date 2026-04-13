@@ -1,0 +1,465 @@
+{
+ "hash": "bafad83",
+ "act_name": "Copyright Royalty Tribunal Reform Act of 1993",
+ "files": [
+  {
+   "path": "sections/1004.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1004"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71004. Royalty payments"
+      },
+      {
+       "type": "add",
+       "text": "(a) Digital Audio Recording Devices.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Amount of payment.-The royalty payment due under section 1003 for each digital audio recording device imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 2 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such device shall be required to pay the royalty with respect to such device."
+      },
+      {
+       "type": "add",
+       "text": "(2) Calculation for devices distributed with other devices.-With respect to a digital audio recording device first distributed in combination with one or more devices, either as a physically integrated unit or as separate components, the royalty payment shall be calculated as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(A) If the digital audio recording device and such other devices are part of a physically integrated unit, the royalty payment shall be based on the transfer price of the unit, but shall be reduced by any royalty payment made on any digital audio recording device included within the unit that was not first distributed in combination with the unit."
+      },
+      {
+       "type": "add",
+       "text": "(B) If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on the average transfer price of such devices during those 4 quarters."
+      },
+      {
+       "type": "add",
+       "text": "(C) If the digital audio recording device is not part of a physically integrated unit and substantially similar devices have not been distributed separately at any time during the preceding 4 calendar quarters, the royalty payment shall be based on a constructed price reflecting the proportional value of such device to the combination as a whole."
+      },
+      {
+       "type": "add",
+       "text": "(3) Limits on royalties.-Notwithstanding paragraph (1) or (2), the amount of the royalty payment for each digital audio recording device shall not be less than $1 nor more than the royalty maximum. The royalty maximum shall be $8 per device, except that in the case of a physically integrated unit containing more than 1 digital audio recording device, the royalty maximum for such unit shall be $12. During the 6th year after the effective date of this chapter, and not more than once each year thereafter, any interested copyright party may petition the Librarian of Congress to increase the royalty maximum and, if more than 20 percent of the royalty payments are at the relevant royalty maximum, the Librarian of Congress shall prospectively increase such royalty maximum with the goal of having no more than 10 percent of such payments at the new royalty maximum; however the amount of any such increase as a percentage of the royalty maximum shall in no event exceed the percentage increase in the Consumer Price Index during the period under review."
+      },
+      {
+       "type": "add",
+       "text": "(b) Digital Audio Recording Media.-The royalty payment due under section 1003 for each digital audio recording medium imported into and distributed in the United States, or manufactured and distributed in the United States, shall be 3 percent of the transfer price. Only the first person to manufacture and distribute or import and distribute such medium shall be required to pay the royalty with respect to such medium."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1005.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1005"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71005. Deposit of royalty payments and deduction of expenses"
+      },
+      {
+       "type": "add",
+       "text": "The Register of Copyrights shall receive all royalty payments deposited under this chapter and, after deducting the reasonable costs incurred by the Copyright Office under this chapter, shall deposit the balance in the Treasury of the United States as offsetting receipts, in such manner as the Secretary of the Treasury directs. All funds held by the Secretary of the Treasury shall be invested in interest-bearing United States securities for later distribution with interest under section 1007. The Register may, in the Register's discretion, 4 years after the close of any calendar year, close out the royalty payments account for that calendar year, and may treat any funds remaining in such account and any subsequent deposits that would otherwise be attributable to that calendar year as attributable to the succeeding calendar year."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1006.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1006"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71006. Entitlement to royalty payments"
+      },
+      {
+       "type": "add",
+       "text": "(a) Interested Copyright Parties.-The royalty payments deposited pursuant to section 1005 shall, in accordance with the procedures specified in section 1007, be distributed to any interested copyright party-"
+      },
+      {
+       "type": "add",
+       "text": "(1) whose musical work or sound recording has been-"
+      },
+      {
+       "type": "add",
+       "text": "(A) embodied in a digital musical recording or an analog musical recording lawfully made under this title that has been distributed, and"
+      },
+      {
+       "type": "add",
+       "text": "(B) distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions, during the period to which such payments pertain; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) who has filed a claim under section 1007."
+      },
+      {
+       "type": "add",
+       "text": "(b) Allocation of Royalty Payments to Groups.-The royalty payments shall be divided into 2 funds as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(1) The sound recordings fund.-662/3 percent of the royalty payments shall be allocated to the Sound Recordings Fund. 25/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians or any successor entity) who have performed on sound recordings distributed in the United States. 13/8 percent of the royalty payments allocated to the Sound Recordings Fund shall be placed in an escrow account managed by an independent administrator jointly appointed by the interested copyright parties described in section 1001(7)(A) and the American Federation Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists or any successor entity) who have performed on sound recordings distributed in the United States. 40 percent of the remaining royalty payments in the Sound Recordings Fund shall be distributed to the interested copyright parties described in section 1001(7)(C), and 60 percent of such remaining royalty payments shall be distributed to the interested copyright parties described in section 1001(7)(A)."
+      },
+      {
+       "type": "add",
+       "text": "(2) The musical works fund.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) 331/3 percent of the royalty payments shall be allocated to the Musical Works Fund for distribution to interested copyright parties described in section 1001(7)(B)."
+      },
+      {
+       "type": "add",
+       "text": "(B)(i) Music publishers shall be entitled to 50 percent of the royalty payments allocated to the Musical Works Fund."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Writers shall be entitled to the other 50 percent of the royalty payments allocated to the Musical Works Fund."
+      },
+      {
+       "type": "add",
+       "text": "(c) Allocation of Royalty Payments Within Groups.-If all interested copyright parties within a group specified in subsection (b) do not agree on a voluntary proposal for the distribution of the royalty payments within each group, the Librarian of Congress shall convene a copyright arbitration royalty panel which shall, pursuant to the procedures specified under section 1007(c), allocate royalty payments under this section based on the extent to which, during the relevant period-"
+      },
+      {
+       "type": "add",
+       "text": "(1) for the Sound Recordings Fund, each sound recording was distributed in the form of digital musical recordings or analog musical recordings; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) for the Musical Works Fund, each musical work was distributed in the form of digital musical recordings or analog musical recordings or disseminated to the public in transmissions."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1007.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1007"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71007. Procedures for distributing royalty payments"
+      },
+      {
+       "type": "add",
+       "text": "(a) Filing of Claims and Negotiations.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Filing of claims.-During the first 2 months of each calendar year, every interested copyright party seeking to receive royalty payments to which such party is entitled under section 1006 shall file with the Copyright Royalty Judges a claim for payments collected during the preceding year in such form and manner as the Copyright Royalty Judges shall prescribe by regulation."
+      },
+      {
+       "type": "add",
+       "text": "(2) Negotiations.-Notwithstanding any provision of the antitrust laws, for purposes of this section interested copyright parties within each group specified in section 1006(b) may agree among themselves to the proportionate division of royalty payments, may lump their claims together and file them jointly or as a single claim, or may designate a common agent, including any organization described in section 1001(7)(D), to negotiate or receive payment on their behalf; except that no agreement under this subsection may modify the allocation of royalties specified in section 1006(b)."
+      },
+      {
+       "type": "add",
+       "text": "(b) Distribution of Payments in the Absence of a Dispute.-After the period established for the filing of claims under subsection (a), in each year, the Copyright Royalty Judges shall determine whether there exists a controversy concerning the distribution of royalty payments under section 1006(c). If the Copyright Royalty Judges determine that no such controversy exists, the Copyright Royalty Judges shall, within 30 days after such determination, authorize the distribution of the royalty payments as set forth in the agreements regarding the distribution of royalty payments entered into pursuant to subsection (a). The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      },
+      {
+       "type": "add",
+       "text": "(c) Resolution of Disputes.-If the Copyright Royalty Judges find the existence of a controversy, the Copyright Royalty Judges shall, pursuant to chapter 8 of this title, conduct a proceeding to determine the distribution of royalty payments. During the pendency of such a proceeding, the Copyright Royalty Judges shall withhold from distribution an amount sufficient to satisfy all claims with respect to which a controversy exists, but shall, to the extent feasible, authorize the distribution of any amounts that are not in controversy. The Librarian of Congress shall, before such royalty payments are distributed, deduct the reasonable administrative costs incurred under this section."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1010.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1010"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71010. Determination of certain disputes"
+      },
+      {
+       "type": "add",
+       "text": "(a) Scope of Determination.-Before the date of first distribution in the United States of a digital audio recording device or a digital audio interface device, any party manufacturing, importing, or distributing such device, and any interested copyright party may mutually agree to petition the Copyright Royalty Judges to determine whether such device is subject to section 1002, or the basis on which royalty payments for such device are to be made under section 1003."
+      },
+      {
+       "type": "add",
+       "text": "(b) Initiation of Proceedings.-The parties under subsection (a) shall file the petition with the Copyright Royalty Judges requesting the commencement of a proceeding. Within 2 weeks after receiving such a petition, the Chief Copyright Royalty Judge shall cause notice to be published in the Federal Register of the initiation of the proceeding."
+      },
+      {
+       "type": "add",
+       "text": "(c) Stay of Judicial Proceedings.-Any civil action brought under section 1009 against a party to a proceeding under this section shall, on application of one of the parties to the proceeding, be stayed until completion of the proceeding."
+      },
+      {
+       "type": "add",
+       "text": "(d) Proceeding.-The Copyright Royalty Judges shall conduct a proceeding with respect to the matter concerned, in accordance with such procedures as the Copyright Royalty Judges may adopt. The Copyright Royalty Judges shall act on the basis of a fully documented written record. Any party to the proceeding may submit relevant information and proposals to the Copyright Royalty Judges. The parties to the proceeding shall each bear their respective costs of participation."
+      },
+      {
+       "type": "add",
+       "text": "(e) Judicial Review.-Any determination of the Copyright Royalty Judges under subsection (d) may be appealed, by a party to the proceeding, in accordance with section 803(d) of this title. The pendency of an appeal under this subsection shall not stay the determination of the Copyright Royalty Judges. If the court modifies the determination of the Copyright Royalty Judges, the court shall have jurisdiction to enter its own decision in accordance with its final judgment. The court may further vacate the determination of the Copyright Royalty Judges and remand the case for proceedings as provided in this section."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/116.md",
+   "hunks": [
+    {
+     "old_start": 4,
+     "new_start": 4,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(a) Applicability of Section.-This section applies to any nondramatic musical work embodied in a phonorecord."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Negotiated Licenses.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Authority for negotiations.-Any owners of copyright in works to which this section applies and any operators of coin-operated phonorecord players may negotiate and agree upon the terms and rates of royalty payments for the performance of such works and the proportionate division of fees paid among copyright owners, and may designate common agents to negotiate, agree to, pay, or receive such royalty payments."
+      },
+      {
+       "type": "del",
+       "text": "(2)"
+      },
+      {
+       "type": "del",
+       "text": "Chapter 8 proceeding.-Parties not subject to such a negotiation may have the terms and rates and the division of fees described in paragraph (1) determined in a proceeding in accordance with the provisions of chapter 8."
+      },
+      {
+       "type": "del",
+       "text": "(c) License Agreements Superior to Determinations by Copyright Royalty Judges.-License agreements between one or more copyright owners and one or more operators of coin-operated phonorecord players, which are negotiated in accordance with subsection (b), shall be given effect in lieu of any otherwise applicable determination by the Copyright Royalty Judges."
+      },
+      {
+       "type": "del",
+       "text": "(d) Definitions.-As used in this section, the following terms mean the following:"
+      },
+      {
+       "type": "del",
+       "text": "(1) A \"coin-operated phonorecord player\" is a machine or device that-"
+      },
+      {
+       "type": "del",
+       "text": "(A) is employed solely for the performance of nondramatic musical works by means of phonorecords upon being activated by the insertion of coins, currency, tokens, or other monetary units or their equivalent;"
+      },
+      {
+       "type": "del",
+       "text": "(B) is located in an establishment making no direct or indirect charge for admission;"
+      },
+      {
+       "type": "del",
+       "text": "(C) is accompanied by a list which is comprised of the titles of all the musical works available for performance on it, and is affixed to the phonorecord player or posted in the establishment in a prominent position where it can be readily examined by the public; and"
+      },
+      {
+       "type": "del",
+       "text": "(D) affords a choice of works available for performance and permits the choice to be made by the patrons of the establishment in which it is located."
+      },
+      {
+       "type": "del",
+       "text": "(2) An \"operator\" is any person who, alone or jointly with others-"
+      },
+      {
+       "type": "del",
+       "text": "(A) owns a coin-operated phonorecord player;"
+      },
+      {
+       "type": "del",
+       "text": "(B) has the power to make a coin-operated phonorecord player available for placement in an establishment for purposes of public performance; or"
+      },
+      {
+       "type": "del",
+       "text": "(C) has the power to exercise primary control over the selection of the musical works made available for public performance on a coin-operated phonorecord player."
+      },
+      {
+       "type": "add",
+       "text": "(2) Arbitration.-Parties to such a negotiation, within such time as may be specified by the Librarian of Congress by regulation, may determine the result of the negotiation by arbitration. Such arbitration shall be governed by the provisions of title 9, to the extent such title is not inconsistent with this section. The parties shall give notice to the Librarian of Congress of any determination reached by arbitration and any such determination shall, as between the parties to the arbitration, be dispositive of the issues to which it relates."
+      },
+      {
+       "type": "add",
+       "text": "(c) Copyright Royalty Tribunal Determinations.-License agreements voluntarily negotiated at any time between one or more copyright owners of nondramatic musical works and one or more operators of coin-operated phonorecord players, which are filed with the Copyright Royalty Tribunal within 30 days of execution, shall be given effect in lieu of any otherwise applicable determination by the Copyright Royalty Tribunal."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/118.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 118"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7118. Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) The exclusive rights provided by section 106 shall, with respect to the works specified by subsection (b) and the activities specified by subsection (d),1 be subject to the conditions and limitations prescribed by this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Notwithstanding any provision of the antitrust laws, any owners of copyright in published nondramatic musical works and published pictorial, graphic, and sculptural works and any public broadcasting entities, respectively, may negotiate and agree upon the terms and rates of royalty payments and the proportionate division of fees paid among various copyright owners, and may designate common agents to negotiate, agree to, pay, or receive payments."
+      }
+     ]
+    },
+    {
+     "old_start": 12,
+     "new_start": 14,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(d) Except as expressly provided in this subsection, this section shall have no applicability to works other than those specified in subsection (b). Owners of copyright in nondramatic literary works and public broadcasting entities may, during the course of voluntary negotiations, agree among themselves, respectively, as to the terms and rates of royalty payments without liability under the antitrust laws. Any such terms and rates of royalty payments shall be effective upon filing with the Copyright Royalty Judges, in accordance with regulations that the Copyright Royalty Judges shall prescribe as provided in section 803(b)(6)."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) Nothing in this section shall be construed to permit, beyond the limits of fair use as provided by section 107, the unauthorized dramatization of a nondramatic musical work, the production of a transmission program drawn to any substantial extent from a published compilation of pictorial, graphic, or sculptural works, or the unauthorized use of any portion of an audiovisual work."
+      },
+      {
+       "type": "ctx",
+       "text": "(f) As used in this section, the term \"public broadcasting entity\" means a noncommercial educational broadcast station as defined in section 397 of title 47 and any nonprofit institution or organization engaged in the activities described in paragraph (2) of subsection (c)."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2565"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 103\u2013198,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a74, Dec. 17, 1993, 107 Stat. 2309"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u201344,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a71(g)(3), Aug. 5, 1999, 113 Stat. 222"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 107\u2013273,"
+      },
+      {
+       "type": "del",
+       "text": "div. C, title III, \u00a713210(7), Nov. 2, 2002, 116 Stat. 1909"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 108\u2013419,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a75(f), Nov. 30, 2004, 118 Stat. 2365"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u2013303,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a74(d), Oct. 6, 2006, 120 Stat. 1482"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

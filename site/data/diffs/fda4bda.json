@@ -1,0 +1,204 @@
+{
+ "hash": "fda4bda",
+ "act_name": "Family Entertainment and Copyright Act of 2005",
+ "files": [
+  {
+   "path": "sections/108.md",
+   "hunks": [
+    {
+     "old_start": 9,
+     "new_start": 9,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if-"
+      },
+      {
+       "type": "del",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a pair price; and"
+      },
+      {
+       "type": "add",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy."
+      },
+      {
+       "type": "ctx",
+       "text": "For purposes of this subsection, a format shall be considered obsolete if the machine or device necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) The rights of reproduction and distribution under this section apply to a copy, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, of no more than one article or other contribution to a copyrighted collection or periodical issue, or to a copy or phonorecord of a small part of any other copyrighted work, if-"
+      }
+     ]
+    },
+    {
+     "old_start": 32,
+     "new_start": 32,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) a copy or phonorecord of the work can be obtained at a reasonable price; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) the copyright owner or its agent provides notice pursuant to regulations promulgated by the Register of Copyrights that either of the conditions set forth in subparagraphs (A) and (B) applies."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) The exemption provided in this subsection does not apply to any subsequent uses by users other than such library or archives."
+      },
+      {
+       "type": "del",
+       "text": "(i) The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b) and (c), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e)."
+      },
+      {
+       "type": "add",
+       "text": "(i) The rights of reproduction and distribution under this section do not apply to a musical work, a pictorial, graphic or sculptural work, or a motion picture or other audiovisual work other than an audiovisual work dealing with news, except that no such limitation shall apply with respect to rights granted by subsections (b), (c), and (h), or with respect to pictorial or graphic works published as illustrations, diagrams, or similar adjuncts to works of which copies are reproduced or distributed in accordance with subsections (d) and (e)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/408.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 408"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7408. Copyright registration in general"
+      },
+      {
+       "type": "del",
+       "text": "(a) Registration Permissive.-At any time during the subsistence of copyright in any published or unpublished work, the owner of copyright or of any exclusive right in the work may obtain registration of the copyright claim by delivering to the Copyright Office the deposit specified by this section, together with the application and fee specified by sections 409 and 708. Such registration is not a condition of copyright protection."
+      },
+      {
+       "type": "add",
+       "text": "(a) Registration Permissive.-At any time during the subsistence of the first term of copyright in any published or unpublished work in which the copyright was secured before January 1, 1978, and during the subsistence of any copyright secured on or after that date, the owner of copyright or of any exclusive right in the work may obtain registration of the copyright claim by delivering to the Copyright Office the deposit specified by this section, together with the application and fee specified by sections 409 and 708. Such registration is not a condition of copyright protection."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Deposit for Copyright Registration.-Except as provided by subsection (c), the material deposited for registration shall include-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) in the case of an unpublished work, one complete copy or phonorecord;"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) in the case of a published work, two complete copies or phonorecords of the best edition;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/411.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 411"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7411. Registration and civil infringement actions"
+      },
+      {
+       "type": "del",
+       "text": "(a) Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b),1 no civil action for infringement of the copyright in any United States work shall be instituted until  registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute a civil action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shall not deprive the court of jurisdiction to determine that issue."
+      },
+      {
+       "type": "add",
+       "text": "(a) Except for an action brought for a violation of the rights of the author under section 106A(a), and subject to the provisions of subsection (b),1 no civil action for infringement of the copyright in any United States work shall be instituted until preregistration or registration of the copyright claim has been made in accordance with this title. In any case, however, where the deposit, application, and fee required for registration have been delivered to the Copyright Office in proper form and registration has been refused, the applicant is entitled to institute a civil action for infringement if notice thereof, with a copy of the complaint, is served on the Register of Copyrights. The Register may, at his or her option, become a party to the action with respect to the issue of registrability of the copyright claim by entering an appearance within sixty days after such service, but the Register's failure to become a party shall not deprive the court of jurisdiction to determine that issue."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) A certificate of registration satisfies the requirements of this section and section 412, regardless of whether the certificate contains any inaccurate information, unless-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) the inaccurate information was included on the application for copyright registration with knowledge that it was inaccurate; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the inaccuracy of the information, if known, would have caused the Register of Copyrights to refuse registration."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/506.md",
+   "hunks": [
+    {
+     "old_start": 14,
+     "new_start": 14,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) a motion picture, if, at the time of unauthorized distribution, the motion picture-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) has been made available for viewing in a motion picture exhibition facility; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) has not been made available in copies for sale to the general public in the United States in a format intended to permit viewing outside a motion picture exhibition facility."
+      },
+      {
+       "type": "del",
+       "text": "(b) Forfeiture and Destruction.-When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords."
+      },
+      {
+       "type": "add",
+       "text": "(b) Forfeiture, Destruction, and Restitution.-Forfeiture, destruction, and restitution relating to this section shall be subject to section 2323 of title 18, to the extent provided in that section, in addition to any other similar remedies provided by law."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Fraudulent Copyright Notice.-Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Fraudulent Removal of Copyright Notice.-Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) False Representation.-Any person who knowingly makes a false representation of a material fact in the application for copyright registration provided for by section 409, or in any written statement filed in connection with the application, shall be fined not more than $2,500."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

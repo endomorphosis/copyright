@@ -1,0 +1,662 @@
+{
+ "hash": "3d7776f",
+ "act_name": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018",
+ "files": [
+  {
+   "path": "sections/106.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 106"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7106. Exclusive rights in copyrighted works"
+      },
+      {
+       "type": "del",
+       "text": "Subject to sections 107 through 122, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:"
+      },
+      {
+       "type": "add",
+       "text": "Subject to sections 107 through 119, the owner of copyright under this title has the exclusive rights to do and to authorize any of the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) to reproduce the copyrighted work in copies or phonorecords;"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) to prepare derivative works based upon the copyrighted work;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) to distribute copies or phonorecords of the copyrighted work to the public by sale or other transfer of ownership, or by rental, lease, or lending;"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1401.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "\u00a71401. Unauthorized use of pre-1972 sound recordings"
+      },
+      {
+       "type": "add",
+       "text": "(a) In General.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Unauthorized acts.-Anyone who, on or before the last day of the applicable transition period under paragraph (2), and without the consent of the rights owner, engages in covered activity with respect to a sound recording fixed before February 15, 1972, shall be subject to the remedies provided in sections 502 through 505 and 1203 to the same extent as an infringer of copyright or a person that engages in unauthorized activity under chapter 12."
+      },
+      {
+       "type": "add",
+       "text": "(2) Term of prohibition.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-The prohibition under paragraph (1)-"
+      },
+      {
+       "type": "add",
+       "text": "(i) subject to clause (ii), shall apply to a sound recording described in that paragraph-"
+      },
+      {
+       "type": "add",
+       "text": "(I) through December 31 of the year that is 95 years after the year of first publication; and"
+      },
+      {
+       "type": "add",
+       "text": "(II) for a further transition period as prescribed under subparagraph (B) of this paragraph; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) shall not apply to any sound recording after February 15, 2067."
+      },
+      {
+       "type": "add",
+       "text": "(B) Transition periods.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) Pre-1923 recordings.-In the case of a sound recording first published before January 1, 1923, the transition period described in subparagraph (A)(i)(II) shall end on December 31 of the year that is 3 years after the date of enactment of this section."
+      },
+      {
+       "type": "add",
+       "text": "(ii) 1923\u20131946 recordings.-In the case of a sound recording first published during the period beginning on January 1, 1923, and ending on December 31, 1946, the transition period described in subparagraph (A)(i)(II) shall end on the date that is 5 years after the last day of the period described in subparagraph (A)(i)(I)."
+      },
+      {
+       "type": "add",
+       "text": "(iii) 1947\u20131956 recordings.-In the case of a sound recording first published during the period beginning on January 1, 1947, and ending on December 31, 1956, the transition period described in subparagraph (A)(i)(II) shall end on the date that is 15 years after the last day of the period described in subparagraph (A)(i)(I)."
+      },
+      {
+       "type": "add",
+       "text": "(iv) Post-1956 recordings.-In the case of a sound recording fixed before February 15, 1972, that is not described in clause (i), (ii), or (iii), the transition period described in subparagraph (A)(i)(II) shall end on February 15, 2067."
+      },
+      {
+       "type": "add",
+       "text": "(3) Rule of construction.-For the purposes of this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in the official capacity of the officer or employee, as applicable."
+      },
+      {
+       "type": "add",
+       "text": "(b) Certain Authorized Transmissions and Reproductions.-A public performance by means of a digital audio transmission of a sound recording fixed before February 15, 1972, or a reproduction in an ephemeral phonorecord or copy of a sound recording fixed before February 15, 1972, shall, for purposes of subsection (a), be considered to be authorized and made with the consent of the rights owner if-"
+      },
+      {
+       "type": "add",
+       "text": "(1) the transmission or reproduction would satisfy the requirements for statutory licensing under section 112(e)(1) or section 114(d)(2), or would be exempt under section 114(d)(1), as the case may be, if the sound recording were fixed on or after February 15, 1972; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) the transmitting entity pays the statutory royalty for the transmission or reproduction pursuant to the rates and terms adopted under sections 112(e) and 114(f), and complies with other obligations, in the same manner as required by regulations adopted by the Copyright Royalty Judges under sections 112(e) and 114(f) for sound recordings that are fixed on or after February 15, 1972, except in the case of a transmission that would be exempt under section 114(d)(1)."
+      },
+      {
+       "type": "add",
+       "text": "(c) Certain Noncommercial Uses of Sound Recordings That Are Not Being Commercially Exploited.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) In general.-Noncommercial use of a sound recording fixed before February 15, 1972, that is not being commercially exploited by or under the authority of the rights owner shall not violate subsection (a) if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the person engaging in the noncommercial use, in order to determine whether the sound recording is being commercially exploited by or under the authority of the rights owner, makes a good faith, reasonable search for, but does not find, the sound recording-"
+      },
+      {
+       "type": "add",
+       "text": "(i) in the records of schedules filed in the Copyright Office as described in subsection (f)(5)(A); and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) on services offering a comprehensive set of sound recordings for sale or streaming;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the person engaging in the noncommercial use files a notice identifying the sound recording and the nature of the use in the Copyright Office in accordance with the regulations issued under paragraph (3)(B); and"
+      },
+      {
+       "type": "add",
+       "text": "(C) during the 90-day period beginning on the date on which the notice described in subparagraph (B) is indexed into the public records of the Copyright Office, the rights owner of the sound recording does not, in its discretion, opt out of the noncommercial use by filing notice thereof in the Copyright Office in accordance with the regulations issued under paragraph (5)."
+      },
+      {
+       "type": "add",
+       "text": "(2) Rules of construction.-For purposes of this subsection-"
+      },
+      {
+       "type": "add",
+       "text": "(A) merely recovering costs of production and distribution of a sound recording resulting from a use otherwise permitted under this subsection does not itself necessarily constitute a commercial use of the sound recording;"
+      },
+      {
+       "type": "add",
+       "text": "(B) the fact that a person engaging in the use of a sound recording also engages in commercial activities does not itself necessarily render the use commercial; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) the fact that a person files notice of a noncommercial use of a sound recording in accordance with the regulations issued under paragraph (3)(B) does not itself affect any limitation on the exclusive rights of a copyright owner described in section 107, 108, 109, 110, or 112(f) as applied to a claim under subsection (a) of this section pursuant to subsection (f)(1)(A) of this section."
+      },
+      {
+       "type": "add",
+       "text": "(3) Notice of covered activity.-Not later than 180 days after the date of enactment of this section, the Register of Copyrights shall issue regulations that-"
+      },
+      {
+       "type": "add",
+       "text": "(A) provide specific, reasonable steps that, if taken by a filer, are sufficient to constitute a good faith, reasonable search under paragraph (1)(A) to determine whether a recording is being commercially exploited, including the services that satisfy the good faith, reasonable search requirement under paragraph (1)(A) for purposes of the safe harbor described in paragraph (4)(A); and"
+      },
+      {
+       "type": "add",
+       "text": "(B) establish the form, content, and procedures for the filing of notices under paragraph (1)(B)."
+      },
+      {
+       "type": "add",
+       "text": "(4) Safe harbor.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-A person engaging in a noncommercial use of a sound recording otherwise permitted under this subsection who establishes that the person made a good faith, reasonable search under paragraph (1)(A) without finding commercial exploitation of the sound recording by or under the authority of the rights owner shall not be found to be in violation of subsection (a)."
+      },
+      {
+       "type": "add",
+       "text": "(B) Steps sufficient but not necessary.-Taking the specific, reasonable steps identified by the Register of Copyrights in the regulations issued under paragraph (3)(A) shall be sufficient, but not necessary, for a filer to satisfy the requirement to conduct a good faith, reasonable search under paragraph (1)(A) for purposes of subparagraph (A) of this paragraph."
+      },
+      {
+       "type": "add",
+       "text": "(5) Opting out of covered activity.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-Not later than 180 days after the date of enactment of this section, the Register of Copyrights shall issue regulations establishing the form, content, and procedures for the rights owner of a sound recording that is the subject of a notice under paragraph (1)(B) to, in its discretion, file notice opting out of the covered activity described in the notice under paragraph (1)(B) during the 90-day period beginning on the date on which the notice under paragraph (1)(B) is indexed into the public records of the Copyright Office."
+      },
+      {
+       "type": "add",
+       "text": "(B) Rule of construction.-The fact that a rights holder opts out of a noncommercial use of a sound recording by filing notice thereof in the Copyright Office in accordance with the regulations issued under subparagraph (A) does not itself enlarge or diminish any limitation on the exclusive rights of a copyright owner described in section 107, 108, 109, 110, or 112(f) as applied to a claim under subsection (a) of this section pursuant to subsection (f)(1)(A) of this section."
+      },
+      {
+       "type": "add",
+       "text": "(6) Civil penalties for certain acts.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Filing of notices of noncommercial use.-Any person who willfully engages in a pattern or practice of filing a notice of noncommercial use of a sound recording as described in paragraph (1)(B) fraudulently describing the use proposed, or knowing that the use proposed is not permitted under this subsection, shall be assessed a civil penalty in an amount that is not less than $250, and not more than $1000, for each such notice, in addition to any other remedies that may be available under this title based on the actual use made."
+      },
+      {
+       "type": "add",
+       "text": "(B) Filing of opt-out notices.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) In general.-Any person who files an opt-out notice as described in paragraph (1)(C), knowing that the person is not the rights owner or authorized to act on behalf of the rights owner of the sound recording to which the notice pertains, shall be assessed a civil penalty in an amount not less than $250, and not more than $1,000, for each such notice."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Pattern or practice.-Any person who engages in a pattern or practice of making filings as described in clause (i) shall be assessed a civil penalty in an amount not less than $10,000 for each such filing."
+      },
+      {
+       "type": "add",
+       "text": "(C) Definition.-For purposes of this paragraph, the term \"knowing\"-"
+      },
+      {
+       "type": "add",
+       "text": "(i) does not require specific intent to defraud; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) with respect to information about ownership of the sound recording in question, means that the person-"
+      },
+      {
+       "type": "add",
+       "text": "(I) has actual knowledge of the information;"
+      },
+      {
+       "type": "add",
+       "text": "(II) acts in deliberate ignorance of the truth or falsity of the information; or"
+      },
+      {
+       "type": "add",
+       "text": "(III) acts in grossly negligent disregard of the truth or falsity of the information."
+      },
+      {
+       "type": "add",
+       "text": "(d) Payment of Royalties for Transmissions of Performances by Direct Licensing of Statutory Services.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) In general.-A public performance by means of a digital audio transmission of a sound recording fixed before February 15, 1972, shall, for purposes of subsection (a), be considered to be authorized and made with the consent of the rights owner if the transmission is made pursuant to a license agreement voluntarily negotiated at any time between the rights owner and the entity performing the sound recording."
+      },
+      {
+       "type": "add",
+       "text": "(2) Payment of royalties to nonprofit collective under certain license agreements.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Licenses entered into on or after date of enactment.-To the extent that a license agreement described in paragraph (1) entered into on or after the date of enactment of this section extends to a public performance by means of a digital audio transmission of a sound recording fixed before February 15, 1972, that meets the conditions of subsection (b)-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the licensee shall, with respect to such transmission, pay to the collective designated to distribute receipts from the licensing of transmissions in accordance with section 114(f), 50 percent of the performance royalties for that transmission due under the license; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the royalties paid under clause (i) shall be fully credited as payments due under the license."
+      },
+      {
+       "type": "add",
+       "text": "(B) Certain agreements entered into before enactment.-To the extent that a license agreement described in paragraph (1), entered into during the period beginning on January 1 of the year in which this section is enacted and ending on the day before the date of enactment of this section, or a settlement agreement with a preexisting satellite digital audio radio service (as defined in section 114(j)) entered into during the period beginning on January 1, 2015, and ending on the day before the date of enactment of this section, extends to a public performance by means of a digital audio transmission of a sound recording fixed before February 15, 1972, that meets the conditions of subsection (b)-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the rights owner shall, with respect to such transmission, pay to the collective designated to distribute receipts from the licensing of transmissions in accordance with section 114(f) an amount that is equal to the difference between-"
+      },
+      {
+       "type": "add",
+       "text": "(I) 50 percent of the difference between-"
+      },
+      {
+       "type": "add",
+       "text": "(aa) the rights owner's total gross performance royalty fee receipts or settlement monies received for all such transmissions covered under the license or settlement agreement, as applicable; and"
+      },
+      {
+       "type": "add",
+       "text": "(bb) the rights owner's total payments for outside legal expenses, including any payments of third-party claims, that are directly attributable to the license or settlement agreement, as applicable; and"
+      },
+      {
+       "type": "add",
+       "text": "(II) the amount of any royalty receipts or settlement monies under the agreement that are distributed by the rights owner to featured and nonfeatured artists before the date of enactment of this section; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the royalties paid under clause (i) shall be fully credited as payments due under the license or settlement agreement, as applicable."
+      },
+      {
+       "type": "add",
+       "text": "(3) Distribution of royalties and settlement monies by collective.-The collective described in paragraph (2) shall, in accordance with subparagraphs (B) through (D) of section 114(g)(2), and paragraphs (5) and (6) of section 114(g), distribute the royalties or settlement monies received under paragraph (2) under a license or settlement described in paragraph (2), which shall be the only payments to which featured and nonfeatured artists are entitled by virtue of the transmissions described in paragraph (2), except for settlement monies described in paragraph (2) that are distributed by the rights owner to featured and nonfeatured artists before the date of enactment of this section."
+      },
+      {
+       "type": "add",
+       "text": "(4) Payment of royalties under license agreements entered before enactment or not otherwise described in paragraph (2).-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-To the extent that a license agreement described in paragraph (1) entered into before the date of enactment of this section, or any other license agreement not as described in paragraph (2), extends to a public performance by means of a digital audio transmission of a sound recording fixed before February 15, 1972, that meets the conditions of subsection (b), the payments made by the licensee pursuant to the license shall be made in accordance with the agreement."
+      },
+      {
+       "type": "add",
+       "text": "(B) Additional payments not required.-To the extent that a licensee has made, or will make in the future, payments pursuant to a license as described in subparagraph (A), the provisions of paragraphs (2) and (3) shall not require any additional payments from, or additional financial obligations on the part of, the licensee."
+      },
+      {
+       "type": "add",
+       "text": "(C) Rule of construction.-Nothing in this subsection may be construed to prohibit the collective designated to distribute receipts from the licensing of transmissions in accordance with section 114(f) from administering royalty payments under any license not described in paragraph (2)."
+      },
+      {
+       "type": "add",
+       "text": "(e) Preemption With Respect to Certain Past Acts.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) In general.-This section preempts any claim of common law copyright or equivalent right under the laws of any State arising from a digital audio transmission or reproduction that is made before the date of enactment of this section of a sound recording fixed before February 15, 1972, if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the digital audio transmission would have satisfied the requirements for statutory licensing under section 114(d)(2) or been exempt under section 114(d)(1), or the reproduction would have satisfied the requirements of section 112(e)(1), as the case may be, if the sound recording were fixed on or after February 15, 1972; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) either-"
+      },
+      {
+       "type": "add",
+       "text": "(i) except in the case of a transmission that would have been exempt under section 114(d)(1), not later than 270 days after the date of enactment of this section, the transmitting entity pays statutory royalties and provides notice of the use of the relevant sound recordings in the same manner as required by regulations adopted by the Copyright Royalty Judges for sound recordings that are fixed on or after February 15, 1972, for all the digital audio transmissions and reproductions satisfying the requirements for statutory licensing under sections 112(e)(1) and 114(d)(2) during the 3 years before that date of enactment; or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) an agreement voluntarily negotiated between the rights owner and the entity performing the sound recording (including a litigation settlement agreement entered into before the date of enactment of this section) authorizes or waives liability for any such transmission or reproduction and the transmitting entity has paid for and reported such digital audio transmission under that agreement."
+      },
+      {
+       "type": "add",
+       "text": "(2) Rule of construction for common law copyright.-For purposes of paragraph (1), a claim of common law copyright or equivalent right under the laws of any State includes a claim that characterizes conduct subject to that paragraph as an unlawful distribution, act of record piracy, or similar violation."
+      },
+      {
+       "type": "add",
+       "text": "(3) Rule of construction for public performance rights.-Nothing in this section may be construed to recognize or negate the existence of public performance rights in sound recordings under the laws of any State."
+      },
+      {
+       "type": "add",
+       "text": "(f) Limitations on Remedies.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Fair use; uses by libraries, archives, and educational institutions.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-The limitations on the exclusive rights of a copyright owner described in sections 107, 108, 109, 110, and 112(f) shall apply to a claim under subsection (a) with respect to a sound recording fixed before February 15, 1972."
+      },
+      {
+       "type": "add",
+       "text": "(B) Rule of construction for section 108(h).-With respect to the application of section 108(h) to a claim under subsection (a) with respect to a sound recording fixed before February 15, 1972, the phrase \"during the last 20 years of any term of copyright of a published work\" in such section 108(h) shall be construed to mean at any time after the date of enactment of this section."
+      },
+      {
+       "type": "add",
+       "text": "(2) Actions.-The limitations on actions described in section 507 shall apply to a claim under subsection (a) with respect to a sound recording fixed before February 15, 1972."
+      },
+      {
+       "type": "add",
+       "text": "(3) Material online.-Section 512 shall apply to a claim under subsection (a) with respect to a sound recording fixed before February 15, 1972."
+      },
+      {
+       "type": "add",
+       "text": "(4) Principles of equity.-Principles of equity apply to remedies for a violation of this section to the same extent as such principles apply to remedies for infringement of copyright."
+      },
+      {
+       "type": "add",
+       "text": "(5) Filing requirement for statutory damages and attorneys' fees.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Filing of information on sound recordings.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) Filing requirement.-Except in the case of a transmitting entity that has filed contact information for that transmitting entity under subparagraph (B), in any action under this section, an award of statutory damages or of attorneys' fees under section 504 or 505 may be made with respect to an unauthorized use of a sound recording under subsection (a) only if-"
+      },
+      {
+       "type": "add",
+       "text": "(I) the rights owner has filed with the Copyright Office a schedule that specifies the title, artist, and rights owner of the sound recording and contains such other information, as practicable, as the Register of Copyrights prescribes by regulation; and"
+      },
+      {
+       "type": "add",
+       "text": "(II) the use occurs after the end of the 90-day period beginning on the date on which the information described in subclause (I) is indexed into the public records of the Copyright Office."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Regulations.-Not later than 180 days after the date of enactment of this section, the Register of Copyrights shall issue regulations that-"
+      },
+      {
+       "type": "add",
+       "text": "(I) establish the form, content, and procedures for the filing of schedules under clause (i);"
+      },
+      {
+       "type": "add",
+       "text": "(II) provide that a person may request that the person receive timely notification of a filing described in subclause (I); and"
+      },
+      {
+       "type": "add",
+       "text": "(III) set forth the manner in which a person may make a request under subclause (II)."
+      },
+      {
+       "type": "add",
+       "text": "(B) Filing of contact information for transmitting entities.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) Filing requirement.-Not later than 30 days after the date of enactment of this section, the Register of Copyrights shall issue regulations establishing the form, content, and procedures for the filing of contact information by any entity that, as of the date of enactment of this section, performs a sound recording fixed before February 15, 1972, by means of a digital audio transmission."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Time limit on filings.-The Register of Copyrights may accept filings under clause (i) only until the 180th day after the date of enactment of this section."
+      },
+      {
+       "type": "add",
+       "text": "(iii) Limitation on statutory damages and attorneys' fees.-"
+      },
+      {
+       "type": "add",
+       "text": "(I) Limitation.-An award of statutory damages or of attorneys' fees under section 504 or 505 may not be made against an entity that has filed contact information for that entity under clause (i) with respect to an unauthorized use by that entity of a sound recording under subsection (a) if the use occurs before the end of the 90-day period beginning on the date on which the entity receives a notice that-"
+      },
+      {
+       "type": "add",
+       "text": "(aa) is sent by or on behalf of the rights owner of the sound recording;"
+      },
+      {
+       "type": "add",
+       "text": "(bb) states that the entity is not legally authorized to use that sound recording under subsection (a); and"
+      },
+      {
+       "type": "add",
+       "text": "(cc) identifies the sound recording in a schedule conforming to the requirements prescribed by the regulations issued under subparagraph (A)(ii)."
+      },
+      {
+       "type": "add",
+       "text": "(II) Undeliverable notices.-In any case in which a notice under subclause (I) is sent to an entity by mail or courier service and the notice is returned to the sender because the entity either is no longer located at the address provided in the contact information filed under clause (i) or has refused to accept delivery, or the notice is sent by electronic mail and is undeliverable, the 90-day period under subclause (I) shall begin on the date of the attempted delivery."
+      },
+      {
+       "type": "add",
+       "text": "(C) Section 412.-Section 412 shall not limit an award of statutory damages under section 504(c) or attorneys' fees under section 505 with respect to a covered activity in violation of subsection (a)."
+      },
+      {
+       "type": "add",
+       "text": "(6) Applicability of other provisions.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-Subject to subparagraph (B), no provision of this title shall apply to or limit the remedies available under this section except as otherwise provided in this section."
+      },
+      {
+       "type": "add",
+       "text": "(B) Applicability of definitions.-Any term used in this section that is defined in section 101 shall have the meaning given that term in section 101."
+      },
+      {
+       "type": "add",
+       "text": "(g) Application of Section 230 Safe Harbor.-For purposes of section 230 of the Communications Act of 1934 (47 U.S.C. 230), subsection (a) shall be considered to be a \"law pertaining to intellectual property\" under subsection (e)(2) of such section 230."
+      },
+      {
+       "type": "add",
+       "text": "(h) Application to Rights Owners.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Transfers.-With respect to a rights owner described in subsection (l)(2)(B)-"
+      },
+      {
+       "type": "add",
+       "text": "(A) subsections (d) and (e) of section 201 and section 204 shall apply to a transfer described in subsection (l)(2)(B) to the same extent as with respect to a transfer of copyright ownership; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) notwithstanding section 411, that rights owner may institute an action with respect to a violation of this section to the same extent as the owner of an exclusive right under a copyright may institute an action under section 501(b)."
+      },
+      {
+       "type": "add",
+       "text": "(2) Application of other provisions.-The following provisions shall apply to a rights owner under this section to the same extent as any copyright owner:"
+      },
+      {
+       "type": "add",
+       "text": "(A) Section 112(e)(2)."
+      },
+      {
+       "type": "add",
+       "text": "(B) Section 112(e)(7)."
+      },
+      {
+       "type": "add",
+       "text": "(C) Section 114(e)."
+      },
+      {
+       "type": "add",
+       "text": "(D) Section 114(h)."
+      },
+      {
+       "type": "add",
+       "text": "(i) Ephemeral Recordings.-An authorized reproduction made under this section shall be subject to section 112(g) to the same extent as a reproduction of a sound recording fixed on or after February 15, 1972."
+      },
+      {
+       "type": "add",
+       "text": "(j) Rule of Construction.-A rights owner of, or featured recording artist who performs on, a sound recording under this chapter shall be deemed to be an interested copyright party, as defined in section 1001, to the same extent as a copyright owner or featured recording artist under chapter 10."
+      },
+      {
+       "type": "add",
+       "text": "(k) Treatment of States and State Instrumentalities, Officers, and Employees.-Any State, and any instrumentality, officer, or employee described in subsection (a)(3), shall be subject to the provisions of this section in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "add",
+       "text": "(l) Definitions.-In this section:"
+      },
+      {
+       "type": "add",
+       "text": "(1) Covered activity.-The term \"covered activity\" means any activity that the copyright owner of a sound recording would have the exclusive right to do or authorize under section 106 or 602, or that would violate section 1201 or 1202, if the sound recording were fixed on or after February 15, 1972."
+      },
+      {
+       "type": "add",
+       "text": "(2) Rights owner.-The term \"rights owner\" means-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the person that has the exclusive right to reproduce a sound recording under the laws of any State, as of the day before the date of enactment of this section; or"
+      },
+      {
+       "type": "add",
+       "text": "(B) any person to which a right to enforce a violation of this section may be transferred, in whole or in part, after the date of enactment of this section, under-"
+      },
+      {
+       "type": "add",
+       "text": "(i) subsections (d) and (e) of section 201; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) section 204."
+      },
+      {
+       "type": "add",
+       "text": "(Added"
+      },
+      {
+       "type": "add",
+       "text": "Pub. L. 115\u2013264,"
+      },
+      {
+       "type": "add",
+       "text": "title II, \u00a7202(a)(2), Oct. 11, 2018, 132 Stat. 3728"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/803.md",
+   "hunks": [
+    {
+     "old_start": 65,
+     "new_start": 65,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(D) No negative inference.-No negative inference shall be drawn from lack of participation in a rehearing."
+      },
+      {
+       "type": "ctx",
+       "text": "(E) Continuity of rates and terms.-(i) If the decision of the Copyright Royalty Judges on any motion for a rehearing is not rendered before the expiration of the statutory rates and terms that were previously in effect, in the case of a proceeding to determine successors to rates and terms that expire on a specified date, then-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion shall be effective as of the day following the date on which the rates and terms that were previously in effect expire; and"
+      },
+      {
+       "type": "del",
+       "text": "(II) in the case of a proceeding under section 114(f)(1)(C), royalty rates and terms shall, for purposes of section 114(f)(4)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination."
+      },
+      {
+       "type": "add",
+       "text": "(II) in the case of a proceeding under section 114(f)(1)(C), royalty rates and terms shall, for purposes of section 114(f)(3)(B), be deemed to have been set at those rates and terms contained in the initial determination of the Copyright Royalty Judges that is the subject of the rehearing motion, as of the date of that determination."
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) The pendency of a motion for a rehearing under this paragraph shall not relieve persons obligated to make royalty payments who would be affected by the determination on that motion from providing the statements of account and any reports of use, to the extent required, and paying the royalties required under the relevant determination or regulations."
+      },
+      {
+       "type": "ctx",
+       "text": "(iii) Notwithstanding clause (ii), whenever royalties described in clause (ii) are paid to a person other than the Copyright Office, the entity designated by the Copyright Royalty Judges to which such royalties are paid by the copyright user (and any successor thereto) shall, within 60 days after the motion for rehearing is resolved or, if the motion is granted, within 60 days after the rehearing is concluded, return any excess amounts previously paid to the extent necessary to comply with the final determination of royalty rates by the Copyright Royalty Judges. Any underpayment of royalties resulting from a rehearing shall be paid within the same period."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) Contents of determination.-A determination of the Copyright Royalty Judges shall be supported by the written record and shall set forth the findings of fact relied on by the Copyright Royalty Judges. Among other terms adopted in a determination, the Copyright Royalty Judges may specify notice and recordkeeping requirements of users of the copyrights at issue that apply in lieu of those that would otherwise apply under regulations."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/804.md",
+   "hunks": [
+    {
+     "old_start": 3,
+     "new_start": 3,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "\u00a7804. Institution of proceedings"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Filing of Petition.-With respect to proceedings referred to in paragraphs (1) and (2) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 111, 112, 114, 115, 116, 118, 119, and 1004, during the calendar years specified in the schedule set forth in subsection (b), any owner or user of a copyrighted work whose royalty rates are specified by this title, or are established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests a determination or adjustment of the rate. The Copyright Royalty Judges shall make a determination as to whether the petitioner has such a significant interest in the royalty rate in which a determination or adjustment is requested. If the Copyright Royalty Judges determine that the petitioner has such a significant interest, the Copyright Royalty Judges shall cause notice of this determination, with the reasons for such determination, to be published in the Federal Register, together with the notice of commencement of proceedings under this chapter. With respect to proceedings under paragraph (1) of section 801(b) concerning the determination or adjustment of royalty rates as provided in sections 112 and 114, during the calendar years specified in the schedule set forth in subsection (b), the Copyright Royalty Judges shall cause notice of commencement of proceedings under this chapter to be published in the Federal Register as provided in section 803(b)(1)(A)."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Timing of Proceedings.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Section 111 proceedings.-(A) A petition described in subsection (a) to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (A) or (D) of section 801(b)(2) applies may be filed during the year 2005 and in each subsequent fifth calendar year."
+      },
+      {
+       "type": "add",
+       "text": "(1) Section 111 proceedings.-(A) A petition described in subsection (a) to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (A) or (D) of section 801(b)(2) applies may be filed during the year 2015 and in each subsequent fifth calendar year."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) In order to initiate proceedings under section 801(b)(2) concerning the adjustment of royalty rates under section 111 to which subparagraph (B) or (C) of section 801(b)(2) applies, within 12 months after an event described in either of those subsections, any owner or user of a copyrighted work whose royalty rates are specified by section 111, or by a rate established under this chapter before or after the enactment of the Copyright Royalty and Distribution Reform Act of 2004, may file a petition with the Copyright Royalty Judges declaring that the petitioner requests an adjustment of the rate. The Copyright Royalty Judges shall then proceed as set forth in subsection (a) of this section. Any change in royalty rates made under this chapter pursuant to this subparagraph may be reconsidered in the year 2015, and each fifth calendar year thereafter, in accordance with the provisions in section 801(b)(2)(B) or (C), as the case may be. A petition for adjustment of rates established by section 111(d)(1)(B) as a result of a change in the rules and regulations of the Federal Communications Commission shall set forth the change on which the petition is based."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Any adjustment of royalty rates under section 111 shall take effect as of the first accounting period commencing after the publication of the determination of the Copyright Royalty Judges in the Federal Register, or on such other date as is specified in that determination."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Certain section 112 proceedings.-Proceedings under this chapter shall be commenced in the year 2007 to determine reasonable terms and rates of royalty payments for the activities described in section 112(e)(1) relating to the limitation on exclusive rights specified by section 114(d)(1)(C)(iv), to become effective on January 1, 2009. Such proceedings shall be repeated in each subsequent fifth calendar year."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

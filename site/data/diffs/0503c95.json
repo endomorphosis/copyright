@@ -1,0 +1,61 @@
+{
+ "hash": "0503c95",
+ "act_name": "Copyright Office Establishment Act of 1897",
+ "files": [
+  {
+   "path": "pre-1976/copyright-office-establishment-act-of-1897.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# An Act making Appropriations for the Legislative, Executive, and Judicial Expenses of the Government for the fiscal year ending June thirtieth, eighteen hundred and ninety-eight, and for other purposes."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*29 Stat. 544, Ch. 265 (February 19, 1897)*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "[Copyright-relevant provision:]"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "That the Librarian of Congress shall appoint a Register of Copyrights, at a salary of four thousand dollars per annum, who, under the direction and supervision of the Librarian of Congress, shall perform all the duties relating to copyrights."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "APPROVED, February 19, 1897."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "[Note: This provision, part of a larger appropriations bill, established the Copyright Office as a separate department within the Library of Congress and created the position of Register of Copyrights. Thorvald Solberg was appointed the first Register of Copyrights on July 22, 1897.]"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

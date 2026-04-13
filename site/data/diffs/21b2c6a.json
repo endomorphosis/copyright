@@ -1,0 +1,69 @@
+{
+ "hash": "21b2c6a",
+ "act_name": "Coronavirus Aid, Relief, and Economic Security Act of 2020 (CARES Act - Copyright Provision)",
+ "files": [
+  {
+   "path": "amendments/2020-03-27-coronavirus-aid-relief-and-economic-security-act-of-2020.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# Coronavirus Aid, Relief, and Economic Security Act of 2020 (CARES Act - Copyright Provision)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*2020-03-27*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Public Law:** Pub. L. 116-136"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Citation:** 134 Stat. 281"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Changes"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Section 19011 granted the Register of Copyrights authority to toll, waive, or adjust certain time periods and fees during the COVID-19 national emergency."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "> [TODO] Apply text changes to section files."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

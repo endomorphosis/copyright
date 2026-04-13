@@ -1,0 +1,45 @@
+{
+ "hash": "23ef341",
+ "act_name": "Manufacturing Clause Extension Act of 1982",
+ "files": [
+  {
+   "path": "sections/601.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 601"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7601. Manufacture, importation, and public distribution of certain copies"
+      },
+      {
+       "type": "del",
+       "text": "(a) Prior to July 1, 1982, and except as provided by subsection (b), the importation into or public distribution in the United States of copies of a work consisting preponderantly of nondramatic literary material that is in the English language and is protected under this title is prohibited unless the portions consisting of such material have been manufactured in the United States or Canada."
+      },
+      {
+       "type": "add",
+       "text": "(a) Prior to July 1, 1986, and except as provided by subsection (b), the importation into or public distribution in the United States of copies of a work consisting preponderantly of nondramatic literary material that is in the English language and is protected under this title is prohibited unless the portions consisting of such material have been manufactured in the United States or Canada."
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The provisions of subsection (a) do not apply-"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

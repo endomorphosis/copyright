@@ -1,0 +1,67 @@
+{
+ "hash": "28cf647",
+ "act_name": "Cable Compulsory License Amendments of 1986",
+ "files": [
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 111"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7111. Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Certain Secondary Transmissions Exempted.-The secondary transmission of a performance or display of a work embodied in a primary transmission is not an infringement of copyright if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the secondary transmission is not made by a cable system, and consists entirely of the relaying, by the management of a hotel, apartment house, or similar establishment, of signals transmitted by a broadcast station licensed by the Federal Communications Commission, within the local service area of such station, to the private lodgings of guests or residents of such establishment, and no direct charge is made to see or hear the secondary transmission; or"
+      }
+     ]
+    },
+    {
+     "old_start": 148,
+     "new_start": 150,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ", 1235, 1238;"
+      },
+      {
+       "type": "ctx",
+       "text": "Pub. L. 113\u2013200,"
+      },
+      {
+       "type": "ctx",
+       "text": "title II, \u00a7\u00a7201(1), 203, Dec. 4, 2014, 128 Stat. 2066"
+      },
+      {
+       "type": "del",
+       "text": ", 2067.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": ", 2067.)"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "hash": "38a5526",
+ "act_name": "Copyright Felony Act of 1992",
+ "files": [
+  {
+   "path": "amendments/1992-10-28-copyright-felony-act-of-1992.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# Copyright Felony Act of 1992"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*1992-10-28*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Public Law:** Pub. L. 102-561"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Citation:** 106 Stat. 4233"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Changes"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Made large-scale commercial copyright infringement of sound recordings and audiovisual works a felony rather than a misdemeanor. Amended criminal penalty provisions."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "> [TODO] Apply text changes to section files."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

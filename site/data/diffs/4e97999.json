@@ -1,0 +1,278 @@
+{
+ "hash": "4e97999",
+ "act_name": "Nonprofit Performance Exemption Act of 1982",
+ "files": [
+  {
+   "path": "sections/110.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 110"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7110. Limitations on exclusive rights: Exemption of certain performances and displays"
+      },
+      {
+       "type": "ctx",
+       "text": "Notwithstanding the provisions of section 106, the following are not infringements of copyright:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) performance or display of a work by instructors or pupils in the course of face-to-face teaching activities of a nonprofit educational institution, in a classroom or similar place devoted to instruction, unless, in the case of a motion picture or other audiovisual work, the performance, or the display of individual images, is given by means of a copy that was not lawfully made under this title, and that the person responsible for the performance knew or had reason to believe was not lawfully made;"
+      }
+     ]
+    },
+    {
+     "old_start": 48,
+     "new_start": 50,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "For purposes of paragraph (2), no governmental body or accredited nonprofit educational institution shall be liable for infringement by reason of the transient or temporary storage of material carried out through the automatic technical process of a digital transmission of the performance or display of that material as authorized under paragraph (2). No such material stored on the system or network controlled or operated by the transmitting body or institution under this paragraph shall be maintained on such system or network in a manner ordinarily accessible to anyone other than anticipated recipients. No such copy shall be maintained on the system or network in a manner ordinarily accessible to such anticipated recipients for a longer period than is reasonably necessary to facilitate the transmissions for which it was made."
+      },
+      {
+       "type": "ctx",
+       "text": "For purposes of paragraph (11), the term \"making imperceptible\" does not include the addition of audio or video content that is performed or displayed over or in place of existing content in a motion picture."
+      },
+      {
+       "type": "ctx",
+       "text": "Nothing in paragraph (11) shall be construed to imply further rights under section 106 of this title, or to have any effect on defenses or limitations on rights granted under any other section of this title or under any other paragraph of this section."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2549"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 97\u2013366,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a73, Oct. 25, 1982, 96 Stat. 1759"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u201380,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a712(a)(6), Nov. 13, 1997, 111 Stat. 1534"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013298,"
+      },
+      {
+       "type": "del",
+       "text": "title II, \u00a7202, Oct. 27, 1998, 112 Stat. 2830"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u201344,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a71(a), Aug. 5, 1999, 113 Stat. 221"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 107\u2013273,"
+      },
+      {
+       "type": "del",
+       "text": "div. C, title III, \u00a7\u00a713210(6), 13301(b), Nov. 2, 2002, 116 Stat. 1909"
+      },
+      {
+       "type": "del",
+       "text": ", 1910;"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u20139,"
+      },
+      {
+       "type": "del",
+       "text": "title II, \u00a7202(a), Apr. 27, 2005, 119 Stat. 223"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7708. Copyright Office fees"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) The following fees shall be paid to the Register of Copyrights:"
+      },
+      {
+       "type": "del",
+       "text": "(1) on filing each application for registration of a copyright claim or a supplementary registration under section 408, including the issuance of a certificate of registration if registration is made, $10;"
+      },
+      {
+       "type": "del",
+       "text": "(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, $6;"
+      },
+      {
+       "type": "del",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407, $2;"
+      },
+      {
+       "type": "del",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document of six pages or less, covering no more than one title, $10; for each page over six and each title over one, 50 cents additional;"
+      },
+      {
+       "type": "del",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to make phonorecords, $6;"
+      },
+      {
+       "type": "del",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $10 for a document of six pages or less, covering no more than one title; for each page over six and for each title over one, $1 additional;"
+      },
+      {
+       "type": "del",
+       "text": "(7) for the issuance, under section 601, of an import statement, $3;"
+      },
+      {
+       "type": "del",
+       "text": "(8) for the issuance, under section 706, of an additional certificate of registration, $4;"
+      },
+      {
+       "type": "del",
+       "text": "(9) for the issuance of any other certification, $4; the Register of Copyrights has discretion, on the basis of their cost, to fix the fees for preparing copies of Copyright Office records, whether they are to be certified or not;"
+      },
+      {
+       "type": "del",
+       "text": "(10) for the making and reporting of a search as provided by section 705, and for any related services, $10 for each hour or fraction of an hour consumed;"
+      },
+      {
+       "type": "del",
+       "text": "(11) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "del",
+       "text": "(b) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "del",
+       "text": "(c) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      },
+      {
+       "type": "add",
+       "text": "(1) on filing each application under section 408 for registration of a copyright claim or for a supplementary registration, including the issuance of a certificate of registration if registration is made, $20;"
+      },
+      {
+       "type": "add",
+       "text": "(2) on filing each application for registration of a claim to renewal of a subsisting copyright in its first term under section 304(a), including the issuance of a certificate of registration if registration is made, $12;"
+      },
+      {
+       "type": "add",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407, $4;"
+      },
+      {
+       "type": "add",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document covering not more than one title, $20; for additional titles, $10 for each group of not more than 10 titles;"
+      },
+      {
+       "type": "add",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license, $12;"
+      },
+      {
+       "type": "add",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author, $20 for a document covering not more than one title; for each additional title, $2;"
+      },
+      {
+       "type": "add",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration, $8;"
+      },
+      {
+       "type": "add",
+       "text": "(8) for the issuance of any other certification, $20 for each hour or fraction of an hour consumed with respect thereto;"
+      },
+      {
+       "type": "add",
+       "text": "(9) for the making and reporting of a search as provided by section 705, and for any related services, $20 for each hour or fraction of an hour consumed with respect thereto; and"
+      },
+      {
+       "type": "add",
+       "text": "(10) for any other special services requiring a substantial amount of time or expense, such fees as the Register of Copyrights may fix on the basis of the cost of providing the service."
+      },
+      {
+       "type": "add",
+       "text": "The Register of Copyrights is authorized to fix the fees for preparing copies of Copyright Office records, whether or not such copies are certified, on the basis of the cost of such preparation."
+      },
+      {
+       "type": "add",
+       "text": "(b) In calendar year 1995 and in each subsequent fifth calendar year, the Register of Copyrights, by regulation, may increase the fees specified in subsection (a) by the percent change in the annual average, for the preceding calendar year, of the Consumer Price Index published by the Bureau of Labor Statistics, over the annual average of the Consumer Price Index for the fifth calendar year preceding the calendar year in which such increase is authorized."
+      },
+      {
+       "type": "add",
+       "text": "(c) The fees prescribed by or under this section are applicable to the United States Government and any of its agencies, employees, or officers, but the Register of Copyrights has discretion to waive the requirement of this subsection in occasional or isolated cases involving relatively small amounts."
+      },
+      {
+       "type": "add",
+       "text": "(d) All fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriation for necessary expenses of the Copyright Office. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

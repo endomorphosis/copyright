@@ -1,0 +1,401 @@
+{
+ "hash": "990e7f5",
+ "act_name": "Visual Artists Rights Act of 1990 (VARA)",
+ "files": [
+  {
+   "path": "sections/107.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 107"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7107. Limitations on exclusive rights: Fair use"
+      },
+      {
+       "type": "ctx",
+       "text": "Notwithstanding the provisions of sections 106 and 106A, the fair use of a copyrighted work, including such use by reproduction in copies or phonorecords or by any other means specified by that section, for purposes such as criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research, is not an infringement of copyright. In determining whether the use made of a work in any particular case is a fair use the factors to be considered shall include-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the purpose and character of the use, including whether such use is of a commercial nature or is for nonprofit educational purposes;"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) the nature of the copyrighted work;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the amount and substantiality of the portion used in relation to the copyrighted work as a whole; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(4) the effect of the use upon the potential market for or value of the copyrighted work."
+      },
+      {
+       "type": "del",
+       "text": ""
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2546"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 101\u2013650,"
+      },
+      {
+       "type": "del",
+       "text": "title VI, \u00a7607, Dec. 1, 1990, 104 Stat. 5132"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 102\u2013492,"
+      },
+      {
+       "type": "del",
+       "text": "Oct. 24, 1992, 106 Stat. 3145"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/113.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 113"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7113. Scope of exclusive rights in pictorial, graphic, and sculptural works"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Subject to the provisions of subsections (b) and (c) of this section, the exclusive right to reproduce a copyrighted pictorial, graphic, or sculptural work in copies under section 106 includes the right to reproduce the work in or on any kind of article, whether useful or otherwise."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) This title does not afford, to the owner of copyright in a work that portrays a useful article as such, any greater or lesser rights with respect to the making, distribution, or display of the useful article so portrayed than those afforded to such works under the law, whether title 17 or the common law or statutes of a State, in effect on December 31, 1977, as held applicable and construed by a court in an action brought under this title."
+      },
+      {
+       "type": "del",
+       "text": "(c) In the case of a work lawfully reproduced in useful articles that have been offered for sale or other distribution to the public, copyright does not include any right to prevent the making, distribution, or display of pictures or photographs of such articles in connection with advertisements or commentaries related to the distribution or display of such articles, or in connection with news reports."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(c) In the case of a work lawfully reproduced in useful articles that have been offered for sale or other distribution to the public, copyright does not include any right to prevent the making, distribution, or display of pictures or photographs of such articles in connection with advertisements or commentaries related to the distribution or display of such articles, or in connection with news reports."
+      },
+      {
+       "type": "add",
+       "text": "(d)(1) In a case in which-"
+      },
+      {
+       "type": "add",
+       "text": "(A) a work of visual art has been incorporated in or made part of a building in such a way that removing the work from the building will cause the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), and"
+      },
+      {
+       "type": "add",
+       "text": "(B) the author consented to the installation of the work in the building either before the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990, or in a written instrument executed on or after such effective date that is signed by the owner of the building and the author and that specifies that installation of the work may subject the work to destruction, distortion, mutilation, or other modification, by reason of its removal,"
+      },
+      {
+       "type": "add",
+       "text": "then the rights conferred by paragraphs (2) and (3) of section 106A(a) shall not apply."
+      },
+      {
+       "type": "add",
+       "text": "(2) If the owner of a building wishes to remove a work of visual art which is a part of such building and which can be removed from the building without the destruction, distortion, mutilation, or other modification of the work as described in section 106A(a)(3), the author's rights under paragraphs (2) and (3) of section 106A(a) shall apply unless-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the owner has made a diligent, good faith attempt without success to notify the author of the owner's intended action affecting the work of visual art, or"
+      },
+      {
+       "type": "add",
+       "text": "(B) the owner did provide such notice in writing and the person so notified failed, within 90 days after receiving such notice, either to remove the work or to pay for its removal."
+      },
+      {
+       "type": "add",
+       "text": "For purposes of subparagraph (A), an owner shall be presumed to have made a diligent, good faith attempt to send notice if the owner sent such notice by registered mail to the author at the most recent address of the author that was recorded with the Register of Copyrights pursuant to paragraph (3). If the work is removed at the expense of the author, title to that copy of the work shall be deemed to be in the author."
+      },
+      {
+       "type": "add",
+       "text": "(3) The Register of Copyrights shall establish a system of records whereby any author of a work of visual art that has been incorporated in or made part of a building, may record his or her identity and address with the Copyright Office. The Register shall also establish procedures under which any such author may update the information so recorded, and procedures under which owners of buildings may record with the Copyright Office evidence of their efforts to comply with this subsection."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/301.md",
+   "hunks": [
+    {
+     "old_start": 5,
+     "new_start": 5,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(b) Nothing in this title annuls or limits any rights or remedies under the common law or statutes of any State with respect to-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) subject matter that does not come within the subject matter of copyright as specified by sections 102 and 103, including works of authorship not fixed in any tangible medium of expression; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any cause of action arising from undertakings commenced before January 1, 1978;"
+      },
+      {
+       "type": "del",
+       "text": "(3) activities violating legal or equitable rights that are not equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106."
+      },
+      {
+       "type": "del",
+       "text": "(c) With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2047. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2047. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2047."
+      },
+      {
+       "type": "add",
+       "text": "(3) activities violating legal or equitable rights that are not equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106; or"
+      },
+      {
+       "type": "add",
+       "text": "(4) State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8)."
+      },
+      {
+       "type": "add",
+       "text": "(c) With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Nothing in this title annuls or limits any rights or remedies under any other Federal statute."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) The scope of Federal preemption under this section is not affected by the adherence of the United States to the Berne Convention or the satisfaction of obligations of the United States thereunder."
+      },
+      {
+       "type": "add",
+       "text": "(f)(1) On or after the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990, all legal or equitable rights that are equivalent to any of the rights conferred by section 106A with respect to works of visual art to which the rights conferred by section 106A apply are governed exclusively by section 106A and section 113(d) and the provisions of this title relating to such sections. Thereafter, no person is entitled to any such right or equivalent right in any work of visual art under the common law or statutes of any State."
+      },
+      {
+       "type": "add",
+       "text": "(2) Nothing in paragraph (1) annuls or limits any rights or remedies under the common law or statutes of any State with respect to-"
+      },
+      {
+       "type": "add",
+       "text": "(A) any cause of action from undertakings commenced before the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990;"
+      },
+      {
+       "type": "add",
+       "text": "(B) activities violating legal or equitable rights that are not equivalent to any of the rights conferred by section 106A with respect to works of visual art; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) activities violating legal or equitable rights which extend beyond the life of the author."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/412.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 412"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7412. Registration as prerequisite to certain remedies for infringement"
+      },
+      {
+       "type": "ctx",
+       "text": "In any action under this title, other than an action brought for a violation of the rights of the author under section 106A(a), an action for infringement of the copyright of a work that has been preregistered under section 408(f) before the commencement of the infringement and that has an effective date of registration not later than the earlier of 3 months after the first publication of the work or 1 month after the copyright owner has learned of the infringement, or an action instituted under section 411(b), no award of statutory damages or of attorney's fees, as provided by sections 504 and 505, shall be made for-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) any infringement of copyright in an unpublished work commenced before the effective date of its registration; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any infringement of copyright commenced after first publication of the work and before the effective date of its registration, unless such registration is made within three months after the first publication of the work."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2583"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 101\u2013650,"
+      },
+      {
+       "type": "del",
+       "text": "title VI, \u00a7606(c)(2), Dec. 1, 1990, 104 Stat. 5131"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 109\u20139,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7104(c), Apr. 27, 2005, 119 Stat. 222"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 110\u2013403,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101(b)(1), Oct. 13, 2008, 122 Stat. 4258"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/506.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 506"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7506. Criminal offenses"
+      },
+      {
+       "type": "del",
+       "text": "(a) Criminal Infringement.-Any person who infringes a copyright willfully and for purposes of commercial advantage or private financial gain shall be punished as provided in section 2319 of title 18."
+      },
+      {
+       "type": "add",
+       "text": "(a) Criminal Infringement.-Any person who infringes a copyright willfully either-"
+      },
+      {
+       "type": "add",
+       "text": "(1) for purposes of commercial advantage or private financial gain, or"
+      },
+      {
+       "type": "add",
+       "text": "(2) by the reproduction or distribution, including by electronic means, during any 180-day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000,"
+      },
+      {
+       "type": "add",
+       "text": "shall be punished as provided under section 2319 of title 18, United States Code. For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Forfeiture and Destruction.-When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Fraudulent Copyright Notice.-Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Fraudulent Removal of Copyright Notice.-Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) False Representation.-Any person who knowingly makes a false representation of a material fact in the application for copyright registration provided for by section 409, or in any written statement filed in connection with the application, shall be fined not more than $2,500."
+      },
+      {
+       "type": "add",
+       "text": "(f) Rights of Attribution and Integrity.-Nothing in this section applies to infringement of the rights conferred by section 106A(a)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

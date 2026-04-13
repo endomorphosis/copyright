@@ -1,0 +1,160 @@
+{
+ "hash": "6f8a7e5",
+ "act_name": "Computer Software Copyright Act of 1980",
+ "files": [
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "ctx",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      }
+     ]
+    },
+    {
+     "old_start": 142,
+     "new_start": 144,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ";"
+      },
+      {
+       "type": "ctx",
+       "text": "Pub. L. 111\u2013295,"
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a76(a), Dec. 9, 2010, 124 Stat. 3181"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": ".)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/117.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 117"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7117. Limitations on exclusive rights: Computer programs"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Making of Additional Copy or Adaptation by Owner of Copy.-Notwithstanding the provisions of section 106, it is not an infringement for the owner of a copy of a computer program to make or authorize the making of another copy or adaptation of that computer program provided:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) that such a new copy or adaptation is created as an essential step in the utilization of the computer program in conjunction with a machine and that it is used in no other manner, or"
+      }
+     ]
+    },
+    {
+     "old_start": 9,
+     "new_start": 11,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(d) Definitions.-For purposes of this section-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) the \"maintenance\" of a machine is the servicing of the machine in order to make it work in accordance with its original specifications and any changes to those specifications authorized for that machine; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) the \"repair\" of a machine is the restoring of the machine to the state of working in accordance with its original specifications and any changes to those specifications authorized for that machine."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2565"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 96\u2013517,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a710(b), Dec. 12, 1980, 94 Stat. 3028"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title III, \u00a7302, Oct. 28, 1998, 112 Stat. 2887"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

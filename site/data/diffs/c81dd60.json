@@ -1,0 +1,49 @@
+{
+ "hash": "c81dd60",
+ "act_name": "Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)",
+ "files": [
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 12,
+     "new_start": 12,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) the carriage of the signals comprising the secondary transmission is required under the rules, regulations, or authorizations of the Federal Communications Commission; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the signal of the primary transmitter is not altered or changed in any way by the secondary transmitter."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Secondary Transmissions by Cable Systems.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection , secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "add",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection and section 114(d), secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Notwithstanding the provisions of paragraph (1) of this subsection, the willful or repeated secondary transmission to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, in the following cases:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) where the carriage of the signals comprising the secondary transmission is not permissible under the rules, regulations, or authorizations of the Federal Communications Commission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) where the cable system has not deposited the statement of account and royalty fee required by subsection (d)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

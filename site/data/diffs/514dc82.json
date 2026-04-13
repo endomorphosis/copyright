@@ -1,0 +1,365 @@
+{
+ "hash": "514dc82",
+ "act_name": "CONTU Amendment Act of 1976",
+ "files": [
+  {
+   "path": "pre-1976/contu-amendment-act-of-1976.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# CONTU Amendment Act of 1976"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*Pub. L. 94-314, 90 Stat. 692 (June 21, 1976)*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "AN ACT To amend title II of Public Law 93-573, relating to the National Commission on New Technological Uses of Copyrighted Works."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled,*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "That section 205 of title II of Public Law 93-573 (88 Stat. 1875) is amended by striking \"June 30, 1976\" and inserting in lieu thereof \"September 30, 1977\"."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "[Note: Section 205 of Public Law 93-573 (the act establishing the National Commission on New Technological Uses of Copyrighted Works) originally read: \"There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this title until June 30, 1976.\" This amendment extended the authorization of appropriations for CONTU through September 30, 1977, to allow the Commission additional time to carry out its mandate to study the reproduction and use of copyrighted works in conjunction with automatic systems and machine reproduction.]"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "APPROVED, June 21, 1976."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "---"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Reference: Public Law 93-573, Title II (as amended)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "The following is the full text of Public Law 93-573, Title II (88 Stat. 1873-1875; Dec. 31, 1974), which established CONTU and was amended by this act:"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Establishment and Purpose of the Commission"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 201. (a) There is hereby created in the Library of Congress a National Commission on New Technological Uses of Copyrighted Works (hereafter called the Commission)."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(b) The purpose of the Commission is to study and compile data on:"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(1) the reproduction and use of copyrighted works of authorship\u2014"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(A) in conjunction with automatic systems capable of storing, processing, retrieving, and transferring information, and"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(B) by various forms of machine reproduction, not including reproduction by or at the request of instructors for use in face-to-face teaching activities; and"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(2) the creation of new works by the application or intervention of such automatic systems or machine reproduction."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(c) The Commission shall make recommendations as to such changes in copyright law or procedures that may be necessary to assure for such purposes access to copyrighted works, and to provide recognition of the rights of copyright owners."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Membership of the Commission"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 202. (a) The Commission shall be composed of thirteen voting members, appointed as follows:"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(1) Four members, to be appointed by the President, selected from authors and other copyright owners;"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(2) Four members, to be appointed by the President, selected from users of copyright works;"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(3) Four nongovernmental members to be appointed by the President, selected from the public generally, with at least one member selected from among experts in consumer protection affairs;"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(4) The Librarian of Congress."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(b) The President shall appoint a Chairman and a Vice-Chairman who shall act as Chairman in the absence or disability of the Chairman or in the event of a vacancy in that office, from among the four members selected from the public generally, as provided by clause (3) of subsection (a). The Register of Copyrights shall serve ex officio as a nonvoting member of the Commission."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(c) Seven voting members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its power and shall be filled in the same manner as the original appointment was made."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Compensation of Members of the Commission"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 203. (a) Members of the Commission, other than officers or employees of the Federal Government, shall receive compensation at the rate of $100 per day while engaged in the actual performance of Commission duties, plus reimbursement for travel, subsistence, and other necessary expenses in connection with such duties."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(b) Any members of the Commission who are officers or employees of the Federal Government shall serve on the Commission without compensation, but such members shall be reimbursed for travel, subsistence, and other necessary expenses in connection with the performance of their duties."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Staff"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 204. (a) To assist in its studies, the Commission may appoint a staff which shall be an administrative part of the Library of Congress. The staff shall be headed by an Executive Director, who shall be responsible to the Commission for the administration of the duties entrusted to the staff."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(b) The Commission may procure temporary and intermittent services to the same extent as is authorized by section 3109 of title 5, United States Code, but at rates not to exceed $100 per day."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Expenses of the Commission"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 205. There are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this title until September 30, 1977."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "[As amended by Pub. L. 94-314, 90 Stat. 692. Original date was \"June 30, 1976\".]"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Reports"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 206. (a) Within one year after the first meeting of the Commission it shall submit to the President and the Congress a preliminary report on its activities."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(b) Within three years after the enactment of this Act the Commission shall submit to the President and the Congress a final report on its study and investigation which shall include its recommendations and such proposals for legislation and administrative action as may be necessary to carry out its recommendations."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(c) In addition to the preliminary report and final report required by this section, the Commission may publish such interim reports as it may determine, including but not limited to consultant's reports, transcripts of testimony, seminar reports, and other Commission findings."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Powers of the Commission"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 207. (a) The Commission or, with the authorization of the Commission, any three or more of its members, may, for the purpose of carrying out the provisions of this title, hold hearings, administer oaths, and require, by subpoena or otherwise, the attendance and testimony of witnesses and the production of documentary material."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "(b) With the consent of the Commission, any of its members may hold any meetings, seminars, or conferences considered appropriate to provide a forum for discussion of the problems with which it is dealing."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Termination"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "SEC. 208. On the sixtieth day after the date of the submission of its final report, the Commission shall terminate and all offices and employment under it shall expire."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

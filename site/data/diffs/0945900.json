@@ -1,0 +1,45 @@
+{
+ "hash": "0945900",
+ "act_name": "Judicial Improvements and Access to Justice Act of 1988 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/912.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 912"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7912. Relation to other laws"
+      },
+      {
+       "type": "add",
+       "text": "(a) Nothing in this chapter shall affect any right or remedy held by any person under chapters 1 through 8  of this title, or under title 35."
+      },
+      {
+       "type": "add",
+       "text": "(b) Except as provided in section 908(b) of this title, references to \"this title\" or \"title 17\" in chapters 1 through 8 or 10 of this title shall be deemed not to apply to this chapter."
+      },
+      {
+       "type": "add",
+       "text": "(c) The provisions of this chapter shall preempt the laws of any State to the extent those laws provide any rights or remedies with respect to a mask work which are equivalent to those rights or remedies provided by this chapter, except that such preemption shall be effective only with respect to actions filed on or after January 1, 1986."
+      },
+      {
+       "type": "add",
+       "text": "(d) Notwithstanding subsection (c), nothing in this chapter shall detract from any rights of a mask work owner, whether under Federal law (exclusive of this chapter) or under the common law or the statutes of a State, heretofore or hereafter declared or enacted, with respect to any mask work first commercially exploited before July 1, 1983."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

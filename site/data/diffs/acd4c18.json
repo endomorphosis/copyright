@@ -1,0 +1,87 @@
+{
+ "hash": "acd4c18",
+ "act_name": "STELA Reauthorization Act of 2014",
+ "files": [
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Secondary Transmissions by Satellite Carriers.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "add",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection , secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network stations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Secondary transmissions to unserved households.-"
+      }
+     ]
+    },
+    {
+     "old_start": 144,
+     "new_start": 144,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4) Qualified carrier obligations and compliance.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) Continuing obligations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) In general.-An entity recognized as a qualified carrier shall continue to provide local-into-local service to all DMAs."
+      },
+      {
+       "type": "del",
+       "text": "(ii) Cooperation with compliance examination.-An entity recognized as a qualified carrier shall fully cooperate with the special master appointed by the court under paragraph (3)(B) in an examination set forth in subparagraph (B)."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Cooperation with compliance examination.-An entity recognized as a qualified carrier shall fully cooperate with the special master appointed by the court under paragraph (3)(B) in the examinations set forth in subparagraph (B)."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Qualified carrier compliance examination.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) Examination and report.-A special master appointed by the court under paragraph (3)(B) shall conduct an examination of, and file a report on, the qualified carrier's compliance with the royalty payment and household eligibility requirements of the license under this section. The report shall address the qualified carrier's conduct during the period beginning on the date on which the qualified carrier is recognized as such under paragraph (3)(B) and ending on April 30, 2012."
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) Records of qualified carrier.-Beginning on the date that is one year after the date on which the qualified carrier is recognized as such under paragraph (3)(B), but not later than December 1, 2011, the qualified carrier shall provide the special master with all records that the special master considers to be directly pertinent to the following requirements under this section:"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

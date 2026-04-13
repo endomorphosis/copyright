@@ -1,0 +1,825 @@
+{
+ "hash": "b2796e0",
+ "act_name": "Intellectual Property and Communications Omnibus Reform Act of 1999",
+ "files": [
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "del",
+       "text": "Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "add",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"architectural work\" is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Audiovisual works\" are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied."
+      }
+     ]
+    },
+    {
+     "old_start": 16,
+     "new_start": 16,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "del",
+       "text": "A \"device\", \"machine\", or \"process\" is one now known or later developed."
+      },
+      {
+       "type": "add",
+       "text": "A \"device\", \"machine\", or \"processs\" is one now known or later developed."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"digital transmission\" is a transmission in whole or in part in a digital or other non-analog format."
+      },
+      {
+       "type": "ctx",
+       "text": "To \"display\" a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"establishment\" is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 12,
+     "new_start": 12,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) the carriage of the signals comprising the secondary transmission is required under the rules, regulations, or authorizations of the Federal Communications Commission; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the signal of the primary transmitter is not altered or changed in any way by the secondary transmitter."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Secondary Transmissions by Cable Systems.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection , secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "add",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection and section 114(d), secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Notwithstanding the provisions of paragraph (1) of this subsection, the willful or repeated secondary transmission to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, in the following cases:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) where the carriage of the signals comprising the secondary transmission is not permissible under the rules, regulations, or authorizations of the Federal Communications Commission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) where the cable system has not deposited the statement of account and royalty fee required by subsection (d)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/119.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7119. Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Secondary Transmissions by Satellite Carriers.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "add",
+       "text": "(1) Non-network stations.-Subject to the provisions of paragraphs (3), (4), and (6) of this subsection , secondary transmissions of a performance or display of a work embodied in a primary transmission made by a non-network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing or for viewing in a commercial establishment, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, and the carrier makes a direct or indirect charge for each retransmission service to each subscriber receiving the secondary transmission or to a distributor that has contracted with the carrier for direct or indirect delivery of the secondary transmission to the public for private home viewing or for viewing in a commercial establishment."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Network stations.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) In general.-Subject to the provisions of subparagraph (B) of this paragraph and paragraphs (3), (4), (5), and (6) of this subsection and section 114(d), secondary transmissions of a performance or display of a work embodied in a primary transmission made by a network station shall be subject to statutory licensing under this section if the secondary transmission is made by a satellite carrier to the public for private home viewing, with regard to secondary transmissions the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals, the carrier makes a direct or indirect charge for such retransmission service to each subscriber receiving the secondary transmission, and the carrier provides local-into-local service to all DMAs. Failure to reach an agreement with a network station to retransmit the signals of the station shall not be construed to affect compliance with providing local-into-local service to all DMAs if the satellite carrier has the capability to retransmit such signals when an agreement is reached."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Secondary transmissions to unserved households.-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1201.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1201"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a71201. Circumvention of copyright protection systems"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Violations Regarding Circumvention of Technological Measures.-(1)(A) No person shall circumvent a technological measure that effectively controls access to a work protected under this title. The prohibition contained in the preceding sentence shall take effect at the end of the 2-year period beginning on the date of the enactment of this chapter."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) The prohibition contained in subparagraph (A) shall not apply to persons who are users of a copyrighted work which is in a particular class of works, if such persons are, or are likely to be in the succeeding 3-year period, adversely affected by virtue of such prohibition in their ability to make noninfringing uses of that particular class of works under this title, as determined under subparagraph (C)."
+      }
+     ]
+    },
+    {
+     "old_start": 112,
+     "new_start": 114,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(D) The term \"professional analog video cassette recorder\" means an analog video cassette recorder that is designed, manufactured, marketed, and intended for use by a person who regularly employs such a device for a lawful business or industrial use, including making, performing, displaying, distributing, or transmitting copies of motion pictures on a commercial scale."
+      },
+      {
+       "type": "ctx",
+       "text": "(E) The terms \"VHS format\", \"8mm format\", \"Beta format\", \"automatic gain control copy control technology\", \"colorstripe copy control technology\", \"four-line version of the colorstripe copy control technology\", and \"NTSC\" have the meanings that are commonly understood in the consumer electronics and motion picture industries as of the date of the enactment of this chapter."
+      },
+      {
+       "type": "ctx",
+       "text": "(5) Violations.-Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an \"act of circumvention\" for the purposes of section 1203(c)(3)(A) of this chapter."
+      },
+      {
+       "type": "del",
+       "text": "(Added"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7103(a), Oct. 28, 1998, 112 Stat. 2863"
+      },
+      {
+       "type": "del",
+       "text": "; amended"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u2013113,"
+      },
+      {
+       "type": "del",
+       "text": "div. B, \u00a71000(a)(9) [title V, \u00a75006], Nov. 29, 1999, 113 Stat. 1536"
+      },
+      {
+       "type": "del",
+       "text": ", 1501A-594.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1203.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1203"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71203. Civil remedies"
+      },
+      {
+       "type": "add",
+       "text": "(a) Civil Actions.-Any person injured by a violation of section 1201 or 1202 may bring a civil action in an appropriate United States district court for such violation."
+      },
+      {
+       "type": "add",
+       "text": "(b) Powers of the Court.-In an action brought under subsection (a), the court-"
+      },
+      {
+       "type": "add",
+       "text": "(1) may grant temporary and permanent injunctions on such terms as it deems reasonable to prevent or restrain a violation, but in no event shall impose a prior restraint on free speech or the press protected under the 1st amendment to the Constitution;"
+      },
+      {
+       "type": "add",
+       "text": "(2) at any time while an action is pending, may order the impounding, on such terms as it deems reasonable, of any device or product that is in the custody or control of the alleged violator and that the court has reasonable cause to believe was involved in a violation;"
+      },
+      {
+       "type": "add",
+       "text": "(3) may award damages under subsection (c);"
+      },
+      {
+       "type": "add",
+       "text": "(4) in its discretion may allow the recovery of costs by or against any party other than the United States or an officer thereof;"
+      },
+      {
+       "type": "add",
+       "text": "(5) in its discretion may award reasonable attorney's fees to the prevailing party; and"
+      },
+      {
+       "type": "add",
+       "text": "(6) may, as part of a final judgment or decree finding a violation, order the remedial modification or the destruction of any device or product involved in the violation that is in the custody or control of the violator or has been impounded under paragraph (2)."
+      },
+      {
+       "type": "add",
+       "text": "(c) Award of Damages.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) In general.-Except as otherwise provided in this title, a person committing a violation of section 1201 or 1202 is liable for either-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the actual damages and any additional profits of the violator, as provided in paragraph (2), or"
+      },
+      {
+       "type": "add",
+       "text": "(B) statutory damages, as provided in paragraph (3)."
+      },
+      {
+       "type": "add",
+       "text": "(2) Actual damages.-The court shall award to the complaining party the actual damages suffered by the party as a result of the violation, and any profits of the violator that are attributable to the violation and are not taken into account in computing the actual damages, if the complaining party elects such damages at any time before final judgment is entered."
+      },
+      {
+       "type": "add",
+       "text": "(3) Statutory damages.-(A) At any time before final judgment is entered, a complaining party may elect to recover an award of statutory damages for each violation of section 1201 in the sum of not less than $200 or more than $2,500 per act of circumvention, device, product, component, offer, or performance of service, as the court considers just."
+      },
+      {
+       "type": "add",
+       "text": "(B) At any time before final judgment is entered, a complaining party may elect to recover an award of statutory damages for each violation of section 1202 in the sum of not less than $2,500 or more than $25,000."
+      },
+      {
+       "type": "add",
+       "text": "(4) Repeated violations.-In any case in which the injured party sustains the burden of proving, and the court finds, that a person has violated section 1201 or 1202 within 3 years after a final judgment was entered against the person for another such violation, the court may increase the award of damages up to triple the amount that would otherwise be awarded, as the court considers just."
+      },
+      {
+       "type": "add",
+       "text": "(5) Innocent violations.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-The court in its discretion may reduce or remit the total award of damages in any case in which the violator sustains the burden of proving, and the court finds, that the violator was not aware and had no reason to believe that its acts constituted a violation."
+      },
+      {
+       "type": "add",
+       "text": "(B) Nonprofit library, archives, educational institutions, or public broadcasting entities.-"
+      },
+      {
+       "type": "add",
+       "text": "(i) Definition.-In this subparagraph, the term \"public broadcasting entity\" has the meaning given such term under section 118(g)."
+      },
+      {
+       "type": "add",
+       "text": "(ii) In general.-In the case of a nonprofit library, archives, educational institution, or public broadcasting entity, the court shall remit damages in any case in which the library, archives, educational institution, or public broadcasting entity sustains the burden of proving, and the court finds, that the library, archives, educational institution, or public broadcasting entity was not aware and had no reason to believe that its acts constituted a violation."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/1204.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 1204"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a71204. Criminal offenses and penalties"
+      },
+      {
+       "type": "add",
+       "text": "(a) In General.-Any person who violates section 1201 or 1202 willfully and for purposes of commercial advantage or private financial gain-"
+      },
+      {
+       "type": "add",
+       "text": "(1) shall be fined not more than $500,000 or imprisoned for not more than 5 years, or both, for the first offense; and"
+      },
+      {
+       "type": "add",
+       "text": "(2) shall be fined not more than $1,000,000 or imprisoned for not more than 10 years, or both, for any subsequent offense."
+      },
+      {
+       "type": "add",
+       "text": "(b) Limitation for Nonprofit Library, Archives, Educational Institution, or Public Broadcasting Entity.-Subsection (a) shall not apply to a nonprofit library, archives, educational institution, or public broadcasting entity (as defined under section 118(g))."
+      },
+      {
+       "type": "add",
+       "text": "(c) Statute of Limitations.-No criminal proceeding shall be brought under this section unless such proceeding is commenced within 5 years after the cause of action arose."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/122.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 122"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7122. Limitations on exclusive rights: Secondary transmissions of local television programming by satellite"
+      },
+      {
+       "type": "add",
+       "text": "(a) Secondary Transmissions Into Local Markets.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Secondary transmissions of television broadcast stations within a local market.-A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station into the station's local market shall be subject to statutory licensing under this section if-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the secondary transmission is made by a satellite carrier to the public;"
+      },
+      {
+       "type": "add",
+       "text": "(B) with regard to secondary transmissions, the satellite carrier is in compliance with the rules, regulations, or authorizations of the Federal Communications Commission governing the carriage of television broadcast station signals; and"
+      },
+      {
+       "type": "add",
+       "text": "(C) the satellite carrier makes a direct or indirect charge for the secondary transmission to-"
+      },
+      {
+       "type": "add",
+       "text": "(i) each subscriber receiving the secondary transmission; or"
+      },
+      {
+       "type": "add",
+       "text": "(ii) a distributor that has contracted with the satellite carrier for direct or indirect delivery of the secondary transmission to the public."
+      },
+      {
+       "type": "add",
+       "text": "(2) Significantly viewed stations.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a network station or a non-network station to a subscriber who resides outside the station's local market but within a community in which the signal has been determined by the Federal Communications Commission to be significantly viewed in such community, pursuant to the rules, regulations, and authorizations of the Federal Communications Commission in effect on April 15, 1976, applicable to determining with respect to a cable system whether signals are significantly viewed in a community."
+      },
+      {
+       "type": "add",
+       "text": "(B) Waiver.-A subscriber who is denied the secondary transmission of the primary transmission of a network station or a non-network station under subparagraph (A) may request a waiver from such denial by submitting a request, through the subscriber's satellite carrier, to the network station or non-network station in the local market affiliated with the same network or non-network where the subscriber is located. The network station or non-network station shall accept or reject the subscriber's request for a waiver within 30 days after receipt of the request. If the network station or non-network station fails to accept or reject the subscriber's request for a waiver within that 30-day period, that network station or non-network station shall be deemed to agree to the waiver request."
+      },
+      {
+       "type": "add",
+       "text": "(3) Secondary transmission of low power programming.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-Subject to subparagraphs (B) and (C), a secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall be subject to statutory licensing under this paragraph if the secondary transmission is of the primary transmission of a television broadcast station that is licensed as a low power television station, to a subscriber who resides within the same designated market area as the station that originates the transmission."
+      },
+      {
+       "type": "add",
+       "text": "(B) No applicability to repeaters and translators.-Secondary transmissions provided for in subparagraph (A) shall not apply to any low power television station that retransmits the programs and signals of another television station for more than 2 hours each day."
+      },
+      {
+       "type": "add",
+       "text": "(C) No impact on other secondary transmissions obligations.-A satellite carrier that makes secondary transmissions of a primary transmission of a low power television station under a statutory license provided under this section is not required, by reason of such secondary transmissions, to make any other secondary transmissions."
+      },
+      {
+       "type": "add",
+       "text": "(4) Special exceptions.-A secondary transmission of a performance or display of a work embodied in a primary transmission of a television broadcast station to subscribers who receive secondary transmissions of primary transmissions under paragraph (1) shall, if the secondary transmission is made by a satellite carrier that complies with the requirements of paragraph (1), be subject to statutory licensing under this paragraph as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(A) States with single full-power network station.-In a State in which there is licensed by the Federal Communications Commission a single full-power station that was a network station on January 1, 1995, the statutory license provided for in this paragraph shall apply to the secondary transmission by a satellite carrier of the primary transmission of that station to any subscriber in a community that is located within that State and that is not within the first 50 television markets as listed in the regulations of the Commission as in effect on such date (47 C.F.R. 76.51)."
+      },
+      {
+       "type": "add",
+       "text": "(B) States with all network stations and non-network stations in same local market.-In a State in which all network stations and non-network stations licensed by the Federal Communications Commission within that State as of January 1, 1995, are assigned to the same local market and that local market does not encompass all counties of that State, the statutory license provided under this paragraph shall apply to the secondary transmission by a satellite carrier of the primary transmissions of such station to all subscribers in the State who reside in a local market that is within the first 50 major television markets as listed in the regulations of the Commission as in effect on such date (section 76.51 of title 47, Code of Federal Regulations)."
+      },
+      {
+       "type": "add",
+       "text": "(C) Additional stations.-In the case of that State in which are located 4 counties that-"
+      },
+      {
+       "type": "add",
+       "text": "(i) on January 1, 2004, were in local markets principally comprised of counties in another State, and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) had a combined total of 41,340 television households, according to the U.S. Television Household Estimates by Nielsen Media Research for 2004,"
+      },
+      {
+       "type": "add",
+       "text": "the statutory license provided under this paragraph shall apply to secondary transmissions by a satellite carrier to subscribers in any such county of the primary transmissions of any network station located in that State, if the satellite carrier was making such secondary transmissions to any subscribers in that county on January 1, 2004."
+      },
+      {
+       "type": "add",
+       "text": "(D) Certain additional stations.-If 2 adjacent counties in a single State are in a local market comprised principally of counties located in another State, the statutory license provided for in this paragraph shall apply to the secondary transmission by a satellite carrier to subscribers in those 2 counties of the primary transmissions of any network station located in the capital of the State in which such 2 counties are located, if-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the 2 counties are located in a local market that is in the top 100 markets for the year 2003 according to Nielsen Media Research; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the total number of television households in the 2 counties combined did not exceed 10,000 for the year 2003 according to Nielsen Media Research."
+      },
+      {
+       "type": "add",
+       "text": "(E) Networks of noncommercial educational broadcast stations.-In the case of a system of three or more noncommercial educational broadcast stations licensed to a single State, public agency, or political, educational, or special purpose subdivision of a State, the statutory license provided for in this paragraph shall apply to the secondary transmission of the primary transmission of such system to any subscriber in any county or county equivalent within such State, if such subscriber is located in a designated market area that is not otherwise eligible to receive the secondary transmission of the primary transmission of a noncommercial educational broadcast station located within the State pursuant to paragraph (1)."
+      },
+      {
+       "type": "add",
+       "text": "(5) Applicability of royalty rates and procedures.-The royalty rates and procedures under section 119(b) shall apply to the secondary transmissions to which the statutory license under paragraph (4) applies."
+      },
+      {
+       "type": "add",
+       "text": "(b) Reporting Requirements.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Initial lists.-A satellite carrier that makes secondary transmissions of a primary transmission made by a network station under subsection (a) shall, within 90 days after commencing such secondary transmissions, submit to the network that owns or is affiliated with the network station-"
+      },
+      {
+       "type": "add",
+       "text": "(A) a list identifying (by name in alphabetical order and street address, including county and 9-digit zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a); and"
+      },
+      {
+       "type": "add",
+       "text": "(B) a separate list, aggregated by designated market area (by name and address, including street or rural route number, city, State, and 9-digit zip code), which shall indicate those subscribers being served pursuant to paragraph (2) of subsection (a)."
+      },
+      {
+       "type": "add",
+       "text": "(2) Subsequent lists.-After the list is submitted under paragraph (1), the satellite carrier shall, on the 15th of each month, submit to the network-"
+      },
+      {
+       "type": "add",
+       "text": "(A) a list identifying (by name in alphabetical order and street address, including county and 9-digit zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) a separate list, aggregated by designated market area (by name and street address, including street or rural route number, city, State, and 9-digit zip code), identifying those subscribers whose service pursuant to paragraph (2) of subsection (a) has been added or dropped since the last submission under this subsection."
+      },
+      {
+       "type": "add",
+       "text": "(3) Use of subscriber information.-Subscriber information submitted by a satellite carrier under this subsection may be used only for the purposes of monitoring compliance by the satellite carrier with this section."
+      },
+      {
+       "type": "add",
+       "text": "(4) Requirements of networks.-The submission requirements of this subsection shall apply to a satellite carrier only if the network to which the submissions are to be made places on file with the Register of Copyrights a document identifying the name and address of the person to whom such submissions are to be made. The Register of Copyrights shall maintain for public inspection a file of all such documents."
+      },
+      {
+       "type": "add",
+       "text": "(c) No Royalty Fee Required for Certain Secondary Transmissions.-A satellite carrier whose secondary transmissions are subject to statutory licensing under paragraphs (1), (2), and (3) of subsection (a) shall have no royalty obligation for such secondary transmissions."
+      },
+      {
+       "type": "add",
+       "text": "(d) Noncompliance With Reporting and Regulatory Requirements.-Notwithstanding subsection (a), the willful or repeated secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a primary transmission embodying a performance or display of a work made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided under sections 502 through 506, if the satellite carrier has not complied with the reporting requirements of subsection (b) or with the rules, regulations, and authorizations of the Federal Communications Commission concerning the carriage of television broadcast signals."
+      },
+      {
+       "type": "add",
+       "text": "(e) Willful Alterations.-Notwithstanding subsection (a), the secondary transmission to the public by a satellite carrier into the local market of a television broadcast station of a performance or display of a work embodied in a primary transmission made by that television broadcast station is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506 and section 510, if the content of the particular program in which the performance or display is embodied, or any commercial advertising or station announcement transmitted by the primary transmitter during, or immediately before or after, the transmission of such program, is in any way willfully altered by the satellite carrier through changes, deletions, or additions, or is combined with programming from any other broadcast signal."
+      },
+      {
+       "type": "add",
+       "text": "(f) Violation of Territorial Restrictions on Statutory License for Television Broadcast Stations.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Individual violations.-The willful or repeated secondary transmission to the public by a satellite carrier of a primary transmission embodying a performance or display of a work made by a television broadcast station to a subscriber who does not reside in that station's local market, and is not subject to statutory licensing under section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to a private licensing agreement, is actionable as an act of infringement under section 501 and is fully subject to the remedies provided by sections 502 through 506, except that-"
+      },
+      {
+       "type": "add",
+       "text": "(A) no damages shall be awarded for such act of infringement if the satellite carrier took corrective action by promptly withdrawing service from the ineligible subscriber; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) any statutory damages shall not exceed $250 for such subscriber for each month during which the violation occurred."
+      },
+      {
+       "type": "add",
+       "text": "(2) Pattern of violations.-If a satellite carrier engages in a willful or repeated pattern or practice of secondarily transmitting to the public a primary transmission embodying a performance or display of a work made by a television broadcast station to subscribers who do not reside in that station's local market, and are not subject to statutory licensing under section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to a private licensing agreement, then in addition to the remedies under paragraph (1)-"
+      },
+      {
+       "type": "add",
+       "text": "(A) if the pattern or practice has been carried out on a substantially nationwide basis, the court-"
+      },
+      {
+       "type": "add",
+       "text": "(i) shall order a permanent injunction barring the secondary transmission by the satellite carrier of the primary transmissions of that television broadcast station (and if such television broadcast station is a network station, all other television broadcast stations affiliated with such network); and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) may order statutory damages not exceeding $2,500,000 for each 6-month period during which the pattern or practice was carried out; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) if the pattern or practice has been carried out on a local or regional basis with respect to more than one television broadcast station, the court-"
+      },
+      {
+       "type": "add",
+       "text": "(i) shall order a permanent injunction barring the secondary transmission in that locality or region by the satellite carrier of the primary transmissions of any television broadcast station; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) may order statutory damages not exceeding $2,500,000 for each 6-month period during which the pattern or practice was carried out."
+      },
+      {
+       "type": "add",
+       "text": "(g) Burden of Proof.-In any action brought under subsection (f), the satellite carrier shall have the burden of proving that its secondary transmission of a primary transmission by a television broadcast station is made only to subscribers located within that station's local market or subscribers being served in compliance with section 119, paragraph (2)(A), (3), or (4) of subsection (a), or a private licensing agreement."
+      },
+      {
+       "type": "add",
+       "text": "(h) Geographic Limitations on Secondary Transmissions.-The statutory license created by this section shall apply to secondary transmissions to locations in the United States."
+      },
+      {
+       "type": "add",
+       "text": "(i) Exclusivity With Respect to Secondary Transmissions of Broadcast Stations by Satellite to Members of the Public.-No provision of section 111 or any other law (other than this section and section 119) shall be construed to contain any authorization, exemption, or license through which secondary transmissions by satellite carriers of programming contained in a primary transmission made by a television broadcast station may be made without obtaining the consent of the copyright owner."
+      },
+      {
+       "type": "add",
+       "text": "(j) Definitions.-In this section-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Distributor.-The term \"distributor\" means an entity that contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities."
+      },
+      {
+       "type": "add",
+       "text": "(2) Local market.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-The term \"local market\", in the case of both commercial and noncommercial television broadcast stations, means the designated market area in which a station is located, and-"
+      },
+      {
+       "type": "add",
+       "text": "(i) in the case of a commercial television broadcast station, all commercial television broadcast stations licensed to a community within the same designated market area are within the same local market; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) in the case of a noncommercial educational television broadcast station, the market includes any station that is licensed to a community within the same designated market area as the noncommercial educational television broadcast station."
+      },
+      {
+       "type": "add",
+       "text": "(B) County of license.-In addition to the area described in subparagraph (A), a station's local market includes the county in which the station's community of license is located."
+      },
+      {
+       "type": "add",
+       "text": "(C) Designated market area.-For purposes of subparagraph (A), the term \"designated market area\" means a designated market area, as determined by Nielsen Media Research and published in the 1999\u20132000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication."
+      },
+      {
+       "type": "add",
+       "text": "(D) Certain areas outside of any designated market area.-Any census area, borough, or other area in the State of Alaska that is outside of a designated market area, as determined by Nielsen Media Research, shall be deemed to be part of one of the local markets in the State of Alaska. A satellite carrier may determine which local market in the State of Alaska will be deemed to be the relevant local market in connection with each subscriber in such census area, borough, or other area."
+      },
+      {
+       "type": "add",
+       "text": "(E) Market determinations.-The local market of a commercial television broadcast station may be modified by the Federal Communications Commission in accordance with section 338(l) of the Communications Act of 1934 (47 U.S.C. 338)."
+      },
+      {
+       "type": "add",
+       "text": "(3) Low power television station.-The term \"low power television station\" means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term \"low power television station\" includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations."
+      },
+      {
+       "type": "add",
+       "text": "(4) Network station; non-network station; satellite carrier; secondary transmission.-The terms \"network station\", \"non-network station\", \"satellite carrier\", and \"secondary transmission\" have the meanings given such terms under section 119(d)."
+      },
+      {
+       "type": "add",
+       "text": "(5) Noncommercial educational broadcast station.-The term \"noncommercial educational broadcast station\" means a television broadcast station that is a noncommercial educational broadcast station as defined in section 397 of the Communications Act of 1934, as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010."
+      },
+      {
+       "type": "add",
+       "text": "(6) Subscriber.-The term \"subscriber\" means a person or entity that receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor."
+      },
+      {
+       "type": "add",
+       "text": "(7) Television broadcast station.-The term \"television broadcast station\"-"
+      },
+      {
+       "type": "add",
+       "text": "(A) means an over-the-air, commercial or noncommercial television broadcast station licensed by the Federal Communications Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station; and"
+      },
+      {
+       "type": "add",
+       "text": "(B) includes a television broadcast station licensed by an appropriate governmental authority of Canada or Mexico if the station broadcasts primarily in the English language and is a network station as defined in section 119(d)(2)(A)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/501.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 501"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7501. Infringement of copyright"
+      },
+      {
+       "type": "del",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 121 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "add",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 118 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright. As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/510.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "del",
+       "text": "\u00a7510. Remedies for alteration of programing by cable systems"
+      },
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 510"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7510. Remedies for alteration of programming by cable systems"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) In any action filed pursuant to section 111(c)(3), the following remedies shall be available:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Where an action is brought by a party identified in subsections (b) or (c) of section 501, the remedies provided by sections 502 through 505, and the remedy provided by subsection (b) of this section; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) When an action is brought by a party identified in subsection (d) of section 501, the remedies provided by sections 502 and 505, together with any actual damages suffered by such party as a result of the infringement, and the remedy provided by subsection (b) of this section."
+      },
+      {
+       "type": "del",
+       "text": "(b) In any action filed pursuant to section 111(c)(3), the court may decree that, for a period not to exceed thirty days, the cable system shall be deprived of the benefit of a compulsory license for one or more distant signals carried by such cable system."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2587"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 106\u2013113,"
+      },
+      {
+       "type": "del",
+       "text": "div. B, \u00a71000(a)(9) [title I, \u00a71011(a)(1), (3)], Nov. 29, 1999, 113 Stat. 1536"
+      },
+      {
+       "type": "del",
+       "text": ", 1501A-543.)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(b) In any action filed pursuant to section 111(c)(3), the court may decree that, for a period not to exceed thirty days, the cable system shall be deprived of the benefit of a statutory license for one or more distant signals carried by such cable system."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

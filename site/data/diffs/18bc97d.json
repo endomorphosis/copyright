@@ -1,0 +1,943 @@
+{
+ "hash": "18bc97d",
+ "act_name": "Initialize repository",
+ "files": [
+  {
+   "path": "CONTRIBUTING.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# Contributing"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Thank you for helping build a complete legislative history of US copyright law."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## How to Contribute"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Adding a Missing Act"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "1. Identify the Public Law number, enactment date, and Statutes at Large citation."
+      },
+      {
+       "type": "add",
+       "text": "2. Find the full text of the act (see Sources in README.md)."
+      },
+      {
+       "type": "add",
+       "text": "3. Determine which sections of the statute were affected."
+      },
+      {
+       "type": "add",
+       "text": "4. Create a commit with the changes, following the commit conventions below."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Correcting Existing Text"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "If you find an error in the statute text (typo, missing section, incorrect amendment), please open an issue with:"
+      },
+      {
+       "type": "add",
+       "text": "- The specific section and text that is wrong"
+      },
+      {
+       "type": "add",
+       "text": "- The correct text with a citation to the authoritative source"
+      },
+      {
+       "type": "add",
+       "text": "- The act/commit where the error was introduced"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Commit Format"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "```"
+      },
+      {
+       "type": "add",
+       "text": "<Act Name> (<Year>)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Public Law: <Pub.L. number or Statutes at Large citation>"
+      },
+      {
+       "type": "add",
+       "text": "Effective date: <YYYY-MM-DD>"
+      },
+      {
+       "type": "add",
+       "text": "Summary: <1-3 sentence description of what changed>"
+      },
+      {
+       "type": "add",
+       "text": "```"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Set the author date to the enactment date:"
+      },
+      {
+       "type": "add",
+       "text": "```bash"
+      },
+      {
+       "type": "add",
+       "text": "GIT_AUTHOR_DATE=\"YYYY-MM-DD\" git commit -m \"...\""
+      },
+      {
+       "type": "add",
+       "text": "```"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### File Format"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "- Statute text is in Markdown (.md)"
+      },
+      {
+       "type": "add",
+       "text": "- Use `#` headings for section titles"
+      },
+      {
+       "type": "add",
+       "text": "- Preserve original formatting, spelling, and punctuation from the source"
+      },
+      {
+       "type": "add",
+       "text": "- Use `> [Note]` blockquotes for editorial annotations (not part of the statute text)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### What Counts as a Copyright Act?"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Include any Public Law that:"
+      },
+      {
+       "type": "add",
+       "text": "- Creates or amends provisions of Title 17 U.S.C. (post-1976)"
+      },
+      {
+       "type": "add",
+       "text": "- Creates or amends federal copyright statutes (pre-1976)"
+      },
+      {
+       "type": "add",
+       "text": "- Directly affects copyright protection, registration, duration, remedies, or related rights"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Do not include:"
+      },
+      {
+       "type": "add",
+       "text": "- Appropriations acts (unless they contain substantive copyright provisions)"
+      },
+      {
+       "type": "add",
+       "text": "- Treaties (unless implemented by domestic legislation)"
+      },
+      {
+       "type": "add",
+       "text": "- Administrative regulations (Copyright Office rules)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Code of Conduct"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Be respectful and constructive. This is a factual/historical project -- edits should be based on authoritative legal sources, not opinions about what the law should say."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "LICENSE",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "CC0 1.0 Universal"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Statement of Purpose"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "The laws of most jurisdictions throughout the world automatically confer"
+      },
+      {
+       "type": "add",
+       "text": "exclusive Copyright and Related Rights (defined below) upon the creator and"
+      },
+      {
+       "type": "add",
+       "text": "subsequent owner(s) (each and all, an \"owner\") of an original work of"
+      },
+      {
+       "type": "add",
+       "text": "authorship and/or a database (each, a \"Work\")."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Certain owners wish to permanently relinquish those rights to a Work for the"
+      },
+      {
+       "type": "add",
+       "text": "purpose of contributing to a commons of creative, cultural and scientific"
+      },
+      {
+       "type": "add",
+       "text": "works (\"Commons\") that the public can reliably and without fear of later"
+      },
+      {
+       "type": "add",
+       "text": "claims of infringement build upon, modify, incorporate in other works, reuse"
+      },
+      {
+       "type": "add",
+       "text": "and redistribute as freely as possible in any form whatsoever and for any"
+      },
+      {
+       "type": "add",
+       "text": "purposes, including without limitation commercial purposes. These owners may"
+      },
+      {
+       "type": "add",
+       "text": "contribute to the Commons to promote the ideal of a free culture and the"
+      },
+      {
+       "type": "add",
+       "text": "further production of creative, cultural and scientific works, or to gain"
+      },
+      {
+       "type": "add",
+       "text": "reputation or greater distribution for their Work in part through the use and"
+      },
+      {
+       "type": "add",
+       "text": "efforts of others."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "For these and/or other purposes and motivations, and without any expectation"
+      },
+      {
+       "type": "add",
+       "text": "of additional consideration or compensation, the person associating CC0 with a"
+      },
+      {
+       "type": "add",
+       "text": "Work (the \"Affirmer\"), to the extent that he or she is an owner of Copyright"
+      },
+      {
+       "type": "add",
+       "text": "and Related Rights in the Work, voluntarily elects to apply CC0 to the Work"
+      },
+      {
+       "type": "add",
+       "text": "and publicly distribute the Work under its terms, with knowledge of his or her"
+      },
+      {
+       "type": "add",
+       "text": "Copyright and Related Rights in the Work and the meaning and intended legal"
+      },
+      {
+       "type": "add",
+       "text": "effect of CC0 on those rights."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "1. Copyright and Related Rights. A Work made available under CC0 may be"
+      },
+      {
+       "type": "add",
+       "text": "protected by copyright and related or neighboring rights (\"Copyright and"
+      },
+      {
+       "type": "add",
+       "text": "Related Rights\"). Copyright and Related Rights include, but are not limited"
+      },
+      {
+       "type": "add",
+       "text": "to, the following:"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  i. the right to reproduce, adapt, distribute, perform, display, communicate,"
+      },
+      {
+       "type": "add",
+       "text": "  and translate a Work;"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  ii. moral rights retained by the original author(s) and/or performer(s);"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  iii. publicity and privacy rights pertaining to a person's image or likeness"
+      },
+      {
+       "type": "add",
+       "text": "  depicted in a Work;"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  iv. rights protecting against unfair competition in regards to a Work,"
+      },
+      {
+       "type": "add",
+       "text": "  subject to the limitations in paragraph 4(a), below;"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  v. rights protecting the extraction, dissemination, use and reuse of data in"
+      },
+      {
+       "type": "add",
+       "text": "  a Work;"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  vi. database rights (such as those arising under Directive 96/9/EC of the"
+      },
+      {
+       "type": "add",
+       "text": "  European Parliament and of the Council of 11 March 1996 on the legal"
+      },
+      {
+       "type": "add",
+       "text": "  protection of databases, and under any national implementation thereof,"
+      },
+      {
+       "type": "add",
+       "text": "  including any amended or successor version of such directive); and"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  vii. other similar, equivalent or corresponding rights throughout the world"
+      },
+      {
+       "type": "add",
+       "text": "  based on applicable law or treaty, and any national implementations thereof."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "2. Waiver. To the greatest extent permitted by, but not in contravention of,"
+      },
+      {
+       "type": "add",
+       "text": "applicable law, Affirmer hereby overtly, fully, permanently, irrevocably and"
+      },
+      {
+       "type": "add",
+       "text": "unconditionally waives, abandons, and surrenders all of Affirmer's Copyright"
+      },
+      {
+       "type": "add",
+       "text": "and Related Rights and associated claims and causes of action, whether now"
+      },
+      {
+       "type": "add",
+       "text": "known or unknown (including existing as well as future claims and causes of"
+      },
+      {
+       "type": "add",
+       "text": "action), in the Work (i) in all territories worldwide, (ii) for the maximum"
+      },
+      {
+       "type": "add",
+       "text": "duration provided by applicable law or treaty (including future time"
+      },
+      {
+       "type": "add",
+       "text": "extensions), (iii) in any current or future medium and for any number of"
+      },
+      {
+       "type": "add",
+       "text": "copies, and (iv) for any purpose whatsoever, including without limitation"
+      },
+      {
+       "type": "add",
+       "text": "commercial, advertising or promotional purposes (the \"Waiver\"). Affirmer makes"
+      },
+      {
+       "type": "add",
+       "text": "the Waiver for the benefit of each member of the public at large and to the"
+      },
+      {
+       "type": "add",
+       "text": "detriment of Affirmer's heirs and successors, fully intending that such Waiver"
+      },
+      {
+       "type": "add",
+       "text": "shall not be subject to revocation, rescission, cancellation, termination, or"
+      },
+      {
+       "type": "add",
+       "text": "any other legal or equitable action to disrupt the quiet enjoyment of the Work"
+      },
+      {
+       "type": "add",
+       "text": "by the public as contemplated by Affirmer's express Statement of Purpose."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "3. Public License Fallback. Should any part of the Waiver for any reason be"
+      },
+      {
+       "type": "add",
+       "text": "judged legally invalid or ineffective under applicable law, then the Waiver"
+      },
+      {
+       "type": "add",
+       "text": "shall be preserved to the maximum extent permitted taking into account"
+      },
+      {
+       "type": "add",
+       "text": "Affirmer's express Statement of Purpose. In addition, to the extent the Waiver"
+      },
+      {
+       "type": "add",
+       "text": "is so judged Affirmer hereby grants to each affected person a royalty-free,"
+      },
+      {
+       "type": "add",
+       "text": "non transferable, non sublicensable, non exclusive, irrevocable and"
+      },
+      {
+       "type": "add",
+       "text": "unconditional license to exercise Affirmer's Copyright and Related Rights in"
+      },
+      {
+       "type": "add",
+       "text": "the Work (i) in all territories worldwide, (ii) for the maximum duration"
+      },
+      {
+       "type": "add",
+       "text": "provided by applicable law or treaty (including future time extensions), (iii)"
+      },
+      {
+       "type": "add",
+       "text": "in any current or future medium and for any number of copies, and (iv) for any"
+      },
+      {
+       "type": "add",
+       "text": "purpose whatsoever, including without limitation commercial, advertising or"
+      },
+      {
+       "type": "add",
+       "text": "promotional purposes (the \"License\"). The License shall be deemed effective as"
+      },
+      {
+       "type": "add",
+       "text": "of the date CC0 was applied by Affirmer to the Work. Should any part of the"
+      },
+      {
+       "type": "add",
+       "text": "License for any reason be judged legally invalid or ineffective under"
+      },
+      {
+       "type": "add",
+       "text": "applicable law, such partial invalidity or ineffectiveness shall not invalidate"
+      },
+      {
+       "type": "add",
+       "text": "the remainder of the License, and in such case Affirmer hereby affirms that he"
+      },
+      {
+       "type": "add",
+       "text": "or she will not (i) exercise any of his or her remaining Copyright and Related"
+      },
+      {
+       "type": "add",
+       "text": "Rights in the Work or (ii) assert any associated claims and causes of action"
+      },
+      {
+       "type": "add",
+       "text": "with respect to the Work, in either case contrary to Affirmer's express"
+      },
+      {
+       "type": "add",
+       "text": "Statement of Purpose."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "4. Limitations and Disclaimers."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  a. No trademark or patent rights held by Affirmer are waived, abandoned,"
+      },
+      {
+       "type": "add",
+       "text": "  surrendered, licensed or otherwise affected by this document."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  b. Affirmer offers the Work as-is and makes no representations or warranties"
+      },
+      {
+       "type": "add",
+       "text": "  of any kind concerning the Work, express, implied, statutory or otherwise,"
+      },
+      {
+       "type": "add",
+       "text": "  including without limitation warranties of title, merchantability, fitness"
+      },
+      {
+       "type": "add",
+       "text": "  for a particular purpose, non infringement, or the absence of latent or"
+      },
+      {
+       "type": "add",
+       "text": "  other defects, accuracy, or the present or absence of errors, whether or not"
+      },
+      {
+       "type": "add",
+       "text": "  discoverable, all to the greatest extent permissible under applicable law."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  c. Affirmer disclaims responsibility for clearing rights of other persons"
+      },
+      {
+       "type": "add",
+       "text": "  that may apply to the Work or any use thereof, including without limitation"
+      },
+      {
+       "type": "add",
+       "text": "  any person's Copyright and Related Rights in the Work. Further, Affirmer"
+      },
+      {
+       "type": "add",
+       "text": "  disclaims responsibility for obtaining any necessary consents, permissions or"
+      },
+      {
+       "type": "add",
+       "text": "  other rights required for any use of the Work."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "  d. Affirmer understands and acknowledges that Creative Commons is not a"
+      },
+      {
+       "type": "add",
+       "text": "  party to this document and has no duty or obligation with respect to this CC0"
+      },
+      {
+       "type": "add",
+       "text": "  or use of the Work."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "For more information, please see"
+      },
+      {
+       "type": "add",
+       "text": "<http://creativecommons.org/publicdomain/zero/1.0/>"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "README.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# US Copyright Law: A Legislative History in Git"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "This repository tracks every legislative change to United States copyright law, from the first Copyright Act of 1790 to the present day. Each commit represents a single Act of Congress that created or amended copyright law, with the full statute text and metadata about the change."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## How to Use This Repository"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Browse the timeline**: `git log --oneline` shows every act that changed copyright law in chronological order."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**See what an act changed**: `git show <commit>` or `git diff <commit>~1 <commit>` shows exactly what a given act added, removed, or modified."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Read the law at any point in time**: `git checkout <commit>` checks out the full text of copyright law as it existed after a given act."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Compare two eras**: `git diff v1909 v1976` shows the complete transformation from the 1909 Act to the 1976 Act."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Repository Structure"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "```"
+      },
+      {
+       "type": "add",
+       "text": "sections/          # Current Title 17 U.S.C. (one file per section, post-1976)"
+      },
+      {
+       "type": "add",
+       "text": "pre-1976/          # Statute text as it existed before the 1976 rewrite"
+      },
+      {
+       "type": "add",
+       "text": "metadata/"
+      },
+      {
+       "type": "add",
+       "text": "  acts.yaml        # Index of all acts with dates, citations, and summaries"
+      },
+      {
+       "type": "add",
+       "text": "```"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "### Pre-1976 vs. Post-1976"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "US copyright law has two distinct structural eras:"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "- **1790-1975**: Copyright statutes existed as standalone acts, later codified in Title 17 of the U.S. Code. The structure changed significantly with each major revision. These are stored in `pre-1976/`."
+      },
+      {
+       "type": "add",
+       "text": "- **1976-present**: The Copyright Act of 1976 (Pub. L. 94-553) completely rewrote Title 17 with the section numbering used today. Amendments since then modify this stable structure. These are stored in `sections/`."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Commit Conventions"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "- Each commit represents one Public Law that created or amended copyright law"
+      },
+      {
+       "type": "add",
+       "text": "- Commit messages include the act name, Public Law number, effective date, and a brief summary"
+      },
+      {
+       "type": "add",
+       "text": "- `GIT_AUTHOR_DATE` is set to the enactment date for chronological accuracy"
+      },
+      {
+       "type": "add",
+       "text": "- Major acts are tagged (e.g., `v1790`, `v1909`, `v1976`)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Sources"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "| Era | Primary Source |"
+      },
+      {
+       "type": "add",
+       "text": "|-----|---------------|"
+      },
+      {
+       "type": "add",
+       "text": "| 1790-1925 | Statutes at Large via LOC / govinfo.gov |"
+      },
+      {
+       "type": "add",
+       "text": "| 1926-1975 | Historical U.S. Code via govinfo.gov |"
+      },
+      {
+       "type": "add",
+       "text": "| 1976-present | Office of Law Revision Counsel (uscode.house.gov) |"
+      },
+      {
+       "type": "add",
+       "text": "| Individual amendments | Congress.gov (bill text / Public Law text) |"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Contributing"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding or correcting legislative entries."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## License"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "The text of US federal law is in the public domain. This repository's organizational structure and metadata are released under [CC0 1.0 Universal](LICENSE)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

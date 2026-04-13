@@ -1,0 +1,172 @@
+{
+ "hash": "00c4cc6",
+ "act_name": "Satellite Television Extension and Localism Act of 2010 (STELA)",
+ "files": [
+  {
+   "path": "sections/111.md",
+   "hunks": [
+    {
+     "old_start": 12,
+     "new_start": 12,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) the carriage of the signals comprising the secondary transmission is required under the rules, regulations, or authorizations of the Federal Communications Commission; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) the signal of the primary transmitter is not altered or changed in any way by the secondary transmitter."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Secondary Transmissions by Cable Systems.-"
+      },
+      {
+       "type": "del",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection and section 114(d), secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "add",
+       "text": "(1) Subject to the provisions of paragraphs (2), (3), and (4) of this subsection , secondary transmissions to the public by a cable system of a performance or display of a work embodied in a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico shall be subject to statutory licensing upon compliance with the requirements of subsection (d) where the carriage of the signals comprising the secondary transmission is permissible under the rules, regulations, or authorizations of the Federal Communications Commission."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Notwithstanding the provisions of paragraph (1) of this subsection, the willful or repeated secondary transmission to the public by a cable system of a primary transmission made by a broadcast station licensed by the Federal Communications Commission or by an appropriate governmental authority of Canada or Mexico and embodying a performance or display of a work is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, in the following cases:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) where the carriage of the signals comprising the secondary transmission is not permissible under the rules, regulations, or authorizations of the Federal Communications Commission; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) where the cable system has not deposited the statement of account and royalty fee required by subsection (d)."
+      }
+     ]
+    },
+    {
+     "old_start": 69,
+     "new_start": 69,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(D) within forty-five days after the end of each calendar quarter, an owner or officer of the cable system executes an affidavit attesting (i) to the steps and precautions taken to prevent duplication of the videotape, and (ii) subject to paragraph (2), to the erasure or destruction of all videotapes made or used during such quarter;"
+      },
+      {
+       "type": "ctx",
+       "text": "(E) such owner or officer places or causes each such affidavit, and affidavits received pursuant to paragraph (2)(C), to be placed in a file, open to public inspection, at such system's main office in the community where the transmission is made or in the nearest community where such system maintains an office; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(F) the nonsimultaneous transmission is one that the cable system would be authorized to transmit under the rules, regulations, and authorizations of the Federal Communications Commission in effect at the time of the nonsimultaneous transmission if the transmission had been made simultaneously, except that this subparagraph shall not apply to inadvertent or accidental transmissions."
+      },
+      {
+       "type": "del",
+       "text": "(2) If a cable system transfers to any person a videotape of a program nonsimultaneously transmitted by it, such transfer is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, except that, pursuant to a written, nonprofit contract providing for the equitable sharing of the costs of such videotape and its transfer, a videotape nonsimultaneously transmitted by it, in accordance with paragraph (1), may be transferred by one cable system in Alaska to another system in Alaska, by one cable system in Hawaii permitted to make such nonsimultaneous transmissions to another such cable system in Hawaii, or by one cable system in Guam, the Northern Mariana Islands, the Federated States of Micronesia, the Republic of Palau, or the Republic of the Marshall Islands, to another cable system in any of those five entities, if-"
+      },
+      {
+       "type": "add",
+       "text": "(2) If a cable system transfers to any person a videotape of a program nonsimultaneously transmitted by it, such transfer is actionable as an act of infringement under section 501, and is fully subject to the remedies provided by sections 502 through 506, except that, pursuant to a written, nonprofit contract providing for the equitable sharing of the costs of such videotape and its transfer, a videotape nonsimultaneously transmitted by it, in accordance with paragraph (1), may be transferred by one cable system in Alaska to another system in Alaska, by one cable system in Hawaii permitted to make such nonsimultaneous transmissions to another such cable system in Hawaii, or by one cable system in Guam, the Northern Mariana Islands, or the Trust Territory of the Pacific Islands, to another cable system in any of those five entities, if-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) each such contract is available for public inspection in the offices of the cable systems involved, and a copy of such contract is filed, within thirty days after such contract is entered into, with the Copyright Office (which Office shall make each such contract available for public inspection);"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the cable system to which the videotape is transferred complies with paragraph (1)(A), (B), (C)(i), (iii), and (iv), and (D) through (F); and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) such system provides a copy of the affidavit required to be made in accordance with paragraph (1)(D) to each cable system making a previous nonsimultaneous transmission of the same videotape."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/708.md",
+   "hunks": [
+    {
+     "old_start": 6,
+     "new_start": 6,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) on filing each application for registration of a claim for renewal of a subsisting copyright under section 304(a), including the issuance of a certificate of registration if registration is made;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) for the issuance of a receipt for a deposit under section 407;"
+      },
+      {
+       "type": "ctx",
+       "text": "(4) for the recordation, as provided by section 205, of a transfer of copyright ownership or other document;"
+      },
+      {
+       "type": "del",
+       "text": "(5) for the filing, under section 115(b), of a notice of intention to obtain a compulsory license;"
+      },
+      {
+       "type": "add",
+       "text": "(5) for the filing, under section 115(b),1 of a notice of intention to obtain a compulsory license;"
+      },
+      {
+       "type": "ctx",
+       "text": "(6) for the recordation, under section 302(c), of a statement revealing the identity of an author of an anonymous or pseudonymous work, or for the recordation, under section 302(d), of a statement relating to the death of an author;"
+      },
+      {
+       "type": "ctx",
+       "text": "(7) for the issuance, under section 706, of an additional certificate of registration;"
+      },
+      {
+       "type": "ctx",
+       "text": "(8) for the issuance of any other certification;"
+      }
+     ]
+    },
+    {
+     "old_start": 24,
+     "new_start": 24,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(d)(1) Except as provided in paragraph (2), all fees received under this section shall be deposited by the Register of Copyrights in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office. Such fees that are collected shall remain available until expended. The Register may, in accordance with regulations that he or she shall prescribe, refund any sum paid by mistake or in excess of the fee required by this section."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) In the case of fees deposited against future services, the Register of Copyrights shall request the Secretary of the Treasury to invest in interest-bearing securities in the United States Treasury any portion of the fees that, as determined by the Register, is not required to meet current deposit account demands. Funds from such portion of fees shall be invested in securities that permit funds to be available to the Copyright Office at all times if they are determined to be necessary to meet current deposit account demands. Such investments shall be in public debt securities with maturities suitable to the needs of the Copyright Office, as determined by the Register of Copyrights, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities."
+      },
+      {
+       "type": "ctx",
+       "text": "(3) The income on such investments shall be deposited in the Treasury of the United States and shall be credited to the appropriations for necessary expenses of the Copyright Office."
+      },
+      {
+       "type": "add",
+       "text": "(e)(1) In this subsection, the term \"covered competition\" means-"
+      },
+      {
+       "type": "add",
+       "text": "(A) an art competition sponsored by the Congressional Institute that is open only to high school students; or"
+      },
+      {
+       "type": "add",
+       "text": "(B) the competition established under section 3 of House Resolution 77, 113th Congress, agreed to February 26, 2013."
+      },
+      {
+       "type": "add",
+       "text": "(2) With respect to a work that wins a covered competition, the Register of Copyrights-"
+      },
+      {
+       "type": "add",
+       "text": "(A) shall waive the requirement under subsection (a)(1) with respect to an application for registration of a copyright claim for that work if that application is submitted to the Copyright Office not later than the last day of the calendar year following the year in which the work claimed by the application wins the covered competition (referred to in this paragraph as the \"covered year\"); and"
+      },
+      {
+       "type": "add",
+       "text": "(B) may waive a fee described in subparagraph (A) for an application submitted after the end of the covered year if the fee would have been waived under that subparagraph had the application been submitted before the last day of the covered year."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

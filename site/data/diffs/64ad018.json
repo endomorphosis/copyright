@@ -1,0 +1,67 @@
+{
+ "hash": "64ad018",
+ "act_name": "Bankruptcy Reform Act of 1978 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/201.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 201"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7201. Ownership of copyright"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Initial Ownership.-Copyright in a work protected under this title vests initially in the author or authors of the work. The authors of a joint work are coowners of copyright in the work."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Works Made for Hire.-In the case of a work made for hire, the employer or other person for whom the work was prepared is considered the author for purposes of this title, and, unless the parties have expressly agreed otherwise in a written instrument signed by them, owns all of the rights comprised in the copyright."
+      }
+     ]
+    },
+    {
+     "old_start": 5,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(d) Transfer of Ownership.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) The ownership of a copyright may be transferred in whole or in part by any means of conveyance or by operation of law, and may be bequeathed by will or pass as personal property by the applicable laws of intestate succession."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Any of the exclusive rights comprised in a copyright, including any subdivision of any of the rights specified by section 106, may be transferred as provided by clause (1) and owned separately. The owner of any particular exclusive right is entitled, to the extent of that right, to all of the protection and remedies accorded to the copyright owner by this title."
+      },
+      {
+       "type": "del",
+       "text": "(e) Involuntary Transfer.-When an individual author's ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to the copyright, or any of the exclusive rights under a copyright, shall be given effect under this title."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(e) Involuntary Transfer.-When an individual author's ownership of a copyright, or of any of the exclusive rights under a copyright, has not previously been transferred voluntarily by that individual author, no action by any governmental body or other official or organization purporting to seize, expropriate, transfer, or exercise rights of ownership with respect to the copyright, or any of the exclusive rights under a copyright, shall be given effect under this title, except as provided under title 11."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

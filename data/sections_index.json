@@ -1,0 +1,584 @@
+{
+ "1001": {
+  "title": "Definitions",
+  "amendment_count": 1,
+  "first_version": "Audio Home Recording Act of 1992",
+  "last_amended": "Audio Home Recording Act of 1992"
+ },
+ "1004": {
+  "title": "Royalty payments",
+  "amendment_count": 1,
+  "first_version": "Copyright Royalty Tribunal Reform Act of 1993",
+  "last_amended": "Copyright Royalty Tribunal Reform Act of 1993"
+ },
+ "1005": {
+  "title": "Deposit of royalty payments and deduction of expenses",
+  "amendment_count": 1,
+  "first_version": "Copyright Royalty Tribunal Reform Act of 1993",
+  "last_amended": "Copyright Royalty Tribunal Reform Act of 1993"
+ },
+ "1006": {
+  "title": "Entitlement to royalty payments",
+  "amendment_count": 3,
+  "first_version": "Copyright Royalty Tribunal Reform Act of 1993",
+  "last_amended": "Copyright Royalty and Distribution Reform Act of 2004"
+ },
+ "1007": {
+  "title": "Procedures for distributing royalty payments",
+  "amendment_count": 2,
+  "first_version": "Copyright Royalty Tribunal Reform Act of 1993",
+  "last_amended": "Copyright Royalty and Distribution Reform Act of 2004"
+ },
+ "101": {
+  "title": "Definitions",
+  "amendment_count": 6,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Intellectual Property and Communications Omnibus Reform Act of 1999"
+ },
+ "1010": {
+  "title": "Determination of certain disputes",
+  "amendment_count": 1,
+  "first_version": "Copyright Royalty Tribunal Reform Act of 1993",
+  "last_amended": "Copyright Royalty Tribunal Reform Act of 1993"
+ },
+ "102": {
+  "title": "Subject matter of copyright: In general",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Architectural Works Copyright Protection Act of 1990"
+ },
+ "103": {
+  "title": "Subject matter of copyright: Compilations and derivative works",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "104": {
+  "title": "Subject matter of copyright: National origin",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Digital Millennium Copyright Act of 1998 (DMCA)"
+ },
+ "104A": {
+  "title": "Copyright in restored works",
+  "amendment_count": 3,
+  "first_version": "North American Free Trade Agreement Implementation Act of 1993 (Copyright Provisions)",
+  "last_amended": "Digital Millennium Copyright Act of 1998 (DMCA)"
+ },
+ "105": {
+  "title": "Subject matter of copyright: United States Government works",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)"
+ },
+ "106": {
+  "title": "Exclusive rights in copyrighted works",
+  "amendment_count": 4,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018"
+ },
+ "107": {
+  "title": "Limitations on exclusive rights: Fair use",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Fair Use of Unpublished Works Act of 1992"
+ },
+ "108": {
+  "title": "Limitations on exclusive rights: Reproduction by libraries and archives",
+  "amendment_count": 5,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Family Entertainment and Copyright Act of 2005"
+ },
+ "109": {
+  "title": "Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord",
+  "amendment_count": 5,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Uruguay Round Agreements Act of 1994 (Copyright Provisions)"
+ },
+ "110": {
+  "title": "Limitations on exclusive rights: Exemption of certain performances and displays",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Nonprofit Performance Exemption Act of 1982"
+ },
+ "1101": {
+  "title": "Unauthorized fixation and trafficking in sound recordings and music videos",
+  "amendment_count": 2,
+  "first_version": "Uruguay Round Agreements Act of 1994 (Copyright Provisions)",
+  "last_amended": "Stop Counterfeiting in Manufactured Goods Act of 2006 (Copyright Provision)"
+ },
+ "111": {
+  "title": "Limitations on exclusive rights: Secondary transmissions of broadcast programming by cable",
+  "amendment_count": 8,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Satellite Television Extension and Localism Act of 2010 (STELA)"
+ },
+ "112": {
+  "title": "Limitations on exclusive rights: Ephemeral recordings",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Royalty and Distribution Reform Act of 2004"
+ },
+ "113": {
+  "title": "Scope of exclusive rights in pictorial, graphic, and sculptural works",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Visual Artists Rights Act of 1990 (VARA)"
+ },
+ "114": {
+  "title": "Scope of exclusive rights in sound recordings",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Digital Performance Right in Sound Recordings Act of 1995"
+ },
+ "115": {
+  "title": "Section 115",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Digital Performance Right in Sound Recordings Act of 1995"
+ },
+ "116": {
+  "title": "Negotiated licenses for public performances by means of coin-operated phonorecord players",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Royalty Tribunal Reform Act of 1993"
+ },
+ "117": {
+  "title": "Limitations on exclusive rights: Computer programs",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Computer Software Copyright Act of 1980"
+ },
+ "118": {
+  "title": "Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Royalty Tribunal Reform Act of 1993"
+ },
+ "119": {
+  "title": "Limitations on exclusive rights: Secondary transmissions of distant television programming by satellite",
+  "amendment_count": 9,
+  "first_version": "Satellite Home Viewer Act of 1988",
+  "last_amended": "STELA Reauthorization Act of 2014"
+ },
+ "1201": {
+  "title": "Circumvention of copyright protection systems",
+  "amendment_count": 2,
+  "first_version": "Digital Millennium Copyright Act of 1998 (DMCA)",
+  "last_amended": "Intellectual Property and Communications Omnibus Reform Act of 1999"
+ },
+ "1202": {
+  "title": "Integrity of copyright management information",
+  "amendment_count": 2,
+  "first_version": "Digital Millennium Copyright Act of 1998 (DMCA)",
+  "last_amended": "Technical Corrections to Title 17 Act of 1999"
+ },
+ "1203": {
+  "title": "Civil remedies",
+  "amendment_count": 2,
+  "first_version": "Intellectual Property and Communications Omnibus Reform Act of 1999",
+  "last_amended": "Copyright Cleanup, Clarification, and Corrections Act of 2010"
+ },
+ "1204": {
+  "title": "Criminal offenses and penalties",
+  "amendment_count": 2,
+  "first_version": "Intellectual Property and Communications Omnibus Reform Act of 1999",
+  "last_amended": "Copyright Cleanup, Clarification, and Corrections Act of 2010"
+ },
+ "121": {
+  "title": "Limitations on exclusive rights: Reproduction for blind or other people with disabilities",
+  "amendment_count": 3,
+  "first_version": "Legislative Branch Appropriations Act of 1997 (Chafee Amendment)",
+  "last_amended": "Intellectual Property and High Technology Technical Amendments Act of 2002"
+ },
+ "122": {
+  "title": "Limitations on exclusive rights: Secondary transmissions of local television programming by satellite",
+  "amendment_count": 1,
+  "first_version": "Intellectual Property and Communications Omnibus Reform Act of 1999",
+  "last_amended": "Intellectual Property and Communications Omnibus Reform Act of 1999"
+ },
+ "1301": {
+  "title": "Designs protected",
+  "amendment_count": 2,
+  "first_version": "Digital Millennium Copyright Act of 1998 (DMCA)",
+  "last_amended": "National Defense Authorization Act for Fiscal Year 2022 (Copyright Provision)"
+ },
+ "1302": {
+  "title": "Designs not subject to protection",
+  "amendment_count": 1,
+  "first_version": "Technical Corrections to Title 17 Act of 1999",
+  "last_amended": "Technical Corrections to Title 17 Act of 1999"
+ },
+ "1401": {
+  "title": "Unauthorized use of pre-1972 sound recordings",
+  "amendment_count": 1,
+  "first_version": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018",
+  "last_amended": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018"
+ },
+ "1501": {
+  "title": "Definitions",
+  "amendment_count": 1,
+  "first_version": "Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)",
+  "last_amended": "Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)"
+ },
+ "1502": {
+  "title": "Copyright Claims Board",
+  "amendment_count": 1,
+  "first_version": "Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)",
+  "last_amended": "Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)"
+ },
+ "201": {
+  "title": "Ownership of copyright",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Bankruptcy Reform Act of 1978 (Copyright Provision)"
+ },
+ "202": {
+  "title": "Ownership of copyright as distinct from ownership of material object",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "203": {
+  "title": "Termination of transfers and licenses granted by the author",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Intellectual Property and High Technology Technical Amendments Act of 2002"
+ },
+ "204": {
+  "title": "Execution of transfers of copyright ownership",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "205": {
+  "title": "Recordation of transfers and other documents",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Cleanup, Clarification, and Corrections Act of 2010"
+ },
+ "301": {
+  "title": "Preemption with respect to other laws",
+  "amendment_count": 4,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Sonny Bono Copyright Term Extension Act of 1998"
+ },
+ "302": {
+  "title": "Duration of copyright: Works created on or after January 1, 1978",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Sonny Bono Copyright Term Extension Act of 1998"
+ },
+ "303": {
+  "title": "Duration of copyright: Works created but not published or copyrighted before January 1, 1978",
+  "amendment_count": 4,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Cleanup, Clarification, and Corrections Act of 2010"
+ },
+ "304": {
+  "title": "Duration of copyright: Subsisting copyrights",
+  "amendment_count": 5,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Intellectual Property and High Technology Technical Amendments Act of 2002"
+ },
+ "305": {
+  "title": "Duration of copyright: Terminal date",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "401": {
+  "title": "Notice of copyright: Visually perceptible copies",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Berne Convention Implementation Act of 1988"
+ },
+ "402": {
+  "title": "Notice of copyright: Phonorecords of sound recordings",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Berne Convention Implementation Act of 1988"
+ },
+ "403": {
+  "title": "Notice of copyright: Publications incorporating United States Government works",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Berne Convention Implementation Act of 1988"
+ },
+ "404": {
+  "title": "Notice of copyright: Contributions to collective works",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Berne Convention Implementation Act of 1988"
+ },
+ "405": {
+  "title": "Notice of copyright: Omission of notice on certain copies and phonorecords",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Technical Amendments Act of 1997"
+ },
+ "406": {
+  "title": "Notice of copyright: Error in name or date on certain copies and phonorecords",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Berne Convention Implementation Act of 1988"
+ },
+ "407": {
+  "title": "Deposit of copies or phonorecords for Library of Congress",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Technical Amendments Act of 1997"
+ },
+ "408": {
+  "title": "Copyright registration in general",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Family Entertainment and Copyright Act of 2005"
+ },
+ "409": {
+  "title": "Application for copyright registration",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Cleanup, Clarification, and Corrections Act of 2010"
+ },
+ "410": {
+  "title": "Registration of claim and issuance of certificate",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "411": {
+  "title": "Registration and civil infringement actions",
+  "amendment_count": 4,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Family Entertainment and Copyright Act of 2005"
+ },
+ "412": {
+  "title": "Registration as prerequisite to certain remedies for infringement",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)"
+ },
+ "501": {
+  "title": "Infringement of copyright",
+  "amendment_count": 6,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Satellite Television Community Protection and Promotion Act of 2019"
+ },
+ "502": {
+  "title": "Remedies for infringement: Injunctions",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "503": {
+  "title": "Remedies for infringement: Impounding and disposition of infringing articles",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)"
+ },
+ "504": {
+  "title": "Remedies for infringement: Damages and profits",
+  "amendment_count": 5,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Cleanup, Clarification, and Corrections Act of 2010"
+ },
+ "505": {
+  "title": "Remedies for infringement: Costs and attorney's fees",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "506": {
+  "title": "Criminal offenses",
+  "amendment_count": 5,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Family Entertainment and Copyright Act of 2005"
+ },
+ "507": {
+  "title": "Limitations on actions",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Digital Millennium Copyright Act of 1998 (DMCA)"
+ },
+ "508": {
+  "title": "Notification of filing and determination of actions",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "509": {
+  "title": "\u00a712(a)(14), Nov. 13, 1997, 111 Stat. 1535",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Technical Amendments Act of 1997"
+ },
+ "510": {
+  "title": "Remedies for alteration of programming by cable systems",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Intellectual Property and Communications Omnibus Reform Act of 1999"
+ },
+ "511": {
+  "title": "Liability of States, instrumentalities of States, and State officials for infringement of copyright",
+  "amendment_count": 2,
+  "first_version": "Copyright Remedy Clarification Act of 1990",
+  "last_amended": "Intellectual Property and High Technology Technical Amendments Act of 2002"
+ },
+ "512": {
+  "title": "Limitations on liability relating to material online",
+  "amendment_count": 1,
+  "first_version": "Digital Millennium Copyright Act of 1998 (DMCA)",
+  "last_amended": "Digital Millennium Copyright Act of 1998 (DMCA)"
+ },
+ "513": {
+  "title": "Determination of reasonable license fees for individual proprietors",
+  "amendment_count": 1,
+  "first_version": "Sonny Bono Copyright Term Extension Act of 1998",
+  "last_amended": "Sonny Bono Copyright Term Extension Act of 1998"
+ },
+ "601": {
+  "title": "Manufacture, importation, and public distribution of certain copies",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Manufacturing Clause Extension Act of 1982"
+ },
+ "602": {
+  "title": "Infringing importation or exportation of copies or phonorecords",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)"
+ },
+ "603": {
+  "title": "Importation prohibitions: Enforcement and disposition of excluded articles",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Anticounterfeiting Consumer Protection Act of 1996 (Copyright Provisions)"
+ },
+ "701": {
+  "title": "The Copyright Office: General responsibilities and organization",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Satellite Television Community Protection and Promotion Act of 2019"
+ },
+ "702": {
+  "title": "Copyright Office regulations",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "703": {
+  "title": "Effective date of actions in Copyright Office",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "704": {
+  "title": "Retention and disposition of articles deposited in Copyright Office",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Cleanup, Clarification, and Corrections Act of 2010"
+ },
+ "705": {
+  "title": "Copyright Office records: Preparation, maintenance, public inspection, and searching",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Work Made for Hire and Copyright Corrections Act of 2000"
+ },
+ "706": {
+  "title": "Copies of Copyright Office records",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "707": {
+  "title": "Copyright Office forms and publications",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "708": {
+  "title": "Copyright Office fees",
+  "amendment_count": 8,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Satellite Television Extension and Localism Act of 2010 (STELA)"
+ },
+ "801": {
+  "title": "Copyright Royalty Judges; appointment and functions",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Royalty and Distribution Reform Act of 2004"
+ },
+ "802": {
+  "title": "Copyright Royalty Judgeships; staff",
+  "amendment_count": 2,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Royalty and Distribution Reform Act of 2004"
+ },
+ "803": {
+  "title": "Proceedings of Copyright Royalty Judges",
+  "amendment_count": 5,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Satellite Television Community Protection and Promotion Act of 2019"
+ },
+ "804": {
+  "title": "Institution of proceedings",
+  "amendment_count": 3,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018"
+ },
+ "805": {
+  "title": "General rule for voluntarily negotiated agreements",
+  "amendment_count": 1,
+  "first_version": "Copyright Act of 1976",
+  "last_amended": "Copyright Act of 1976"
+ },
+ "901": {
+  "title": "Definitions",
+  "amendment_count": 1,
+  "first_version": "Semiconductor Chip Protection Act of 1984",
+  "last_amended": "Semiconductor Chip Protection Act of 1984"
+ },
+ "902": {
+  "title": "Subject matter of protection",
+  "amendment_count": 1,
+  "first_version": "Semiconductor Chip Protection Extension Act of 1987",
+  "last_amended": "Semiconductor Chip Protection Extension Act of 1987"
+ },
+ "909": {
+  "title": "Mask work notice",
+  "amendment_count": 1,
+  "first_version": "Copyright Technical Amendments Act of 1997",
+  "last_amended": "Copyright Technical Amendments Act of 1997"
+ },
+ "910": {
+  "title": "Enforcement of exclusive rights",
+  "amendment_count": 2,
+  "first_version": "Copyright Remedy Clarification Act of 1990",
+  "last_amended": "Copyright Technical Amendments Act of 1997"
+ },
+ "911": {
+  "title": "Civil actions",
+  "amendment_count": 1,
+  "first_version": "Copyright Remedy Clarification Act of 1990",
+  "last_amended": "Copyright Remedy Clarification Act of 1990"
+ },
+ "912": {
+  "title": "Relation to other laws",
+  "amendment_count": 2,
+  "first_version": "Judicial Improvements and Access to Justice Act of 1988 (Copyright Provision)",
+  "last_amended": "Audio Home Recording Act of 1992"
+ },
+ "913": {
+  "title": "Transitional provisions",
+  "amendment_count": 1,
+  "first_version": "Semiconductor Chip Protection Act of 1984",
+  "last_amended": "Semiconductor Chip Protection Act of 1984"
+ },
+ "914": {
+  "title": "International transitional provisions",
+  "amendment_count": 2,
+  "first_version": "Semiconductor Chip Protection Act of 1984",
+  "last_amended": "Semiconductor Chip Protection Extension Act of 1987"
+ }
+}

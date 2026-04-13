@@ -1,0 +1,3061 @@
+[
+ {
+  "hash": "18bc97d",
+  "full_hash": "18bc97dc2e81bd8536dae1c546e146f25ed3a326",
+  "date": "",
+  "name": "Initialize repository",
+  "public_law": "",
+  "citation": "",
+  "summary": "",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "2f0cd18",
+  "full_hash": "2f0cd18d69257113850f44b0ecbcf934479b0e03",
+  "date": "1790-05-31",
+  "name": "Copyright Act of 1790",
+  "public_law": "",
+  "citation": "1 Stat. 124",
+  "summary": "First federal copyright law. Protected books, maps, and charts for 14 years with a 14-year renewal term. Required registration in the local district court and deposit of a copy with the Secretary of State.",
+  "tag": "v1790",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-act-of-1790.md"
+  ]
+ },
+ {
+  "hash": "595cd5d",
+  "full_hash": "595cd5d984f6bb5beb04bb223c5b09700e438826",
+  "date": "1802-04-29",
+  "name": "Copyright Act Amendment of 1802",
+  "public_law": "",
+  "citation": "2 Stat. 171",
+  "summary": "Extended protection to historical and other prints. Required copyright notice to be inserted in the title page or the page immediately following.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-act-amendment-of-1802.md"
+  ]
+ },
+ {
+  "hash": "6ece053",
+  "full_hash": "6ece05311c32e8fd53771ca250fde3e82864cfbc",
+  "date": "1831-02-03",
+  "name": "Copyright Act of 1831",
+  "public_law": "",
+  "citation": "4 Stat. 436",
+  "summary": "First general revision. Added musical compositions to protected works. Extended initial term to 28 years with a 14-year renewal term. Granted rights to widows and children of deceased authors.",
+  "tag": "v1831",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-act-of-1831.md"
+  ]
+ },
+ {
+  "hash": "e430752",
+  "full_hash": "e430752597971d2986163e652fa258917d0d55f2",
+  "date": "1834-06-30",
+  "name": "Copyright Assignment Recordation Act of 1834",
+  "public_law": "",
+  "citation": "4 Stat. 728",
+  "summary": "Amended the copyright act to permit, for the first time, recordation of assignments of copyright. Required assignments to be recorded with the clerk of the district court within sixty days.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-assignment-recordation-act-of-1834.md"
+  ]
+ },
+ {
+  "hash": "2a3c93b",
+  "full_hash": "2a3c93b631411885be8465a8e869a645a3b32f14",
+  "date": "1856-08-18",
+  "name": "Copyright Amendment of 1856",
+  "public_law": "",
+  "citation": "11 Stat. 138",
+  "summary": "Extended copyright protection to dramatic compositions, including the exclusive right of public performance.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-amendment-of-1856.md"
+  ]
+ },
+ {
+  "hash": "594737e",
+  "full_hash": "594737eaf9962f68fa78ff6d26d22ab55236b9d5",
+  "date": "1865-03-03",
+  "name": "Copyright Amendment of 1865",
+  "public_law": "",
+  "citation": "13 Stat. 540",
+  "summary": "Extended copyright protection to photographs and photographic negatives.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-amendment-of-1865.md"
+  ]
+ },
+ {
+  "hash": "f29868a",
+  "full_hash": "f29868a6951478a11c2cc52d81fc48eac01c00fd",
+  "date": "1867-02-18",
+  "name": "Copyright Deposit Penalty Act of 1867",
+  "public_law": "",
+  "citation": "14 Stat. 395",
+  "summary": "Added a $25 penalty for failure to deposit copyrighted works within one month of publication. Also provided for free mailing of copyright deposit copies. Later absorbed into the Revised Statutes of 1873.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-deposit-penalty-act-of-1867.md"
+  ]
+ },
+ {
+  "hash": "b366527",
+  "full_hash": "b36652753aa04a9a2754639510433b5ae2641542",
+  "date": "1870-07-08",
+  "name": "Copyright Act of 1870",
+  "public_law": "",
+  "citation": "16 Stat. 198, 212",
+  "summary": "Second general revision. Centralized all copyright activities at the Library of Congress. Extended protection to paintings, drawings, chromos, statues, statuary, and models or designs intended to be perfected as works of the fine arts. Also covered translations and dramatizations.",
+  "tag": "v1870",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-act-of-1870.md"
+  ]
+ },
+ {
+  "hash": "5f7f471",
+  "full_hash": "5f7f471bccbb2106ff672f5566fe7117d22b952c",
+  "date": "1874-06-18",
+  "name": "Copyright Notice Amendment of 1874",
+  "public_law": "",
+  "citation": "18 Stat. 78",
+  "summary": "Revised copyright notice requirements and transferred registration of commercial prints and labels to the Patent Office.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-notice-amendment-of-1874.md"
+  ]
+ },
+ {
+  "hash": "18c5455",
+  "full_hash": "18c54555bca43621cea08d083b08db322b06f066",
+  "date": "1879-03-03",
+  "name": "Post Office Appropriations Act of 1879 (Copyright Mailing Provision)",
+  "public_law": "",
+  "citation": "20 Stat. 355",
+  "summary": "Made it illegal to mail infringing copies of copyrighted works through the US postal system.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/post-office-appropriations-act-of-1879.md"
+  ]
+ },
+ {
+  "hash": "ef4faad",
+  "full_hash": "ef4faad21e8ae3b79d0ae67ac258463c0958e128",
+  "date": "1882-08-01",
+  "name": "Copyright Notice Amendment of 1882",
+  "public_law": "",
+  "citation": "22 Stat. 181",
+  "summary": "Allowed copyright notices on designs for useful articles to be placed on the back or bottom rather than the front of the article.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-notice-amendment-of-1882.md"
+  ]
+ },
+ {
+  "hash": "e7bbd03",
+  "full_hash": "e7bbd030c6bf9078915e5884e135553fd60fe18f",
+  "date": "1891-03-03",
+  "name": "International Copyright Act of 1891 (Chace Act)",
+  "public_law": "",
+  "citation": "26 Stat. 1106",
+  "summary": "Authorized establishment of copyright relations with foreign nations. Required manufacturing clause (works must be printed in the US). First time foreign authors could obtain US copyright protection.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/international-copyright-act-of-1891.md"
+  ]
+ },
+ {
+  "hash": "ef35bba",
+  "full_hash": "ef35bba0591f1ada99d7aa59bde43b8e3cd5b59f",
+  "date": "1893-03-03",
+  "name": "Copyright Amnesty Act of 1893",
+  "public_law": "",
+  "citation": "27 Stat. 743",
+  "summary": "Amended the copyright deposit forfeiture provisions (R.S. 4956) to provide amnesty for delinquent deposits, preserving copyright for works whose required copies had not been timely deposited.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-amnesty-act-of-1893.md"
+  ]
+ },
+ {
+  "hash": "32eb5a6",
+  "full_hash": "32eb5a68b85d31596e73df658cd1516862b60c4e",
+  "date": "1895-01-12",
+  "name": "Printing Act of 1895",
+  "public_law": "",
+  "citation": "28 Stat. 601",
+  "summary": "Prohibited copyright in publications of the United States government. Centralized government printing operations.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/printing-act-of-1895.md"
+  ]
+ },
+ {
+  "hash": "d0104f0",
+  "full_hash": "d0104f0a4799f1b2bb4b0393e9138a9c9f571908",
+  "date": "1895-03-02",
+  "name": "Copyright Penalties Amendment of 1895",
+  "public_law": "",
+  "citation": "28 Stat. 965",
+  "summary": "Amended Section 4965 of the Revised Statutes (infringement penalties) to limit penalties for photograph infringement and establish a tiered penalty structure.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-penalties-amendment-of-1895.md"
+  ]
+ },
+ {
+  "hash": "9495304",
+  "full_hash": "9495304ddb2cc2eef230e098b1630e714ce13262",
+  "date": "1897-01-06",
+  "name": "Copyright Amendment of 1897 (Musical Performance)",
+  "public_law": "",
+  "citation": "29 Stat. 481",
+  "summary": "Made unauthorized public performance of musical compositions a misdemeanor punishable by imprisonment.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-amendment-of-1897.md"
+  ]
+ },
+ {
+  "hash": "a6fddf5",
+  "full_hash": "a6fddf596985ea5f33956389f7c769069880af73",
+  "date": "1897-02-19",
+  "name": "Copyright Office Establishment Act of 1897",
+  "public_law": "",
+  "citation": "29 Stat. 544",
+  "summary": "Established the Copyright Office as a separate department within the Library of Congress and created the position of Register of Copyrights.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-office-establishment-act-of-1897.md"
+  ]
+ },
+ {
+  "hash": "1322f05",
+  "full_hash": "1322f050fc4a83cc6e722b61d62e86d74d12a41d",
+  "date": "1897-03-03",
+  "name": "False Copyright Notice Amendment of 1897",
+  "public_law": "",
+  "citation": "29 Stat. 694",
+  "summary": "Amended Section 4963 of the Revised Statutes to extend the $100 penalty for false copyright notice to anyone who knowingly sold or imported articles bearing a fraudulent United States copyright notice.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/false-copyright-notice-amendment-of-1897.md"
+  ]
+ },
+ {
+  "hash": "0d1cc0f",
+  "full_hash": "0d1cc0f8cfed18ba4a0998acdfd497caf543d855",
+  "date": "1904-01-07",
+  "name": "Ad Interim Copyright Act of 1904",
+  "public_law": "",
+  "citation": "33 Stat. 4",
+  "summary": "Provided temporary (two-year) copyright protection specifically for foreign exhibitors at the Louisiana Purchase Exposition in St. Louis, without requiring compliance with the manufacturing clause.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/ad-interim-copyright-act-of-1904.md"
+  ]
+ },
+ {
+  "hash": "368e849",
+  "full_hash": "368e8495768e3a0c66312976f034fba1cbd9f27e",
+  "date": "1905-03-03",
+  "name": "Ad Interim Copyright Amendment of 1905",
+  "public_law": "",
+  "citation": "33 Stat. 1000",
+  "summary": "Amended ad interim copyright provisions to satisfy treaty obligations with France and Germany regarding copyright protection of foreign works.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/ad-interim-copyright-amendment-of-1905.md"
+  ]
+ },
+ {
+  "hash": "05ad7e6",
+  "full_hash": "05ad7e64c0871a5e9b2821a68a21d2da08fcac7b",
+  "date": "1909-03-04",
+  "name": "Copyright Act of 1909",
+  "public_law": "Pub. L. 60-349",
+  "citation": "35 Stat. 1075",
+  "summary": "Third general revision and first comprehensive copyright statute of the 20th century. Granted federal statutory protection to all writings of an author upon publication with notice, while preserving state common law protection for unpublished works. Introduced the mechanical license for musical recordings. Required published copies to bear copyright notice. Extended renewal term to 28 years (28+28 = 56 years total).",
+  "tag": "v1909",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-act-of-1909.md"
+  ]
+ },
+ {
+  "hash": "6b03d68",
+  "full_hash": "6b03d685813d776f6fbc3e3c6c886fe9f4adc3a5",
+  "date": "1912-08-24",
+  "name": "Copyright Amendment of 1912 (Townsend Amendment - Motion Pictures)",
+  "public_law": "",
+  "citation": "37 Stat. 488",
+  "summary": "Extended copyright protection to motion pictures as a distinct category. Previously, motion pictures were registered as series of still photographs.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-amendment-of-1912.md"
+  ]
+ },
+ {
+  "hash": "89b2642",
+  "full_hash": "89b264215dc36a30804a935433ae93ae94a7993f",
+  "date": "1914-03-28",
+  "name": "Copyright Deposit Amendment of 1914",
+  "public_law": "",
+  "citation": "38 Stat. 311",
+  "summary": "Amended Section 12 of the 1909 Act to allow foreign authors to deposit only one copy of the best edition (instead of two) for copyright registration.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-deposit-amendment-of-1914.md"
+  ]
+ },
+ {
+  "hash": "15b187f",
+  "full_hash": "15b187fc740f6468298fc4e6493bf3e3fe918718",
+  "date": "1939-07-31",
+  "name": "Prints and Labels Transfer Act of 1939",
+  "public_law": "",
+  "citation": "53 Stat. 1142",
+  "summary": "Transferred registration of prints and labels from the Patent Office to the Copyright Office, effective July 1, 1940.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/prints-and-labels-transfer-act-of-1939.md"
+  ]
+ },
+ {
+  "hash": "7e7d3d5",
+  "full_hash": "7e7d3d5cd037e61e4f672868f4908ebc51ab4206",
+  "date": "1941-09-25",
+  "name": "Emergency Copyright Act of 1941",
+  "public_law": "",
+  "citation": "55 Stat. 732",
+  "summary": "Extended time periods for completing copyright formalities to account for wartime disruptions of communications and transportation facilities during World War II.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/emergency-copyright-act-of-1941.md"
+  ]
+ },
+ {
+  "hash": "8ab822d",
+  "full_hash": "8ab822d03ae413f85d0bb42473dfb0e5a96a20ec",
+  "date": "1947-07-30",
+  "name": "Copyright Law Codification Act of 1947",
+  "public_law": "",
+  "citation": "61 Stat. 652",
+  "summary": "Codified copyright law as Title 17 of the United States Code. Substantive provisions remained those of the 1909 Act as amended.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-law-codification-act-of-1947.md"
+  ]
+ },
+ {
+  "hash": "fdbf157",
+  "full_hash": "fdbf157a0fbc8c9ecfdef105008c1d19bc07bfbd",
+  "date": "1957-09-07",
+  "name": "Copyright Statute of Limitations Act of 1957",
+  "public_law": "Pub. L. 85-313",
+  "citation": "71 Stat. 633",
+  "summary": "Established a uniform three-year statute of limitations for civil copyright infringement actions (Section 507) and a three-year limitation for criminal proceedings, replacing the prior practice of borrowing varying state statutes of limitations.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "507"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/copyright-statute-of-limitations-act-of-1957.md"
+  ]
+ },
+ {
+  "hash": "c926efd",
+  "full_hash": "c926efd4322c04ef8374d2003c4e69f2429d9ded",
+  "date": "1962-09-19",
+  "name": "First Copyright Term Extension Act of 1962",
+  "public_law": "Pub. L. 87-668",
+  "citation": "76 Stat. 555",
+  "summary": "First of nine interim extension acts. Extended renewal terms of copyrights that would otherwise expire, while Congress considered general revision of the copyright law.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/first-copyright-term-extension-act-of-1962.md"
+  ]
+ },
+ {
+  "hash": "6048c2e",
+  "full_hash": "6048c2e6b45a9dd38456776966fa0c2b25f3f3a9",
+  "date": "1965-08-28",
+  "name": "Second Copyright Term Extension Act of 1965",
+  "public_law": "Pub. L. 89-142",
+  "citation": "79 Stat. 581",
+  "summary": "Second interim extension of copyright renewal terms pending general revision.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/second-copyright-term-extension-act-of-1965.md"
+  ]
+ },
+ {
+  "hash": "af3002c",
+  "full_hash": "af3002cb4132ea3101855131e7db1544f98e7ef6",
+  "date": "1966-09-06",
+  "name": "Government Organization and Employees Act of 1966 (Copyright Provision)",
+  "public_law": "Pub. L. 89-554",
+  "citation": "80 Stat. 378",
+  "summary": "Repealed and re-enacted the Administrative Procedure Act as part of Title 5. Updated cross-references in Section 701 of Title 17 (Copyright Office) to reflect the new codification of APA provisions.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "701"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/government-organization-and-employees-act-of-1966.md"
+  ]
+ },
+ {
+  "hash": "6a744f1",
+  "full_hash": "6a744f1f122ee14c74811822a27631eb64914a59",
+  "date": "1967-11-16",
+  "name": "Third Copyright Term Extension Act of 1967",
+  "public_law": "Pub. L. 90-141",
+  "citation": "81 Stat. 464",
+  "summary": "Third interim extension of copyright renewal terms pending general revision.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/third-copyright-term-extension-act-of-1967.md"
+  ]
+ },
+ {
+  "hash": "c4f9db9",
+  "full_hash": "c4f9db93d335104d18490e936f524f7ec3a749c3",
+  "date": "1968-07-23",
+  "name": "Fourth Copyright Term Extension Act of 1968",
+  "public_law": "Pub. L. 90-416",
+  "citation": "82 Stat. 397",
+  "summary": "Fourth interim extension of copyright renewal terms pending general revision.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/fourth-copyright-term-extension-act-of-1968.md"
+  ]
+ },
+ {
+  "hash": "30ed40c",
+  "full_hash": "30ed40ce94570f49bc1b9368a0ab77e9861dff72",
+  "date": "1969-12-16",
+  "name": "Fifth Copyright Term Extension Act of 1969",
+  "public_law": "Pub. L. 91-147",
+  "citation": "83 Stat. 360",
+  "summary": "Fifth interim extension of copyright renewal terms pending general revision.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/fifth-copyright-term-extension-act-of-1969.md"
+  ]
+ },
+ {
+  "hash": "712a85e",
+  "full_hash": "712a85e6181e2bba6c680f522c7c040ea2cd945a",
+  "date": "1970-12-17",
+  "name": "Sixth Copyright Term Extension Act of 1970",
+  "public_law": "Pub. L. 91-555",
+  "citation": "84 Stat. 1441",
+  "summary": "Sixth interim extension of copyright renewal terms pending general revision.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/sixth-copyright-term-extension-act-of-1970.md"
+  ]
+ },
+ {
+  "hash": "af7fe43",
+  "full_hash": "af7fe436ecfac5cba8bb48edbb582b8717ace425",
+  "date": "1971-10-15",
+  "name": "Sound Recording Amendment of 1971",
+  "public_law": "Pub. L. 92-140",
+  "citation": "85 Stat. 391",
+  "summary": "Extended federal copyright protection to sound recordings fixed and first published on or after February 15, 1972. First time sound recordings received federal copyright protection.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "102"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/sound-recording-amendment-of-1971.md"
+  ]
+ },
+ {
+  "hash": "3272267",
+  "full_hash": "3272267e5015a76ce471007eb1111a9c0233c247",
+  "date": "1971-11-24",
+  "name": "Seventh Copyright Term Extension Act of 1971",
+  "public_law": "Pub. L. 92-170",
+  "citation": "85 Stat. 490",
+  "summary": "Seventh interim extension of copyright renewal terms pending general revision.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/seventh-copyright-term-extension-act-of-1971.md"
+  ]
+ },
+ {
+  "hash": "4829b79",
+  "full_hash": "4829b7931ff00aadb5d35bcde1dc74f805de34a6",
+  "date": "1972-10-25",
+  "name": "Eighth Copyright Term Extension Act of 1972",
+  "public_law": "Pub. L. 92-566",
+  "citation": "86 Stat. 1181",
+  "summary": "Eighth interim extension of copyright renewal terms pending general revision.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/eighth-copyright-term-extension-act-of-1972.md"
+  ]
+ },
+ {
+  "hash": "5d70190",
+  "full_hash": "5d7019080731b6d8ad82ae81072c663dd51cfb21",
+  "date": "1974-12-31",
+  "name": "Ninth Copyright Term Extension Act of 1974",
+  "public_law": "Pub. L. 93-573",
+  "citation": "88 Stat. 1873",
+  "summary": "Ninth and final interim extension of copyright renewal terms. Also established the National Commission on New Technological Uses of Copyrighted Works (CONTU).",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "304",
+   "701"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/ninth-copyright-term-extension-act-of-1974.md"
+  ]
+ },
+ {
+  "hash": "6f68f90",
+  "full_hash": "6f68f90299964cbba451f980528bd8600916f4e8",
+  "date": "1976-06-21",
+  "name": "CONTU Amendment Act of 1976",
+  "public_law": "Pub. L. 94-314",
+  "citation": "90 Stat. 692",
+  "summary": "Amended provisions related to the National Commission on New Technological Uses of Copyrighted Works (CONTU), which studied copyright issues arising from computers and photocopying technology.",
+  "tag": "",
+  "era": "pre-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "701"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/contu-amendment-act-of-1976.md"
+  ]
+ },
+ {
+  "hash": "4e22ba8",
+  "full_hash": "4e22ba82806aea0785f087b38a1e65843b1de24f",
+  "date": "1978-01-01",
+  "name": "Copyright Act of 1976",
+  "public_law": "Pub. L. 94-553",
+  "citation": "90 Stat. 2541",
+  "summary": "Complete revision of copyright law, replacing the 1909 Act. Established the modern structure of Title 17 U.S.C. Extended protection to life of the author plus 50 years. Codified fair use doctrine (Section 107). Preempted most state copyright law. Created compulsory licenses for cable retransmission and jukeboxes.",
+  "tag": "v1976",
+  "era": "pre-1976",
+  "sections_affected": [
+   "101",
+   "102",
+   "103",
+   "104",
+   "105",
+   "106",
+   "107",
+   "108",
+   "109",
+   "110",
+   "111",
+   "112",
+   "113",
+   "114",
+   "115",
+   "116",
+   "117",
+   "118",
+   "201",
+   "202",
+   "203",
+   "204",
+   "205",
+   "301",
+   "302",
+   "303",
+   "304",
+   "305",
+   "401",
+   "402",
+   "403",
+   "404",
+   "405",
+   "406",
+   "407",
+   "408",
+   "409",
+   "410",
+   "411",
+   "412",
+   "501",
+   "502",
+   "503",
+   "504",
+   "505",
+   "506",
+   "507",
+   "508",
+   "509",
+   "510",
+   "601",
+   "602",
+   "603",
+   "701",
+   "702",
+   "703",
+   "704",
+   "705",
+   "706",
+   "707",
+   "708",
+   "801",
+   "802",
+   "803",
+   "804",
+   "805"
+  ],
+  "sections_expected": [
+   "101",
+   "104",
+   "109",
+   "111",
+   "115",
+   "116",
+   "118",
+   "205",
+   "304",
+   "401",
+   "407",
+   "410",
+   "501",
+   "801",
+   "802",
+   "803",
+   "805"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "pre-1976/ad-interim-copyright-act-of-1904.md",
+   "pre-1976/ad-interim-copyright-amendment-of-1905.md",
+   "pre-1976/contu-amendment-act-of-1976.md",
+   "pre-1976/copyright-act-amendment-of-1802.md",
+   "pre-1976/copyright-act-of-1790.md",
+   "pre-1976/copyright-act-of-1831.md",
+   "pre-1976/copyright-act-of-1870.md",
+   "pre-1976/copyright-act-of-1909.md",
+   "pre-1976/copyright-amendment-of-1856.md",
+   "pre-1976/copyright-amendment-of-1865.md",
+   "pre-1976/copyright-amendment-of-1897.md",
+   "pre-1976/copyright-amendment-of-1912.md",
+   "pre-1976/copyright-amnesty-act-of-1893.md",
+   "pre-1976/copyright-assignment-recordation-act-of-1834.md",
+   "pre-1976/copyright-deposit-amendment-of-1914.md",
+   "pre-1976/copyright-deposit-penalty-act-of-1867.md",
+   "pre-1976/copyright-law-codification-act-of-1947.md",
+   "pre-1976/copyright-notice-amendment-of-1874.md",
+   "pre-1976/copyright-notice-amendment-of-1882.md",
+   "pre-1976/copyright-office-establishment-act-of-1897.md",
+   "pre-1976/copyright-penalties-amendment-of-1895.md",
+   "pre-1976/copyright-statute-of-limitations-act-of-1957.md",
+   "pre-1976/eighth-copyright-term-extension-act-of-1972.md",
+   "pre-1976/emergency-copyright-act-of-1941.md",
+   "pre-1976/false-copyright-notice-amendment-of-1897.md",
+   "pre-1976/fifth-copyright-term-extension-act-of-1969.md",
+   "pre-1976/first-copyright-term-extension-act-of-1962.md",
+   "pre-1976/fourth-copyright-term-extension-act-of-1968.md",
+   "pre-1976/government-organization-and-employees-act-of-1966.md",
+   "pre-1976/international-copyright-act-of-1891.md",
+   "pre-1976/ninth-copyright-term-extension-act-of-1974.md",
+   "pre-1976/post-office-appropriations-act-of-1879.md",
+   "pre-1976/printing-act-of-1895.md",
+   "pre-1976/prints-and-labels-transfer-act-of-1939.md",
+   "pre-1976/second-copyright-term-extension-act-of-1965.md",
+   "pre-1976/seventh-copyright-term-extension-act-of-1971.md",
+   "pre-1976/sixth-copyright-term-extension-act-of-1970.md",
+   "pre-1976/sound-recording-amendment-of-1971.md",
+   "pre-1976/third-copyright-term-extension-act-of-1967.md",
+   "sections/101.md",
+   "sections/102.md",
+   "sections/103.md",
+   "sections/104.md",
+   "sections/105.md",
+   "sections/106.md",
+   "sections/107.md",
+   "sections/108.md",
+   "sections/109.md",
+   "sections/110.md",
+   "sections/111.md",
+   "sections/112.md",
+   "sections/113.md",
+   "sections/114.md",
+   "sections/115.md",
+   "sections/116.md",
+   "sections/117.md",
+   "sections/118.md",
+   "sections/201.md",
+   "sections/202.md",
+   "sections/203.md",
+   "sections/204.md",
+   "sections/205.md",
+   "sections/301.md",
+   "sections/302.md",
+   "sections/303.md",
+   "sections/304.md",
+   "sections/305.md",
+   "sections/401.md",
+   "sections/402.md",
+   "sections/403.md",
+   "sections/404.md",
+   "sections/405.md",
+   "sections/406.md",
+   "sections/407.md",
+   "sections/408.md",
+   "sections/409.md",
+   "sections/410.md",
+   "sections/411.md",
+   "sections/412.md",
+   "sections/501.md",
+   "sections/502.md",
+   "sections/503.md",
+   "sections/504.md",
+   "sections/505.md",
+   "sections/506.md",
+   "sections/507.md",
+   "sections/508.md",
+   "sections/509.md",
+   "sections/510.md",
+   "sections/601.md",
+   "sections/602.md",
+   "sections/603.md",
+   "sections/701.md",
+   "sections/702.md",
+   "sections/703.md",
+   "sections/704.md",
+   "sections/705.md",
+   "sections/706.md",
+   "sections/707.md",
+   "sections/708.md",
+   "sections/801.md",
+   "sections/802.md",
+   "sections/803.md",
+   "sections/804.md",
+   "sections/805.md"
+  ]
+ },
+ {
+  "hash": "1defc4d",
+  "full_hash": "1defc4db47e139bb628fe3fff9ecc1ddbc5a83dc",
+  "date": "1977-08-05",
+  "name": "Legislative Branch Appropriation Act of 1978 (Copyright Office Fees)",
+  "public_law": "Pub. L. 95-94",
+  "citation": "91 Stat. 653",
+  "summary": "Amended Section 708 (Copyright Office fees) to direct that all fees received be credited to the appropriation for necessary expenses of the Copyright Office, effective January 1, 1978.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "708"
+  ],
+  "sections_expected": [
+   "708"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/708.md"
+  ]
+ },
+ {
+  "hash": "c2b0ef2",
+  "full_hash": "c2b0ef2a8d9a3df90c73ee917f8faeb09b14e261",
+  "date": "1977-10-28",
+  "name": "CONTU Extension Act of 1977",
+  "public_law": "Pub. L. 95-146",
+  "citation": "91 Stat. 1226",
+  "summary": "Extended by seven months the term of the National Commission on New Technological Uses of Copyrighted Works (CONTU), allowing additional time to complete its final report on copyright issues related to computer technology and machine reproduction.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "701"
+  ],
+  "sections_expected": [
+   "701"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/701.md"
+  ]
+ },
+ {
+  "hash": "f2bc718",
+  "full_hash": "f2bc7182effdd608a0685a1ceccd7c1c7801718c",
+  "date": "1978-11-06",
+  "name": "Bankruptcy Reform Act of 1978 (Copyright Provision)",
+  "public_law": "Pub. L. 95-598",
+  "citation": "92 Stat. 2676",
+  "summary": "Amended Section 201(e) (copyright ownership) by inserting \"except as provided under title 11\" to clarify that transfers of copyright ownership could occur through bankruptcy proceedings.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "201"
+  ],
+  "sections_expected": [
+   "201"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/201.md"
+  ]
+ },
+ {
+  "hash": "93c1b21",
+  "full_hash": "93c1b21545e0334fc6a771e62f2b4d717fcc37a3",
+  "date": "1980-12-12",
+  "name": "Computer Software Copyright Act of 1980",
+  "public_law": "Pub. L. 96-517",
+  "citation": "94 Stat. 3015",
+  "summary": "Amended Section 101 (definitions) and added Section 117, confirming that computer programs are copyrightable literary works and establishing the right to make archival copies.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "101",
+   "117"
+  ],
+  "sections_expected": [
+   "101",
+   "117"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/101.md",
+   "sections/117.md"
+  ]
+ },
+ {
+  "hash": "70c71f6",
+  "full_hash": "70c71f6eb1ad1597cba352c1c684d68dde2f4be5",
+  "date": "1982-05-24",
+  "name": "Piracy and Counterfeiting Amendments Act of 1982",
+  "public_law": "Pub. L. 97-180",
+  "citation": "96 Stat. 91",
+  "summary": "Increased penalties for piracy of sound recordings and motion pictures.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "506"
+  ],
+  "sections_expected": [
+   "506"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/506.md"
+  ]
+ },
+ {
+  "hash": "23ef341",
+  "full_hash": "23ef341b2ba3c4766f8af0c82d784f666ada5356",
+  "date": "1982-07-13",
+  "name": "Manufacturing Clause Extension Act of 1982",
+  "public_law": "Pub. L. 97-215",
+  "citation": "96 Stat. 178",
+  "summary": "Amended Section 601 (manufacturing requirement) by extending the expiration date of the manufacturing clause from 1982 to July 1, 1986, continuing the requirement that certain literary works by US authors be manufactured in the United States or Canada.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "601"
+  ],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "sections/601.md"
+  ]
+ },
+ {
+  "hash": "4e97999",
+  "full_hash": "4e979995ac973982275de8446567d446f2106c24",
+  "date": "1982-10-25",
+  "name": "Nonprofit Performance Exemption Act of 1982",
+  "public_law": "Pub. L. 97-366",
+  "citation": "96 Stat. 1759",
+  "summary": "Added Section 110(10), exempting nonprofit veterans' organizations and fraternal organizations from liability for public performances of nondramatic literary or musical works at social functions.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "110",
+   "708"
+  ],
+  "sections_expected": [
+   "110",
+   "708"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/110.md",
+   "sections/708.md"
+  ]
+ },
+ {
+  "hash": "d144804",
+  "full_hash": "d144804a0ff74f10aeef80c5fd5b2d6eb4eb4d55",
+  "date": "1984-10-04",
+  "name": "Record Rental Amendment of 1984",
+  "public_law": "Pub. L. 98-450",
+  "citation": "98 Stat. 1727",
+  "summary": "Prohibited commercial rental, lease, or lending of phonorecords without the copyright owner's permission. Added Section 109(b) exception.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "109",
+   "115"
+  ],
+  "sections_expected": [
+   "101",
+   "109",
+   "115"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/109.md",
+   "sections/115.md"
+  ]
+ },
+ {
+  "hash": "aee197f",
+  "full_hash": "aee197f2eadedda8c925b4b1159669c8903c5c01",
+  "date": "1984-11-08",
+  "name": "Semiconductor Chip Protection Act of 1984",
+  "public_law": "Pub. L. 98-620",
+  "citation": "98 Stat. 3347",
+  "summary": "Added Chapter 9 to Title 17, creating sui generis protection for semiconductor chip mask works. 10-year term of protection.",
+  "tag": "v1984-chips",
+  "era": "post-1976",
+  "sections_affected": [
+   "901",
+   "913",
+   "914"
+  ],
+  "sections_expected": [
+   "101",
+   "901",
+   "913",
+   "914"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/901.md",
+   "sections/913.md",
+   "sections/914.md"
+  ]
+ },
+ {
+  "hash": "e4ca007",
+  "full_hash": "e4ca0078c96e9e5f7d6c0cd95ed60b6065e5580f",
+  "date": "1986-08-27",
+  "name": "Cable Compulsory License Amendments of 1986",
+  "public_law": "Pub. L. 99-397",
+  "citation": "100 Stat. 848",
+  "summary": "Amended the Section 111 cable compulsory license provisions regarding royalty fee calculations and secondary transmission rules.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "111"
+  ],
+  "sections_expected": [
+   "111",
+   "801"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/111.md"
+  ]
+ },
+ {
+  "hash": "141e1e5",
+  "full_hash": "141e1e57bc7b22e258d11dc375ea6afb9768c420",
+  "date": "1987-11-09",
+  "name": "Semiconductor Chip Protection Extension Act of 1987",
+  "public_law": "Pub. L. 100-159",
+  "citation": "101 Stat. 899",
+  "summary": "Amended Sections 902 and 914 of the Semiconductor Chip Protection Act by extending the deadline for interim international protection orders and granting the President authority to revise, suspend, or revoke proclamations extending chip protection to foreign nationals.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "902",
+   "914"
+  ],
+  "sections_expected": [
+   "902",
+   "914"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/902.md",
+   "sections/914.md"
+  ]
+ },
+ {
+  "hash": "25bb4bc",
+  "full_hash": "25bb4bc1cc6a731cffe147d2fd4910c932722b86",
+  "date": "1988-10-31",
+  "name": "Berne Convention Implementation Act of 1988",
+  "public_law": "Pub. L. 100-568",
+  "citation": "102 Stat. 2853",
+  "summary": "Amended Title 17 to comply with the Berne Convention for the Protection of Literary and Artistic Works. Made copyright notice optional rather than mandatory. Effective March 1, 1989.",
+  "tag": "v1988-berne",
+  "era": "post-1976",
+  "sections_affected": [
+   "104",
+   "205",
+   "301",
+   "401",
+   "402",
+   "403",
+   "404",
+   "405",
+   "406",
+   "407",
+   "408",
+   "411",
+   "501",
+   "504"
+  ],
+  "sections_expected": [
+   "101",
+   "104",
+   "116",
+   "205",
+   "301",
+   "401",
+   "402",
+   "403",
+   "404",
+   "405",
+   "406",
+   "407",
+   "408",
+   "411",
+   "501",
+   "504",
+   "801",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/104.md",
+   "sections/205.md",
+   "sections/301.md",
+   "sections/401.md",
+   "sections/402.md",
+   "sections/403.md",
+   "sections/404.md",
+   "sections/405.md",
+   "sections/406.md",
+   "sections/407.md",
+   "sections/408.md",
+   "sections/411.md",
+   "sections/501.md",
+   "sections/504.md"
+  ]
+ },
+ {
+  "hash": "a26561e",
+  "full_hash": "a26561eff317072270c30991ef90ee6ad20c892a",
+  "date": "1988-11-05",
+  "name": "Record Rental Extension Act of 1988",
+  "public_law": "Pub. L. 100-617",
+  "citation": "102 Stat. 3194",
+  "summary": "Extended the Record Rental Amendment of 1984's restrictions on commercial rental of sound recordings (Section 109 first sale exception) by an additional eight years, pushing the expiration to October 4, 1997.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "109"
+  ],
+  "sections_expected": [
+   "109"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/109.md"
+  ]
+ },
+ {
+  "hash": "e8faac1",
+  "full_hash": "e8faac194d9130f2d4d810a807c2fb50710f016e",
+  "date": "1988-11-16",
+  "name": "Satellite Home Viewer Act of 1988",
+  "public_law": "Pub. L. 100-667, Title II",
+  "citation": "102 Stat. 3949",
+  "summary": "Added Section 119 to Title 17, creating a compulsory license for satellite carriers to retransmit distant broadcast signals to unserved households. First satellite-specific copyright provision.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "119"
+  ],
+  "sections_expected": [
+   "101",
+   "111",
+   "119",
+   "501",
+   "801",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/119.md"
+  ]
+ },
+ {
+  "hash": "5d36880",
+  "full_hash": "5d36880a005924c9ac8af5da2149efd4e80c592b",
+  "date": "1988-11-19",
+  "name": "Judicial Improvements and Access to Justice Act of 1988 (Copyright Provision)",
+  "public_law": "Pub. L. 100-702",
+  "citation": "102 Stat. 4672",
+  "summary": "Amended Section 912 of the Semiconductor Chip Protection Act by striking a cross-reference subsection to Title 28 (judiciary) and redesignating remaining subsections.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "912"
+  ],
+  "sections_expected": [
+   "912"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/912.md"
+  ]
+ },
+ {
+  "hash": "5adea92",
+  "full_hash": "5adea92e053a103bc6dcce4f16a737c0b527c16f",
+  "date": "1990-07-03",
+  "name": "Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989",
+  "public_law": "Pub. L. 101-319",
+  "citation": "104 Stat. 290",
+  "summary": "Amended Sections 701 and 802 regarding the Copyright Royalty Tribunal, reforming the pay structure and miscellaneous operational provisions.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "701",
+   "802"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "eb42141",
+  "full_hash": "eb421418c90b1c8fd9ff77494c342702a5f83ff4",
+  "date": "1990-07-03",
+  "name": "Copyright Fees and Technical Amendments Act of 1989",
+  "public_law": "Pub. L. 101-318",
+  "citation": "104 Stat. 287",
+  "summary": "Updated the cross-reference in the introductory provisions of Section 106 to reflect the addition of Section 119 (satellite compulsory license) by the Satellite Home Viewer Act of 1988.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "106",
+   "704",
+   "708"
+  ],
+  "sections_expected": [
+   "101",
+   "106",
+   "111",
+   "704",
+   "708",
+   "801",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/106.md",
+   "sections/704.md",
+   "sections/708.md"
+  ]
+ },
+ {
+  "hash": "1ff8d57",
+  "full_hash": "1ff8d578c6d264cb555c1dae55236e0fef112174",
+  "date": "1990-11-15",
+  "name": "Copyright Remedy Clarification Act of 1990",
+  "public_law": "Pub. L. 101-553",
+  "citation": "104 Stat. 2749",
+  "summary": "Added Section 511, making states and state entities subject to suit for copyright infringement (later limited by Supreme Court decisions).",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "511",
+   "910",
+   "911"
+  ],
+  "sections_expected": [
+   "101",
+   "501",
+   "511",
+   "910",
+   "911"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/511.md",
+   "sections/910.md",
+   "sections/911.md"
+  ]
+ },
+ {
+  "hash": "b3768ed",
+  "full_hash": "b3768ed00cbdfcadd4585f97911c3c44ca8b4a40",
+  "date": "1990-12-01",
+  "name": "Computer Software Rental Amendments Act of 1990",
+  "public_law": "Pub. L. 101-650, Title VIII",
+  "citation": "104 Stat. 5089",
+  "summary": "Extended the record rental prohibition to computer programs. Prohibited commercial rental of software without the copyright owner's permission.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "109"
+  ],
+  "sections_expected": [
+   "101",
+   "102",
+   "106",
+   "106A",
+   "107",
+   "109",
+   "113",
+   "120",
+   "205",
+   "301",
+   "411",
+   "412",
+   "501",
+   "506"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/109.md"
+  ]
+ },
+ {
+  "hash": "d44bef7",
+  "full_hash": "d44bef7f5859321583c531495fd2882ea6bcdf69",
+  "date": "1990-12-01",
+  "name": "Visual Artists Rights Act of 1990 (VARA)",
+  "public_law": "Pub. L. 101-650, Title VI",
+  "citation": "104 Stat. 5128",
+  "summary": "Added Section 106A, granting moral rights (attribution and integrity) to authors of works of visual art. First recognition of moral rights in US copyright law.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "107",
+   "113",
+   "301",
+   "412",
+   "506"
+  ],
+  "sections_expected": [
+   "101",
+   "102",
+   "106",
+   "106A",
+   "107",
+   "109",
+   "113",
+   "120",
+   "205",
+   "301",
+   "411",
+   "412",
+   "501",
+   "506"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/107.md",
+   "sections/113.md",
+   "sections/301.md",
+   "sections/412.md",
+   "sections/506.md"
+  ]
+ },
+ {
+  "hash": "f0ce7c2",
+  "full_hash": "f0ce7c284e604cb177751c4e0bc0d04168df581f",
+  "date": "1990-12-01",
+  "name": "Architectural Works Copyright Protection Act of 1990",
+  "public_law": "Pub. L. 101-650, Title VII",
+  "citation": "104 Stat. 5133",
+  "summary": "Added architectural works to the categories of copyrightable subject matter in Section 102. Added Section 120 limiting exclusive rights in architectural works.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "102"
+  ],
+  "sections_expected": [
+   "101",
+   "102",
+   "106",
+   "106A",
+   "107",
+   "109",
+   "113",
+   "120",
+   "205",
+   "301",
+   "411",
+   "412",
+   "501",
+   "506"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/102.md"
+  ]
+ },
+ {
+  "hash": "e2694a3",
+  "full_hash": "e2694a37ab162baa82e7cdc3b7a520fe688d7913",
+  "date": "1991-06-28",
+  "name": "Semiconductor International Protection Extension Act of 1991",
+  "public_law": "Pub. L. 102-64",
+  "citation": "105 Stat. 320",
+  "summary": "Amended Section 914 by extending the deadline for interim international protection orders for semiconductor chip mask works to July 1, 1995, and broadening the types of foreign legal regimes qualifying for reciprocal protection.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "914"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "f257465",
+  "full_hash": "f257465dab0ed0e7113b5cf8d9f1c98b55d9077b",
+  "date": "1992-06-26",
+  "name": "Copyright Renewal Act of 1992",
+  "public_law": "Pub. L. 102-307",
+  "citation": "106 Stat. 264",
+  "summary": "Made copyright renewal automatic for works published between 1964 and 1977. Eliminated the requirement to file a renewal registration to maintain copyright protection.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "108",
+   "304",
+   "409",
+   "708"
+  ],
+  "sections_expected": [
+   "101",
+   "108",
+   "304",
+   "408",
+   "409",
+   "708"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/108.md",
+   "sections/304.md",
+   "sections/409.md",
+   "sections/708.md"
+  ]
+ },
+ {
+  "hash": "2f1780a",
+  "full_hash": "2f1780a4a943eea3c1420e370f00e853fde06da3",
+  "date": "1992-10-24",
+  "name": "Fair Use of Unpublished Works Act of 1992",
+  "public_law": "Pub. L. 102-492",
+  "citation": "106 Stat. 3145",
+  "summary": "Added a sentence to Section 107 (fair use): \"The fact that a work is unpublished shall not itself bar a finding of fair use if such finding is made upon consideration of all the above factors.\" Overrode case law treating unpublished status as virtually dispositive against fair use.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "107"
+  ],
+  "sections_expected": [
+   "107"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/107.md"
+  ]
+ },
+ {
+  "hash": "73bd7d5",
+  "full_hash": "73bd7d50aa43b4b6243cc1ab31989801a4fbb8d9",
+  "date": "1992-10-28",
+  "name": "Copyright Felony Act of 1992",
+  "public_law": "Pub. L. 102-561",
+  "citation": "106 Stat. 4233",
+  "summary": "Made large-scale commercial copyright infringement of sound recordings and audiovisual works a felony rather than a misdemeanor. Amended criminal penalty provisions.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "amendments/1992-10-28-copyright-felony-act-of-1992.md"
+  ]
+ },
+ {
+  "hash": "18842cb",
+  "full_hash": "18842cb14960828905d0d32aa81a3cb6de42f5fb",
+  "date": "1992-10-28",
+  "name": "Audio Home Recording Act of 1992",
+  "public_law": "Pub. L. 102-563",
+  "citation": "106 Stat. 4237",
+  "summary": "Added Chapter 10 to Title 17. Required royalty payments on digital audio recording devices and media. Mandated Serial Copy Management System (SCMS). Prohibited infringement suits based on noncommercial home recording.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "1001",
+   "912"
+  ],
+  "sections_expected": [
+   "1001",
+   "101",
+   "801",
+   "803",
+   "912"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/1001.md",
+   "sections/912.md"
+  ]
+ },
+ {
+  "hash": "53347f5",
+  "full_hash": "53347f55855db11d40004e4f0d226c0c8543c1f0",
+  "date": "1993-08-11",
+  "name": "Legislative Branch Appropriations Act of 1994 (Copyright Provision)",
+  "public_law": "Pub. L. 103-69",
+  "citation": "107 Stat. 692",
+  "summary": "Section 307 imposed personnel reduction requirements on legislative branch entities but exempted positions required for the administration of compulsory licensing under Section 803.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "amendments/1993-08-11-legislative-branch-appropriations-act-of-1994.md"
+  ]
+ },
+ {
+  "hash": "2c07899",
+  "full_hash": "2c07899f34faaaa03acdc4459dbe083616fc5bb5",
+  "date": "1993-12-08",
+  "name": "North American Free Trade Agreement Implementation Act of 1993 (Copyright Provisions)",
+  "public_law": "Pub. L. 103-182",
+  "citation": "107 Stat. 2057",
+  "summary": "Amended Section 104A to restore copyright in certain motion pictures from NAFTA countries.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "104A"
+  ],
+  "sections_expected": [
+   "104A",
+   "109"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/104A.md"
+  ]
+ },
+ {
+  "hash": "b8cc767",
+  "full_hash": "b8cc767f0c057fb415271c5793dc053ebf5f3c17",
+  "date": "1993-12-17",
+  "name": "Copyright Royalty Tribunal Reform Act of 1993",
+  "public_law": "Pub. L. 103-198",
+  "citation": "107 Stat. 2304",
+  "summary": "Abolished the Copyright Royalty Tribunal and replaced it with ad hoc Copyright Arbitration Royalty Panels (CARPs) administered by the Librarian of Congress. Amended royalty fee provisions in Sections 111, 116, 118, and 119.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "1004",
+   "1005",
+   "1006",
+   "1007",
+   "1010",
+   "116",
+   "118"
+  ],
+  "sections_expected": [
+   "1004",
+   "1005",
+   "1006",
+   "1007",
+   "101",
+   "1010",
+   "111",
+   "116",
+   "118",
+   "119",
+   "801",
+   "802",
+   "803",
+   "805"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/1004.md",
+   "sections/1005.md",
+   "sections/1006.md",
+   "sections/1007.md",
+   "sections/1010.md",
+   "sections/116.md",
+   "sections/118.md"
+  ]
+ },
+ {
+  "hash": "2e5e7ca",
+  "full_hash": "2e5e7ca56ee61b638f9474146ed61a8e45c399c7",
+  "date": "1994-10-18",
+  "name": "Satellite Home Viewer Act of 1994",
+  "public_law": "Pub. L. 103-369",
+  "citation": "108 Stat. 3477",
+  "summary": "Extended the Section 119 satellite compulsory license originally established by the Satellite Home Viewer Act of 1988.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "111",
+   "119"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "3e9bd5a",
+  "full_hash": "3e9bd5af2d7646be2a1cb64ad00cb8b9520275c9",
+  "date": "1994-12-08",
+  "name": "Uruguay Round Agreements Act of 1994 (Copyright Provisions)",
+  "public_law": "Pub. L. 103-465",
+  "citation": "108 Stat. 4809",
+  "summary": "Rewrote Section 104A to restore copyright in works from WTO and Berne Convention countries that had entered the public domain in the US due to noncompliance with formalities, lack of national eligibility, or lack of subject matter protection.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "109",
+   "1101"
+  ],
+  "sections_expected": [
+   "101",
+   "104A",
+   "109",
+   "1101"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/109.md",
+   "sections/1101.md"
+  ]
+ },
+ {
+  "hash": "26c6c3b",
+  "full_hash": "26c6c3ba5d945d2834e8f76f91c346f273e62782",
+  "date": "1995-11-01",
+  "name": "Digital Performance Right in Sound Recordings Act of 1995",
+  "public_law": "Pub. L. 104-39",
+  "citation": "109 Stat. 336",
+  "summary": "Added a new exclusive right for copyright owners of sound recordings: the right to perform the work publicly by means of digital audio transmission. Added Section 114 provisions and Section 115 amendments.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "114",
+   "115"
+  ],
+  "sections_expected": [
+   "101",
+   "106",
+   "111",
+   "114",
+   "115",
+   "119",
+   "801",
+   "802",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/114.md",
+   "sections/115.md"
+  ]
+ },
+ {
+  "hash": "e373e6d",
+  "full_hash": "e373e6dc66d2237f55bcb4dfacf2bd93d6a96d49",
+  "date": "1996-07-02",
+  "name": "Anticounterfeiting Consumer Protection Act of 1996 (Copyright Provisions)",
+  "public_law": "Pub. L. 104-153",
+  "citation": "110 Stat. 1386",
+  "summary": "Amended Section 603 regarding importation prohibitions on piratical copies of copyrighted works.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "603"
+  ],
+  "sections_expected": [
+   "603"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/603.md"
+  ]
+ },
+ {
+  "hash": "299a08f",
+  "full_hash": "299a08f40e93c38552c63960f2f8a3cfdba9a72d",
+  "date": "1996-09-16",
+  "name": "Legislative Branch Appropriations Act of 1997 (Chafee Amendment)",
+  "public_law": "Pub. L. 104-197",
+  "citation": "110 Stat. 2416",
+  "summary": "Enacted Section 121 (the \"Chafee Amendment\"), creating a limitation on exclusive rights that permits authorized entities to reproduce and distribute copyrighted literary works in accessible formats exclusively for use by blind or other persons with disabilities.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "121"
+  ],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "sections/121.md"
+  ]
+ },
+ {
+  "hash": "72676ed",
+  "full_hash": "72676ed87bd83134cf95917350a97c5bfd6257ec",
+  "date": "1996-10-11",
+  "name": "Miscellaneous Trade and Technical Corrections Act of 1996 (Copyright Provision)",
+  "public_law": "Pub. L. 104-295",
+  "citation": "110 Stat. 3514",
+  "summary": "Made a technical correction to Section 104A (copyright in restored works) by fixing an internal cross-reference in the copyright restoration provisions enacted by the Uruguay Round Agreements Act.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "104A"
+  ],
+  "sections_expected": [
+   "104A"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/104A.md"
+  ]
+ },
+ {
+  "hash": "e9a8dfd",
+  "full_hash": "e9a8dfd58c98182882c34f486629253e28227353",
+  "date": "1997-11-13",
+  "name": "Copyright Technical Amendments Act of 1997",
+  "public_law": "Pub. L. 105-80",
+  "citation": "111 Stat. 1529",
+  "summary": "Made technical corrections and conforming amendments throughout Title 17. Corrected cross-references and clerical errors in multiple sections.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "1006",
+   "101",
+   "108",
+   "303",
+   "304",
+   "405",
+   "407",
+   "504",
+   "509",
+   "708",
+   "909",
+   "910"
+  ],
+  "sections_expected": [
+   "1006",
+   "1007",
+   "101",
+   "104A",
+   "108",
+   "109",
+   "110",
+   "114",
+   "115",
+   "116",
+   "119",
+   "303",
+   "304",
+   "405",
+   "407",
+   "411",
+   "504",
+   "708",
+   "801",
+   "802",
+   "803",
+   "909",
+   "910",
+   "914"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/1006.md",
+   "sections/101.md",
+   "sections/108.md",
+   "sections/303.md",
+   "sections/304.md",
+   "sections/405.md",
+   "sections/407.md",
+   "sections/504.md",
+   "sections/509.md",
+   "sections/708.md",
+   "sections/909.md",
+   "sections/910.md"
+  ]
+ },
+ {
+  "hash": "bf934cf",
+  "full_hash": "bf934cf72de46f3438e6331dff57ce506f5a6ffc",
+  "date": "1997-12-16",
+  "name": "No Electronic Theft Act of 1997 (NET Act)",
+  "public_law": "Pub. L. 105-147",
+  "citation": "111 Stat. 2678",
+  "summary": "Amended Section 506 and criminal provisions to cover willful copyright infringement even without financial gain. Closed the \"LaMacchia loophole\" that required proof of profit motive for criminal prosecution.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "506",
+   "507"
+  ],
+  "sections_expected": [
+   "101",
+   "506",
+   "507"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/506.md",
+   "sections/507.md"
+  ]
+ },
+ {
+  "hash": "84f9491",
+  "full_hash": "84f9491066fc57b5548af5f7c35f4bc4863a33ea",
+  "date": "1998-10-27",
+  "name": "Sonny Bono Copyright Term Extension Act of 1998",
+  "public_law": "Pub. L. 105-298, Title I",
+  "citation": "112 Stat. 2827",
+  "summary": "Extended copyright terms by 20 years across the board. Individual works: life of the author plus 70 years. Works for hire and anonymous/pseudonymous works: 95 years from publication or 120 years from creation.",
+  "tag": "v1998-ctea",
+  "era": "post-1976",
+  "sections_affected": [
+   "101",
+   "108",
+   "203",
+   "301",
+   "302",
+   "303",
+   "304",
+   "504",
+   "513"
+  ],
+  "sections_expected": [
+   "101",
+   "108",
+   "110",
+   "203",
+   "301",
+   "302",
+   "303",
+   "304",
+   "504",
+   "513"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/101.md",
+   "sections/108.md",
+   "sections/203.md",
+   "sections/301.md",
+   "sections/302.md",
+   "sections/303.md",
+   "sections/304.md",
+   "sections/504.md",
+   "sections/513.md"
+  ]
+ },
+ {
+  "hash": "7ae5b4b",
+  "full_hash": "7ae5b4bba6d8010a963374a480b892bf512ebe66",
+  "date": "1998-10-27",
+  "name": "Fairness in Music Licensing Act of 1998",
+  "public_law": "Pub. L. 105-298, Title II",
+  "citation": "112 Stat. 2827",
+  "summary": "Amended Section 110(5) to expand the exemption for public performance of music by small businesses (restaurants, bars, retail establishments) via radio and television reception.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "108",
+   "110",
+   "203",
+   "301",
+   "302",
+   "303",
+   "304",
+   "504",
+   "513"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "95b3ac5",
+  "full_hash": "95b3ac5b306fbb230bef71f491bf4eae6774eac0",
+  "date": "1998-10-28",
+  "name": "Digital Millennium Copyright Act of 1998 (DMCA)",
+  "public_law": "Pub. L. 105-304",
+  "citation": "112 Stat. 2860",
+  "summary": "Implemented WIPO Copyright Treaty and WIPO Performances and Phonograms Treaty. Added Chapter 12 (Sections 1201-1205) prohibiting circumvention of technological protection measures. Added Section 512 safe harbor for online service providers. Added Section 117(c) for computer maintenance.",
+  "tag": "v1998-dmca",
+  "era": "post-1976",
+  "sections_affected": [
+   "104",
+   "104A",
+   "112",
+   "1201",
+   "1202",
+   "1301",
+   "411",
+   "507",
+   "512"
+  ],
+  "sections_expected": [
+   "101",
+   "104",
+   "104A",
+   "108",
+   "109",
+   "112",
+   "114",
+   "117",
+   "1201",
+   "1202",
+   "1301",
+   "411",
+   "507",
+   "512",
+   "701",
+   "801",
+   "802",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/104.md",
+   "sections/104A.md",
+   "sections/112.md",
+   "sections/1201.md",
+   "sections/1202.md",
+   "sections/1301.md",
+   "sections/411.md",
+   "sections/507.md",
+   "sections/512.md"
+  ]
+ },
+ {
+  "hash": "939871c",
+  "full_hash": "939871cc944d287daf03cf3978823c453cda3a59",
+  "date": "1999-08-05",
+  "name": "Technical Corrections to Title 17 Act of 1999",
+  "public_law": "Pub. L. 106-44",
+  "citation": "113 Stat. 221",
+  "summary": "Made technical corrections throughout Title 17. Renumbered the conflicting Section 512 (\"Determination of reasonable license fees\") to Section 513 to resolve the conflict with the DMCA's Section 512 (online service provider safe harbors). Fixed cross-references in Sections 106, 501, and 511. Corrected clerical errors in Sections 112, 119, 1202, 1302, and 1320.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "101",
+   "119",
+   "1202",
+   "1302",
+   "501"
+  ],
+  "sections_expected": [
+   "101",
+   "106",
+   "110",
+   "112",
+   "118",
+   "119",
+   "1202",
+   "1302",
+   "501",
+   "511",
+   "512",
+   "513"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/101.md",
+   "sections/119.md",
+   "sections/1202.md",
+   "sections/1302.md",
+   "sections/501.md"
+  ]
+ },
+ {
+  "hash": "c6e4277",
+  "full_hash": "c6e4277bb1e88948abf6d23cf779fe8f7f3e6a3a",
+  "date": "1999-11-29",
+  "name": "Intellectual Property and Communications Omnibus Reform Act of 1999",
+  "public_law": "Pub. L. 106-113",
+  "citation": "113 Stat. 1501",
+  "summary": "Omnibus act containing multiple intellectual property provisions including satellite home viewer improvements, digital audio webcasting provisions, and technical corrections to DMCA and other copyright provisions.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "101",
+   "111",
+   "119",
+   "1201",
+   "1203",
+   "1204",
+   "122",
+   "501",
+   "510"
+  ],
+  "sections_expected": [
+   "101",
+   "111",
+   "119",
+   "1201",
+   "1203",
+   "1204",
+   "122",
+   "1301",
+   "501",
+   "510"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/101.md",
+   "sections/111.md",
+   "sections/119.md",
+   "sections/1201.md",
+   "sections/1203.md",
+   "sections/1204.md",
+   "sections/122.md",
+   "sections/501.md",
+   "sections/510.md"
+  ]
+ },
+ {
+  "hash": "b1d6263",
+  "full_hash": "b1d6263579520a474a8d35d3cc312e62e668c518",
+  "date": "1999-12-09",
+  "name": "Digital Theft Deterrence and Copyright Damages Improvement Act of 1999",
+  "public_law": "Pub. L. 106-160",
+  "citation": "113 Stat. 1774",
+  "summary": "Increased statutory damages for copyright infringement under Section 504(c). Raised the range for both ordinary and willful infringement.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "504"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "c9fa387",
+  "full_hash": "c9fa387b3065458e8e0a2a83367e74dadb30ea32",
+  "date": "2000-10-27",
+  "name": "Work Made for Hire and Copyright Corrections Act of 2000",
+  "public_law": "Pub. L. 106-379",
+  "citation": "114 Stat. 1444",
+  "summary": "Repealed the controversial addition of \"sound recordings\" to the work-made-for-hire categories in Section 101, which had been quietly added in a 1999 satellite bill. Made other technical corrections.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "121",
+   "705",
+   "708"
+  ],
+  "sections_expected": [
+   "101",
+   "121",
+   "705",
+   "708"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/121.md",
+   "sections/705.md",
+   "sections/708.md"
+  ]
+ },
+ {
+  "hash": "9941514",
+  "full_hash": "994151474a2516035067fa9cd30702ef03e1411f",
+  "date": "2002-11-02",
+  "name": "Intellectual Property and High Technology Technical Amendments Act of 2002",
+  "public_law": "Pub. L. 107-273, Division C, Title III, Subtitle B",
+  "citation": "116 Stat. 1758",
+  "summary": "Made technical corrections and conforming amendments throughout Title 17, including corrections to the DMCA and other recent copyright legislation.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "106",
+   "119",
+   "121",
+   "203",
+   "304",
+   "501",
+   "511"
+  ],
+  "sections_expected": [
+   "101",
+   "106",
+   "110",
+   "112",
+   "118",
+   "119",
+   "121",
+   "122",
+   "203",
+   "304",
+   "501",
+   "511",
+   "802"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/106.md",
+   "sections/119.md",
+   "sections/121.md",
+   "sections/203.md",
+   "sections/304.md",
+   "sections/501.md",
+   "sections/511.md"
+  ]
+ },
+ {
+  "hash": "bbd09fb",
+  "full_hash": "bbd09fb843c9b8ef82964f67333ddd248f3ef454",
+  "date": "2002-11-02",
+  "name": "Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)",
+  "public_law": "Pub. L. 107-273, Division C, Title III, Subtitle C",
+  "citation": "116 Stat. 1758",
+  "summary": "Updated Section 110(2) to expand the copyright exemption for distance education by accredited nonprofit educational institutions.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "106",
+   "110",
+   "112",
+   "118",
+   "119",
+   "121",
+   "122",
+   "203",
+   "304",
+   "501",
+   "511",
+   "802"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "840c963",
+  "full_hash": "840c96331c5e915e3d603b558b1fe45c227f65ad",
+  "date": "2002-12-04",
+  "name": "Small Webcaster Amendments Act of 2002",
+  "public_law": "Pub. L. 107-321",
+  "citation": "116 Stat. 2780",
+  "summary": "Authorized small commercial webcasters to negotiate royalty rates with SoundExchange as an alternative to the CARP-determined rates.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "114"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "70ee580",
+  "full_hash": "70ee58092435e799e5cf669d8ffdaa2848cff9f0",
+  "date": "2004-11-30",
+  "name": "Copyright Royalty and Distribution Reform Act of 2004",
+  "public_law": "Pub. L. 108-419",
+  "citation": "118 Stat. 2341",
+  "summary": "Reformed the copyright royalty process by replacing the Copyright Arbitration Royalty Panels (CARPs) with three full-time Copyright Royalty Judges. Rewrote Chapter 8 of Title 17.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "1006",
+   "1007",
+   "111",
+   "112",
+   "119",
+   "801",
+   "802",
+   "803",
+   "804"
+  ],
+  "sections_expected": [
+   "1004",
+   "1006",
+   "1007",
+   "101",
+   "1010",
+   "111",
+   "112",
+   "114",
+   "115",
+   "116",
+   "118",
+   "119",
+   "801",
+   "802",
+   "803",
+   "804"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/1006.md",
+   "sections/1007.md",
+   "sections/111.md",
+   "sections/112.md",
+   "sections/119.md",
+   "sections/801.md",
+   "sections/802.md",
+   "sections/803.md",
+   "sections/804.md"
+  ]
+ },
+ {
+  "hash": "aa4b0ec",
+  "full_hash": "aa4b0ecfaf96c6b98cb215bd7ac5144d35e327b1",
+  "date": "2004-12-03",
+  "name": "Individuals with Disabilities Education Improvement Act of 2004 (Copyright Provision)",
+  "public_law": "Pub. L. 108-446",
+  "citation": "118 Stat. 2647",
+  "summary": "Section 306 amended Title 17 regarding reproduction of copyrighted works in specialized formats for persons with disabilities.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "121"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "4a6acc9",
+  "full_hash": "4a6acc9ebc4244c7fd154ce64650c718adbaeb1c",
+  "date": "2004-12-08",
+  "name": "Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)",
+  "public_law": "Pub. L. 108-447",
+  "citation": "118 Stat. 3393",
+  "summary": "Reauthorized and amended the Section 119 satellite compulsory license for retransmission of distant broadcast signals.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "111"
+  ],
+  "sections_expected": [
+   "101",
+   "111",
+   "119",
+   "122",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/111.md"
+  ]
+ },
+ {
+  "hash": "c0d870b",
+  "full_hash": "c0d870b10d24288c7193504e89a1f472d2ffa912",
+  "date": "2004-12-23",
+  "name": "Intellectual Property Protection and Courts Amendments Act of 2004",
+  "public_law": "Pub. L. 108-482",
+  "citation": "118 Stat. 3912",
+  "summary": "Title I (Anti-counterfeiting Amendments Act of 2004) amended Section 603 regarding importation of infringing copies. Title II (Fraudulent Online Identity Sanctions Act) added Section 504(c)(3) providing enhanced statutory damages when infringers use false identity information.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "504"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "2a94f12",
+  "full_hash": "2a94f1272190771c2e153c5e42571c6efc76563d",
+  "date": "2005-04-27",
+  "name": "Family Entertainment and Copyright Act of 2005",
+  "public_law": "Pub. L. 109-9",
+  "citation": "119 Stat. 218",
+  "summary": "Title I (Artists' Rights and Theft Prevention Act): Added Section 408(f) allowing preregistration of works being prepared for commercial distribution. Criminalized unauthorized camcording in movie theaters. Title II (Family Movie Act): Added Section 110(11) allowing technology to skip objectionable content during home viewing of motion pictures.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "108",
+   "408",
+   "411",
+   "506"
+  ],
+  "sections_expected": [
+   "101",
+   "108",
+   "110",
+   "408",
+   "411",
+   "412",
+   "506"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/108.md",
+   "sections/408.md",
+   "sections/411.md",
+   "sections/506.md"
+  ]
+ },
+ {
+  "hash": "e390006",
+  "full_hash": "e3900063074a4e31194a036517ed83964a6c244e",
+  "date": "2006-03-16",
+  "name": "Stop Counterfeiting in Manufactured Goods Act of 2006 (Copyright Provision)",
+  "public_law": "Pub. L. 109-181",
+  "citation": "120 Stat. 285",
+  "summary": "Amended Section 1101(b) (unauthorized fixation and trafficking in sound recordings and music videos) by replacing the self-contained definition of \"traffic in\" with a cross-reference to 18 U.S.C. Section 2320(e).",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "1101"
+  ],
+  "sections_expected": [
+   "1101"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/1101.md"
+  ]
+ },
+ {
+  "hash": "d0bb121",
+  "full_hash": "d0bb121d86535310a7aa5746aeb7a70e7d363bde",
+  "date": "2006-10-06",
+  "name": "Copyright Royalty Judges Program Technical Corrections Act of 2006",
+  "public_law": "Pub. L. 109-303",
+  "citation": "120 Stat. 1478",
+  "summary": "Made technical corrections to the Copyright Royalty and Distribution Reform Act of 2004. Clarified procedures for the Copyright Royalty Judges.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "111"
+  ],
+  "sections_expected": [
+   "1007",
+   "101",
+   "111",
+   "114",
+   "115",
+   "118",
+   "119",
+   "801",
+   "802",
+   "803",
+   "804"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/111.md"
+  ]
+ },
+ {
+  "hash": "8781610",
+  "full_hash": "8781610524c5e8c166c562f5f8b8528bb4ae7fb1",
+  "date": "2008-05-08",
+  "name": "Consolidated Natural Resources Act of 2008 (Copyright Provision)",
+  "public_law": "Pub. L. 110-229",
+  "citation": "122 Stat. 754",
+  "summary": "Amended Section 111(e)(2) to update territorial references, replacing \"Trust Territory of the Pacific Islands\" with the Federated States of Micronesia, Republic of Palau, and Republic of the Marshall Islands, reflecting their changed political status.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "111"
+  ],
+  "sections_expected": [
+   "111"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/111.md"
+  ]
+ },
+ {
+  "hash": "54ff580",
+  "full_hash": "54ff580acab479ce85199568086b9541916a1136",
+  "date": "2008-10-13",
+  "name": "Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)",
+  "public_law": "Pub. L. 110-403",
+  "citation": "122 Stat. 4256",
+  "summary": "Enhanced civil and criminal penalties for copyright infringement. Amended Section 504 regarding statutory damages and Section 506 regarding criminal offenses.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "119",
+   "412",
+   "503",
+   "602"
+  ],
+  "sections_expected": [
+   "109",
+   "111",
+   "115",
+   "119",
+   "122",
+   "411",
+   "412",
+   "503",
+   "506",
+   "602"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/119.md",
+   "sections/412.md",
+   "sections/503.md",
+   "sections/602.md"
+  ]
+ },
+ {
+  "hash": "055103b",
+  "full_hash": "055103bccf22ef710f6325ab63102514a868a9f2",
+  "date": "2008-10-16",
+  "name": "Vessel Hull Design Protection Amendments of 2008",
+  "public_law": "Pub. L. 110-434",
+  "citation": "122 Stat. 4972",
+  "summary": "Amended Chapter 13 of Title 17 (vessel hull design protection) to modify definitions and extend coverage.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "1301"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "288880c",
+  "full_hash": "288880cc539f09b06a40548be9e202e6a362946f",
+  "date": "2008-10-16",
+  "name": "Webcaster Settlement Act of 2008",
+  "public_law": "Pub. L. 110-435",
+  "citation": "122 Stat. 4974",
+  "summary": "Authorized SoundExchange and webcasters to negotiate and implement alternative royalty rate agreements outside the Copyright Royalty Board rate-setting process.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "114"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "88045a4",
+  "full_hash": "88045a42aafe710f24d9381ca1bf728b301d869f",
+  "date": "2009-06-30",
+  "name": "Webcaster Settlement Act of 2009",
+  "public_law": "Pub. L. 111-36",
+  "citation": "123 Stat. 1926",
+  "summary": "Extended and modified the 2008 Webcaster Settlement Act to allow continued negotiation of alternative webcasting royalty rates.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "114"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "c8a86ea",
+  "full_hash": "c8a86eac9666b7cc315435faa0651f77aee12872",
+  "date": "2009-12-19",
+  "name": "Department of Defense Appropriations Act of 2010 (Copyright Provision)",
+  "public_law": "Pub. L. 111-118",
+  "citation": "123 Stat. 3409",
+  "summary": "Included a provision amending Section 119 of Title 17 regarding satellite retransmission of broadcast signals.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "119"
+  ],
+  "sections_expected": [
+   "119"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/119.md"
+  ]
+ },
+ {
+  "hash": "36c5816",
+  "full_hash": "36c58164e1b6a58a957014221e4e567a3f33da5a",
+  "date": "2010-03-02",
+  "name": "Temporary Extension Act of 2010 (Copyright Provision)",
+  "public_law": "Pub. L. 111-144",
+  "citation": "124 Stat. 38",
+  "summary": "Extended the Section 119 satellite compulsory license deadline as part of a broader temporary extension of expiring federal programs.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "119"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "4172d6c",
+  "full_hash": "4172d6c485cb97b17097ab84185c7fb96b4d13ae",
+  "date": "2010-03-26",
+  "name": "Satellite Television Extension Act of 2010",
+  "public_law": "Pub. L. 111-151",
+  "citation": "124 Stat. 1027",
+  "summary": "Further extended the Section 119 satellite compulsory license through April 30, 2010, pending enactment of STELA.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "119"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "3aeafc3",
+  "full_hash": "3aeafc3bafafa3593c90952d890620bb1e7e01a5",
+  "date": "2010-04-15",
+  "name": "Continuing Extension Act of 2010 (Copyright Provision)",
+  "public_law": "Pub. L. 111-157",
+  "citation": "124 Stat. 1140",
+  "summary": "Further extended the Section 119 satellite compulsory license deadline pending enactment of STELA.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "119"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "00c4cc6",
+  "full_hash": "00c4cc632b1f3736f8af16c7793c757973125243",
+  "date": "2010-05-27",
+  "name": "Satellite Television Extension and Localism Act of 2010 (STELA)",
+  "public_law": "Pub. L. 111-175",
+  "citation": "124 Stat. 1232",
+  "summary": "Reauthorized Section 119 satellite compulsory license. Updated provisions for satellite retransmission of broadcast signals.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "111",
+   "708"
+  ],
+  "sections_expected": [
+   "101",
+   "111",
+   "119",
+   "122",
+   "708",
+   "801",
+   "804"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/111.md",
+   "sections/708.md"
+  ]
+ },
+ {
+  "hash": "4428a28",
+  "full_hash": "4428a28df03290017c5bd0f92e8fa99b3fde0955",
+  "date": "2010-12-09",
+  "name": "Copyright Cleanup, Clarification, and Corrections Act of 2010",
+  "public_law": "Pub. L. 111-295",
+  "citation": "124 Stat. 3180",
+  "summary": "Made technical corrections and conforming amendments throughout Title 17, including Sections 101, 114, 115, 119, 205, 303, 409, 503, 504, 512, 602, 704, 803, 1203, and 1204.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "119",
+   "1203",
+   "1204",
+   "205",
+   "303",
+   "409",
+   "504",
+   "704",
+   "803"
+  ],
+  "sections_expected": [
+   "101",
+   "114",
+   "115",
+   "119",
+   "1203",
+   "1204",
+   "205",
+   "303",
+   "409",
+   "503",
+   "504",
+   "512",
+   "602",
+   "704",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/119.md",
+   "sections/1203.md",
+   "sections/1204.md",
+   "sections/205.md",
+   "sections/303.md",
+   "sections/409.md",
+   "sections/504.md",
+   "sections/704.md",
+   "sections/803.md"
+  ]
+ },
+ {
+  "hash": "dab581b",
+  "full_hash": "dab581b17cdc35c52070aa7f374b7634f40cf9ea",
+  "date": "2011-12-31",
+  "name": "National Defense Authorization Act for Fiscal Year 2012 (Copyright Provision)",
+  "public_law": "Pub. L. 112-81",
+  "citation": "125 Stat. 1497",
+  "summary": "Amended 18 U.S.C. Section 2320, relocating the definition of \"traffic\" from subsection (e) to subsection (f). This indirectly affected Section 1101(b) of Title 17 (anti-bootlegging), which cross-references that definition.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "1101"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "amendments/2011-12-31-national-defense-authorization-act-for-fiscal-year-2012.md"
+  ]
+ },
+ {
+  "hash": "99443e6",
+  "full_hash": "99443e6aff4734dc11c90ac9ca6fe4e00d49840b",
+  "date": "2014-08-01",
+  "name": "Unlocking Consumer Choice and Wireless Competition Act of 2014",
+  "public_law": "Pub. L. 113-144",
+  "citation": "128 Stat. 1751",
+  "summary": "Restored the Library of Congress's prior DMCA exemption allowing consumers to unlock cell phones from their wireless carriers. Directed the Librarian to consider the impact on such unlocking in future Section 1201 rulemaking proceedings.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "1201"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "acd4c18",
+  "full_hash": "acd4c182ac45b041cf7db0bbc9f7af500d076507",
+  "date": "2014-12-04",
+  "name": "STELA Reauthorization Act of 2014",
+  "public_law": "Pub. L. 113-200",
+  "citation": "128 Stat. 2059",
+  "summary": "Reauthorized the Section 119 satellite compulsory license through December 31, 2019. Made modifications to satellite retransmission rules.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "119"
+  ],
+  "sections_expected": [
+   "111",
+   "119",
+   "122"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/119.md"
+  ]
+ },
+ {
+  "hash": "d915083",
+  "full_hash": "d91508312a875aa0ac0b55a3d29dfe80dca200f9",
+  "date": "2018-10-09",
+  "name": "Marrakesh Treaty Implementation Act of 2018",
+  "public_law": "Pub. L. 115-261",
+  "citation": "132 Stat. 3666",
+  "summary": "Implemented the Marrakesh Treaty to Facilitate Access to Published Works for Persons Who Are Blind, Visually Impaired, or Otherwise Print Disabled. Added Section 121A to Title 17 permitting export of accessible format copies. Amended Section 121(a).",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "121"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "102cd7d",
+  "full_hash": "102cd7d5486ae6674bb95af6e0fd0e05a68ca320",
+  "date": "2018-10-11",
+  "name": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018",
+  "public_law": "Pub. L. 115-264",
+  "citation": "132 Stat. 3676",
+  "summary": "Comprehensive reform of music licensing. Created the Mechanical Licensing Collective (MLC) and new blanket license for digital music services. Extended federal copyright protection to pre-1972 sound recordings (Title II - CLASSICS Act). Updated Section 114 rate-setting standards (Title III - AMP Act).",
+  "tag": "v2018-mma",
+  "era": "post-1976",
+  "sections_affected": [
+   "106",
+   "1401",
+   "803",
+   "804"
+  ],
+  "sections_expected": [
+   "101",
+   "106",
+   "114",
+   "115",
+   "1401",
+   "301",
+   "708",
+   "801",
+   "803",
+   "804"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/106.md",
+   "sections/1401.md",
+   "sections/803.md",
+   "sections/804.md"
+  ]
+ },
+ {
+  "hash": "e46c97a",
+  "full_hash": "e46c97a48af03d0d046c52279e88e43f1551debf",
+  "date": "2019-12-20",
+  "name": "Satellite Television Community Protection and Promotion Act of 2019",
+  "public_law": "Pub. L. 116-94",
+  "citation": "133 Stat. 3198",
+  "summary": "Made the Section 119 satellite compulsory license for retransmission of distant broadcast signals permanent (previously subject to periodic reauthorization) while narrowing its scope. Required satellite carriers to provide local-into-local service in all 210 designated market areas.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "501",
+   "701",
+   "803"
+  ],
+  "sections_expected": [
+   "101",
+   "119",
+   "501",
+   "701",
+   "802",
+   "803"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/501.md",
+   "sections/701.md",
+   "sections/803.md"
+  ]
+ },
+ {
+  "hash": "6207e22",
+  "full_hash": "6207e22d2cd3327d6165066f36411f829e96a473",
+  "date": "2019-12-20",
+  "name": "Library of Congress Technical Corrections Act of 2019",
+  "public_law": "Pub. L. 116-94, Title XIV",
+  "citation": "133 Stat. 2534",
+  "summary": "Made technical corrections to Copyright Office organizational provisions. Amended Sections 701, 802, and 803 of Title 17 regarding Copyright Royalty Judge procedures.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "119",
+   "501",
+   "701",
+   "802",
+   "803"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "7517d42",
+  "full_hash": "7517d42d2d3ac3bf269c443942ac3cf69e3ae8b5",
+  "date": "2019-12-20",
+  "name": "National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)",
+  "public_law": "Pub. L. 116-92",
+  "citation": "133 Stat. 1198",
+  "summary": "Designated existing Section 105 provisions as subsection (a) and added subsections (b) and (c), establishing copyright protection for works created by covered authors at certain federal institutions and authorizing federal licensing of such works. First NDAA to amend Section 105.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "105"
+  ],
+  "sections_expected": [
+   "105"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/105.md"
+  ]
+ },
+ {
+  "hash": "c1de770",
+  "full_hash": "c1de770c33b4e7f15e00e21fbf321aa398e3a655",
+  "date": "2020-03-27",
+  "name": "Coronavirus Aid, Relief, and Economic Security Act of 2020 (CARES Act - Copyright Provision)",
+  "public_law": "Pub. L. 116-136",
+  "citation": "134 Stat. 281",
+  "summary": "Section 19011 granted the Register of Copyrights authority to toll, waive, or adjust certain time periods and fees during the COVID-19 national emergency.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [],
+  "has_diff": true,
+  "files_changed": [
+   "amendments/2020-03-27-coronavirus-aid-relief-and-economic-security-act-of-2020.md"
+  ]
+ },
+ {
+  "hash": "d7742ed",
+  "full_hash": "d7742ed52f63557f522c7fca1c3350c7e514e842",
+  "date": "2020-12-27",
+  "name": "Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)",
+  "public_law": "Pub. L. 116-260",
+  "citation": "134 Stat. 2152",
+  "summary": "Added Chapter 15 to Title 17 (Sections 1501-1511), establishing the Copyright Claims Board within the Copyright Office for streamlined adjudication of small copyright claims (up to $30,000 in damages).",
+  "tag": "v2020-case",
+  "era": "post-1976",
+  "sections_affected": [
+   "1501",
+   "1502"
+  ],
+  "sections_expected": [
+   "101",
+   "1501",
+   "1502"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/1501.md",
+   "sections/1502.md"
+  ]
+ },
+ {
+  "hash": "7fa2851",
+  "full_hash": "7fa285175470da5037be72c3fe7d8d0ac659fa22",
+  "date": "2020-12-27",
+  "name": "Protecting Lawful Streaming Act of 2020",
+  "public_law": "Pub. L. 116-260",
+  "citation": "134 Stat. 2177",
+  "summary": "Added 18 U.S.C. Section 2319C, making it a felony to operate illicit digital transmission services that unlawfully transmit copyrighted works on a large scale. Did not amend Title 17 directly.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "1501",
+   "1502"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "e6da75e",
+  "full_hash": "e6da75e0d407790fecd2553be659039fce3eff8a",
+  "date": "2021-12-27",
+  "name": "National Defense Authorization Act for Fiscal Year 2022 (Copyright Provision)",
+  "public_law": "Pub. L. 117-81",
+  "citation": "135 Stat. 2160",
+  "summary": "Amended Section 1301(a)(3) of the Vessel Hull Design Protection Act by updating a cross-reference to reflect the recodification of Department of Defense acquisition provisions in Title 10.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [
+   "1301"
+  ],
+  "sections_expected": [
+   "1301"
+  ],
+  "has_diff": true,
+  "files_changed": [
+   "sections/1301.md"
+  ]
+ },
+ {
+  "hash": "8911c21",
+  "full_hash": "8911c21cb76c5d92ae7a741a91119757e0b51081",
+  "date": "2022-10-17",
+  "name": "Artistic Recognition for Talented Students Act of 2022 (ARTS Act)",
+  "public_law": "Pub. L. 117-201",
+  "citation": "136 Stat. 2222",
+  "summary": "Amended Section 708 to waive copyright registration fees for winners of the Congressional Art Competition and Congressional App Challenge.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "101",
+   "708"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "c70e027",
+  "full_hash": "c70e027810f9663c30d6b265dc29e485dd742dfe",
+  "date": "2022-12-23",
+  "name": "James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Copyright Provision)",
+  "public_law": "Pub. L. 117-263",
+  "citation": "136 Stat. 2395",
+  "summary": "Section 6306 amended Section 105 of Title 17 to provide copyright protection for works created by civilian faculty of the National Intelligence University, as an exception to the general prohibition on copyright in US government works.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "105"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "f066f4e",
+  "full_hash": "f066f4ec9732a8a416ec5c2594c6ca44577c4b11",
+  "date": "2024-12-23",
+  "name": "Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Copyright Provision)",
+  "public_law": "Pub. L. 118-159",
+  "citation": "138 Stat. 1773",
+  "summary": "Amended Section 105 of Title 17 to extend the exception to the government works prohibition to civilian faculty of the Uniformed Services University of the Health Sciences.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "105"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ },
+ {
+  "hash": "04fe847",
+  "full_hash": "04fe847a013cf4b6d393e72728ea1c1536344024",
+  "date": "2025-12-18",
+  "name": "National Defense Authorization Act for Fiscal Year 2026 (Copyright Provision)",
+  "public_law": "Pub. L. 119-60",
+  "citation": "139 Stat. 1210",
+  "summary": "Further amended Section 105 of Title 17 regarding copyright protection for civilian faculty of covered institutions.",
+  "tag": "",
+  "era": "post-1976",
+  "sections_affected": [],
+  "sections_expected": [
+   "105"
+  ],
+  "has_diff": false,
+  "files_changed": []
+ }
+]

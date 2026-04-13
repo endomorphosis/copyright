@@ -1,0 +1,188 @@
+{
+ "hash": "c0b254a",
+ "act_name": "No Electronic Theft Act of 1997 (NET Act)",
+ "files": [
+  {
+   "path": "sections/506.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 506"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7506. Criminal offenses"
+      },
+      {
+       "type": "del",
+       "text": "(a) Criminal Infringement.-Any person who infringes a copyright willfully either-"
+      },
+      {
+       "type": "del",
+       "text": "(1) for purposes of commercial advantage or private financial gain, or"
+      },
+      {
+       "type": "del",
+       "text": "(2) by the reproduction or distribution, including by electronic means, during any 180-day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000,"
+      },
+      {
+       "type": "del",
+       "text": "shall be punished as provided under section 2319 of title 18, United States Code. For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement."
+      },
+      {
+       "type": "add",
+       "text": "(a) Criminal Infringement.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) In general.-Any person who willfully infringes a copyright shall be punished as provided under section 2319 of title 18, if the infringement was committed-"
+      },
+      {
+       "type": "add",
+       "text": "(A) for purposes of commercial advantage or private financial gain;"
+      },
+      {
+       "type": "add",
+       "text": "(B) by the reproduction or distribution, including by electronic means, during any 180\u2013day period, of 1 or more copies or phonorecords of 1 or more copyrighted works, which have a total retail value of more than $1,000; or"
+      },
+      {
+       "type": "add",
+       "text": "(C) by the distribution of a work being prepared for commercial distribution, by making it available on a computer network accessible to members of the public, if such person knew or should have known that the work was intended for commercial distribution."
+      },
+      {
+       "type": "add",
+       "text": "(2) Evidence.-For purposes of this subsection, evidence of reproduction or distribution of a copyrighted work, by itself, shall not be sufficient to establish willful infringement of a copyright."
+      },
+      {
+       "type": "add",
+       "text": "(3) Definition.-In this subsection, the term \"work being prepared for commercial distribution\" means-"
+      },
+      {
+       "type": "add",
+       "text": "(A) a computer program, a musical work, a motion picture or other audiovisual work, or a sound recording, if, at the time of unauthorized distribution-"
+      },
+      {
+       "type": "add",
+       "text": "(i) the copyright owner has a reasonable expectation of commercial distribution; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) the copies or phonorecords of the work have not been commercially distributed; or"
+      },
+      {
+       "type": "add",
+       "text": "(B) a motion picture, if, at the time of unauthorized distribution, the motion picture-"
+      },
+      {
+       "type": "add",
+       "text": "(i) has been made available for viewing in a motion picture exhibition facility; and"
+      },
+      {
+       "type": "add",
+       "text": "(ii) has not been made available in copies for sale to the general public in the United States in a format intended to permit viewing outside a motion picture exhibition facility."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Forfeiture and Destruction.-When any person is convicted of any violation of subsection (a), the court in its judgment of conviction shall, in addition to the penalty therein prescribed, order the forfeiture and destruction or other disposition of all infringing copies or phonorecords and all implements, devices, or equipment used in the manufacture of such infringing copies or phonorecords."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Fraudulent Copyright Notice.-Any person who, with fraudulent intent, places on any article a notice of copyright or words of the same purport that such person knows to be false, or who, with fraudulent intent, publicly distributes or imports for public distribution any article bearing such notice or words that such person knows to be false, shall be fined not more than $2,500."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Fraudulent Removal of Copyright Notice.-Any person who, with fraudulent intent, removes or alters any notice of copyright appearing on a copy of a copyrighted work shall be fined not more than $2,500."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/507.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "del",
+       "text": "\u00a7three07. Limitations on actions"
+      },
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 507"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7507. Limitations on actions"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Criminal Proceedings.-No criminal proceeding shall be maintained under the provisions of this title unless it is commenced within 5 years after the cause of action arose."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Civil Actions.-No civil action shall be maintained under the provisions of this title unless it is commenced within three years after the claim accrued."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2586"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013147,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a72(c), Dec. 16, 1997, 111 Stat. 2678"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7102(e), Oct. 28, 1998, 112 Stat. 2863"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

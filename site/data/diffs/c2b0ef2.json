@@ -1,0 +1,111 @@
+{
+ "hash": "c2b0ef2",
+ "act_name": "CONTU Extension Act of 1977",
+ "files": [
+  {
+   "path": "sections/701.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 701"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7701. The Copyright Office: General responsibilities and organization"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) All administrative functions and duties under this title, except as otherwise specified, are the responsibility of the Register of Copyrights as director of the Copyright Office of the Library of Congress. The Register of Copyrights, together with the subordinate officers and employees of the Copyright Office, shall be appointed by the Librarian of Congress, and shall act under the Librarian's general direction and supervision."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) In addition to the functions and duties set out elsewhere in this chapter, the Register of Copyrights shall perform the following functions:"
+      }
+     ]
+    },
+    {
+     "old_start": 10,
+     "new_start": 12,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(d) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) Except as provided by section 706(b) and the regulations issued thereunder, all actions taken by the Register of Copyrights under this title are subject to the provisions of the Administrative Procedure Act of June 11, 1946, as amended (c. 324, 60 Stat. 237, title 5, United States Code, Chapter 5, Subchapter II and Chapter 7)."
+      },
+      {
+       "type": "ctx",
+       "text": "(f) The Register of Copyrights shall be compensated at the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. The rate of basic pay for each Associate Register of Copyrights shall be fixed in accordance with section 5376 of title 5."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2591"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 101\u2013319,"
+      },
+      {
+       "type": "del",
+       "text": "\u00a72(b), July 3, 1990, 104 Stat. 290"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013304,"
+      },
+      {
+       "type": "del",
+       "text": "title IV, \u00a7401(a)(2), (b), Oct. 28, 1998, 112 Stat. 2887"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 116\u201394,"
+      },
+      {
+       "type": "del",
+       "text": "div. P, title XIV, \u00a71404(a)(3), (b)(2), Dec. 20, 2019, 133 Stat. 3208"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

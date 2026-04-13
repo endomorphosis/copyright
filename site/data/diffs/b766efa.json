@@ -1,0 +1,513 @@
+{
+ "hash": "b766efa",
+ "act_name": "Sonny Bono Copyright Term Extension Act of 1998",
+ "files": [
+  {
+   "path": "sections/101.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 101"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7101. Definitions"
+      },
+      {
+       "type": "del",
+       "text": "Except as otherwise provided in this title, as used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "add",
+       "text": "As used in this title, the following terms and their variant forms mean the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "An \"anonymous work\" is a work on the copies or phonorecords of which no natural person is identified as author."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"architectural work\" is the design of a building as embodied in any tangible medium of expression, including a building, architectural plans, or drawings. The work includes the overall form as well as the arrangement and composition of spaces and elements in the design, but does not include individual standard features."
+      },
+      {
+       "type": "ctx",
+       "text": "\"Audiovisual works\" are works that consist of a series of related images which are intrinsically intended to be shown by the use of machines, or devices such as projectors, viewers, or electronic equipment, together with accompanying sounds, if any, regardless of the nature of the material objects, such as films or tapes, in which the works are embodied."
+      }
+     ]
+    },
+    {
+     "old_start": 16,
+     "new_start": 16,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "A \"Copyright Royalty Judge\" is a Copyright Royalty Judge appointed under section 802 of this title, and includes any individual serving as an interim Copyright Royalty Judge under such section."
+      },
+      {
+       "type": "ctx",
+       "text": "A work is \"created\" when it is fixed in a copy or phonorecord for the first time; where a work is prepared over a period of time, the portion of it that has been fixed at any particular time constitutes the work as of that time, and where the work has been prepared in different versions, each version constitutes a separate work."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"derivative work\" is a work based upon one or more preexisting works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which a work may be recast, transformed, or adapted. A work consisting of editorial revisions, annotations, elaborations, or other modifications which, as a whole, represent an original work of authorship, is a \"derivative work\"."
+      },
+      {
+       "type": "del",
+       "text": "A \"device\", \"machine\", or \"process\" is one now known or later developed."
+      },
+      {
+       "type": "add",
+       "text": "A \"device\", \"machine\", or \"processs\" is one now known or later developed."
+      },
+      {
+       "type": "ctx",
+       "text": "A \"digital transmission\" is a transmission in whole or in part in a digital or other non-analog format."
+      },
+      {
+       "type": "ctx",
+       "text": "To \"display\" a work means to show a copy of it, either directly or by means of a film, slide, television image, or any other device or process or, in the case of a motion picture or other audiovisual work, to show individual images nonsequentially."
+      },
+      {
+       "type": "ctx",
+       "text": "An \"establishment\" is a store, shop, or any similar place of business open to the general public for the primary purpose of selling goods or services in which the majority of the gross square feet of space that is nonresidential is used for that purpose, and in which nondramatic musical works are performed publicly."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/108.md",
+   "hunks": [
+    {
+     "old_start": 9,
+     "new_start": 9,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) the copy or phonorecord reproduced is currently in the collections of the library or archives; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not otherwise distributed in that format and is not made available to the public in that format outside the premises of the library or archives."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) The right of reproduction under this section applies to three copies or phonorecords of a published work duplicated solely for the purpose of replacement of a copy or phonorecord that is damaged, deteriorating, lost, or stolen, or if the existing format in which the work is stored has become obsolete, if-"
+      },
+      {
+       "type": "del",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a fair price; and"
+      },
+      {
+       "type": "add",
+       "text": "(1) the library or archives has, after a reasonable effort, determined that an unused replacement cannot be obtained at a pair price; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(2) any such copy or phonorecord that is reproduced in digital format is not made available to the public in that format outside the premises of the library or archives in lawful possession of such copy."
+      },
+      {
+       "type": "ctx",
+       "text": "For purposes of this subsection, a format shall be considered obsolete if the machine or device necessary to render perceptible a work stored in that format is no longer manufactured or is no longer reasonably available in the commercial marketplace."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) The rights of reproduction and distribution under this section apply to a copy, made from the collection of a library or archives where the user makes his or her request or from that of another library or archives, of no more than one article or other contribution to a copyrighted collection or periodical issue, or to a copy or phonorecord of a small part of any other copyrighted work, if-"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/203.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 203"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7203. Termination of transfers and licenses granted by the author"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Conditions for Termination.-In the case of any work other than a work made for hire, the exclusive or nonexclusive grant of a transfer or license of copyright or of any right under a copyright, executed by the author on or after January 1, 1978, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In the case of a grant executed by one author, termination of the grant may be effected by that author or, if the author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest. In the case of a grant executed by two or more authors of a joint work, termination of the grant may be effected by a majority of the authors who executed it; if any of such authors is dead, the termination interest of any such author may be exercised as a unit by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's interest."
+      }
+     ]
+    },
+    {
+     "old_start": 18,
+     "new_start": 20,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4) A further grant, or agreement to make a further grant, of any right covered by a terminated grant is valid only if it is made after the effective date of the termination. As an exception, however, an agreement for such a further grant may be made between the persons provided by clause (3) of this subsection and the original grantee or such grantee's successor in title, after the notice of termination has been served as provided by clause (4) of subsection (a)."
+      },
+      {
+       "type": "ctx",
+       "text": "(5) Termination of a grant under this section affects only those rights covered by the grants that arise under this title, and in no way affects rights arising under any other Federal, State, or foreign laws."
+      },
+      {
+       "type": "ctx",
+       "text": "(6) Unless and until termination is effected under this section, the grant, if it does not provide otherwise, continues in effect for the term of copyright provided by this title."
+      },
+      {
+       "type": "del",
+       "text": "("
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 94\u2013553,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7101, Oct. 19, 1976, 90 Stat. 2569"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 105\u2013298,"
+      },
+      {
+       "type": "del",
+       "text": "title I, \u00a7103, Oct. 27, 1998, 112 Stat. 2829"
+      },
+      {
+       "type": "del",
+       "text": ";"
+      },
+      {
+       "type": "del",
+       "text": "Pub. L. 107\u2013273,"
+      },
+      {
+       "type": "del",
+       "text": "div. C, title III, \u00a713210(9), Nov. 2, 2002, 116 Stat. 1909"
+      },
+      {
+       "type": "del",
+       "text": ".)"
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/301.md",
+   "hunks": [
+    {
+     "old_start": 7,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(2) any cause of action arising from undertakings commenced before January 1, 1978;"
+      },
+      {
+       "type": "ctx",
+       "text": "(3) activities violating legal or equitable rights that are not equivalent to any of the exclusive rights within the general scope of copyright as specified by section 106; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(4) State and local landmarks, historic preservation, zoning, or building codes, relating to architectural works protected under section 102(a)(8)."
+      },
+      {
+       "type": "del",
+       "text": "(c) With respect to sound recordings fixed before February 15, 1972, any rights or remedies under the common law or statutes of any State shall not be annulled or limited by this title until February 15, 2067. The preemptive provisions of subsection (a) shall apply to any such rights and remedies pertaining to any cause of action arising from undertakings commenced on and after February 15, 2067. Notwithstanding the provisions of section 303, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title before, on, or after February 15, 2067."
+      },
+      {
+       "type": "add",
+       "text": "(c) Notwithstanding the provisions of section 303, and in accordance with chapter 14, no sound recording fixed before February 15, 1972, shall be subject to copyright under this title. With respect to sound recordings fixed before February 15, 1972, the preemptive provisions of subsection (a) shall apply to activities that are commenced on and after the date of enactment of the Classics Protection and Access Act. Nothing in this subsection may be construed to affirm or negate the preemption of rights and remedies pertaining to any cause of action arising from the nonsubscription broadcast transmission of sound recordings under the common law or statutes of any State for activities that do not qualify as covered activities under chapter 14 undertaken during the period between the date of enactment of the Classics Protection and Access Act and the date on which the term of prohibition on unauthorized acts under section 1401(a)(2) expires for such sound recordings. Any potential preemption of rights and remedies related to such activities undertaken during that period shall apply in all respects as it did the day before the date of enactment of the Classics Protection and Access Act."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Nothing in this title annuls or limits any rights or remedies under any other Federal statute."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) The scope of Federal preemption under this section is not affected by the adherence of the United States to the Berne Convention or the satisfaction of obligations of the United States thereunder."
+      },
+      {
+       "type": "ctx",
+       "text": "(f)(1) On or after the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990, all legal or equitable rights that are equivalent to any of the rights conferred by section 106A with respect to works of visual art to which the rights conferred by section 106A apply are governed exclusively by section 106A and section 113(d) and the provisions of this title relating to such sections. Thereafter, no person is entitled to any such right or equivalent right in any work of visual art under the common law or statutes of any State."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/302.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 302"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7302. Duration of copyright: Works created on or after January 1, 1978"
+      },
+      {
+       "type": "del",
+       "text": "(a) In General.-Copyright in a work created on or after January 1, 1978, subsists from its creation and, except as provided by the following subsections, endures for a term consisting of the life of the author and fifty years after the author's death."
+      },
+      {
+       "type": "del",
+       "text": "(b) Joint Works.-In the case of a joint work prepared by two or more authors who did not work for hire, the copyright endures for a term consisting of the life of the last surviving author and fifty years after such last surviving author's death."
+      },
+      {
+       "type": "del",
+       "text": "(c) Anonymous Works, Pseudonymous Works, and Works Made for Hire.-In the case of an anonymous work, a pseudonymous work, or a work made for hire, the copyright endures for a term of seventy-five years from the year of its first publication, or a term of one hundred years from the year of its creation, whichever expires first. If, before the end of such term, the identity of one or more of the authors of an anonymous or pseudonymous work is revealed in the records of a registration made for that work under subsections (a) or (d) of section 408, or in the records provided by this subsection, the copyright in the work endures for the term specified by subsection (a) or (b), based on the life of the author or authors whose identity has been revealed. Any person having an interest in the copyright in an anonymous or pseudonymous work may at any time record, in records to be maintained by the Copyright Office for that purpose, a statement identifying one or more authors of the work; the statement shall also identify the person filing it, the nature of that person's interest, the source of the information recorded, and the particular work affected, and shall comply in form and content with requirements that the Register of Copyrights shall prescribe by regulation."
+      },
+      {
+       "type": "add",
+       "text": "(a) In General.-Copyright in a work created on or after January 1, 1978, subsists from its creation and, except as provided by the following subsections, endures for a term consisting of the life of the author and 70 years after the author's death."
+      },
+      {
+       "type": "add",
+       "text": "(b) Joint Works.-In the case of a joint work prepared by two or more authors who did not work for hire, the copyright endures for a term consisting of the life of the last surviving author and 70 years after such last surviving author's death."
+      },
+      {
+       "type": "add",
+       "text": "(c) Anonymous Works, Pseudonymous Works, and Works Made for Hire.-In the case of an anonymous work, a pseudonymous work, or a work made for hire, the copyright endures for a term of 95 years from the year of its first publication, or a term of 120 years from the year of its creation, whichever expires first. If, before the end of such term, the identity of one or more of the authors of an anonymous or pseudonymous work is revealed in the records of a registration made for that work under subsections (a) or (d) of section 408, or in the records provided by this subsection, the copyright in the work endures for the term specified by subsection (a) or (b), based on the life of the author or authors whose identity has been revealed. Any person having an interest in the copyright in an anonymous or pseudonymous work may at any time record, in records to be maintained by the Copyright Office for that purpose, a statement identifying one or more authors of the work; the statement shall also identify the person filing it, the nature of that person's interest, the source of the information recorded, and the particular work affected, and shall comply in form and content with requirements that the Register of Copyrights shall prescribe by regulation."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) Records Relating to Death of Authors.-Any person having an interest in a copyright may at any time record in the Copyright Office a statement of the date of death of the author of the copyrighted work, or a statement that the author is still living on a particular date. The statement shall identify the person filing it, the nature of that person's interest, and the source of the information recorded, and shall comply in form and content with requirements that the Register of Copyrights shall prescribe by regulation. The Register shall maintain current records of information relating to the death of authors of copyrighted works, based on such recorded statements and, to the extent the Register considers practicable, on data contained in any of the records of the Copyright Office or in other reference sources."
+      },
+      {
+       "type": "del",
+       "text": "(e) Presumption as to Author's Death.-After a period of seventy-five years from the year of first publication of a work, or a period of one hundred years from the year of its creation, whichever expires first, any person who obtains from the Copyright Office a certified report that the records provided by subsection (d) disclose nothing to indicate that the author of the work is living, or died less than fifty years before, is entitled to the benefits of a presumption that the author has been dead for at least fifty years. Reliance in good faith upon this presumption shall be a complete defense to any action for infringement under this title."
+      },
+      {
+       "type": "ctx",
+       "text": "\\ No newline at end of file"
+      },
+      {
+       "type": "add",
+       "text": "(e) Presumption as to Author's Death.-After a period of 95 years from the year of first publication of a work, or a period of 120 years from the year of its creation, whichever expires first, any person who obtains from the Copyright Office a certified report that the records provided by subsection (d) disclose nothing to indicate that the author of the work is living, or died less than 70 years before, is entitled to the benefits of a presumption that the author has been dead for at least 70 years. Reliance in good faith upon this presumption shall be a complete defense to any action for infringement under this title."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/303.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 303"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7303. Duration of copyright: Works created but not published or copyrighted before January 1, 1978"
+      },
+      {
+       "type": "del",
+       "text": "(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2027."
+      },
+      {
+       "type": "add",
+       "text": "(a) Copyright in a work created before January 1, 1978, but not theretofore in the public domain or copyrighted, subsists from January 1, 1978, and endures for the term provided by section 302. In no case, however, shall the term of copyright in such a work expire before December 31, 2002; and, if the work is published on or before December 31, 2002, the term of copyright shall not expire before December 31, 2047."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The distribution before January 1, 1978, of a phonorecord shall not for any purpose constitute a publication of the musical work embodied therein."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/304.md",
+   "hunks": [
+    {
+     "old_start": 25,
+     "new_start": 25,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(4)(A) If an application to register a claim to the renewed and extended term of copyright in a work is not made within 1 year before the expiration of the original term of copyright in a work, or if the claim pursuant to such application is not registered, then a derivative work prepared under authority of a grant of a transfer or license of the copyright that is made before the expiration of the original term of copyright may continue to be used under the terms of the grant during the renewed and extended term of copyright without infringing the copyright, except that such use does not extend to the preparation during such renewed and extended term of other derivative works based upon the copyrighted work covered by such grant."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) If an application to register a claim to the renewed and extended term of copyright in a work is made within 1 year before its expiration, and the claim is registered, the certificate of such registration shall constitute prima facie evidence as to the validity of the copyright during its renewed and extended term and of the facts stated in the certificate. The evidentiary weight to be accorded the certificates of a registration of a renewed and extended term of copyright made after the end of that 1-year period shall be within the discretion of the court."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) Copyrights in Their Renewal Term at the Time of the Effective Date of the Sonny Bono Copyright Term Extension Act.-Any copyright still in its renewal term at the time that the Sonny Bono Copyright Term Extension Act becomes effective shall have a copyright term of 95 years from the date copyright was originally secured."
+      },
+      {
+       "type": "del",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "add",
+       "text": "(c) Termination of Transfers and Licenses Covering Extended Renewal Term.-In the case of any copyright subsisting in either its first or renewal term on January 1, 1978, other than a copyright in a work made for hire, the exclusive or nonexclusive grant of a transfer or license of the renewal copyright or any right under it, executed before January 1, 1978, by any of the persons designated by the subsection (a)(1)(C) of this section, otherwise than by will, is subject to termination under the following conditions:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) In the case of a grant executed by a person or persons other than the author, termination of the grant may be effected by the surviving person or persons who executed it. In the case of a grant executed by one or more of the authors of the work, termination of the grant may be effected, to the extent of a particular author's share in the ownership of the renewal copyright, by the author who executed it or, if such author is dead, by the person or persons who, under clause (2) of this subsection, own and are entitled to exercise a total of more than one-half of that author's termination interest."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Where an author is dead, his or her termination interest is owned, and may be exercised, as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) The widow or widower owns the author's entire termination interest unless there are any surviving children or grandchildren of the author, in which case the widow or widower owns one-half of the author's interest."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/504.md",
+   "hunks": [
+    {
+     "old_start": 7,
+     "new_start": 7,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(b) Actual Damages and Profits.-The copyright owner is entitled to recover the actual damages suffered by him or her as a result of the infringement, and any profits of the infringer that are attributable to the infringement and are not taken into account in computing the actual damages. In establishing the infringer's profits, the copyright owner is required to present proof only of the infringer's gross revenue, and the infringer is required to prove his or her deductible expenses and the elements of profit attributable to factors other than the copyrighted work."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) Statutory Damages.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Except as provided by clause (2) of this subsection, the copyright owner may elect, at any time before final judgment is rendered, to recover, instead of actual damages and profits, an award of statutory damages for all infringements involved in the action, with respect to any one work, for which any one infringer is liable individually, or for which any two or more infringers are liable jointly and severally, in a sum of not less than $500 or more than $30,000 as the court considers just. For the purposes of this subsection, all the parts of a compilation or derivative work constitute one work."
+      },
+      {
+       "type": "del",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court in its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "add",
+       "text": "(2) In a case where the copyright owner sustains the burden of proving, and the court finds, that infringement was committed willfully, the court it its discretion may increase the award of statutory damages to a sum of not more than $100,000. In a case where the infringer sustains the burden of proving, and the court finds, that such infringer was not aware and had no reason to believe that his or her acts constituted an infringement of copyright, the court in its discretion may reduce the award of statutory damages to a sum of not less than $200. The court shall remit statutory damages in any case where an infringer believed and had reasonable grounds for believing that his or her use of the copyrighted work was a fair use under section 107, if the infringer was: (i) an employee or agent of a nonprofit educational institution, library, or archives acting within the scope of his or her employment who, or such institution, library, or archives itself, which infringed by reproducing the work in copies or phonorecords; or (ii) a public broadcasting entity which or a person who, as a regular part of the nonprofit activities of a public broadcasting entity (as defined in subsection (g) of section 118) infringed by performing a published nondramatic literary work or by reproducing a transmission program embodying a performance of such a work."
+      },
+      {
+       "type": "ctx",
+       "text": "(3)(A) In a case of infringement, it shall be a rebuttable presumption that the infringement was committed willfully for purposes of determining relief if the violator, or a person acting in concert with the violator, knowingly provided or knowingly caused to be provided materially false contact information to a domain name registrar, domain name registry, or other domain name registration authority in registering, maintaining, or renewing a domain name used in connection with the infringement."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Nothing in this paragraph limits what may be considered willful infringement under this subsection."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) For purposes of this paragraph, the term \"domain name\" has the meaning given that term in section 45 of the Act entitled \"An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes\" approved July 5, 1946 (commonly referred to as the \"Trademark Act of 1946\"; 15 U.S.C. 1127)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/513.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# 17 U.S.C. \u00a7 513"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "\u00a7513. Determination of reasonable license fees for individual proprietors"
+      },
+      {
+       "type": "add",
+       "text": "In the case of any performing rights society subject to a consent decree which provides for the determination of reasonable license rates or fees to be charged by the performing rights society, notwithstanding the provisions of that consent decree, an individual proprietor who owns or operates fewer than 7 non-publicly traded establishments in which nondramatic musical works are performed publicly and who claims that any license agreement offered by that performing rights society is unreasonable in its license rate or fee as to that individual proprietor, shall be entitled to determination of a reasonable license rate or fee as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(1) The individual proprietor may commence such proceeding for determination of a reasonable license rate or fee by filing an application in the applicable district court under paragraph (2) that a rate disagreement exists and by serving a copy of the application on the performing rights society. Such proceeding shall commence in the applicable district court within 90 days after the service of such copy, except that such 90-day requirement shall be subject to the administrative requirements of the court."
+      },
+      {
+       "type": "add",
+       "text": "(2) The proceeding under paragraph (1) shall be held, at the individual proprietor's election, in the judicial district of the district court with jurisdiction over the applicable consent decree or in that place of holding court of a district court that is the seat of the Federal circuit (other than the Court of Appeals for the Federal Circuit) in which the proprietor's establishment is located."
+      },
+      {
+       "type": "add",
+       "text": "(3) Such proceeding shall be held before the judge of the court with jurisdiction over the consent decree governing the performing rights society. At the discretion of the court, the proceeding shall be held before a special master or magistrate judge appointed by such judge. Should that consent decree provide for the appointment of an advisor or advisors to the court for any purpose, any such advisor shall be the special master so named by the court."
+      },
+      {
+       "type": "add",
+       "text": "(4) In any such proceeding, the industry rate shall be presumed to have been reasonable at the time it was agreed to or determined by the court. Such presumption shall in no way affect a determination of whether the rate is being correctly applied to the individual proprietor."
+      },
+      {
+       "type": "add",
+       "text": "(5) Pending the completion of such proceeding, the individual proprietor shall have the right to perform publicly the copyrighted musical compositions in the repertoire of the performing rights society by paying an interim license rate or fee into an interest bearing escrow account with the clerk of the court, subject to retroactive adjustment when a final rate or fee has been determined, in an amount equal to the industry rate, or, in the absence of an industry rate, the amount of the most recent license rate or fee agreed to by the parties."
+      },
+      {
+       "type": "add",
+       "text": "(6) Any decision rendered in such proceeding by a special master or magistrate judge named under paragraph (3) shall be reviewed by the judge of the court with jurisdiction over the consent decree governing the performing rights society. Such proceeding, including such review, shall be concluded within 6 months after its commencement."
+      },
+      {
+       "type": "add",
+       "text": "(7) Any such final determination shall be binding only as to the individual proprietor commencing the proceeding, and shall not be applicable to any other proprietor or any other performing rights society, and the performing rights society shall be relieved of any obligation of nondiscrimination among similarly situated music users that may be imposed by the consent decree governing its operations."
+      },
+      {
+       "type": "add",
+       "text": "(8) An individual proprietor may not bring more than one proceeding provided for in this section for the determination of a reasonable license rate or fee under any license agreement with respect to any one performing rights society."
+      },
+      {
+       "type": "add",
+       "text": "(9) For purposes of this section, the term \"industry rate\" means the license fee a performing rights society has agreed to with, or which has been determined by the court for, a significant segment of the music user industry to which the individual proprietor belongs."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
