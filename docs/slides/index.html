@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>US Copyright Law as Code</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'Georgia', serif;
+    background: #1a1a2e;
+    color: #e0e0e0;
+    overflow: hidden;
+    height: 100vh;
+  }
+
+  .slide {
+    display: none;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 60px 100px;
+    text-align: center;
+  }
+
+  .slide.active { display: flex; }
+
+  h1 {
+    font-size: 3.2em;
+    color: #f0c040;
+    margin-bottom: 0.3em;
+    line-height: 1.15;
+  }
+
+  h2 {
+    font-size: 2.2em;
+    color: #f0c040;
+    margin-bottom: 0.5em;
+  }
+
+  .subtitle {
+    font-size: 1.5em;
+    color: #a0a0c0;
+    margin-bottom: 0.5em;
+  }
+
+  .author {
+    font-size: 1.2em;
+    color: #8080a0;
+    margin-top: 1em;
+  }
+
+  p, li {
+    font-size: 1.4em;
+    line-height: 1.6;
+    color: #d0d0e0;
+  }
+
+  ul {
+    text-align: left;
+    max-width: 900px;
+    margin: 0.5em auto;
+  }
+
+  li { margin-bottom: 0.5em; }
+
+  .code-block {
+    background: #0d1117;
+    border: 1px solid #30363d;
+    border-radius: 10px;
+    padding: 30px 40px;
+    text-align: left;
+    font-family: 'SF Mono', 'Menlo', 'Consolas', monospace;
+    font-size: 1.1em;
+    line-height: 1.7;
+    max-width: 950px;
+    width: 100%;
+    margin: 0.8em auto;
+    color: #c9d1d9;
+    overflow-x: auto;
+  }
+
+  .code-block .prompt { color: #7ee787; }
+  .code-block .comment { color: #8b949e; }
+  .code-block .added { color: #7ee787; }
+  .code-block .removed { color: #f85149; }
+  .code-block .hash { color: #d2a8ff; }
+  .code-block .msg { color: #c9d1d9; }
+
+  .stat-row {
+    display: flex;
+    justify-content: center;
+    gap: 60px;
+    margin: 1em 0;
+  }
+
+  .stat {
+    text-align: center;
+  }
+
+  .stat .number {
+    font-size: 3.5em;
+    font-weight: bold;
+    color: #f0c040;
+    display: block;
+  }
+
+  .stat .label {
+    font-size: 1.1em;
+    color: #a0a0c0;
+  }
+
+  .timeline {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    margin: 1.5em auto;
+    max-width: 900px;
+    position: relative;
+  }
+
+  .timeline::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: #404060;
+    transform: translateY(-50%);
+  }
+
+  .era {
+    flex: 1;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+  }
+
+  .era .dot {
+    width: 16px;
+    height: 16px;
+    background: #f0c040;
+    border-radius: 50%;
+    margin: 0 auto 10px;
+  }
+
+  .era .year {
+    font-size: 1.3em;
+    font-weight: bold;
+    color: #f0c040;
+  }
+
+  .era .term {
+    font-size: 0.95em;
+    color: #a0a0c0;
+    margin-top: 4px;
+  }
+
+  .big-quote {
+    font-size: 1.6em;
+    font-style: italic;
+    color: #c0c0e0;
+    max-width: 800px;
+    line-height: 1.5;
+    margin: 0.5em auto;
+  }
+
+  .big-quote::before { content: '\201C'; color: #f0c040; font-size: 1.5em; }
+  .big-quote::after { content: '\201D'; color: #f0c040; font-size: 1.5em; }
+
+  .slide-number {
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    font-size: 0.9em;
+    color: #606080;
+  }
+
+  .nav-hint {
+    position: fixed;
+    bottom: 20px;
+    left: 30px;
+    font-size: 0.8em;
+    color: #404060;
+  }
+
+  .two-col {
+    display: flex;
+    gap: 60px;
+    max-width: 1000px;
+    text-align: left;
+    margin: 0.5em auto;
+  }
+
+  .two-col .col { flex: 1; }
+  .two-col h3 {
+    font-size: 1.3em;
+    color: #f0c040;
+    margin-bottom: 0.4em;
+  }
+
+  .highlight { color: #f0c040; font-weight: bold; }
+  .dim { color: #8080a0; }
+
+  .tech-stack {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 1em auto;
+  }
+
+  .tech-badge {
+    background: #16213e;
+    border: 1px solid #30365d;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 1.1em;
+    color: #c0c0e0;
+  }
+</style>
+</head>
+<body>
+
+<!-- SLIDE 1: Title -->
+<div class="slide active" id="s1">
+  <h1>US Copyright Law as Code</h1>
+  <p class="subtitle">230 Years of Legislative History in Git</p>
+  <p class="author">Kate Sills</p>
+  <p class="dim" style="margin-top:0.5em; font-size:1em;">Stanford Law Hackathon &middot; April 12, 2026</p>
+</div>
+
+<!-- SLIDE 2: The Problem -->
+<div class="slide" id="s2">
+  <h2>The Problem</h2>
+  <p class="big-quote">What did US copyright law actually say in 1985?</p>
+  <ul style="margin-top: 1em;">
+    <li>Copyright law has been amended <span class="highlight">121 times</span> since 1790</li>
+    <li>Courts need the statute text <em>at the time of infringement</em></li>
+    <li>No single source reconstructs the historical text</li>
+    <li>Lawyers pay hundreds of dollars for piecemeal historical research</li>
+  </ul>
+</div>
+
+<!-- SLIDE 3: The Solution -->
+<div class="slide" id="s3">
+  <h2>The Solution</h2>
+  <p style="font-size:1.5em; margin-bottom: 0.6em;">Treat legislation like source code.</p>
+  <p style="font-size:1.3em; color:#a0a0c0; margin-bottom: 1em;">Each Act of Congress = one git commit.</p>
+  <div class="code-block">
+    <span class="prompt">$</span> git log --oneline<br>
+    <span class="hash">f3a1b2c</span> <span class="msg">Copyright Act of 1790 (1 Stat. 124)</span><br>
+    <span class="hash">a7c2d3e</span> <span class="msg">Copyright Act of 1831 (4 Stat. 436)</span><br>
+    <span class="hash">b8d4e5f</span> <span class="msg">Copyright Act of 1909 (35 Stat. 1075)</span><br>
+    <span class="hash">c9e5f6a</span> <span class="msg">Copyright Act of 1976 (90 Stat. 2541)</span><br>
+    <span class="hash">d1f6a7b</span> <span class="msg">Berne Convention Implementation Act of 1988</span><br>
+    <span class="hash">e2a7b8c</span> <span class="msg">Sonny Bono Copyright Term Extension Act of 1998</span><br>
+    <span class="hash">f3b8c9d</span> <span class="msg">Digital Millennium Copyright Act of 1998</span><br>
+    <span class="dim">... 121 acts total, 1790&ndash;2025</span>
+  </div>
+</div>
+
+<!-- SLIDE 4: By the Numbers -->
+<div class="slide" id="s4">
+  <h2>By the Numbers</h2>
+  <div class="stat-row">
+    <div class="stat">
+      <span class="number">121</span>
+      <span class="label">Acts of Congress</span>
+    </div>
+    <div class="stat">
+      <span class="number">236</span>
+      <span class="label">Years of History</span>
+    </div>
+    <div class="stat">
+      <span class="number">124</span>
+      <span class="label">Statute Sections</span>
+    </div>
+  </div>
+  <div class="stat-row" style="margin-top: 0.5em;">
+    <div class="stat">
+      <span class="number">413</span>
+      <span class="label">Legal Accuracy Tests</span>
+    </div>
+    <div class="stat">
+      <span class="number">1</span>
+      <span class="label">Day to Build</span>
+    </div>
+  </div>
+</div>
+
+<!-- SLIDE 5: Demo - Duration -->
+<div class="slide" id="s5">
+  <h2>Demo: Copyright Duration Over Time</h2>
+  <div class="timeline">
+    <div class="era"><div class="dot"></div><div class="year">1790</div><div class="term">14 years</div></div>
+    <div class="era"><div class="dot"></div><div class="year">1831</div><div class="term">28 years</div></div>
+    <div class="era"><div class="dot"></div><div class="year">1909</div><div class="term">28 + 28</div></div>
+    <div class="era"><div class="dot"></div><div class="year">1976</div><div class="term">Life + 50</div></div>
+    <div class="era"><div class="dot"></div><div class="year">1998</div><div class="term">Life + 70</div></div>
+  </div>
+  <div class="code-block" style="margin-top: 1em;">
+    <span class="prompt">$</span> git diff v1976 v1998-ctea -- sections/302.md<br><br>
+    <span class="removed">- endures for a term consisting of the life of the author and</span><br>
+    <span class="removed">- fifty years after the author's death.</span><br>
+    <span class="added">+ endures for a term consisting of the life of the author and</span><br>
+    <span class="added">+ 70 years after the author's death.</span>
+  </div>
+</div>
+
+<!-- SLIDE 6: Demo - Architectural Works -->
+<div class="slide" id="s6">
+  <h2>Demo: When Did Buildings Become Copyrightable?</h2>
+  <p style="font-size:1.2em; margin-bottom: 0.8em; color:#a0a0c0;">Section 102 &mdash; Subject Matter of Copyright</p>
+  <div class="code-block">
+    <span class="prompt">$</span> git diff v1976 -- sections/102.md<br><br>
+    <span class="comment"># Architectural Works Copyright Protection Act of 1990</span><br><br>
+    &nbsp;(5) pictorial, graphic, and sculptural works;<br>
+    <span class="removed">-(6) motion pictures and other audiovisual works; and</span><br>
+    <span class="removed">-(7) sound recordings.</span><br>
+    <span class="added">+(6) motion pictures and other audiovisual works;</span><br>
+    <span class="added">+(7) sound recordings; and</span><br>
+    <span class="added">+(8) architectural works.</span>
+  </div>
+  <p style="margin-top:0.8em; font-size:1.2em;">Before December 1, 1990: <span class="highlight">7 categories</span>. After: <span class="highlight">8</span>.</p>
+</div>
+
+<!-- SLIDE 7: The Website -->
+<div class="slide" id="s7">
+  <h2>Not Just Git &mdash; A Full Web App</h2>
+  <p style="font-size:1.15em; color:#a0a0c0; margin-bottom: 0.8em;">No command line required. A static site anyone can use.</p>
+  <div style="max-width: 1000px; display: flex; gap: 20px; flex-wrap: wrap; margin: 0 auto;">
+    <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
+      <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">Timeline</p>
+      <p style="font-size:0.95em; line-height:1.5;">Browse 121 acts chronologically. Grouped by era &mdash; click any act to see what it changed.</p>
+    </div>
+    <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
+      <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">Section Viewer</p>
+      <p style="font-size:0.95em; line-height:1.5;">Read any section at any point in history. Version dropdown shows every amendment.</p>
+    </div>
+    <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
+      <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">Side-by-Side Diff</p>
+      <p style="font-size:0.95em; line-height:1.5;">Compare any two versions of a section. Word-level highlighting shows exactly what changed.</p>
+    </div>
+    <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
+      <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">Ramseyer Redline</p>
+      <p style="font-size:0.95em; line-height:1.5;">Congressional-style redline format: <span style="text-decoration: line-through; color:#f85149;">deletions</span> and <span style="text-decoration: underline; color:#7ee787;">insertions</span> inline.</p>
+    </div>
+    <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
+      <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">&ldquo;As Of&rdquo; Date Picker</p>
+      <p style="font-size:0.95em; line-height:1.5;">Pick any date from 1790 to today. See the entire copyright statute as it existed then.</p>
+    </div>
+    <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
+      <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">Search</p>
+      <p style="font-size:0.95em; line-height:1.5;">Search across acts and sections. Find any Public Law, section number, or keyword instantly.</p>
+    </div>
+  </div>
+</div>
+
+<!-- SLIDE 8: Live Demo -->
+<div class="slide" id="s8">
+  <h1 style="font-size: 2.8em;">Live Demo</h1>
+  <p style="font-size: 1.5em; color: #a0a0c0; margin-top: 0.3em;">let's switch to the site</p>
+</div>
+
+<!-- SLIDE 9: Who Is This For -->
+<div class="slide" id="s9">
+  <h2>Who Is This For?</h2>
+  <div class="two-col">
+    <div class="col">
+      <h3>Lawyers</h3>
+      <ul style="font-size: 0.85em;">
+        <li>Find statute text at time of infringement</li>
+        <li>Build "the law didn't say X until Y" arguments</li>
+        <li>Create diff exhibits for court</li>
+      </ul>
+      <h3 style="margin-top: 0.8em;">Legislators</h3>
+      <ul style="font-size: 0.85em;">
+        <li>Audit cumulative effect of amendments</li>
+        <li>Find stale sections needing modernization</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h3>Researchers</h3>
+      <ul style="font-size: 0.85em;">
+        <li>Visualize 230 years of scope expansion</li>
+        <li>Fact-check claims about copyright history</li>
+      </ul>
+      <h3 style="margin-top: 0.8em;">Educators</h3>
+      <ul style="font-size: 0.85em;">
+        <li>Teach copyright as a living system</li>
+        <li>Students explore with git checkout</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<!-- SLIDE 10: Bugs in the Law -->
+<div class="slide" id="s10">
+  <h2>Bugs in the Law</h2>
+  <p style="font-size:1.2em; color:#a0a0c0; margin-bottom: 0.7em;">When you apply every amendment mechanically, you find places where<br>Congress's own instructions don't compile.</p>
+  <div style="max-width: 960px; text-align: left; margin: 0 auto;">
+    <div style="display: flex; gap: 24px; flex-wrap: wrap;">
+      <div style="flex:1; min-width: 280px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:20px 24px;">
+        <p style="font-size:1.05em; color:#f85149; font-weight:bold; margin-bottom:6px;">&sect;105 &mdash; Duplicate Subsection Letters</p>
+        <p style="font-size:0.95em; line-height:1.5;">PL 116-92 (2019) created <span class="highlight">two subsections both lettered (c)</span> &mdash; one for &ldquo;Use by Federal Government,&rdquo; one for &ldquo;Definitions.&rdquo; The duplicate persisted in law for <em>three years</em> until PL 117-263 fixed it.</p>
+      </div>
+      <div style="flex:1; min-width: 280px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:20px 24px;">
+        <p style="font-size:1.05em; color:#f85149; font-weight:bold; margin-bottom:6px;">&sect;105 &mdash; Two Subparagraph (M)s</p>
+        <p style="font-size:0.95em; line-height:1.5;">Same Public Law, two committees each added a <span class="highlight">different institution as subparagraph (M)</span>. Armed Services added the Merchant Marine Academy; Intelligence added National Intelligence University. Neither knew about the other.</p>
+      </div>
+      <div style="flex:1; min-width: 280px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:20px 24px;">
+        <p style="font-size:1.05em; color:#f85149; font-weight:bold; margin-bottom:6px;">&sect;802 &mdash; History Erased</p>
+        <p style="font-size:0.95em; line-height:1.5;">In 2004, Congress rewrote all of Chapter 8. The OLRC&rsquo;s notes for the new &sect;802 only cover post-2004 changes. <span class="highlight">28 years of prior amendments are unrecoverable</span> from current official sources. A legislative <code style="color:#f85149;">git push --force</code>.</p>
+      </div>
+    </div>
+  </div>
+  <p style="margin-top: 0.8em; font-size: 1.15em; color: #a0a0c0;">
+    9 anomalies found so far. Version control doesn't just <em>record</em> the law &mdash; it <span class="highlight">audits</span> it.
+  </p>
+</div>
+
+<!-- SLIDE 11: What's Next -->
+<div class="slide" id="s11">
+  <h2>What's Next</h2>
+  <ul>
+    <li><span class="highlight">413 tests</span> verify legal accuracy of reconstructed text</li>
+    <li><span class="highlight">8 acts</span> remain &mdash; all involving sections with complete chapter-level rewrites (&sect;110, &sect;111, &sect;114, &sect;119)</li>
+    <li>Expand to other titles (Patent, Trademark)</li>
+    <li>Collaborative editing &mdash; law students contribute historical text</li>
+    <li>Integration with legal research tools (Westlaw, Lexis)</li>
+  </ul>
+</div>
+
+<!-- SLIDE 12: Closing -->
+<div class="slide" id="s12">
+  <h1 style="font-size: 2.5em;">What did the law say then?</h1>
+  <p style="font-size: 1.8em; color: #a0a0c0; margin-top: 0.3em;">Now you can <code style="color:#7ee787;">git checkout</code> and find out.</p>
+  <div style="margin-top: 2em;">
+    <p style="font-size: 1.2em; color: #8080a0;">Kate Sills</p>
+    <p style="font-size: 1em; color: #606080; margin-top: 0.5em;">github.com/katesills/copyright-history</p>
+  </div>
+</div>
+
+<div class="slide-number"><span id="current">1</span> / <span id="total">12</span></div>
+<div class="nav-hint">&larr; &rarr; or click to navigate</div>
+
+<script>
+  const slides = document.querySelectorAll('.slide');
+  let current = 0;
+
+  function show(n) {
+    slides[current].classList.remove('active');
+    current = (n + slides.length) % slides.length;
+    slides[current].classList.add('active');
+    document.getElementById('current').textContent = current + 1;
+  }
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight' || e.key === ' ' || e.key === 'Enter') { e.preventDefault(); show(current + 1); }
+    if (e.key === 'ArrowLeft' || e.key === 'Backspace') { e.preventDefault(); show(current - 1); }
+    if (e.key === 'Home') show(0);
+    if (e.key === 'End') show(slides.length - 1);
+  });
+
+  document.addEventListener('click', e => {
+    if (e.clientX > window.innerWidth / 2) show(current + 1);
+    else show(current - 1);
+  });
+</script>
+</body>
+</html>
