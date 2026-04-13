@@ -2,7 +2,7 @@
 
 **Citation:** 38 Geo. 3 c. 71  
 **Full Title:** *An Act for encouraging the Art of making new Models and Casts of Busts, and other Things therein mentioned*  
-**Royal Assent:** 1798
+**Royal Assent:** July 2, 1798
 
 ---
 

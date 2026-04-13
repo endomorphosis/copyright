@@ -60,7 +60,7 @@ The House of Lords' decision in *Donaldson v. Beckett* established the foundatio
 | `1767-engravers-copyright-act-amendment.md` | Engravers' Copyright Act Amendment 1767 (7 Geo. 3 c. 38); extended protection to works of similar nature; clarified coverage of sculptures and casts; increased penalties | 1767 |
 | `1769-millar-v-taylor.md` | *Millar v. Taylor* (1769) 4 Burr. 2303; King's Bench 3-1 decision recognizing perpetual common-law copyright in published works (later overruled) | 1769 |
 | `1774-donaldson-v-beckett.md` | *Donaldson v. Beckett* (1774) 4 Burr. 2408; House of Lords holds copyright is statutory and time-limited; rejects perpetual common-law copyright; foundational for US Copyright Clause | 1774 |
-| `1777-prints-copyright-act.md` | Prints Copyright Act 1777 (17 Geo. 3 c. 57); extended to all prints regardless of technique; 28-day registration requirement; increased penalties | 1777 |
+| `1777-prints-copyright-act.md` | Prints Copyright Act 1777 (17 Geo. 3 c. 57); extended to all prints regardless of technique; twenty-eight-day registration requirement; increased penalties | 1777 |
 | `1798-sculpture-copyright-act.md` | Sculpture Copyright Act 1798 (38 Geo. 3 c. 71); first copyright protection for three-dimensional works; fourteen-year term | 1798 |
 
 ---
