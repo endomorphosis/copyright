@@ -1956,8 +1956,8 @@
   ]
  },
  {
-  "hash": "ace783f",
-  "full_hash": "ace783f8accfbe96a6f5e10d88038058f41aabd9",
+  "hash": "8a620fb",
+  "full_hash": "8a620fb4300df3079b22982e631b1c96f3df1527",
   "date": "1998-10-27",
   "name": "Sonny Bono Copyright Term Extension Act of 1998",
   "public_law": "Pub. L. 105-298, Title I",
@@ -1969,33 +1969,27 @@
    "301",
    "302",
    "303",
-   "304",
-   "513"
+   "304"
   ],
   "sections_expected": [
-   "101",
    "108",
-   "110",
    "203",
    "301",
    "302",
    "303",
-   "304",
-   "504",
-   "513"
+   "304"
   ],
   "has_diff": true,
   "files_changed": [
    "sections/301.md",
    "sections/302.md",
    "sections/303.md",
-   "sections/304.md",
-   "sections/513.md"
+   "sections/304.md"
   ]
  },
  {
-  "hash": "1a0c986",
-  "full_hash": "1a0c986a748c3a2c2bb418777ad083d0c43911eb",
+  "hash": "df95154",
+  "full_hash": "df951541916f98401f21d545fa2516bb18a9db7c",
   "date": "1998-10-27",
   "name": "Fairness in Music Licensing Act of 1998",
   "public_law": "Pub. L. 105-298, Title II",
@@ -2010,13 +2004,7 @@
   ],
   "sections_expected": [
    "101",
-   "108",
    "110",
-   "203",
-   "301",
-   "302",
-   "303",
-   "304",
    "504",
    "513"
   ],
@@ -2028,8 +2016,8 @@
   ]
  },
  {
-  "hash": "72fae5c",
-  "full_hash": "72fae5c925e5b39b8b0ed0f5d42a644ccb258eaa",
+  "hash": "f566985",
+  "full_hash": "f566985d60a2d0464fa31a4fc1a57775b29509c6",
   "date": "1998-10-28",
   "name": "Digital Millennium Copyright Act of 1998 (DMCA)",
   "public_law": "Pub. L. 105-304",
@@ -2084,8 +2072,8 @@
   ]
  },
  {
-  "hash": "041ce35",
-  "full_hash": "041ce35df33ff48da16ea1c0d7cf9718ad46c501",
+  "hash": "9e0250e",
+  "full_hash": "9e0250e8ec626fbb39f5755a9026c31fc1b946ee",
   "date": "1999-08-05",
   "name": "Technical Corrections to Title 17 Act of 1999",
   "public_law": "Pub. L. 106-44",
@@ -2128,8 +2116,8 @@
   ]
  },
  {
-  "hash": "edc46db",
-  "full_hash": "edc46dbc83b8fcc67964f45a08e692e47457c4b3",
+  "hash": "9a53a39",
+  "full_hash": "9a53a39e240a5bf029e8754a68a4c8e31aba1ca9",
   "date": "1999-11-29",
   "name": "Intellectual Property and Communications Omnibus Reform Act of 1999",
   "public_law": "Pub. L. 106-113",
@@ -2174,8 +2162,8 @@
   ]
  },
  {
-  "hash": "e7b590e",
-  "full_hash": "e7b590e42964dcb0ab39322cc2fde9d55f921dee",
+  "hash": "5261a9e",
+  "full_hash": "5261a9eb4af74789025d3329868daf8034ce841a",
   "date": "1999-12-09",
   "name": "Digital Theft Deterrence and Copyright Damages Improvement Act of 1999",
   "public_law": "Pub. L. 106-160",
@@ -2183,17 +2171,21 @@
   "summary": "Increased statutory damages for copyright infringement under Section 504(c). Raised the range for both ordinary and willful infringement.",
   "tag": "",
   "era": "post-1976",
-  "sections_affected": [],
+  "sections_affected": [
+   "504"
+  ],
   "sections_expected": [
    "101",
    "504"
   ],
-  "has_diff": false,
-  "files_changed": []
+  "has_diff": true,
+  "files_changed": [
+   "sections/504.md"
+  ]
  },
  {
-  "hash": "5b5f2e5",
-  "full_hash": "5b5f2e5eeb0d4cbbda760f41ad233afbf5b497db",
+  "hash": "f6ae5bc",
+  "full_hash": "f6ae5bc60da4d2797c515258641bed0e4d432ca3",
   "date": "2000-10-27",
   "name": "Work Made for Hire and Copyright Corrections Act of 2000",
   "public_law": "Pub. L. 106-379",
@@ -2222,8 +2214,8 @@
   ]
  },
  {
-  "hash": "34280b9",
-  "full_hash": "34280b9a42455f7d875ac4cf107687ed54cfc9ce",
+  "hash": "6071b67",
+  "full_hash": "6071b6783fe4ac4933981444aa200c4acaf3f62c",
   "date": "2002-11-02",
   "name": "Intellectual Property and High Technology Technical Amendments Act of 2002",
   "public_law": "Pub. L. 107-273, Division C, Title III, Subtitle B",
@@ -2267,8 +2259,8 @@
   ]
  },
  {
-  "hash": "0af7bec",
-  "full_hash": "0af7beca35e15b05d50072849f56fcfb2d8143d5",
+  "hash": "cb05b1e",
+  "full_hash": "cb05b1e048f426784e73930e3845aa2335b930d4",
   "date": "2002-11-02",
   "name": "Technology, Education, and Copyright Harmonization Act of 2002 (TEACH Act)",
   "public_law": "Pub. L. 107-273, Division C, Title III, Subtitle C",
@@ -2296,8 +2288,8 @@
   "files_changed": []
  },
  {
-  "hash": "ba2f120",
-  "full_hash": "ba2f120ae518764f1148f5d1fddb1adb38f0c387",
+  "hash": "5be04b4",
+  "full_hash": "5be04b40acf05f03486b62b7258d31856238599a",
   "date": "2002-12-04",
   "name": "Small Webcaster Amendments Act of 2002",
   "public_law": "Pub. L. 107-321",
@@ -2318,8 +2310,8 @@
   ]
  },
  {
-  "hash": "df736b8",
-  "full_hash": "df736b80535403c0a0942add7eb4d15ead396a97",
+  "hash": "a408988",
+  "full_hash": "a408988ddfc334b3fb73bc6fde63c3349f61ec4e",
   "date": "2004-11-30",
   "name": "Copyright Royalty and Distribution Reform Act of 2004",
   "public_law": "Pub. L. 108-419",
@@ -2374,8 +2366,8 @@
   ]
  },
  {
-  "hash": "68e8bd8",
-  "full_hash": "68e8bd84327670e41af9d22a6753bb22ba55bbc2",
+  "hash": "f1505f6",
+  "full_hash": "f1505f668a214255fa2cad66b656c8ef31b01744",
   "date": "2004-12-03",
   "name": "Individuals with Disabilities Education Improvement Act of 2004 (Copyright Provision)",
   "public_law": "Pub. L. 108-446",
@@ -2395,8 +2387,8 @@
   ]
  },
  {
-  "hash": "10af1a5",
-  "full_hash": "10af1a5321c53838ac632adfe5f25f18c96e71e9",
+  "hash": "9605239",
+  "full_hash": "96052391c122f1aca6408023800cebf3605f803a",
   "date": "2004-12-08",
   "name": "Satellite Home Viewer Extension and Reauthorization Act of 2004 (SHVERA)",
   "public_law": "Pub. L. 108-447",
@@ -2416,8 +2408,8 @@
   "files_changed": []
  },
  {
-  "hash": "3765bdc",
-  "full_hash": "3765bdcab44302216a53c7695455dd69bb8a749c",
+  "hash": "446aeb2",
+  "full_hash": "446aeb2eb457d9b51858205460a4ea31dd502ab1",
   "date": "2004-12-23",
   "name": "Intellectual Property Protection and Courts Amendments Act of 2004",
   "public_law": "Pub. L. 108-482",
@@ -2437,8 +2429,8 @@
   ]
  },
  {
-  "hash": "2a10dec",
-  "full_hash": "2a10dec26bb61467c7c5ab59312fde7b44fe4fe0",
+  "hash": "1f5a98f",
+  "full_hash": "1f5a98f0f0767d1cefbb6c03f584fcb16d504498",
   "date": "2005-04-27",
   "name": "Family Entertainment and Copyright Act of 2005",
   "public_law": "Pub. L. 109-9",
@@ -2468,8 +2460,8 @@
   ]
  },
  {
-  "hash": "69c3e4d",
-  "full_hash": "69c3e4d02c689f3a5d97ac4c2ca42106bc7f83ce",
+  "hash": "7534a3d",
+  "full_hash": "7534a3d12bca3c205482f449074e7f1280e9d4ef",
   "date": "2006-03-16",
   "name": "Stop Counterfeiting in Manufactured Goods Act of 2006 (Copyright Provision)",
   "public_law": "Pub. L. 109-181",
@@ -2489,8 +2481,8 @@
   ]
  },
  {
-  "hash": "5762ba8",
-  "full_hash": "5762ba85780fc0075534a43d44caff988af982f9",
+  "hash": "d7b1ee5",
+  "full_hash": "d7b1ee51d2b020bb5f6d9e3c0d1c81170eb5853a",
   "date": "2006-10-06",
   "name": "Copyright Royalty Judges Program Technical Corrections Act of 2006",
   "public_law": "Pub. L. 109-303",
@@ -2526,8 +2518,8 @@
   ]
  },
  {
-  "hash": "2aee136",
-  "full_hash": "2aee13601b3fbca6509fb01de7d445381ca2c319",
+  "hash": "3509f7f",
+  "full_hash": "3509f7f3b8e47aafa48e8f2796fccdad7ad32d53",
   "date": "2008-05-08",
   "name": "Consolidated Natural Resources Act of 2008 (Copyright Provision)",
   "public_law": "Pub. L. 110-229",
@@ -2547,8 +2539,8 @@
   ]
  },
  {
-  "hash": "cb195c7",
-  "full_hash": "cb195c770d2d6a2719ba4f5d4087a642347ab98d",
+  "hash": "82a8c9a",
+  "full_hash": "82a8c9ac55c064dbf923b5026c70d1fde5587b60",
   "date": "2008-10-13",
   "name": "Prioritizing Resources and Organization for Intellectual Property Act of 2008 (PRO-IP Act)",
   "public_law": "Pub. L. 110-403",
@@ -2587,8 +2579,8 @@
   ]
  },
  {
-  "hash": "65cb6c0",
-  "full_hash": "65cb6c084def2a2b289283414e3326504f066d53",
+  "hash": "9b88958",
+  "full_hash": "9b88958da41df0feb8a75e5fec8135bf6a6397a3",
   "date": "2008-10-16",
   "name": "Vessel Hull Design Protection Amendments of 2008",
   "public_law": "Pub. L. 110-434",
@@ -2609,8 +2601,8 @@
   ]
  },
  {
-  "hash": "1dd5edc",
-  "full_hash": "1dd5edc461f175a72b214594fdbbd4add959b8c3",
+  "hash": "d2afb63",
+  "full_hash": "d2afb63ad8f042702e7b894a8d7c4ceccfda2033",
   "date": "2008-10-16",
   "name": "Webcaster Settlement Act of 2008",
   "public_law": "Pub. L. 110-435",
@@ -2631,8 +2623,8 @@
   ]
  },
  {
-  "hash": "be22d46",
-  "full_hash": "be22d46ad2f6ddf0d25339fb2ef21fb6caa5c1b7",
+  "hash": "3fb5f4f",
+  "full_hash": "3fb5f4fc767629337bcaabc4d8a7b74ed995fccc",
   "date": "2009-06-30",
   "name": "Webcaster Settlement Act of 2009",
   "public_law": "Pub. L. 111-36",
@@ -2653,8 +2645,8 @@
   ]
  },
  {
-  "hash": "e062d14",
-  "full_hash": "e062d1438257d41032c6a84bf84837954fedeef1",
+  "hash": "23f9adf",
+  "full_hash": "23f9adfe758685993d05882c1dd937c514aab9b6",
   "date": "2009-12-19",
   "name": "Department of Defense Appropriations Act of 2010 (Copyright Provision)",
   "public_law": "Pub. L. 111-118",
@@ -2674,8 +2666,8 @@
   ]
  },
  {
-  "hash": "f304c77",
-  "full_hash": "f304c7700946bf6ed7017a45a1e4150ba3dc094b",
+  "hash": "f47443e",
+  "full_hash": "f47443ef8d2717b1c83a5cfbfa1d29b30f3235a9",
   "date": "2010-03-02",
   "name": "Temporary Extension Act of 2010 (Copyright Provision)",
   "public_law": "Pub. L. 111-144",
@@ -2695,8 +2687,8 @@
   ]
  },
  {
-  "hash": "6398ce0",
-  "full_hash": "6398ce0f8b2d4abf5ee6e6865f35a8bdb2e18256",
+  "hash": "0d27522",
+  "full_hash": "0d27522830f67d6a8d09f6ca68c6e89d6e66ab47",
   "date": "2010-03-26",
   "name": "Satellite Television Extension Act of 2010",
   "public_law": "Pub. L. 111-151",
@@ -2717,8 +2709,8 @@
   ]
  },
  {
-  "hash": "56dcc6f",
-  "full_hash": "56dcc6fb0d9de0399623e1594e2d29896a211763",
+  "hash": "b2e4f8e",
+  "full_hash": "b2e4f8ef0750884e0df1f556091e86175a2d6b3a",
   "date": "2010-04-15",
   "name": "Continuing Extension Act of 2010 (Copyright Provision)",
   "public_law": "Pub. L. 111-157",
@@ -2738,8 +2730,8 @@
   ]
  },
  {
-  "hash": "acb2312",
-  "full_hash": "acb23124adb713c6ca27d224c5b1d8d5469037ce",
+  "hash": "f28cbba",
+  "full_hash": "f28cbbabb9bc3eabecf3b20a5859584813678944",
   "date": "2010-05-27",
   "name": "Satellite Television Extension and Localism Act of 2010 (STELA)",
   "public_law": "Pub. L. 111-175",
@@ -2771,8 +2763,8 @@
   ]
  },
  {
-  "hash": "4aee18b",
-  "full_hash": "4aee18bb49670a38d1958f71dcac1dc5f3d10df2",
+  "hash": "df60b47",
+  "full_hash": "df60b4730efd7d2d5d0ce6ee9f16af85212fdd65",
   "date": "2010-12-09",
   "name": "Copyright Cleanup, Clarification, and Corrections Act of 2010",
   "public_law": "Pub. L. 111-295",
@@ -2824,8 +2816,8 @@
   ]
  },
  {
-  "hash": "f08d3c0",
-  "full_hash": "f08d3c0b567a1d9dc656e2ddf9c975bac0f296e0",
+  "hash": "d93fe09",
+  "full_hash": "d93fe09017b58e8e5ee4fbd519eda70f5cd67b53",
   "date": "2011-12-31",
   "name": "National Defense Authorization Act for Fiscal Year 2012 (Copyright Provision)",
   "public_law": "Pub. L. 112-81",
@@ -2843,8 +2835,8 @@
   ]
  },
  {
-  "hash": "aae345f",
-  "full_hash": "aae345fdeadbe344c843f06ba9448893dfbc710e",
+  "hash": "cc37ce9",
+  "full_hash": "cc37ce9c2ba1d7bae3f187fdfad1a8c9c20820ed",
   "date": "2014-08-01",
   "name": "Unlocking Consumer Choice and Wireless Competition Act of 2014",
   "public_law": "Pub. L. 113-144",
@@ -2860,8 +2852,8 @@
   "files_changed": []
  },
  {
-  "hash": "2d82646",
-  "full_hash": "2d826460290e095b37a3ecc3c1857747da6e4689",
+  "hash": "aba922d",
+  "full_hash": "aba922d3eb24951a39a9cbdf59656d76ccaf00b7",
   "date": "2014-12-04",
   "name": "STELA Reauthorization Act of 2014",
   "public_law": "Pub. L. 113-200",
@@ -2885,8 +2877,8 @@
   ]
  },
  {
-  "hash": "af392f9",
-  "full_hash": "af392f97afa30b87b1389fb62c0f181c60dea8d8",
+  "hash": "cbf927a",
+  "full_hash": "cbf927a622793492685f160e9d3e2d56fe8e98e4",
   "date": "2018-10-09",
   "name": "Marrakesh Treaty Implementation Act of 2018",
   "public_law": "Pub. L. 115-261",
@@ -2907,8 +2899,8 @@
   ]
  },
  {
-  "hash": "e863b42",
-  "full_hash": "e863b42c18b3b12728cd89f0bffea490a5bd55a0",
+  "hash": "8c89618",
+  "full_hash": "8c89618a5c531d1e1dbacf234e38040817eb9df9",
   "date": "2018-10-11",
   "name": "Orrin G. Hatch-Bob Goodlatte Music Modernization Act of 2018",
   "public_law": "Pub. L. 115-264",
@@ -2918,7 +2910,8 @@
   "era": "post-1976",
   "sections_affected": [
    "1401",
-   "301"
+   "301",
+   "803"
   ],
   "sections_expected": [
    "101",
@@ -2935,12 +2928,13 @@
   "has_diff": true,
   "files_changed": [
    "sections/1401.md",
-   "sections/301.md"
+   "sections/301.md",
+   "sections/803.md"
   ]
  },
  {
-  "hash": "3005540",
-  "full_hash": "300554021e85b22b4e1e1e606a08852856bca349",
+  "hash": "fdf9bf3",
+  "full_hash": "fdf9bf342c5e77ebba2af688ad7633327dbd44d1",
   "date": "2019-12-20",
   "name": "Satellite Television Community Protection and Promotion Act of 2019",
   "public_law": "Pub. L. 116-94",
@@ -2950,27 +2944,22 @@
   "era": "post-1976",
   "sections_affected": [
    "501",
-   "701",
-   "803"
+   "701"
   ],
   "sections_expected": [
    "101",
    "119",
-   "501",
-   "701",
-   "802",
-   "803"
+   "501"
   ],
   "has_diff": true,
   "files_changed": [
    "sections/501.md",
-   "sections/701.md",
-   "sections/803.md"
+   "sections/701.md"
   ]
  },
  {
-  "hash": "6451b2a",
-  "full_hash": "6451b2a349dc9c8ee386cdb99f94931f50df0c2b",
+  "hash": "0fad52e",
+  "full_hash": "0fad52e9032aa805611fb15baf4a26da5f4886c3",
   "date": "2019-12-20",
   "name": "Library of Congress Technical Corrections Act of 2019",
   "public_law": "Pub. L. 116-94, Title XIV",
@@ -2980,9 +2969,6 @@
   "era": "post-1976",
   "sections_affected": [],
   "sections_expected": [
-   "101",
-   "119",
-   "501",
    "701",
    "802",
    "803"
@@ -2991,8 +2977,8 @@
   "files_changed": []
  },
  {
-  "hash": "eb73b8f",
-  "full_hash": "eb73b8f692ff9e9464c7122ce5a08ff57c5c1aee",
+  "hash": "e07e857",
+  "full_hash": "e07e857137157d549b1f499321872f1f2f7ff68a",
   "date": "2019-12-20",
   "name": "National Defense Authorization Act for Fiscal Year 2020 (Copyright Provision)",
   "public_law": "Pub. L. 116-92",
@@ -3012,8 +2998,8 @@
   ]
  },
  {
-  "hash": "c333b87",
-  "full_hash": "c333b873177f55cc8aceb2368ce6685c2d2f94b1",
+  "hash": "6d71df0",
+  "full_hash": "6d71df07834ad8b50c4432d730e3f8ac825986e6",
   "date": "2020-03-27",
   "name": "Coronavirus Aid, Relief, and Economic Security Act of 2020 (CARES Act - Copyright Provision)",
   "public_law": "Pub. L. 116-136",
@@ -3029,8 +3015,8 @@
   ]
  },
  {
-  "hash": "b49f3f3",
-  "full_hash": "b49f3f33a56a73deeb725908efcf2536a4564214",
+  "hash": "1a830fb",
+  "full_hash": "1a830fbbee7c3c189f6f26770962376053d5f63a",
   "date": "2020-12-27",
   "name": "Copyright Alternative in Small-Claims Enforcement Act of 2020 (CASE Act)",
   "public_law": "Pub. L. 116-260",
@@ -3054,8 +3040,8 @@
   ]
  },
  {
-  "hash": "92c4a43",
-  "full_hash": "92c4a432893715e231b9b6f435526835308da563",
+  "hash": "139ee54",
+  "full_hash": "139ee5414bba99112213c9ef9f0f643fab9221c4",
   "date": "2020-12-27",
   "name": "Protecting Lawful Streaming Act of 2020",
   "public_law": "Pub. L. 116-260",
@@ -3073,8 +3059,8 @@
   "files_changed": []
  },
  {
-  "hash": "73478ee",
-  "full_hash": "73478ee20e5820b317efc2c4e154e21ece6b4e6f",
+  "hash": "047b863",
+  "full_hash": "047b863f90a33b9ef1bcb150b59f52619dda5b9b",
   "date": "2021-12-27",
   "name": "National Defense Authorization Act for Fiscal Year 2022 (Copyright Provision)",
   "public_law": "Pub. L. 117-81",
@@ -3094,8 +3080,8 @@
   ]
  },
  {
-  "hash": "cdc675e",
-  "full_hash": "cdc675e3749738f6383822a59aefe477e5db9d5c",
+  "hash": "b8ed245",
+  "full_hash": "b8ed245c0d2436dffebef741a1499c69150067a7",
   "date": "2022-10-17",
   "name": "Artistic Recognition for Talented Students Act of 2022 (ARTS Act)",
   "public_law": "Pub. L. 117-201",
@@ -3116,8 +3102,8 @@
   ]
  },
  {
-  "hash": "d7d28a5",
-  "full_hash": "d7d28a5e829382a1e3554b9c91401b1c4062d595",
+  "hash": "6e9ffa5",
+  "full_hash": "6e9ffa5d7454c97b764cbc6c7df15eb30c6845da",
   "date": "2022-12-23",
   "name": "James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Copyright Provision)",
   "public_law": "Pub. L. 117-263",
@@ -3137,8 +3123,8 @@
   ]
  },
  {
-  "hash": "54271c9",
-  "full_hash": "54271c994a40f414f2f053e2017f1da6e73bc2d6",
+  "hash": "40b6328",
+  "full_hash": "40b6328fea1df95a77516c87984a9877100cef6b",
   "date": "2024-12-23",
   "name": "Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Copyright Provision)",
   "public_law": "Pub. L. 118-159",
@@ -3158,8 +3144,8 @@
   ]
  },
  {
-  "hash": "10e358d",
-  "full_hash": "10e358d4cd79aae9d7c39fe8e37254add35583f1",
+  "hash": "0884097",
+  "full_hash": "088409775ff2c9eb05c916d20d0238660e963bcb",
   "date": "2025-12-18",
   "name": "National Defense Authorization Act for Fiscal Year 2026 (Copyright Provision)",
   "public_law": "Pub. L. 119-60",

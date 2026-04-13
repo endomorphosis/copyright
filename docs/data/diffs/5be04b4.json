@@ -1,0 +1,195 @@
+{
+ "hash": "5be04b4",
+ "act_name": "Small Webcaster Amendments Act of 2002",
+ "files": [
+  {
+   "path": "sections/114.md",
+   "hunks": [
+    {
+     "old_start": 76,
+     "new_start": 76,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) entities performing sound recordings affected by this section may designate common agents to act on their behalf to obtain licenses and collect and pay royalty fees: Provided, That each entity performing sound recordings shall determine the royalty rates and material license terms and conditions unilaterally, that is, not in agreement, combination, or concert with other entities performing sound recordings."
+      },
+      {
+       "type": "ctx",
+       "text": "(f) Licenses for Certain Nonexempt Transmissions.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1)(A) Proceedings under chapter 8 shall determine reasonable rates and terms of royalty payments for transmissions subject to statutory licensing under subsection (d)(2) during the 5-year period beginning on January 1 of the second year following the year in which the proceedings are to be commenced pursuant to subparagraph (A) or (B) of section 804(b)(3), as the case may be, or such other period as the parties may agree. The parties to each proceeding shall bear their own costs."
+      },
+      {
+       "type": "del",
+       "text": "(B) The schedule of reasonable rates and terms determined by the Librarian of Congress shall, subject to paragraph (2), be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the 5-year period specified in subparagraph (A), or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of services then in operation and shall include a minimum fee for each such type of service, such differences to be based on criteria including the quantity and nature of the use of sound recordings and the degree to which use of the service may substitute for or may promote the purchase of phonorecords by consumers. The Librarian of Congress shall establish rates and terms that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and a willing seller. In determining such rates and terms, the Librarian of Congress-"
+      },
+      {
+       "type": "add",
+       "text": "(B) The schedule of reasonable rates and terms determined by the Copyright Royalty Judges shall, subject to paragraph (2), be binding on all copyright owners of sound recordings and entities performing sound recordings affected by this paragraph during the 5-year period specified in subparagraph (A), or such other period as the parties may agree. Such rates and terms shall distinguish among the different types of services then in operation and shall include a minimum fee for each such type of service, such differences to be based on criteria including the quantity and nature of the use of sound recordings and the degree to which use of the service may substitute for or may promote the purchase of phonorecords by consumers. The Copyright Royalty Judges shall establish rates and terms that most clearly represent the rates and terms that would have been negotiated in the marketplace between a willing buyer and a willing seller. In determining such rates and terms, the Copyright Royalty Judges-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) shall base their decision on economic, competitive, and programming information presented by the parties, including-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) whether use of the service may substitute for or may promote the sales of phonorecords or otherwise may interfere with or may enhance the sound recording copyright owner's other streams of revenue from the copyright owner's sound recordings; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(II) the relative roles of the copyright owner and the transmitting entity in the copyrighted work and the service made available to the public with respect to relative creative contribution, technological contribution, capital investment, cost, and risk; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) may consider the rates and terms for comparable types of audio transmission services and comparable circumstances under voluntary license agreements."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) The procedures under subparagraphs (A) and (B) shall also be initiated pursuant to a petition filed by any sound recording copyright owner or any transmitting entity indicating that a new type of service on which sound recordings are performed is or is about to become operational, for the purpose of determining reasonable terms and rates of royalty payments with respect to such new type of service for the period beginning with the inception of such new type of service and ending on the date on which the royalty rates and terms for eligible nonsubscription services and new subscription services, or preexisting subscription services and preexisting satellite digital audio radio services, as the case may be, most recently determined under subparagraph (A) or (B) and chapter 8 expire, or such other period as the parties may agree."
+      },
+      {
+       "type": "del",
+       "text": "(2) License agreements voluntarily negotiated at any time between 1 or more copyright owners of sound recordings and 1 or more entities performing sound recordings shall be given effect in lieu of any decision by the Librarian of Congress or determination by the Librarian of Congress."
+      },
+      {
+       "type": "del",
+       "text": "(3)(A) The Librarian of Congress shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings. The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Librarian of Congress. If new regulations are promulgated under this subparagraph, the Librarian of Congress shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees."
+      },
+      {
+       "type": "add",
+       "text": "(2) License agreements voluntarily negotiated at any time between 1 or more copyright owners of sound recordings and 1 or more entities performing sound recordings shall be given effect in lieu of any decision by the Librarian of Congress or determination by the Copyright Royalty Judges."
+      },
+      {
+       "type": "add",
+       "text": "(3)(A) The Copyright Royalty Judges shall also establish requirements by which copyright owners may receive reasonable notice of the use of their sound recordings under this section, and under which records of such use shall be kept and made available by entities performing sound recordings. The notice and recordkeeping rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 shall remain in effect unless and until new regulations are promulgated by the Copyright Royalty Judges. If new regulations are promulgated under this subparagraph, the Copyright Royalty Judges shall take into account the substance and effect of the rules in effect on the day before the effective date of the Copyright Royalty and Distribution Reform Act of 2004 and shall, to the extent practicable, avoid significant disruption of the functions of any designated agent authorized to collect and distribute royalty fees."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) Any person who wishes to perform a sound recording publicly by means of a transmission eligible for statutory licensing under this subsection may do so without infringing the exclusive right of the copyright owner of the sound recording-"
+      },
+      {
+       "type": "del",
+       "text": "(i) by complying with such notice requirements as the Librarian of Congress shall prescribe by regulation and by paying royalty fees in accordance with this subsection; or"
+      },
+      {
+       "type": "add",
+       "text": "(i) by complying with such notice requirements as the Copyright Royalty Judges shall prescribe by regulation and by paying royalty fees in accordance with this subsection; or"
+      },
+      {
+       "type": "ctx",
+       "text": "(ii) if such royalty fees have not been set, by agreeing to pay such royalty fees as shall be determined in accordance with this subsection."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) Any royalty payments in arrears shall be made on or before the twentieth day of the month next succeeding the month in which the royalty fees are set."
+      },
+      {
+       "type": "del",
+       "text": "(4)(A) Notwithstanding section 112(e) and the other provisions of this subsection, the receiving agent may enter into agreements for the reproduction and performance of sound recordings under section 112(e) and this section by any 1 or more small commercial webcasters or nonsmall commercial webcasters during the period beginning on October 28, 1998, and ending on December 31, 2004, that, once published in the Federal Register pursuant to subparagraph (B), shall be binding on all copyright owners of sound recordings and other persons entitled to payment under this section, in lieu of any determination by the Librarian of Congress. Any such agreement for small commercial webcasters shall include provisions for payment of royalties on the basis of a percentage of revenue or expenses, or both, and include a minimum fee. Any such agreement may include other terms and conditions, including requirements by which copyright owners may receive notice of the use of their sound recordings and under which records of such use shall be kept and made available by small commercial webcasters or nonsmall commercial webcasters. The receiving agent shall be under no obligation to negotiate any such agreement. The receiving agent shall have no obligation to any copyright owner of sound recordings or any other person entitled to payment under this section in negotiating any such agreement, and no liability to any copyright owner of sound recordings or any other person entitled to payment under this section for having entered into such agreement."
+      },
+      {
+       "type": "add",
+       "text": "(4)(A) Notwithstanding section 112(e) and the other provisions of this subsection, the receiving agent may enter into agreements for the reproduction and performance of sound recordings under section 112(e) and this section by any 1 or more small commercial webcasters or nonsmall commercial webcasters during the period beginning on October 28, 1998, and ending on December 31, 2004, that, once published in the Federal Register pursuant to subparagraph (B), shall be binding on all copyright owners of sound recordings and other persons entitled to payment under this section, in lieu of any determination by the Copyright Royalty Judges. Any such agreement for small commercial webcasters shall include provisions for payment of royalties on the basis of a percentage of revenue or expenses, or both, and include a minimum fee. Any such agreement may include other terms and conditions, including requirements by which copyright owners may receive notice of the use of their sound recordings and under which records of such use shall be kept and made available by small commercial webcasters or nonsmall commercial webcasters. The receiving agent shall be under no obligation to negotiate any such agreement. The receiving agent shall have no obligation to any copyright owner of sound recordings or any other person entitled to payment under this section in negotiating any such agreement, and no liability to any copyright owner of sound recordings or any other person entitled to payment under this section for having entered into such agreement."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) The Copyright Office shall cause to be published in the Federal Register any agreement entered into pursuant to subparagraph (A). Such publication shall include a statement containing the substance of subparagraph (C). Such agreements shall not be included in the Code of Federal Regulations. Thereafter, the terms of such agreement shall be available, as an option, to any commercial webcaster or noncommercial webcaster meeting the eligibility conditions of such agreement."
+      },
+      {
+       "type": "del",
+       "text": "(C) Neither subparagraph (A) nor any provisions of any agreement entered into pursuant to subparagraph (A), including any rate structure, fees, terms, conditions, or notice and recordkeeping requirements set forth therein, shall be admissible as evidence or otherwise taken into account in any administrative, judicial, or other government proceeding involving the setting or adjustment of the royalties payable for the public performance or reproduction in ephemeral phonorecords or copies of sound recordings, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements by the Librarian of Congress under paragraph (3) or section 112(e)(4). It is the intent of Congress that any royalty rates, rate structure, definitions, terms, conditions, or notice and recordkeeping requirements, included in such agreements shall be considered as a compromise motivated by the unique business, economic and political circumstances of webcasters, copyright owners, and performers rather than as matters that would have been negotiated in the marketplace between a willing buyer and a willing seller, or otherwise meet the objectives set forth in section 801(b). This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection."
+      },
+      {
+       "type": "del",
+       "text": "(D) Nothing in any agreement entered into pursuant to subparagraph (A) shall be taken into account by the United States Court of Appeals for the District of Columbia Circuit in its review of the determination by the Librarian of Congress of October 28, 1998, of rates and terms for the digital performance of sound recordings and ephemeral recordings, pursuant to sections 112 and 114."
+      },
+      {
+       "type": "add",
+       "text": "(C) Neither subparagraph (A) nor any provisions of any agreement entered into pursuant to subparagraph (A), including any rate structure, fees, terms, conditions, or notice and recordkeeping requirements set forth therein, shall be admissible as evidence or otherwise taken into account in any administrative, judicial, or other government proceeding involving the setting or adjustment of the royalties payable for the public performance or reproduction in ephemeral phonorecords or copies of sound recordings, the determination of terms or conditions related thereto, or the establishment of notice or recordkeeping requirements by the Copyright Royalty Judges under paragraph (3) or section 112(e)(4). It is the intent of Congress that any royalty rates, rate structure, definitions, terms, conditions, or notice and recordkeeping requirements, included in such agreements shall be considered as a compromise motivated by the unique business, economic and political circumstances of webcasters, copyright owners, and performers rather than as matters that would have been negotiated in the marketplace between a willing buyer and a willing seller, or otherwise meet the objectives set forth in section 801(b). This subparagraph shall not apply to the extent that the receiving agent and a webcaster that is party to an agreement entered into pursuant to subparagraph (A) expressly authorize the submission of the agreement in a proceeding under this subsection."
+      },
+      {
+       "type": "add",
+       "text": "(D) Nothing in any agreement entered into pursuant to subparagraph (A) shall be taken into account by the United States Court of Appeals for the District of Columbia Circuit in its review of the determination by the Copyright Royalty Judges of May 1, 2007, of rates and terms for the digital performance of sound recordings and ephemeral recordings, pursuant to sections 112 and 114."
+      },
+      {
+       "type": "ctx",
+       "text": "(E) As used in this paragraph-"
+      },
+      {
+       "type": "ctx",
+       "text": "(i) the term \"noncommercial webcaster\" means a webcaster that-"
+      },
+      {
+       "type": "ctx",
+       "text": "(I) is exempt from taxation under section 501 of the Internal Revenue Code of 1986 (26 U.S.C. 501);"
+      }
+     ]
+    },
+    {
+     "old_start": 103,
+     "new_start": 103,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(1) Except in the case of a transmission licensed under a statutory license in accordance with subsection (f) of this section-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) a featured recording artist who performs on a sound recording that has been licensed for a transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the artist's contract; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) a nonfeatured recording artist who performs on a sound recording that has been licensed for a transmission shall be entitled to receive payments from the copyright owner of the sound recording in accordance with the terms of the nonfeatured recording artist's applicable contract or other applicable agreement."
+      },
+      {
+       "type": "del",
+       "text": "(2) Except as provided for in paragraph (6), a nonprofit collective designated by the Librarian of Congress to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall distribute such receipts as follows:"
+      },
+      {
+       "type": "add",
+       "text": "(2) Except as provided for in paragraph (6), a nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall distribute such receipts as follows:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) 50 percent of the receipts shall be paid to the copyright owner of the exclusive right under section 106(6) of this title to publicly perform a sound recording by means of a digital audio transmission."
+      },
+      {
+       "type": "ctx",
+       "text": "(B) 2\u00bd percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Musicians (or any successor entity) to be distributed to nonfeatured musicians (whether or not members of the American Federation of Musicians) who have performed on sound recordings."
+      },
+      {
+       "type": "ctx",
+       "text": "(C) 2\u00bd percent of the receipts shall be deposited in an escrow account managed by an independent administrator jointly appointed by copyright owners of sound recordings and the American Federation of Television and Radio Artists (or any successor entity) to be distributed to nonfeatured vocalists (whether or not members of the American Federation of Television and Radio Artists) who have performed on sound recordings."
+      },
+      {
+       "type": "ctx",
+       "text": "(D) 45 percent of the receipts shall be paid, on a per sound recording basis, to the recording artist or artists featured on such sound recording (or the persons conveying rights in the artists' performance in the sound recordings)."
+      },
+      {
+       "type": "del",
+       "text": "(3) A nonprofit collective designated by the Librarian of Congress to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts to any person or entity entitled thereto other than copyright owners and performers who have elected to receive royalties from another designated nonprofit collective and have notified such nonprofit collective in writing of such election, the reasonable costs of such collective incurred after November 1, 1995, in-"
+      },
+      {
+       "type": "add",
+       "text": "(3) A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts to any person or entity entitled thereto other than copyright owners and performers who have elected to receive royalties from another designated nonprofit collective and have notified such nonprofit collective in writing of such election, the reasonable costs of such collective incurred after November 1, 1995, in-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) the administration of the collection, distribution, and calculation of the royalties;"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) the settlement of disputes relating to the collection and calculation of the royalties; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) the licensing and enforcement of rights with respect to the making of ephemeral recordings and performances subject to licensing under section 112 and this section, including those incurred in participating in negotiations or arbitration proceedings under section 112 and this section, except that all costs incurred relating to the section 112 ephemeral recordings right may only be deducted from the royalties received pursuant to section 112."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

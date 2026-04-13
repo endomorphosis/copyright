@@ -1,0 +1,69 @@
+{
+ "hash": "d93fe09",
+ "act_name": "National Defense Authorization Act for Fiscal Year 2012 (Copyright Provision)",
+ "files": [
+  {
+   "path": "amendments/2011-12-31-national-defense-authorization-act-for-fiscal-year-2012.md",
+   "hunks": [
+    {
+     "old_start": 0,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "add",
+       "text": "# National Defense Authorization Act for Fiscal Year 2012 (Copyright Provision)"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "*2011-12-31*"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Public Law:** Pub. L. 112-81"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "**Citation:** 125 Stat. 1497"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "## Changes"
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "Amended 18 U.S.C. Section 2320, relocating the definition of \"traffic\" from subsection (e) to subsection (f). This indirectly affected Section 1101(b) of Title 17 (anti-bootlegging), which cross-references that definition."
+      },
+      {
+       "type": "add",
+       "text": ""
+      },
+      {
+       "type": "add",
+       "text": "> [TODO] Apply text changes to section files."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

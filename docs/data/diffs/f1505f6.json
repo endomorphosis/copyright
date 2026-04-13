@@ -1,0 +1,105 @@
+{
+ "hash": "f1505f6",
+ "act_name": "Individuals with Disabilities Education Improvement Act of 2004 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/121.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 121"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "del",
+       "text": "\u00a7121. Limitations on exclusive rights: reproduction for blind or other people with disabilities"
+      },
+      {
+       "type": "add",
+       "text": "\u00a7121. Limitations on exclusive rights: Reproduction for blind or other people with disabilities"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) Notwithstanding the provisions of section 106, it is not an infringement of copyright for an authorized entity to reproduce or to distribute copies or phonorecords of a previously published, nondramatic literary work if such copies or phonorecords are reproduced or distributed in specialized formats exclusively for use by blind or other persons with disabilities."
+      },
+      {
+       "type": "ctx",
+       "text": "(b)(1) Copies or phonorecords to which this section applies shall-"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) not be reproduced or distributed in a format other than a specialized format exclusively for use by blind or other persons with disabilities;"
+      },
+      {
+       "type": "ctx",
+       "text": "(B) bear a notice that any further reproduction or distribution in a format other than a specialized format is an infringement; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) include a copyright notice identifying the copyright owner and the date of the original publication."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The provisions of this subsection shall not apply to standardized, secure, or norm-referenced tests and related testing material, or to computer programs, except the portions thereof that are in conventional human language (including descriptions of pictorial works) and displayed to users in the ordinary course of using the computer programs."
+      },
+      {
+       "type": "del",
+       "text": "(c) For purposes of this section, the term-"
+      },
+      {
+       "type": "add",
+       "text": "(c) Notwithstanding the provisions of section 106, it is not an infringement of copyright for a publisher of print instructional materials for use in elementary or secondary schools to create and distribute to the National Instructional Materials Access Center copies of the electronic files described in sections 612(a)(23)(C), 613(a)(6), and section 674(e) of the Individuals with Disabilities Education Act that contain the contents of print instructional materials using the National Instructional Material Accessibility Standard (as defined in section 674(e)(3) of that Act), if-"
+      },
+      {
+       "type": "add",
+       "text": "(1) the inclusion of the contents of such print instructional materials is required by any State educational agency or local educational agency;"
+      },
+      {
+       "type": "add",
+       "text": "(2) the publisher had the right to publish such print instructional materials in print formats; and"
+      },
+      {
+       "type": "add",
+       "text": "(3) such copies are used solely for reproduction or distribution of the contents of such print instructional materials in specialized formats."
+      },
+      {
+       "type": "add",
+       "text": "(d) For purposes of this section, the term-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) \"authorized entity\" means a nonprofit organization or a governmental agency that has a primary mission to provide specialized services relating to training, education, or adaptive reading or information access needs of blind or other persons with disabilities;"
+      },
+      {
+       "type": "del",
+       "text": "(2) \"blind or other persons with disabilities\" means individuals who are eligible or who may qualify in accordance with the Act entitled \"An Act to provide books for the adult blind\", approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats; and"
+      },
+      {
+       "type": "del",
+       "text": "(3) \"specialized formats\" means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities."
+      },
+      {
+       "type": "add",
+       "text": "(2) \"blind or other persons with disabilities\" means individuals who are eligible or who may qualify in accordance with the Act entitled \"An Act to provide books for the adult blind\", approved March 3, 1931 (2 U.S.C. 135a; 46 Stat. 1487) to receive books and other publications produced in specialized formats;"
+      },
+      {
+       "type": "add",
+       "text": "(3) \"print instructional materials\" has the meaning given under section 674(e)(3)(C) of the Individuals with Disabilities Education Act; and"
+      },
+      {
+       "type": "add",
+       "text": "(4) \"specialized formats\" means braille, audio, or digital text which is exclusively for use by blind or other persons with disabilities."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

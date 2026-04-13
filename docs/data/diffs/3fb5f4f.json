@@ -1,0 +1,133 @@
+{
+ "hash": "3fb5f4f",
+ "act_name": "Webcaster Settlement Act of 2009",
+ "files": [
+  {
+   "path": "sections/114.md",
+   "hunks": [
+    {
+     "old_start": 114,
+     "new_start": 114,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(B) the settlement of disputes relating to the collection and calculation of the royalties; and"
+      },
+      {
+       "type": "ctx",
+       "text": "(C) the licensing and enforcement of rights with respect to the making of ephemeral recordings and performances subject to licensing under section 112 and this section, including those incurred in participating in negotiations or arbitration proceedings under section 112 and this section, except that all costs incurred relating to the section 112 ephemeral recordings right may only be deducted from the royalties received pursuant to section 112."
+      },
+      {
+       "type": "ctx",
+       "text": "(4) Notwithstanding paragraph (3), any nonprofit collective designated to distribute receipts from the licensing of transmissions in accordance with subsection (f) may deduct from any of its receipts, prior to the distribution of such receipts, the reasonable costs identified in paragraph (3) of such collective incurred after November 1, 1995, with respect to such copyright owners and performers who have entered with such collective a contractual relationship that specifies that such costs may be deducted from such royalty receipts."
+      },
+      {
+       "type": "add",
+       "text": "(5) Letter of direction.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) In general.-A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) shall adopt and reasonably implement a policy that provides, in circumstances determined by the collective to be appropriate, for acceptance of instructions from a payee identified under subparagraph (A) or (D) of paragraph (2) to distribute, to a producer, mixer, or sound engineer who was part of the creative process that created a sound recording, a portion of the payments to which the payee would otherwise be entitled from the licensing of transmissions of the sound recording. In this section, such instructions shall be referred to as a \"letter of direction\"."
+      },
+      {
+       "type": "add",
+       "text": "(B) Acceptance of letter.-To the extent that a collective described in subparagraph (A) accepts a letter of direction under that subparagraph, the person entitled to payment pursuant to the letter of direction shall, during the period in which the letter of direction is in effect and carried out by the collective, be treated for all purposes as the owner of the right to receive such payment, and the payee providing the letter of direction to the collective shall be treated as having no interest in such payment."
+      },
+      {
+       "type": "add",
+       "text": "(C) Authority of collective.-This paragraph shall not be construed in such a manner so that the collective is not authorized to accept or act upon payment instructions in circumstances other than those to which this paragraph applies."
+      },
+      {
+       "type": "add",
+       "text": "(6) Sound recordings fixed before november 1, 1995.-"
+      },
+      {
+       "type": "add",
+       "text": "(A) Payment absent letter of direction.-A nonprofit collective designated by the Copyright Royalty Judges to distribute receipts from the licensing of transmissions in accordance with subsection (f) (in this paragraph referred to as the \"collective\") shall adopt and reasonably implement a policy that provides, in circumstances determined by the collective to be appropriate, for the deduction of 2 percent of all the receipts that are collected from the licensing of transmissions of a sound recording fixed before November 1, 1995, but which is withdrawn from the amount otherwise payable under paragraph (2)(D) to the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording), and the distribution of such amount to 1 or more persons described in subparagraph (B) of this paragraph, after deduction of costs described in paragraph (3) or (4), as applicable, if each of the following requirements is met:"
+      },
+      {
+       "type": "add",
+       "text": "(i) Certification of attempt to obtain a letter of direction.-The person described in subparagraph (B) who is to receive the distribution has certified to the collective, under penalty of perjury, that-"
+      },
+      {
+       "type": "add",
+       "text": "(I) for a period of not less than 120 days, that person made reasonable efforts to contact the artist payee for such sound recording to request and obtain a letter of direction instructing the collective to pay to that person a portion of the royalties payable to the featured recording artist or artists; and"
+      },
+      {
+       "type": "add",
+       "text": "(II) during the period beginning on the date on which that person began the reasonable efforts described in subclause (I) and ending on the date of that person's certification to the collective, the artist payee did not affirm or deny in writing the request for a letter of direction."
+      },
+      {
+       "type": "add",
+       "text": "(ii) Collective attempt to contact artist.-After receipt of the certification described in clause (i) and for a period of not less than 120 days before the first distribution by the collective to the person described in subparagraph (B), the collective attempts, in a reasonable manner as determined by the collective, to notify the artist payee of the certification made by the person described in subparagraph (B)."
+      },
+      {
+       "type": "add",
+       "text": "(iii) No objection received.-The artist payee does not, as of the date that was 10 business days before the date on which the first distribution is made, submit to the collective in writing an objection to the distribution."
+      },
+      {
+       "type": "add",
+       "text": "(B) Eligibility for payment.-A person shall be eligible for payment under subparagraph (A) if the person-"
+      },
+      {
+       "type": "add",
+       "text": "(i) is a producer, mixer, or sound engineer of the sound recording;"
+      },
+      {
+       "type": "add",
+       "text": "(ii) has entered into a written contract with a record company involved in the creation or lawful exploitation of the sound recording, or with the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording), under which the person seeking payment is entitled to participate in royalty payments that are based on the exploitation of the sound recording and are payable from royalties otherwise payable to the recording artist or artists featured on the sound recording (or the persons conveying rights in the artists' performance in the sound recording);"
+      },
+      {
+       "type": "add",
+       "text": "(iii) made a creative contribution to the creation of the sound recording; and"
+      },
+      {
+       "type": "add",
+       "text": "(iv) submits to the collective-"
+      },
+      {
+       "type": "add",
+       "text": "(I) a written certification stating, under penalty of perjury, that the person meets the requirements in clauses (i) through (iii); and"
+      },
+      {
+       "type": "add",
+       "text": "(II) a true copy of the contract described in clause (ii)."
+      },
+      {
+       "type": "add",
+       "text": "(C) Multiple certifications.-Subject to subparagraph (D), in a case in which more than 1 person described in subparagraph (B) has met the requirements for a distribution under subparagraph (A) with respect to a sound recording as of the date that is 10 business days before the date on which the distribution is made, the collective shall divide the 2 percent distribution equally among all such persons."
+      },
+      {
+       "type": "add",
+       "text": "(D) Objection to payment.-Not later than 10 business days after the date on which the collective receives from the artist payee a written objection to a distribution made pursuant to subparagraph (A), the collective shall cease making any further payment relating to such distribution. In any case in which the collective has made 1 or more distributions pursuant to subparagraph (A) to a person described in subparagraph (B) before the date that is 10 business days after the date on which the collective receives from the artist payee an objection to such distribution, the objection shall not affect that person's entitlement to any distribution made before the collective ceases such distribution under this subparagraph."
+      },
+      {
+       "type": "add",
+       "text": "(E) Ownership of the right to receive payments.-To the extent that the collective determines that a distribution will be made under subparagraph (A) to a person described in subparagraph (B), such person shall, during the period covered by such distribution, be treated for all purposes as the owner of the right to receive such payments, and the artist payee to whom such payments would otherwise be payable shall be treated as having no interest in such payments."
+      },
+      {
+       "type": "add",
+       "text": "(F) Artist payee defined.-In this paragraph, the term \"artist payee\" means a person, other than a person described in subparagraph (B), who owns the right to receive all or part of the receipts payable under paragraph (2)(D) with respect to a sound recording. In a case in which there are multiple artist payees with respect to a sound recording, an objection by 1 such payee shall apply only to that payee's share of the receipts payable under paragraph (2)(D), and shall not preclude payment under subparagraph (A) from the share of an artist payee that does not so object."
+      },
+      {
+       "type": "add",
+       "text": "(7) Preemption of state property laws.-The holding and distribution of receipts under section 112 and this section by a nonprofit collective designated by the Copyright Royalty Judges in accordance with this subsection and regulations adopted by the Copyright Royalty Judges, or by an independent administrator pursuant to subparagraphs (B) and (C) of section 114(g)(2), shall supersede and preempt any State law (including common law) concerning escheatment or abandoned property, or any analogous provision, that might otherwise apply."
+      },
+      {
+       "type": "ctx",
+       "text": "(h) Licensing to Affiliates.-"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) If the copyright owner of a sound recording licenses an affiliated entity the right to publicly perform a sound recording by means of a digital audio transmission under section 106(6), the copyright owner shall make the licensed sound recording available under section 106(6) on no less favorable terms and conditions to all bona fide entities that offer similar services, except that, if there are material differences in the scope of the requested license with respect to the type of service, the particular sound recordings licensed, the frequency of use, the number of subscribers served, or the duration, then the copyright owner may establish different terms and conditions for such other services."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) The limitation set forth in paragraph (1) of this subsection shall not apply in the case where the copyright owner of a sound recording licenses-"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

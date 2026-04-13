@@ -1,0 +1,139 @@
+{
+ "hash": "6e9ffa5",
+ "act_name": "James M. Inhofe National Defense Authorization Act for Fiscal Year 2023 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/105.md",
+   "hunks": [
+    {
+     "old_start": 2,
+     "new_start": 2,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7105. Subject matter of copyright: United States Government works"
+      },
+      {
+       "type": "ctx",
+       "text": "(a) In General.-Copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise."
+      },
+      {
+       "type": "del",
+       "text": "(b) Copyright Protection of Certain of Works.-Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work."
+      },
+      {
+       "type": "del",
+       "text": "(c) Use by Federal Government.-The Secretary of Defense may direct the covered author of a covered work to provide the Federal Government with an irrevocable, royalty-free, world-wide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government."
+      },
+      {
+       "type": "del",
+       "text": "(c) Definitions.-In this section:"
+      },
+      {
+       "type": "add",
+       "text": "(b) Copyright Protection of Certain Works.-Subject to subsection (c), the covered author of a covered work owns the copyright to that covered work."
+      },
+      {
+       "type": "add",
+       "text": "(c) Use by Federal Government.-"
+      },
+      {
+       "type": "add",
+       "text": "(1) Secretary of defense authority.-With respect to a covered author who produces a covered work in the course of employment at a covered institution described in subparagraphs (A) through (K) of subsection (d)(2) and subparagraph (L) of such subsection when the Coast Guard is operating as a service in the Navy, the Secretary of Defense may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government."
+      },
+      {
+       "type": "add",
+       "text": "(2) Secretary of the department in which the coast guard is operating when it is not operating as a service in the navy authority.-With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(L), the Secretary of the Department in which the Coast Guard is operating when it is not operating as a service in the Navy may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government."
+      },
+      {
+       "type": "add",
+       "text": "(3) Director of national intelligence authority.-With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(M), the Director of National Intelligence may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government."
+      },
+      {
+       "type": "add",
+       "text": "(4) Secretary of transportation authority.-With respect to a covered author who produces a covered work in the course of employment at the covered institution described in subsection (d)(2)(N), the Secretary of Transportation may direct the covered author to provide the Federal Government with an irrevocable, royalty-free, worldwide, nonexclusive license to reproduce, distribute, perform, or display such covered work for purposes of the United States Government."
+      },
+      {
+       "type": "add",
+       "text": "(d) Definitions.-In this section:"
+      },
+      {
+       "type": "ctx",
+       "text": "(1) Covered author.-The term \"covered author\" means a civilian member of the faculty of a covered institution."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) Covered institution.-The term \"covered institution\" means the following:"
+      },
+      {
+       "type": "ctx",
+       "text": "(A) National Defense University."
+      }
+     ]
+    },
+    {
+     "old_start": 18,
+     "new_start": 22,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(I) United States Air Force Academy."
+      },
+      {
+       "type": "ctx",
+       "text": "(J) Air University."
+      },
+      {
+       "type": "ctx",
+       "text": "(K) Defense Language Institute."
+      },
+      {
+       "type": "del",
+       "text": "(3) Covered work.-The term \"covered work\" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal."
+      },
+      {
+       "type": "add",
+       "text": "(L) United States Coast Guard Academy."
+      },
+      {
+       "type": "add",
+       "text": "(M) National Intelligence University."
+      },
+      {
+       "type": "add",
+       "text": "(N) United States Merchant Marine Academy."
+      },
+      {
+       "type": "add",
+       "text": "(3) Covered Secretary.-The term \"covered Secretary\" means-"
+      },
+      {
+       "type": "add",
+       "text": "(A) the Secretary of Defense, with respect to a covered institution described in any of subparagraphs (A) through (K) of paragraph (2);"
+      },
+      {
+       "type": "add",
+       "text": "(B) the Secretary of the Department in which the Coast Guard is operating, with respect to the covered institution described in subparagraph (L) of such paragraph;"
+      },
+      {
+       "type": "add",
+       "text": "(C) the Director of National Intelligence, with respect to the covered institution described in subparagraph (M) of such paragraph; and"
+      },
+      {
+       "type": "add",
+       "text": "(D) the Secretary of Transportation, with respect to the covered institution described in subparagraph (N) of such paragraph."
+      },
+      {
+       "type": "add",
+       "text": "(4) Covered work.-The term \"covered work\" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

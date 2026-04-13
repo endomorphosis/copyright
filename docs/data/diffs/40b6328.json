@@ -1,0 +1,57 @@
+{
+ "hash": "40b6328",
+ "act_name": "Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025 (Copyright Provision)",
+ "files": [
+  {
+   "path": "sections/105.md",
+   "hunks": [
+    {
+     "old_start": 25,
+     "new_start": 25,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(L) United States Coast Guard Academy."
+      },
+      {
+       "type": "ctx",
+       "text": "(M) National Intelligence University."
+      },
+      {
+       "type": "ctx",
+       "text": "(N) United States Merchant Marine Academy."
+      },
+      {
+       "type": "del",
+       "text": "(3) Covered Secretary.-The term \"covered Secretary\" means-"
+      },
+      {
+       "type": "del",
+       "text": "(A) the Secretary of Defense, with respect to a covered institution described in any of subparagraphs (A) through (K) of paragraph (2);"
+      },
+      {
+       "type": "del",
+       "text": "(B) the Secretary of the Department in which the Coast Guard is operating, with respect to the covered institution described in subparagraph (L) of such paragraph;"
+      },
+      {
+       "type": "del",
+       "text": "(C) the Director of National Intelligence, with respect to the covered institution described in subparagraph (M) of such paragraph; and"
+      },
+      {
+       "type": "del",
+       "text": "(D) the Secretary of Transportation, with respect to the covered institution described in subparagraph (N) of such paragraph."
+      },
+      {
+       "type": "del",
+       "text": "(4) Covered work.-The term \"covered work\" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal."
+      },
+      {
+       "type": "add",
+       "text": "(3) Covered work.-The term \"covered work\" means a literary work produced by a covered author in the course of employment at a covered institution for publication by a scholarly press or journal."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

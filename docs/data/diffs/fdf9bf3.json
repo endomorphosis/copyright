@@ -1,0 +1,96 @@
+{
+ "hash": "fdf9bf3",
+ "act_name": "Satellite Television Community Protection and Promotion Act of 2019",
+ "files": [
+  {
+   "path": "sections/501.md",
+   "hunks": [
+    {
+     "old_start": 1,
+     "new_start": 1,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "# 17 U.S.C. \u00a7 501"
+      },
+      {
+       "type": "ctx",
+       "text": ""
+      },
+      {
+       "type": "ctx",
+       "text": "\u00a7501. Infringement of copyright"
+      },
+      {
+       "type": "del",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 121 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "add",
+       "text": "(a) Anyone who violates any of the exclusive rights of the copyright owner as provided by sections 106 through 122 or of the author as provided in section 106A(a), or who imports copies or phonorecords into the United States in violation of section 602, is an infringer of the copyright or right of the author, as the case may be. For purposes of this chapter (other than section 506), any reference to copyright shall be deemed to include the rights conferred by section 106A(a). As used in this subsection, the term \"anyone\" includes any State, any instrumentality of a State, and any officer or employee of a State or instrumentality of a State acting in his or her official capacity. Any State, and any such instrumentality, officer, or employee, shall be subject to the provisions of this title in the same manner and to the same extent as any nongovernmental entity."
+      },
+      {
+       "type": "ctx",
+       "text": "(b) The legal or beneficial owner of an exclusive right under a copyright is entitled, subject to the requirements of section 411, to institute an action for any infringement of that particular right committed while he or she is the owner of it. The court may require such owner to serve written notice of the action with a copy of the complaint upon any person shown, by the records of the Copyright Office or otherwise, to have or claim an interest in the copyright, and shall require that such notice be served upon any person whose interest is likely to be affected by a decision in the case. The court may require the joinder, and shall permit the intervention, of any person having or claiming an interest in the copyright."
+      },
+      {
+       "type": "ctx",
+       "text": "(c) For any secondary transmission by a cable system that embodies a performance or a display of a work which is actionable as an act of infringement under subsection (c) of section 111, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that television station."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) For any secondary transmission by a cable system that is actionable as an act of infringement pursuant to section 111(c)(3), the following shall also have standing to sue: (i) the primary transmitter whose transmission has been altered by the cable system; and (ii) any broadcast station within whose local service area the secondary transmission occurs."
+      },
+      {
+       "type": "del",
+       "text": "(e) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(5), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station."
+      },
+      {
+       "type": "add",
+       "text": "(e) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 119(a)(3), a network station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local service area of that station."
+      },
+      {
+       "type": "ctx",
+       "text": "(f)(1) With respect to any secondary transmission that is made by a satellite carrier of a performance or display of a work embodied in a primary transmission and is actionable as an act of infringement under section 122, a television broadcast station holding a copyright or other license to transmit or perform the same version of that work shall, for purposes of subsection (b) of this section, be treated as a legal or beneficial owner if such secondary transmission occurs within the local market of that station."
+      },
+      {
+       "type": "ctx",
+       "text": "(2) A television broadcast station may file a civil action against any satellite carrier that has refused to carry television broadcast signals, as required under section 122(a)(2), to enforce that television broadcast station's rights under section 338(a) of the Communications Act of 1934."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "path": "sections/701.md",
+   "hunks": [
+    {
+     "old_start": 11,
+     "new_start": 11,
+     "lines": [
+      {
+       "type": "ctx",
+       "text": "(c) The Register of Copyrights shall adopt a seal to be used on and after January 1, 1978, to authenticate all certified documents issued by the Copyright Office."
+      },
+      {
+       "type": "ctx",
+       "text": "(d) The Register of Copyrights shall make an annual report to the Librarian of Congress of the work and accomplishments of the Copyright Office during the previous fiscal year. The annual report of the Register of Copyrights shall be published separately and as a part of the annual report of the Librarian of Congress."
+      },
+      {
+       "type": "ctx",
+       "text": "(e) Except as provided by section 706(b) and the regulations issued thereunder, all actions taken by the Register of Copyrights under this title are subject to the provisions of the Administrative Procedure Act of June 11, 1946, as amended (c. 324, 60 Stat. 237, title 5, United States Code, Chapter 5, Subchapter II and Chapter 7)."
+      },
+      {
+       "type": "del",
+       "text": "(f) The Register of Copyrights shall be compensated at the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. Each Associate Register of Copyrights shall be paid at a rate not to exceed the maximum annual rate of basic pay payable for GS\u201318 of the General Schedule under section 5332 of title 5."
+      },
+      {
+       "type": "add",
+       "text": "(f) The Register of Copyrights shall be compensated at the greater of the rate of pay in effect for level III of the Executive Schedule under section 5314 of title 5 or the maximum annual rate of basic pay payable under section 5376 of such title for positions at agencies with a performance appraisal system certified under section 5307(d) of such title. The Librarian of Congress shall establish not more than four positions for Associate Registers of Copyrights, in accordance with the recommendations of the Register of Copyrights. The Librarian shall make appointments to such positions after consultation with the Register of Copyrights. The rate of basic pay for each Associate Register of Copyrights shall be fixed in accordance with section 5376 of title 5."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
