@@ -387,20 +387,17 @@ class TestExample06StatutoryDamages(unittest.TestCase):
                        "1976 Act 504 should show $50,000 willful cap")
 
     @skip_if_no_repo
-    def test_damages_increase_after_berne(self):
-        """A later amendment should raise the damage amounts above $10,000."""
-        commits = commits_for_file('sections/504.md')
-        # Get the commit after Berne (second-most-recent before current)
-        subjects = [s for _, s in commits]
-        berne_idx = next(
-            i for i, s in enumerate(subjects) if 'Berne' in s
-        )
-        if berne_idx == 0:
-            self.skipTest("No amendment after Berne in history")
-        later_hash = commits[berne_idx - 1][0]
-        text = show_file_at(later_hash, 'sections/504.md')
-        self.assertIn('$30,000', text,
-                       "A later amendment should raise the max to $30,000")
+    def test_berne_raises_damage_amounts(self):
+        """The Berne Convention Implementation Act of 1988 raised statutory
+        damages from $250/$10,000/$50,000 to $500/$20,000/$100,000."""
+        berne = commit_for('Berne Convention Implementation Act')
+        text = show_file_at(berne, 'sections/504.md')
+        self.assertIn('$500', text,
+                       "Post-Berne minimum should be $500 (was $250)")
+        self.assertIn('$20,000', text,
+                       "Post-Berne maximum should be $20,000 (was $10,000)")
+        self.assertIn('$100,000', text,
+                       "Post-Berne willful cap should be $100,000 (was $50,000)")
 
 
 class TestExample07DMCASafeHarbors(unittest.TestCase):

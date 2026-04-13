@@ -114,8 +114,13 @@ def build_act_sections_map(acts):
             elif len(matching_acts) > 1 and title_ref:
                 # Normalize: "title II" -> "Title II" (preserve Roman numerals)
                 title_norm = 'Title ' + title_ref.strip().split()[-1].upper()
+                # Use word-boundary matching to avoid "Title VI" matching
+                # "Title VIII" (substring false positive)
+                title_pattern = re.compile(
+                    r'\b' + re.escape(title_norm) + r'\b', re.IGNORECASE
+                )
                 for a in matching_acts:
-                    if title_norm.lower() in a['pl_num'].lower():
+                    if title_pattern.search(a['pl_num']):
                         matched_act = a
                         break
             if not matched_act and matching_acts:
