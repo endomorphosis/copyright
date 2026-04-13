@@ -1,6 +1,6 @@
 # US Copyright Law: A Legislative History in Git
 
-**[Browse the website](https://katelynsills.github.io/copyright/)** | **[View the build pipeline](https://github.com/katelynsills/copyright)**
+**[Browse the website](https://katelynsills.com/copyright/)** | **[View the build pipeline](https://github.com/katelynsills/copyright)**
 
 Every amendment to United States copyright law — from the Copyright Act of 1790 to the present — encoded as a git commit. Browse 236 years of legislation with the tools you already know: `git log`, `git diff`, `git checkout`.
 

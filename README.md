@@ -1,6 +1,6 @@
 # copyright — Build Pipeline for US Copyright Law in Git
 
-**[Browse the website](https://katelynsills.github.io/copyright/)** | **[Explore the git history](https://github.com/katelynsills/copyright-history)**
+**[Browse the website](https://katelynsills.com/copyright/)** | **[Explore the git history](https://github.com/katelynsills/copyright-history)**
 
 This repository contains the tools, source data, and tests that generate [katelynsills/copyright-history](https://github.com/katelynsills/copyright-history) — a git repository where each commit represents an Act of Congress that created or amended US copyright law, from 1790 to present.
 
