@@ -2,7 +2,7 @@
 
 **[Browse the website](https://katelynsills.com/copyright/)** | **[View the build pipeline](https://github.com/katelynsills/copyright)**
 
-Every amendment to United States copyright law — from the Copyright Act of 1790 to the present — encoded as a git commit. Browse 236 years of legislation with the tools you already know: `git log`, `git diff`, `git checkout`.
+Every significant development in copyright law — from the Statute of Anne in 1710 through the present day — encoded as a git commit. Browse nearly 470 years of legislation and case law with the tools you already know: `git log`, `git diff`, `git checkout`.
 
 ## Quick Start
 
@@ -25,7 +25,7 @@ git diff <commit>~1 <commit>
 
 ## What's In This Repo
 
-Each of the **122 commits** in this repository represents a single Act of Congress that created or amended federal copyright law. Commit messages include the act name, Public Law number, Statutes at Large citation, effective date, and a summary of what changed.
+Each commit in this repository represents a statute, decree, or leading case that created or amended copyright law. For English law before 1790, commit messages include the citation and jurisdiction. For US federal acts, commit messages include the act name, Public Law number, Statutes at Large citation, effective date, and a summary of what changed.
 
 ```
 sections/          # Title 17 U.S.C. — one Markdown file per section (post-1976)
@@ -35,9 +35,10 @@ CONTRIBUTING.md    # Guidelines for adding or correcting entries
 LICENSE            # CC0 1.0 — public domain dedication
 ```
 
-### Two Structural Eras
+### Three Structural Eras
 
-- **1790-1975** (38 acts): Copyright statutes existed as standalone acts, later codified in Title 17. Each major revision changed the structure significantly. These are stored in `pre-1976/`.
+- **1557–1789** (English law): Stationers' Company Charter, Star Chamber Decrees, Licensing Acts, Statute of Anne (1710), and key common-law cases (*Millar v. Taylor*, *Donaldson v. Beckett*). These are stored in `pre-1790/`.
+- **1790–1975** (38 US acts): US copyright statutes from the Copyright Act of 1790 through the last pre-1976 act. Each major revision changed the structure significantly. These are stored in `pre-1976/`.
 - **1976-present** (84 acts): The Copyright Act of 1976 (Pub. L. 94-553) completely rewrote Title 17 with the section numbering still used today. All subsequent amendments modify this stable structure. These are stored in `sections/`.
 
 ### Tags
@@ -100,7 +101,8 @@ This repository is generated from [katelynsills/copyright](https://github.com/ka
 
 | Era | Primary Source |
 |-----|---------------|
-| 1790-1925 | Statutes at Large via Library of Congress / govinfo.gov |
+| 1557–1789 (English law) | British Library, National Archives; Stationers' Company records; Parliamentary History; Burrow's Reports |
+| 1790–1925 | Statutes at Large via Library of Congress / govinfo.gov |
 | 1926-1975 | Historical U.S. Code via govinfo.gov |
 | 1976-present | Office of Law Revision Counsel (uscode.house.gov) |
 | Individual amendments | Congress.gov (bill text / Public Law text) |
@@ -113,4 +115,4 @@ Issues and improvements should be filed on the [pipeline repo](https://github.co
 
 ## License
 
-The text of US federal law is in the public domain. This repository's organizational structure and metadata are released under [CC0 1.0 Universal](LICENSE).
+The text of US federal law is in the public domain. The text of English law reproduced here (parliamentary statutes, Star Chamber decrees, royal charters) is likewise in the public domain. This repository's organizational structure and metadata are released under [CC0 1.0 Universal](LICENSE).

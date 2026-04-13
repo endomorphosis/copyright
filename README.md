@@ -2,15 +2,15 @@
 
 **[Browse the website](https://katelynsills.com/copyright/)** | **[Explore the git history](https://github.com/katelynsills/copyright-history)**
 
-This repository contains the tools, source data, and tests that generate [katelynsills/copyright-history](https://github.com/katelynsills/copyright-history) — a git repository where each commit represents an Act of Congress that created or amended US copyright law, from 1790 to present.
+This repository contains the tools, source data, and tests that generate [katelynsills/copyright-history](https://github.com/katelynsills/copyright-history) — a git repository where each commit represents a statute, decree, or case that created or amended copyright law, from the Statute of Anne in 1710 to the present.
 
 ## What This Repo Does
 
-The **copyright-history** repo is the public-facing product: 122 commits spanning 236 years, browsable with `git log`, `git diff`, and `git checkout`. This repo is the factory that builds it.
+The **copyright-history** repo is the public-facing product: commits spanning nearly 470 years, browsable with `git log`, `git diff`, and `git checkout`. This repo is the factory that builds it.
 
 It contains:
-- **Source data** — current statute text, historical snapshots, amendment notes, and pre-1976 act text from authoritative government sources
-- **Build pipeline** — scripts that assemble the data into a clean git history with one commit per act
+- **Source data** — current statute text, historical snapshots, amendment notes, pre-1976 act text, and pre-1790 English law text from authoritative sources
+- **Build pipeline** — scripts that assemble the data into a clean git history with one commit per legislative act or legal milestone
 - **Reconstruction tools** — scripts that reverse-engineer historical versions of sections from OLRC amendment notes
 - **450+ automated tests** — verify that reconstructed text matches known legal facts (e.g., that "fifty years" appears in the 1976 version of Section 302)
 - **A static website** — browse the full legislative history in a browser with diffs, side-by-side comparison, Ramseyer redlines, and an "as of" date picker
@@ -26,12 +26,13 @@ reconstruct.py            # Reconstructs historical section text from amendment 
 fetch_current_sections.py # Fetches current statute text from OLRC
 
 data/
-  acts.json               # Index of all 122 acts with metadata
+  acts.json               # Index of all acts with metadata
   current-sections/       # Current Title 17 U.S.C. text (one .md per section)
   amendment-notes/        # OLRC amendment notes per section
   snapshots/              # Reconstructed version histories per section
   act-snapshots/          # Section text at each act boundary (build input)
-  pre-1976-text/          # Full text of pre-1976 acts
+  pre-1790-text/          # English copyright law before 1790 (Statute of Anne etc.)
+  pre-1976-text/          # Full text of US copyright acts before 1976
   amendment-anomalies.md  # Documented anomalies (in progress — see below)
 
 metadata/
@@ -42,6 +43,12 @@ site-src/                 # Website source (templates, CSS, JS)
 tests/                    # Automated legal accuracy tests
 examples/                 # Example queries and usage
 ```
+
+## Three Structural Eras
+
+- **1557–1789** (English law): Stationers' Company Charter, Star Chamber Decrees, Licensing Acts, Statute of Anne, key common-law cases (*Millar v. Taylor*, *Donaldson v. Beckett*). These are stored in `pre-1790/` in the output repo.
+- **1790–1975** (38 US acts): US copyright statutes from the Copyright Act of 1790 through the last pre-1976 act. Stored in `pre-1976/`.
+- **1976–present** (84 US acts): The Copyright Act of 1976 (Pub. L. 94-553) completely rewrote Title 17 with the section numbering still used today. Stored in `sections/`.
 
 ## Building
 
@@ -83,9 +90,10 @@ Some sections (Section 111, Section 119) have multiple historical versions that 
 
 | Era | Primary Source |
 |-----|---------------|
-| 1790-1925 | Statutes at Large via Library of Congress / govinfo.gov |
-| 1926-1975 | Historical U.S. Code via govinfo.gov |
-| 1976-present | Office of Law Revision Counsel (uscode.house.gov) |
+| 1557–1789 (English law) | British Library, National Archives; Stationers' Company records; Parliamentary History; Burrow's Reports |
+| 1790–1925 | Statutes at Large via Library of Congress / govinfo.gov |
+| 1926–1975 | Historical U.S. Code via govinfo.gov |
+| 1976–present | Office of Law Revision Counsel (uscode.house.gov) |
 | Individual amendments | Congress.gov (bill text / Public Law text) |
 
 ## Contributing
@@ -94,4 +102,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding or correcting le
 
 ## License
 
-The text of US federal law is in the public domain. This repository's organizational structure and metadata are released under [CC0 1.0 Universal](LICENSE).
+The text of US federal law is in the public domain. The text of English law reproduced here (parliamentary statutes, Star Chamber decrees, royal charters) is likewise in the public domain. This repository's organizational structure and metadata are released under [CC0 1.0 Universal](LICENSE).
