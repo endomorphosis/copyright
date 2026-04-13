@@ -69,3 +69,30 @@ The charter alone was not self-enforcing across the full range of regulatory con
 - **The Decree of 1637** (under Archbishop Laud) further tightened licensing requirements, for the first time prohibited the importation of foreign reprints of English-imprinted books, and stiffened penalties.
 
 Taken together, the 1557 charter and the Star Chamber Decrees created a **comprehensive regulatory system** that persisted substantially intact until the abolition of the Star Chamber in 1641 and the lapse of the Licensing Act in 1695. The conceptual infrastructure it built—registration, deposit, trade monopoly, search and seizure—was directly inherited by the Licensing Act of 1662 and, in modified form, by the Statute of Anne in 1710.
+
+---
+
+## Primary Source Text
+
+The following excerpts reproduce the key operative provisions of the Royal Charter of 1557, in modernized spelling. The full original Latin and English text was enrolled in Chancery; what follows are the principal grants relevant to copyright history.
+
+---
+
+**Royal Charter of the Stationers' Company, 4 May 1557**  
+*(Philip and Mary, by the Grace of God, King and Queen of England, France, Naples, Jerusalem and Ireland, Defenders of the Faith, Princes of Spain and Sicily, Archdukes of Austria, Dukes of Milan, Burgundy and Brabant, Counts of Hapsburg, Flanders and Tirol)*
+
+**Grant of Incorporation:**
+
+> Know ye, that we, of our special grace, certain knowledge, and mere motion, have willed, ordained, constituted, and granted, and by these presents do will, ordain, constitute, and grant, that the freemen of the mystery or art of a stationer of the City of London, from henceforth for ever, shall be one body and perpetual commonalty corporate, in deed, fact, and name, by the name of The Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London; and them by the name of The Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London, one body and perpetual commonalty corporate, in deed, fact, and name, we do really and fully create, erect, make, ordain, and constitute by these presents; and that by the same name they shall have perpetual succession.
+
+**Grant of Trade Monopoly:**
+
+> And further, we do grant to the aforesaid Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London, that no person within this our realm of England or the dominions of the same shall exercise or practice the art or mystery of printing, or cause to be printed, any book or thing for sale or traffic within this our realm of England or the dominions of the same, unless he be of the said commonalty, or has licence to do the same from the said Master and Keepers or Wardens and Commonalty of the said Mystery, by writing under the common seal of the said commonalty.
+
+**Grant of Search and Seizure Powers:**
+
+> And we do grant to the Master and Keepers or Wardens of the said commonalty for the time being, and their successors, that it shall be lawful for the Master and Keepers or Wardens of the said commonalty for the time being, by themselves or by their deputies or servants, to search, view, and examine, at all times convenient, all and singular the books and things printed, or to be printed, within this our realm of England or any the dominions of the same, in any place or places, shop or shops, house or houses, or any other place or places whatsoever; and all such books and things as they or any of them shall find printed contrary to the ordinances and provisions in these our letters patent specified and contained, to seize and take to the use of the said commonalty.
+
+**Grant of Power to Make By-laws:**
+
+> And further, of our special grace, certain knowledge, and mere motion, we have granted, and by these presents do grant, to the aforesaid Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London and their successors, that they and their successors shall and may lawfully have, make, ordain, and constitute reasonable ordinances, provisions, and statutes, in writing, for the good rule and governance of the said commonalty, and of the mystery or craft aforesaid, so that such ordinances, provisions, and statutes so made be not contrary nor repugnant to the laws, statutes, and customs of this our realm of England.

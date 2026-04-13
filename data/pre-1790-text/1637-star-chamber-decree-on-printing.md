@@ -95,3 +95,33 @@ The 1637 Decree matters in copyright history for several reasons:
 2. **The anti-importation provision was a genuine legal innovation.** By extending the practical scope of the trade right beyond domestic production to foreign reprints, the decree made the first tentative move toward what we would now call territorial copyright protection. The import prohibition in the Statute of Anne (and later the US Copyright Act of 1790) directly traces its lineage to this provision.
 
 3. **The collapse of the decree in 1641 demonstrated the institutional fragility of prerogative press regulation.** The lesson was noted: if press control was to be stable and lawful in a parliamentary constitution, it needed to be grounded in statute. That lesson shaped the Licensing Act of 1662 and, ultimately, the Statute of Anne itself.
+
+---
+
+## Primary Source Text
+
+The following reproduces the principal provisions of the Star Chamber Decree of 1637, in modernized spelling. The decree was the most detailed and comprehensive statement of prerogative press law before the abolition of the Star Chamber in 1641.
+
+---
+
+**A Decree of the Star-Chamber, Concerning Printing, 11 July 1637**
+
+**Confirmation of London restriction and limitation of printers:**
+
+> Item, that no person or persons whatsoever shall erect or cause to be erected any press or printing-house, nor shall any person print or cause to be printed any book, ballad, chart, portraiture, or any other thing or things whatsoever, but only in the City of London, or the suburbs thereof, except one press only in the University of Oxford and one other in the University of Cambridge; and that the number of master printers allowed to print shall not exceed such number as shall from time to time be thought fit by the Lord Archbishop of Canterbury and Lord Bishop of London.
+
+**More precise licensing by subject matter:**
+
+> Item, that all books concerning the common laws of this realm shall be printed by the special allowance of the Lord Chief Justice and the Lord Chief Baron for the time being, or one of them; all books concerning matters of state or history or affairs of state, by the allowance of one of the Principal Secretaries of State; all books of divinity, physic, philosophy, poetry, and all other sorts of books, by the allowance of the Archbishop of Canterbury and Bishop of London, or one of them, or by the chancellors or vice-chancellors of either of the universities.
+
+**Registration requirement:**
+
+> Item, that no person shall print, or cause to be printed, any book, pamphlet, or any other matter whatsoever, except first he shall bring the same book, pamphlet, or other matter to one of the Stationers of London, being one of the wardens or assistants of the said Company of Stationers, and that the said warden or assistant shall enter the same in the Register Book of the said Company.
+
+**Anti-importation provision (first appearance in English law):**
+
+> Item, that no person or persons whatsoever shall import, bring, or cause to be brought, into this realm of England, or any other his Majesty's dominions, from any of the parts beyond the seas, any manner of English books, ballads, charts, or any other matter or thing, printed in any foreign country, to be sold or traded; and that the Lord Archbishop of Canterbury and Lord Bishop of London, or the Lord High Treasurer, or the Master of Requests for the time being, or two of them, shall from time to time cause to be stayed and detained at the ports all such books and things printed beyond the seas which shall be imported contrary to this act.
+
+**Penalties:**
+
+> Item, that if any person or persons shall print, or cause to be printed, any book, pamphlet, or any other matter whatsoever, not being lawfully licensed and entered as aforesaid, every such person or persons shall, for the first offence, be whipped and have his press and printing letters defaced and made unserviceable; and for the second offence, shall be further punished by imprisonment for such time as the court shall think fit; and for the third offence, shall be put from his trade of printing forever.

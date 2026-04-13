@@ -92,3 +92,33 @@ The 1586 Decree is significant in copyright history primarily because it **codif
 These two functions served different masters and rested on different justifications, yet they were procedurally fused: the same act of registration that documented licensing also created the trade right. This fusion would become a source of tension as arguments about copyright shifted from guild monopoly toward authors' natural rights.
 
 The decree also matters for what it reveals about the **limits of the Register** as a copyright instrument. The right it protected was purely a *trade* right enforceable among guild members. Authors continued to have no recognized interest. And the right was practically unlimited in duration: a stationer who had entered a work in the Register held it for as long as the Company's jurisdiction could be maintained—potentially forever. It was this potentially perpetual, guild-based monopoly that the Statute of Anne would eventually displace by substituting a statutory term of fixed duration vested initially in the author.
+
+---
+
+## Primary Source Text
+
+The following reproduces the principal provisions of the Star Chamber Decree of 1586, in modernized spelling. The decree was issued under the authority of the Star Chamber (the Court of the Privy Council sitting in its judicial capacity) and had the force of law without being a parliamentary statute.
+
+---
+
+**A Decree of the Starre-Chamber Concerning Printing, 23 June 1586**
+
+**Restriction of presses to London (with exceptions for the Universities):**
+
+> Item, that no printer of books do keep any press or presses of printing, or use the art or mystery of printing, in any place or places but only in the City of London, or the suburbs thereof; except one press in the University of Cambridge and one press in the University of Oxford.
+
+**Limitation on the number of master printers:**
+
+> Item, that no person shall keep above one press of printing at one time; and that the number of master printers shall be reduced and brought to such a small number as by the Archbishop of Canterbury and Bishop of London shall be thought convenient.
+
+**Pre-publication licensing by subject matter:**
+
+> Item, that no person shall imprint or cause to be imprinted, or shall bring or procure to be brought into this realm imprinted, any book, work, or copy, against the form and meaning of any ordinance, prohibition, or commandment, contained or to be contained in any the statutes or laws of this realm, or in any injunction, letters patent, or ordinances set forth or to be set forth by the Queen's most excellent Majesty's grant, commission, or authority: And that no person shall bring, or cause to be brought, from beyond the seas into this realm, any manner of English books, ballads, or other works printed beyond the seas, to be sold here, unless it be first seen, examined, and allowed; except books in Latin, or Greek, or other tongue, being approved, or to be approved, by the said Archbishop of Canterbury and Bishop of London, or the one of them. And that every book concerning the laws of this realm shall first be allowed by the Lord Chief Justice and Lord Chief Baron, or one of them; and if the book touch matters of state or the common weal, then by the said Secretaries or one of them; and if it be a book concerning heraldry, titles of honor and arms, or otherwise concerning the office of the Earl Marshal, then to be allowed by the Earl Marshal.
+
+**Registration requirement:**
+
+> Item, that no person shall imprint, or cause to be imprinted, any book, work, or copy, without it be first entered in the Register Book of the Stationers' Company of the City of London; and that no printing shall be done but in open shops, that the wardens of the Stationers' Company may see the same.
+
+**Search and seizure:**
+
+> Item, that the Wardens of the Stationers' Company for the time being, or any two of the journeymen printers to be assigned by the said Wardens, shall make search in all workhouses, shops, warehouses, and other places of printers, booksellers, and such as bring books from beyond the seas, as well within the liberties as without: and all books found to be printed contrary to these orders shall be brought to the Hall of the said Company and there defaced, or the bookseller or printer found guilty thereof shall be imprisoned for the space of six months.

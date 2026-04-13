@@ -101,3 +101,46 @@ The permanent lapse of the Licensing Act in 1695 is one of the most consequentia
 2. **It created the conceptual space for copyright.** Without the monopoly system of the Licensing Act, the Stationers needed new legal foundations. The search for those foundations produced the author-rights argument that eventually became the Statute of Anne's central innovation: copyright as a right initially vesting in the author.
 
 3. **It prefigured the great debate in Donaldson v. Beckett (1774).** The question left open by the lapse—whether the Stationers had a perpetual common-law right in their copies independent of the statutory system—became the central question in the great copyright cases of the 1760s and 1770s. The House of Lords' answer in Donaldson (that the Statute of Anne had displaced and superseded any common-law right) traced its logic directly to the events of 1695 and the argument that copyright was a creature of statute rather than natural right.
+
+---
+
+## Primary Source Text
+
+The 1695 lapse was not itself a document but a parliamentary decision not to renew legislation. The most important primary source illuminating the debate is **John Locke's Memorandum on the Licensing Act**, written for Edward Clarke MP around 1693–1694. The following reproduces Locke's principal objections in his own words, drawn from his manuscript memorandum as published in later collections of his correspondence and papers.
+
+---
+
+**John Locke's Memorandum on the Licensing Act (c. 1693–1694)**  
+*(Prepared for Edward Clarke, Member of Parliament; circulated in manuscript; printed posthumously)*
+
+**On the monopoly and perpetual terms of the Stationers:**
+
+> I know not why a man should not have liberty to print whatever he would speak, and to be answerable for the one just as he is for the other if he transgresses the law in either. But gagging a man for fear he should talk heresy or sedition has no other foundation but the interest and ambition of those who thus suppress, or the groundless apprehensions of those in power.
+
+**On the limited duration of copyright:**
+
+> Because the present Act forbids any one to print, or cause to be printed, any book without the consent of the proprietor, it would be well worth inquiring whether the benefit of this restraint does, upon the whole matter, redound more to the publick or to the booksellers; and whether the interests of learning and the learned are not more prejudiced than promoted by this Act.
+>
+> [If any exclusive right is to be granted,] it might be reasonable to limit the property of books to a certain number of years after the death of the author, or the first printing of the book, as, suppose, fifty or seventy years, which may be sufficient to encourage learned men to write, and may be a greater advantage to the public than the present monopoly.
+
+**On the objectionable nature of pre-publication censorship:**
+
+> I think all general warrants to search for books in private houses is very dangerous and against the liberty of the subject. . . . To make a man's printing a book an offence, for which he is to be punished before it can be determined that it contains anything objectionable, is a procedure repugnant to the ordinary course of justice.
+
+**On the Commons' formal objections (drawn from the parliamentary record, 1695):**
+
+> That it [the Licensing Act] suppressed the freedom of the press by subjecting all printing to the arbitrary pleasure of a licensor.
+>
+> That it gave the power of judging of what was fit to be printed to single individuals, whose interest it was to permit the printing of what they thought fit.
+>
+> That it put it in the power of the Company of Stationers to have a perpetual monopoly of all books in England to the great prejudice of the publick.
+>
+> That several of the said penalties were unreasonable and oppressive.
+>
+> That it confirmed the powers of the ecclesiastical courts, which are courts erected contrary to the laws and customs of England.
+>
+> That it did not prohibit the importation of books printed beyond the seas, which were reprints of English books protected within the realm.
+
+**Parliamentary resolution (Commons, 1695):**
+
+> The House does not think fit to continue the Printing Act.

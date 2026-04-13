@@ -106,3 +106,46 @@ The 1662 Act has four principal claims to importance in copyright history:
 3. **It gave statutory force to the anti-importation provision.** The 1637 Decree's anti-importation rule was now a statutory rule, enforceable in the common-law courts as well as by the Company's own machinery.
 
 4. **Its lapse in 1695 created the vacuum that produced the Statute of Anne.** When the Act expired, the Stationers' Company lost both its statutory licensing monopoly and its exclusive trade rights in registered copies. The Company's subsequent lobbying for parliamentary protection of its investments—combined with the emerging argument that authors rather than stationers deserved protection—produced the Statute of Anne in 1710, which transformed copyright from a guild trade right into a statutory right initially vesting in the author. The 1662 Act is thus the immediate predecessor from which the first true copyright statute directly grew.
+
+---
+
+## Primary Source Text
+
+The following reproduces the principal provisions of the Licensing of the Press Act 1662 (14 Car. 2 c. 33), in modernized spelling. This was the first parliamentary statute to establish a comprehensive copyright and press-regulation system in England after the abolition of the Star Chamber.
+
+---
+
+**An Act for preventing the frequent Abuses in printing seditious treasonable and unlicensed Bookes and Pamphlets and for regulating of Printing and Printing Presses**  
+*(14 Car. 2 c. 33, enacted May 10, 1662)*
+
+**Preamble:**
+
+> Forasmuch as the well-government and regulating of printers and printing presses is matter of publique care and of great concernment especially considering that by the general licentiousness of the late times many evil disposed persons have been bold to print and sell heretical schismatical blasphemous seditious and treasonable Bookes Pamphlets and Papers and still doe not cease to doe the like to the high dishonour of Almighty God the endangering the peace of these Kingdoms and raising a disaffection to His most Excellent Majesty and His Government: For prevention whereof noe stronger meanes can be advised then to reduce the number of Printing Presses and by redressing the disorders of the Press . . .
+
+**Pre-publication licensing requirement:**
+
+> That noe person or persons shall presume to Print or cause to be Printed or import or cause to be imported any Booke or Bookes Ballad Comedy Tragedy Interlude Play Poem or other matter or thing whatsoever in the English Tongue or in the Latine or any other Language of what nature or subject soever the same shall be (Bookes of the Common Law of England alone excepted) untill the same be first Licensed and Authorized as is or shall hereafter bee appointed.
+
+**Subject-matter licensing allocation:**
+
+> All Bookes concerning the Common Law of this Realme shall bee Licensed by the Lord Chancellor or Lord Keeper of the Great Seale of England or the Lord Chief Justice of the Kings Bench or the Lord Chief Justice of the Common Pleas or the Lord Chief Baron of the Exchequer or some one of them or their allowance or any one of the Justices of the Courts aforesaid.
+>
+> All Bookes of History concerning the State of this Realme or other Books concerning the affairs of State shall be Licensed by one of the Principall Secretaries of State.
+>
+> All other Bookes to be Licensed by the Archbishop of Canterbury or Bishop of London for the time being or their Chaplaines or by the respective Arch-Bishops and Bishops of the Diocesse where the same are to be Printed.
+
+**Registration requirement:**
+
+> That noe private person or persons shall Print or sell or expose to Sale any Booke whatsoever without the said Booke bee first entred in the Booke of the Register of the Company of Stationers . . . And that every Printer of any Booke shall before hee Print the same bring or cause to be brought to the said Register or to such Persons as shall hereafter be appointed by the said Company for that purpose a true Coppy of such Booke . . . and that hee shall pay such usuall Fees for the Registring thereof as have been anciently accustomed.
+
+**Nine-copy deposit requirement:**
+
+> That one Coppy of every such Booke or Bookes so as aforesaid Licensed shall bee delivered to the Master of the Stationers Company by the Printer thereof before any sale or exposure to sale thereof for the use of the Royall Library; And that nine Copies of every such Booke or Bookes so Licensed as aforesaid shall bee delivered by the Printer thereof to the Master of the Stationers Company for the use of the Royall Library the Library of the University of Oxford the Library of the University of Cambridge the Library of the Colledge of Edinburgh . . . and the Libraries of the Colledge of Glasgow, Aberdeen, and St Andrews in Scotland.
+
+**Restriction of printing to London and the universities:**
+
+> That noe person or persons shall erect or cause to be erected any Printing Presse or Presses of any sort whatsoever in any place or places within this Kingdome of England Dominion of Wales or Towne of Berwick upon Tweed other then in the Cities of London and Westminster or the Suburbs thereof.
+
+**Search and seizure authority:**
+
+> That the Master and Wardens of the Company of Stationers shall from time to time have Power and Authority to make Search in all places where they shall suspect that Bookes or Pamphletts are Printed or Bound by Appointment of the said Stationers and all such Bookes as they shall find that are Printed contrary to the true intent and meaning of this Act or against any of his Majesties Proclamations shall be Forfeited to the use of his Majesty.
