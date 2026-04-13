@@ -95,4 +95,4 @@ This reveals which parts of the law Congress returns to most often — useful fo
 $ git show v1790 -- pre-1976/copyright-act-of-1790.md
 ```
 
-The Copyright Act of 1790 protected "maps, charts, and books" for 14 years with a 14-year renewal. Compare that to today's law — life of the author plus 70 years, covering everything from software to architectural works to vessel hull designs — and you can see the full arc of 235 years of legislative expansion in a single `git diff`.
+The Copyright Act of 1790 protected "maps, charts, and books" for 14 years with a 14-year renewal. Compare that to today's law — life of the author plus 70 years, covering everything from software to architectural works to vessel hull designs — and you can see the full arc of 236 years of legislative expansion in a single `git diff`.

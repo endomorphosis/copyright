@@ -95,7 +95,7 @@ const HomeView = {
 
     el.innerHTML = `
       <div class="home-section">
-        <h2>235 Years of Copyright Law</h2>
+        <h2>236 Years of Copyright Law</h2>
         <p>${App.acts.length - 1} legislative acts from 1790 to 2025, each recorded as a git commit.
            Browse the timeline, explore individual sections, or compare versions side by side.</p>
         <a href="#/asof" class="asof-link">View the law at any date &rarr;</a>
