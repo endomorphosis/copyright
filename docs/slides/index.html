@@ -89,9 +89,9 @@
   .code-block .hash { color: #d2a8ff; }
   .code-block .msg { color: #c9d1d9; }
 
-  /* Ramseyer redline style */
+  /* Ramseyer redline style: strikethrough for deletions, italic for insertions */
   .code-block .struck { text-decoration: line-through; color: #c9d1d9; }
-  .code-block .inserted { text-decoration: underline; font-weight: bold; color: #c9d1d9; }
+  .code-block .inserted { font-style: italic; color: #c9d1d9; }
 
   .stat-row {
     display: flex;
@@ -346,7 +346,7 @@
     </div>
     <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
       <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">Ramseyer Redline</p>
-      <p style="font-size:0.95em; line-height:1.5;">Congressional-style redline format: <span style="text-decoration: line-through; color:#f85149;">deletions</span> and <span style="text-decoration: underline; color:#7ee787;">insertions</span> inline.</p>
+      <p style="font-size:0.95em; line-height:1.5;">Congressional-style comparative print: <span style="text-decoration: line-through;">deletions</span> and <span style="font-style: italic;">insertions</span> inline.</p>
     </div>
     <div style="flex:1; min-width: 200px; background:#16213e; border:1px solid #30365d; border-radius:10px; padding:18px 22px; text-align:left;">
       <p style="font-size:1.15em; color:#f0c040; font-weight:bold; margin-bottom:6px;">&ldquo;As Of&rdquo; Date Picker</p>
