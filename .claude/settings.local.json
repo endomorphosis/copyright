@@ -38,7 +38,10 @@
       "Bash(grep*)",
       "Bash(git:*)",
       "WebFetch(domain:katelynsills.com)",
-      "Bash(python -m pytest tests/ --co -q)"
+      "Bash(python -m pytest tests/ --co -q)",
+      "Bash(git branch:*)",
+      "Bash(ls:*)",
+      "WebFetch(domain:definitions.uslegal.com)"
     ]
   }
 }
