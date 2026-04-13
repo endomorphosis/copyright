@@ -1,5 +1,10 @@
 # Congressional Amendment Anomalies and Ambiguities
 
+> **Status: In progress — to be verified.** These anomalies were discovered
+> during reconstruction and have not all been independently verified against
+> primary sources (Statutes at Large, enrolled bill text). Treat as preliminary
+> findings until confirmed.
+
 Discovered during manual reconstruction of version histories. These are cases
 where the statutory amendment language is ambiguous, contradictory, or
 under-specified — making it impossible to mechanically derive the correct

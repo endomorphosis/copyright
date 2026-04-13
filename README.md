@@ -1,45 +1,87 @@
-# US Copyright Law: A Legislative History in Git
+# copyright — Build Pipeline for US Copyright Law in Git
 
-This repository tracks every legislative change to United States copyright law, from the first Copyright Act of 1790 to the present day. Each commit represents a single Act of Congress that created or amended copyright law, with the full statute text and metadata about the change.
+This repository contains the tools, source data, and tests that generate [katelynsills/copyright-history](https://github.com/katelynsills/copyright-history) — a git repository where each commit represents an Act of Congress that created or amended US copyright law, from 1790 to present.
 
-## How to Use This Repository
+## What This Repo Does
 
-**Browse the timeline**: `git log --oneline` shows every act that changed copyright law in chronological order.
+The **copyright-history** repo is the public-facing product: 122 commits spanning 236 years, browsable with `git log`, `git diff`, and `git checkout`. This repo is the factory that builds it.
 
-**See what an act changed**: `git show <commit>` or `git diff <commit>~1 <commit>` shows exactly what a given act added, removed, or modified.
-
-**Read the law at any point in time**: `git checkout <commit>` checks out the full text of copyright law as it existed after a given act.
-
-**Compare two eras**: `git diff v1909 v1976` shows the complete transformation from the 1909 Act to the 1976 Act.
+It contains:
+- **Source data** — current statute text, historical snapshots, amendment notes, and pre-1976 act text from authoritative government sources
+- **Build pipeline** — scripts that assemble the data into a clean git history with one commit per act
+- **Reconstruction tools** — scripts that reverse-engineer historical versions of sections from OLRC amendment notes
+- **450+ automated tests** — verify that reconstructed text matches known legal facts (e.g., that "fifty years" appears in the 1976 version of Section 302)
+- **A static website** — browse the full legislative history in a browser with diffs, side-by-side comparison, Ramseyer redlines, and an "as of" date picker
+- **Amendment anomalies** — 14 documented cases where Congress's own amendment instructions are ambiguous, contradictory, or contain drafting errors
 
 ## Repository Structure
 
 ```
-sections/          # Current Title 17 U.S.C. (one file per section, post-1976)
-pre-1976/          # Statute text as it existed before the 1976 rewrite
+build.py                  # Generates the copyright-history repo
+build_site.py             # Generates the static website
+prepare_build_data.py     # Prepares act-snapshots from version data
+reconstruct.py            # Reconstructs historical section text from amendment notes
+fetch_current_sections.py # Fetches current statute text from OLRC
+
+data/
+  acts.json               # Index of all 122 acts with metadata
+  current-sections/       # Current Title 17 U.S.C. text (one .md per section)
+  amendment-notes/        # OLRC amendment notes per section
+  snapshots/              # Reconstructed version histories per section
+  act-snapshots/          # Section text at each act boundary (build input)
+  pre-1976-text/          # Full text of pre-1976 acts
+  amendment-anomalies.md  # Documented anomalies (in progress — see below)
+
 metadata/
-  acts.yaml        # Index of all acts with dates, citations, and summaries
+  acts.yaml               # Act metadata used by build.py
+
+site/                     # Generated static website
+site-src/                 # Website source (templates, CSS, JS)
+tests/                    # Automated legal accuracy tests
+examples/                 # Example queries and usage
 ```
 
-### Pre-1976 vs. Post-1976
+## Building
 
-US copyright law has two distinct structural eras:
+Generate the copyright-history repo:
 
-- **1790-1975**: Copyright statutes existed as standalone acts, later codified in Title 17 of the U.S. Code. The structure changed significantly with each major revision. These are stored in `pre-1976/`.
-- **1976-present**: The Copyright Act of 1976 (Pub. L. 94-553) completely rewrote Title 17 with the section numbering used today. Amendments since then modify this stable structure. These are stored in `sections/`.
+```bash
+python3 build.py [--output-dir /path/to/copyright-history]
+```
 
-## Commit Conventions
+Generate the static website:
 
-- Each commit represents one Public Law that created or amended copyright law
-- Commit messages include the act name, Public Law number, effective date, and a brief summary
-- `GIT_AUTHOR_DATE` is set to the enactment date for chronological accuracy
-- Major acts are tagged (e.g., `v1790`, `v1909`, `v1976`)
+```bash
+python3 build_site.py
+```
+
+## In-Progress Work
+
+### Amendment Anomalies (in progress — to be verified)
+
+The file `data/amendment-anomalies.md` documents 14 cases where applying amendments mechanically reveals bugs in the legislative process. These include:
+
+- Duplicate subsection letters that persisted for years (Section 105)
+- Contradictory redesignation instructions (Section 701)
+- Complete section replacements that erase amendment history (Section 802)
+- Coordination failures between congressional committees (Section 105)
+- Uncorrected typos and grammatical errors spanning decades (Sections 110, 119)
+
+These anomalies are documented findings but have not all been independently verified against primary sources. They should be treated as preliminary until confirmed.
+
+### Acts With No File Changes (in progress)
+
+23 post-1976 acts have commits in the history repo but no reconstructed text changes yet. Of these, 10 have full snapshots ready to apply, 11 need Section 101 (definitions) reconstruction, and 2 need other missing sections. See `TODO.md` for the full list.
+
+### Intermediate Version Differentiation (in progress)
+
+Some sections (Section 111, Section 119) have multiple historical versions that currently use the same base text. The intermediate differences from individual acts have not yet been applied. See `TODO.md` for details.
 
 ## Sources
 
 | Era | Primary Source |
 |-----|---------------|
-| 1790-1925 | Statutes at Large via LOC / govinfo.gov |
+| 1790-1925 | Statutes at Large via Library of Congress / govinfo.gov |
 | 1926-1975 | Historical U.S. Code via govinfo.gov |
 | 1976-present | Office of Law Revision Counsel (uscode.house.gov) |
 | Individual amendments | Congress.gov (bill text / Public Law text) |

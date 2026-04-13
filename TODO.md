@@ -1,6 +1,6 @@
-# Open Issues / Things to Verify
+# Open Issues / Things to Verify (In Progress)
 
-## Acts Requiring Complex Manual Reconstruction
+## Acts Requiring Complex Manual Reconstruction (in progress)
 These acts involve very large sections (§110, §111, §112, §114, §118, §119) that underwent multiple complete chapter-level rewrites (PL 108-419 in 2004 rewrote the entire royalty chapter; PL 111-175 in 2010 rewrote §119). Reconstructing intermediate versions requires access to the full text of each version, which is beyond what can be derived from amendment notes alone.
 
 ### Partial fixes applied (CRJ anachronism removal, structural changes)
@@ -14,8 +14,41 @@ All six sections had "Copyright Royalty Judges" (a 2004 term) in pre-2004 versio
 - [x] Letter of direction (PL 115-264) — §114: removed subsec (g)(5) from all pre-2018 versions
 - [x] §119 pre-STELA reconstruction — replaced all pre-2010 versions with authentic pre-STELA text sourced from GovInfo 2009 U.S. Code edition; applied correct date substitutions for 2010 temporary extension acts (PL 111-118, 111-144, 111-151, 111-157)
 
-### Remaining (intermediate version differentiation)
+### Remaining (intermediate version differentiation — in progress)
 Pre-STELA §119 versions v0-v11 currently all use the same 2009-era base text. Intermediate differences from these acts are not yet applied:
 - [ ] Satellite Home Viewer Act of 1994 (PL 103-369) — §119 specific text changes within pre-STELA structure
 - [ ] Earlier §119 amendments (PL 103-198, 105-80, 106-44, 106-113, 107-273, 108-419, 108-447, 109-303, 110-403) — intermediate version differentiation within the pre-STELA text
 - [ ] §111 intermediate version differentiation — v0-v3 still identical; changes from PL 100-667, 101-318, 103-198 not yet reconstructed
+
+## Acts With No File Changes (23 total — in progress)
+
+These acts exist as commits in the repo but have empty `files_changed` in acts.json. All 23 should have changed Title 17 text based on OLRC amendment notes.
+
+### Full snapshots ready (10 — in progress, ready to apply) — all expected section files exist in data/act-snapshots/
+- [ ] Individuals with Disabilities Education Improvement Act of 2004 (PL 108-446) — §121
+- [ ] Intellectual Property Protection and Courts Amendments Act of 2004 (PL 108-482) — §504
+- [ ] Temporary Extension Act of 2010 (PL 111-144) — §119
+- [ ] Continuing Extension Act of 2010 (PL 111-157) — §119
+- [ ] Unlocking Consumer Choice and Wireless Competition Act of 2014 (PL 113-144) — §1201
+- [ ] Library of Congress Technical Corrections Act of 2019 (PL 116-94) — 6 sections
+- [ ] Protecting Lawful Streaming Act of 2020 (PL 116-260) — 3 sections
+- [ ] James M. Inhofe NDAA for FY2023 (PL 117-263) — §105
+- [ ] NDAA for FY2025 (PL 118-159) — §105
+- [ ] NDAA for FY2026 (PL 119-60) — §105
+
+### Partial snapshots — missing §101 reconstruction (11 — in progress, blocked on §101)
+- [ ] Copyright Royalty Tribunal Reform and Miscellaneous Pay Act of 1989 (PL 101-319) — has §701, missing §101, §802
+- [ ] Semiconductor International Protection Extension Act of 1991 (PL 102-64) — has §914, missing §101
+- [ ] Satellite Home Viewer Act of 1994 (PL 103-369) — has §111/§119, missing §101
+- [ ] Digital Theft Deterrence and Copyright Damages Improvement Act of 1999 (PL 106-160) — has §504, missing §101
+- [ ] Small Webcaster Amendments Act of 2002 (PL 107-321) — has §114, missing §101
+- [ ] Vessel Hull Design Protection Amendments of 2008 (PL 110-434) — has §1301, missing §101
+- [ ] Webcaster Settlement Act of 2008 (PL 110-435) — has §114, missing §101
+- [ ] Webcaster Settlement Act of 2009 (PL 111-36) — has §114, missing §101
+- [ ] Satellite Television Extension Act of 2010 (PL 111-151) — has §119, missing §101
+- [ ] Marrakesh Treaty Implementation Act of 2018 (PL 115-261) — has §121, missing §101
+- [ ] Artistic Recognition for Talented Students Act of 2022 (PL 117-201) — has §708, missing §101
+
+### Partial snapshots — other missing sections (2 — in progress)
+- [ ] TEACH Act of 2002 (PL 107-273) — has 12 sections, missing §802
+- [ ] Fairness in Music Licensing Act of 1998 (PL 105-298 Title II) — has §101/§110/§504/§513; NOTE: sections_expected in acts.json is wrong (includes CTEA Title I sections 108, 203, 301, 302, 303, 304 — should only list 101, 110, 504, 513)

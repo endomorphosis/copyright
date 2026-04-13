@@ -189,8 +189,12 @@ def build_repo(acts, data_dir, output_dir):
 
     # Create initial README
     readme_path = os.path.join(output_dir, 'README.md')
+    # Use the history-specific README if available, otherwise fall back
+    src_readme_history = os.path.join(os.path.dirname(data_dir), 'README-history.md')
     src_readme = os.path.join(os.path.dirname(data_dir), 'README.md')
-    if os.path.exists(src_readme):
+    if os.path.exists(src_readme_history):
+        shutil.copy2(src_readme_history, readme_path)
+    elif os.path.exists(src_readme):
         shutil.copy2(src_readme, readme_path)
     else:
         with open(readme_path, 'w') as f:
