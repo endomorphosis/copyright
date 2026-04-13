@@ -82,12 +82,16 @@
     overflow-x: auto;
   }
 
-  .code-block .prompt { color: #7ee787; }
+  .code-block .prompt { color: #79c0ff; }
   .code-block .comment { color: #8b949e; }
   .code-block .added { color: #7ee787; }
   .code-block .removed { color: #f85149; }
   .code-block .hash { color: #d2a8ff; }
   .code-block .msg { color: #c9d1d9; }
+
+  /* Ramseyer redline style */
+  .code-block .struck { text-decoration: line-through; color: #c9d1d9; }
+  .code-block .inserted { text-decoration: underline; font-weight: bold; color: #c9d1d9; }
 
   .stat-row {
     display: flex;
@@ -303,11 +307,9 @@
     <div class="era"><div class="dot"></div><div class="year">1998</div><div class="term">Life + 70</div></div>
   </div>
   <div class="code-block" style="margin-top: 1em;">
-    <span class="prompt">$</span> git diff v1976 v1998-ctea -- sections/302.md<br><br>
-    <span class="removed">- endures for a term consisting of the life of the author and</span><br>
-    <span class="removed">- fifty years after the author's death.</span><br>
-    <span class="added">+ endures for a term consisting of the life of the author and</span><br>
-    <span class="added">+ 70 years after the author's death.</span>
+    <span class="comment">&sect;302. Duration of copyright &mdash; Ramseyer redline</span><br><br>
+    &hellip;endures for a term consisting of the life of the author and<br>
+    <span class="struck">fifty</span> <span class="inserted">70</span> years after the author's death.
   </div>
 </div>
 
@@ -316,14 +318,11 @@
   <h2>Demo: When Did Buildings Become Copyrightable?</h2>
   <p style="font-size:1.2em; margin-bottom: 0.8em; color:#a0a0c0;">Section 102 &mdash; Subject Matter of Copyright</p>
   <div class="code-block">
-    <span class="prompt">$</span> git diff v1976 -- sections/102.md<br><br>
-    <span class="comment"># Architectural Works Copyright Protection Act of 1990</span><br><br>
+    <span class="comment">&sect;102. Subject matter &mdash; Ramseyer redline</span><br><br>
     &nbsp;(5) pictorial, graphic, and sculptural works;<br>
-    <span class="removed">-(6) motion pictures and other audiovisual works; and</span><br>
-    <span class="removed">-(7) sound recordings.</span><br>
-    <span class="added">+(6) motion pictures and other audiovisual works;</span><br>
-    <span class="added">+(7) sound recordings; and</span><br>
-    <span class="added">+(8) architectural works.</span>
+    &nbsp;(6) motion pictures and other audiovisual works;<span class="struck"> and</span><br>
+    &nbsp;(7) sound recordings<span class="struck">.</span><span class="inserted">; and</span><br>
+    <span class="inserted">&nbsp;(8) architectural works.</span>
   </div>
   <p style="margin-top:0.8em; font-size:1.2em;">Before December 1, 1990: <span class="highlight">7 categories</span>. After: <span class="highlight">8</span>.</p>
 </div>
