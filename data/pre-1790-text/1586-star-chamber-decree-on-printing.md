@@ -122,3 +122,21 @@ The following reproduces the principal provisions of the Star Chamber Decree of 
 **Search and seizure:**
 
 > Item, that the Wardens of the Stationers' Company for the time being, or any two of the journeymen printers to be assigned by the said Wardens, shall make search in all workhouses, shops, warehouses, and other places of printers, booksellers, and such as bring books from beyond the seas, as well within the liberties as without: and all books found to be printed contrary to these orders shall be brought to the Hall of the said Company and there defaced, or the bookseller or printer found guilty thereof shall be imprisoned for the space of six months.
+
+---
+
+## Legislative History
+
+The Star Chamber Decree of 1586 was an order of the Privy Council sitting as the Court of Star Chamber. It was not an Act of Parliament and had no parliamentary legislative history. Its legislative genealogy lies in the Privy Council's prerogative jurisdiction.
+
+**Privy Council Deliberation:**
+The 1586 Decree was issued under the authority of the Court of Star Chamber, which sat as an equity court with criminal jurisdiction. The Archbishop of Canterbury (John Whitgift) was the principal sponsor of the Decree, acting in concert with the Privy Council. The Privy Council Register (PC 2/14, National Archives) records the Council's deliberations and the issuing of the Decree.
+
+**The Warden's Record:**
+The Stationers' Company's own Court Book (held at Stationers' Hall, London) records the Company's receipt of the Decree and its implementation through the Company's internal governance. The Court Book entries for 1586–1590 show the practical implementation of the Decree's requirements: the examination of new presses, the enforcement of licensing requirements, and the Company's searches for unlicensed printing.
+
+**Episcopal Licensing Authority:**
+The Decree's licensing system was implemented through the church hierarchy. The ecclesiastical authorities (the Archbishop of Canterbury and the Bishop of London) maintained records of licensed works. The Lambeth Palace Library (London) holds archival records of the ecclesiastical licensing administration for the late sixteenth and early seventeenth centuries.
+
+**Relationship to Parliamentary Attempts:**
+Parliament made no attempt to legislate on printing regulation in the 1580s; the Star Chamber's prerogative jurisdiction was the established vehicle for such regulation. The absence of parliamentary involvement was not an oversight but reflected the political reality that printing regulation was a Crown prerogative matter, not a parliamentary one. This changed only after the abolition of the Star Chamber in 1641.

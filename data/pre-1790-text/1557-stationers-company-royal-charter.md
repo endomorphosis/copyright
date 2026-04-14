@@ -96,3 +96,24 @@ The following excerpts reproduce the key operative provisions of the Royal Chart
 **Grant of Power to Make By-laws:**
 
 > And further, of our special grace, certain knowledge, and mere motion, we have granted, and by these presents do grant, to the aforesaid Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London and their successors, that they and their successors shall and may lawfully have, make, ordain, and constitute reasonable ordinances, provisions, and statutes, in writing, for the good rule and governance of the said commonalty, and of the mystery or craft aforesaid, so that such ordinances, provisions, and statutes so made be not contrary nor repugnant to the laws, statutes, and customs of this our realm of England.
+
+---
+
+## Legislative History
+
+The Royal Charter of the Stationers' Company (1557) was a prerogative instrument, not an Act of Parliament, so it has no parliamentary legislative history in the conventional sense. Its history consists of the Crown's exercise of its charter-granting power, subsequent Privy Council actions, and the formal enrollment of the charter in Chancery.
+
+**Grant of Incorporation (Prerogative Action, May 4, 1557):**
+The charter was granted under Letters Patent by the joint authority of Philip and Mary. The decision to incorporate the Stationers' Company was made by the Privy Council as a matter of royal policy. No parliamentary act or debate preceded it; the grant was an exercise of the Crown's common-law power to incorporate trading companies by Letters Patent.
+
+**Chancery Enrollment:**
+The charter was enrolled in Chancery, as was the standard practice for Letters Patent. The enrolled record remains in the Public Records (now the National Archives, Kew) in the series C 66 (Patent Rolls), 4 & 5 Philip and Mary, part 8. This is the authoritative legal record of the charter's text.
+
+**Privy Council Reinforcement:**
+Within a year of the charter's grant, the Privy Council issued orders reinforcing the Stationers' monopoly. The Privy Council Register (PC 2 series, National Archives) for 1557–1558 contains orders directed to the Stationers' Company and to local authorities to assist in the suppression of unauthorized printing.
+
+**Star Chamber Decrees supplementing the Charter:**
+Because the charter operated through the guild's own enforcement mechanisms, it required supplementary instruments to give it full regulatory force. The Star Chamber issued decrees in 1566, 1586, and 1637 that progressively reinforced and elaborated the charter's framework (see the separate entries for those decrees). The Acts of the Privy Council (also PC 2 series) for those years record the deliberations leading to each decree.
+
+**Subsequent Parliamentary Recognition:**
+The Licensing Act of 1662 (14 Car. 2 c. 33) explicitly recognized the Stationers' Company's role and its Register, incorporating the charter's infrastructure into the statutory framework. This was the first parliamentary statute to formally acknowledge the Stationers' system, suggesting that until 1662, the system rested entirely on prerogative authority.

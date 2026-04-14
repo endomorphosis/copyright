@@ -149,3 +149,32 @@ The following reproduces the principal provisions of the Licensing of the Press 
 **Search and seizure authority:**
 
 > That the Master and Wardens of the Company of Stationers shall from time to time have Power and Authority to make Search in all places where they shall suspect that Bookes or Pamphletts are Printed or Bound by Appointment of the said Stationers and all such Bookes as they shall find that are Printed contrary to the true intent and meaning of this Act or against any of his Majesties Proclamations shall be Forfeited to the use of his Majesty.
+
+---
+
+## Legislative History
+
+The Licensing of the Press Act 1662 (14 Car. 2 c. 33) was an Act of Parliament, enacted by the Cavalier Parliament during the Restoration. It has a full parliamentary legislative history recorded in the House of Commons Journals and the House of Lords Journals.
+
+**Pre-Parliamentary Background:**
+At the Restoration in 1660, there was no statutory press regulation in force. The Star Chamber had been abolished in 1641, and the parliamentary ordinances of 1643–1649 had lapsed. The Restoration government urgently wanted a press licensing regime restored. Parliament enacted a short-term measure in 1662 that was intended to operate for two years only.
+
+**Parliamentary Proceedings (1662):**
+The bill was introduced in the House of Commons in early 1662. The Commons Journals for 14 Car. 2 (1662) record:
+- First reading: February 1662.
+- Second reading and commitment to committee.
+- Committee report with amendments.
+- Third reading and passage by the Commons.
+- Lords consideration with further amendments (including the addition of the law book licensing provisions).
+- Conference between the Houses on disagreements.
+- Royal Assent: May 10, 1662.
+
+**Renewals and Parliamentary Re-enactments:**
+The Act was renewed and re-enacted multiple times by Parliament, each renewal being a separate legislative act:
+- **1664:** Renewed for two years by 16 & 17 Car. 2 c. 8. Commons and Lords Journals for 1664 record the renewal bill.
+- **1665:** Renewed for three years by 17 Car. 2 c. 4.
+- **1685:** Renewed for seven years by 1 Jac. 2 c. 17.
+- **1693:** Renewed for two years by 4 W. & M. c. 24. This renewal was the last; Parliament was by this time increasingly reluctant to continue the Act.
+
+**The 1695 Non-Renewal:**
+The Commons Journal for the session 7 W. 3 (1694–1695) records that the renewal bill was introduced but dropped. The formal record of the "Reasons of the House of Commons for Disagreeing with the Lords' amendments" to the Supply Bill (to which the licensing renewal had been attached as a rider) contains the Commons' objections to the Act. These objections—including John Locke's influence—are discussed in the entry for the 1695 lapse (see separate file).

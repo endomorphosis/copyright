@@ -144,3 +144,33 @@ The 1695 lapse was not itself a document but a parliamentary decision not to ren
 **Parliamentary resolution (Commons, 1695):**
 
 > The House does not think fit to continue the Printing Act.
+
+---
+
+## Legislative History
+
+The lapse of the Licensing Act in 1695 was the result of parliamentary inaction—specifically, the House of Commons' refusal to renew the Act—rather than a positive legislative enactment. Its "legislative history" is therefore the history of Parliament's deliberate decision not to legislate.
+
+**John Locke's Memorandum to Parliament (1694–1695):**
+John Locke submitted a memorandum to Edward Clarke, MP, in 1694 or early 1695, setting out his objections to the Licensing Act. The memorandum was circulated to members of the relevant parliamentary committee. Locke's papers (Bodleian Library, Oxford, MS Locke c. 25) contain manuscript drafts of the memorandum. The text is printed in H.R. Fox Bourne, *The Life of John Locke* (1876), vol. 2, at pp. 296–312.
+
+**Parliamentary Record of the 1695 Non-Renewal:**
+The House of Commons Journals for the session 7 W. 3 (volume 11, 1693–1697) contain the formal record of the proceedings:
+- The renewal bill was introduced as a rider to the Supply Bill in early 1695.
+- The House of Lords passed the renewal; the House of Commons refused to agree to the Lords' amendments.
+- The Commons formally communicated its "Reasons for Disagreeing" to the Lords. These reasons, recorded in the Commons Journals for February 11, 1695 (old style), include the fourteen specific objections to the Act.
+- The Lords, faced with the Commons' refusal, did not insist on the renewal, and the Act expired on May 3, 1695.
+
+**The Fourteen Commons Objections:**
+The formal Commons objections recorded in the Journals include:
+
+> "1. Because the Act lays a greater Restraint on Learning than did the Licencing Act, as to the number of Printers...
+> 3. Because the Method of Seizure is unlawful, Unusual, and Arbitrary, and tends to the Intruding upon the Liberty of the Subject...
+> 6. Because it gives too great Power to the Stationers' Company to hinder the Publication of Books, by means of the Transfer of Copies, and to engross the Trade of Books, by making the Penalties against all others who shall keep Shops or expose Books to Sale, not Members of their Company..."
+
+**Subsequent Parliamentary Petitions for New Legislation (1703–1709):**
+After 1695, the Stationers' Company repeatedly petitioned Parliament for new legislation. The following petitions are recorded in the Commons Journals:
+- Petition of the Stationers' Company, January 1703 (Commons Journals, vol. 14).
+- Petition of booksellers and printers, 1706 (Commons Journals, vol. 15).
+- Petition of authors and booksellers, 1709 (Commons Journals, vol. 16).
+These petitions ultimately led to the Statute of Anne in 1710 (see the separate entry for that Act).

@@ -125,3 +125,21 @@ The following reproduces the principal provisions of the Star Chamber Decree of 
 **Penalties:**
 
 > Item, that if any person or persons shall print, or cause to be printed, any book, pamphlet, or any other matter whatsoever, not being lawfully licensed and entered as aforesaid, every such person or persons shall, for the first offence, be whipped and have his press and printing letters defaced and made unserviceable; and for the second offence, shall be further punished by imprisonment for such time as the court shall think fit; and for the third offence, shall be put from his trade of printing forever.
+
+---
+
+## Legislative History
+
+Like the 1586 Decree, the Star Chamber Decree of 1637 was a prerogative instrument of the Court of Star Chamber, with no parliamentary legislative history. Its genealogy lies entirely within the Privy Council's prerogative jurisdiction.
+
+**Archbishop Laud and the Privy Council:**
+The 1637 Decree was issued under the authority of Archbishop William Laud (Archbishop of Canterbury 1633–1645), who was also a leading member of the Privy Council. The Decree represents the high-water mark of Caroline press control. The Privy Council Register (PC 2/48, National Archives) for 1637 records the proceedings leading to the Decree's issuance.
+
+**Stationers' Company Records:**
+The Stationers' Company Court Book for 1637–1641 (held at Stationers' Hall) records the Company's implementation of the Decree's provisions, including the regulation of the number of master printers and the enforcement of the foreign import prohibition.
+
+**Parliamentary Abolition of the Star Chamber (1641):**
+The Decree's force was abruptly terminated when Parliament abolished the Court of Star Chamber by the Statute 16 Car. 1 c. 10 (the Act for the Abolition of the Court of Star Chamber), enacted July 5, 1641. The House of Commons Journals for the Long Parliament (volume 2, 1640–1642) record the bill's passage. The Lords Journals for the same period record the Lords' concurrence. The abolition of the Star Chamber deprived the Crown of its principal instrument of press regulation and created the regulatory vacuum that the Licensing Acts of 1643 and 1662 subsequently sought to fill.
+
+**Interim Ordinances of the Long Parliament (1643, 1647, 1649):**
+After the Star Chamber's abolition, Parliament itself assumed control of press regulation through a series of parliamentary ordinances. The Long Parliament's ordinance of 1643 (passed without royal assent) re-established licensing requirements. These ordinances are recorded in the House of Commons Journals and the Acts and Ordinances of the Interregnum (edited by Firth and Rait, 1911, vol. 1). They formed the direct legislative bridge between the 1637 Star Chamber Decree and the Restoration Licensing Act of 1662.
