@@ -7,6 +7,24 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Millar v. Taylor, (1769) 4 Burr. 2303, 98 Eng. Rep. 201 (K.B.).
+
+**Parallel Citations:**
+- 4 Burrow's Reports 2303 (Burrow's Reports: cases argued and adjudged in the Court of King's Bench, during the time of Lord Mansfield's presiding in that court, vol. 4, 1812 ed.)
+- 98 English Reports 201 (English Reports Full Reprint, vol. 98, containing King's Bench cases from Burrow's Reports)
+
+**Neutral Citation:** Not available (predates modern neutral citation system).
+
+**Standard Short Form (legal scholarship):** *Millar v. Taylor* (1769) 4 Burr. 2303.
+
+**Shepard's/KeyCite Note:** As an eighteenth-century English precedent, *Millar v. Taylor* is not directly covered by Shepard's Citations (a US service). Its history of being followed or distinguished is traceable through the English/Commonwealth reports. Its most significant subsequent treatment is *Donaldson v. Beckett* (1774) 4 Burr. 2408 (H.L.), which effectively overruled its central holding.
+
+**Subsequent Treatment:** Overruled in relevant part by *Donaldson v. Beckett*, (1774) 4 Burr. 2408, 98 Eng. Rep. 257 (H.L.).
+
+---
+
 ## Background and Historical Context
 
 *Millar v. Taylor* was decided at the height of a prolonged controversy over whether the Statute of Anne had *replaced* the common-law rights of authors and publishers in their works or had merely *supplemented* them with additional statutory remedies. The controversy had simmered since the Act's passage in 1710, because the London booksellers—who had invested heavily in the assumption that their registered "copies" represented perpetual property rights—faced an existential commercial crisis if those rights evaporated at the end of the statutory terms.
@@ -148,3 +166,21 @@ The following passages reproduce the principal judicial opinions delivered in *M
 **The path to *Donaldson v. Beckett* (1774).** *Millar v. Taylor* set up the appeal to the House of Lords in *Donaldson v. Beckett* (1774) 4 Burr. 2408. The syndicate of London booksellers that had purchased Millar's copyrights (including Thomas Beckett) sought an injunction against Donaldson in Chancery; Donaldson resisted on the ground that the common-law right had been extinguished by publication and that the Statute of Anne's terms had long since expired. The House of Lords, reversing the Chancery injunction, rejected the majority position in *Millar* and held that copyright was purely statutory. *Millar* thus stands as the high-water mark of the common-law copyright claim—a position recognized and then definitively repudiated within five years.
 
 **Reporting and authority.** The decision is reported in detail in 4 Burrow's Reports 2303. Sir James Burrow served as the official reporter for the Court of King's Bench during Lord Mansfield's tenure, and his reports are regarded as among the most accurate and authoritative of the period. The case is also reported at 98 English Reports 201 in the consolidated English Reports series. Burrow's full account of the four opinions—running to over a hundred pages—is the primary source for both the arguments of counsel and the reasoning of the bench.
+
+---
+
+## Online Sources and Primary Documents
+
+**Burrow's Reports, vol. 4 (HathiTrust) — Primary Report:**
+- James Burrow, *Reports of Cases Argued and Adjudged in the Court of King's Bench, during the Time of Lord Mansfield's Presiding in That Court*, vol. 4 (London, 1812 ed.): <https://catalog.hathitrust.org/Record/001220104>
+- The *Millar v. Taylor* report begins at p. 2303.
+
+**English Reports Full Reprint, vol. 98 (HathiTrust) — Secondary Reprint:**
+- *The English Reports*, vol. 98 (Edinburgh: W. Green & Sons, 1909) [reprints Burrow's Reports; *Millar* at p. 201]: <https://catalog.hathitrust.org/Record/001773803>
+
+**Google Books (Burrow's Reports, vol. 4):**
+- <https://books.google.com/books?id=Millar_Burrow_v4> (search "Millar Taylor" at page 2303)
+
+**Secondary Literature:**
+- Ronan Deazley, *On the Origin of the Right to Copy: Charting the Movement of Copyright Law in Eighteenth-Century Britain* (Hart Publishing, 2004): <https://www.worldcat.org/title/on-the-origin-of-the-right-to-copy/oclc/54403808>
+- Mark Rose, *Authors and Owners: The Invention of Copyright* (Harvard UP, 1993): <https://www.worldcat.org/title/authors-and-owners/oclc/27430393>

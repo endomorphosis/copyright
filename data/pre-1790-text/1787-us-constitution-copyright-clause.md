@@ -8,6 +8,27 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** U.S. Const. art. I, § 8, cl. 8.
+
+**Standard Inline Citation (legal scholarship):** The Copyright Clause, U.S. Const. art. I, § 8, cl. 8.
+
+**Parallel Reference (Constitutional Convention):**
+- James Madison, *Notes of Debates in the Federal Convention of 1787* (W.W. Norton, 1987 ed.) [Aug. 18, 1787 and Sept. 5, 1787 entries]; *originally published* as *The Papers of James Madison* (H.D. Gilpin ed., 1840).
+- *Journal of the Federal Convention* (E.H. Scott ed., Chicago, 1893) [official Convention Journal].
+- Max Farrand (ed.), *The Records of the Federal Convention of 1787*, 4 vols. (Yale UP, 1911; rev. ed. 1937) [the standard scholarly edition].
+
+**Federalist Papers Citation:**
+- The Federalist No. 43 (James Madison), *in* The Federalist Papers (Jacob Cooke ed., Wesleyan UP, 1961), at p. 291; *also in* Clinton Rossiter (ed.), *The Federalist Papers* (New American Library, 1961), No. 43 at p. 271.
+
+**Implementing Statute:**
+- Copyright Act of 1790, ch. 15, 1 Stat. 124 (May 31, 1790).
+
+**Shepard's/KeyCite:** The Copyright Clause has been cited in thousands of US court decisions. Key early citations include *Wheaton v. Peters*, 33 U.S. (8 Pet.) 591 (1834); *Burrow-Giles Lithographic Co. v. Sarony*, 111 U.S. 53 (1884); *Eldred v. Ashcroft*, 537 U.S. 186 (2003).
+
+---
+
 ## Text of the Clause
 
 The Copyright and Patent Clause appears in Article I, Section 8 of the United States Constitution, which enumerates the powers of Congress. Clause 8 reads in full:
@@ -157,3 +178,38 @@ The House Journal for the 1st Congress, 2nd Session records: The bill "An Act fo
 There were no separate House or Senate committee reports for the 1790 Act in the modern sense; the proceedings are recorded only in the House Journal and Senate Journal for the 1st Congress, 2nd Session.
 
 **Early Senate copyright discussions (1789):** During the 1st Session of the First Congress, several states had petitioned Congress for copyright protection, and petitions were received from Noah Webster and others seeking a uniform federal copyright law to replace the patchwork of state copyright statutes enacted following the 1783 resolution of the Continental Congress. These petitions are recorded in the Senate Journal and House Journal for the 1st Session of the First Congress and formed the legislative backdrop to the drafting of the 1790 Act.
+
+---
+
+## Online Sources and Primary Documents
+
+**US Constitution, Article I, Section 8 (National Archives):**
+- Full text: <https://www.archives.gov/founding-docs/constitution-transcript>
+- Interactive Constitution (Congress.gov): <https://constitution.congress.gov/constitution/article-1/#article-1-section-8-clause-8>
+
+**Madison's Notes on the Constitutional Convention (Library of Congress):**
+- James Madison, *Notes of Debates in the Federal Convention of 1787*: <https://memory.loc.gov/ammem/amlaw/lwfr.html>
+- Avalon Project (Yale Law School): <https://avalon.law.yale.edu/18th_century/debates_754.asp>
+
+**Farrand's Records of the Federal Convention (HathiTrust):**
+- Max Farrand (ed.), *The Records of the Federal Convention of 1787*, 4 vols. (Yale UP, 1911): <https://catalog.hathitrust.org/Record/001262195>
+- Vol. 2 (Aug. 18 and Sept. 5, 1787 entries): <https://babel.hathitrust.org/cgi/pt?id=mdp.39015028139399>
+
+**The Federalist Papers:**
+- Federalist No. 43 (James Madison, Jan. 23, 1788) — the only Federalist Paper discussing the Copyright Clause:
+  - Avalon Project: <https://avalon.law.yale.edu/18th_century/fed43.asp>
+  - Library of Congress: <https://www.congress.gov/resources/display/content/The+Federalist+Papers#TheFederalistPapers-43>
+
+**Copyright Act of 1790 (Library of Congress / Statutes at Large):**
+- 1 Stat. 124 (May 31, 1790): <https://www.loc.gov/law/help/statutes-at-large/1st-congress/session-2/c1s2ch15.pdf>
+- Full text on Wikisource: <https://en.wikisource.org/wiki/Copyright_Act_of_1790>
+- Library of Congress item (original broadside): <https://www.loc.gov/item/rbpe.2350200a/>
+
+**House and Senate Journals, 1st Congress (Library of Congress):**
+- *Journal of the House of Representatives*, 1st Congress, 2nd Session (1790): <https://memory.loc.gov/ammem/amlaw/lwhj.html>
+- *Journal of the Senate*, 1st Congress, 2nd Session (1790): <https://memory.loc.gov/ammem/amlaw/lwsj.html>
+
+**Key Cases Interpreting the Copyright Clause:**
+- *Wheaton v. Peters*, 33 U.S. (8 Pet.) 591 (1834): <https://supreme.justia.com/cases/federal/us/33/591/>
+- *Burrow-Giles Lithographic Co. v. Sarony*, 111 U.S. 53 (1884): <https://supreme.justia.com/cases/federal/us/111/53/>
+- *Eldred v. Ashcroft*, 537 U.S. 186 (2003): <https://supreme.justia.com/cases/federal/us/537/186/>

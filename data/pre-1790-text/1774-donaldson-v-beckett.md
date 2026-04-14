@@ -7,6 +7,27 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Donaldson v. Beckett, (1774) 4 Burr. 2408, 98 Eng. Rep. 257 (H.L.); *accord* 2 Bro. P.C. 129; 17 Parl. Hist. 953.
+
+**Parallel Citations:**
+- 4 Burrow's Reports 2408 (primary law report, King's Bench; carries the Lords' proceedings as well)
+- 98 English Reports 257 (English Reports Full Reprint, vol. 98)
+- 2 Brown's Parliamentary Cases 129 (second parallel report of the Lords' proceedings)
+- 17 Cobbett's Parliamentary History 953–1003 (most detailed account of the Lords' debates and the advisory opinions of the judges)
+- 1 Fowler's Exchequer Cases 57 (occasionally cited)
+
+**Neutral Citation:** Not available (predates modern neutral citation system).
+
+**Standard Short Form (legal scholarship):** *Donaldson v. Beckett* (1774) 4 Burr. 2408 (H.L.).
+
+**Shepard's/KeyCite Note:** As an eighteenth-century English precedent, *Donaldson v. Beckett* is not covered by Shepard's Citations (a US service). Its treatment in American law can be traced through US Supreme Court decisions citing it, including *Wheaton v. Peters*, 33 U.S. (8 Pet.) 591 (1834) (the first US Supreme Court copyright case, which applied *Donaldson*'s holding that copyright is purely statutory).
+
+**Prior History:** *Millar v. Taylor*, (1769) 4 Burr. 2303, 98 Eng. Rep. 201 (K.B.), *rev'd*, *Donaldson v. Beckett*, (1774) 4 Burr. 2408 (H.L.).
+
+---
+
 ## Introduction
 
 *Donaldson v. Beckett* is one of the most consequential decisions in the history of Anglo-American law. It established that **copyright is a creature of statute, not of common law or natural right**, and that the fixed statutory term represents the *exclusive* vehicle of copyright protection for published works. By reversing the King's Bench decision in *Millar v. Taylor* (1769) and ending the claim to perpetual copyright, it opened the English and Scottish book trade to genuine competition and directly shaped the intellectual framework within which the framers of the United States Constitution's Copyright Clause and the drafters of the US Copyright Act of 1790 worked.
@@ -176,3 +197,27 @@ The following passages reproduce the principal materials from *Donaldson v. Beck
 **The Copyright Act of 1790.** The first US Copyright Act (1 Stat. 124, enacted May 31, 1790) followed the *Donaldson* model in every essential respect: a fixed initial term of fourteen years with a fourteen-year renewal if the author was still living, formality requirements (registration and deposit) as conditions of protection, and no recognition of any common-law right in published works. The Act was structurally the Statute of Anne transposed into the American constitutional context, vindicating the *Donaldson* reading of what copyright law should be.
 
 **Sources and reporting.** The case is reported in three principal sources that together provide a full account of the proceedings: 4 Burrow's Reports 2408 (the common-law report, covering the judges' advisory opinions); 2 Brown's Parliamentary Cases 129 (the parliamentary report of the Lords' proceedings and resolution); and 17 Cobbett's Parliamentary History 953–1003, which provides the most detailed surviving account of the speeches in the House of Lords—including Lord Camden's extended argument—as well as the full text of the questions put to the judges and the tabulation of their answers.
+
+---
+
+## Online Sources and Primary Documents
+
+**Burrow's Reports, vol. 4 (HathiTrust) — Primary Report:**
+- James Burrow, *Reports of Cases Argued and Adjudged in the Court of King's Bench*, vol. 4 (London, 1812 ed.) [*Donaldson v. Beckett* at p. 2408]: <https://catalog.hathitrust.org/Record/001220104>
+
+**English Reports Full Reprint, vol. 98 (HathiTrust):**
+- *The English Reports*, vol. 98 (Edinburgh: W. Green & Sons, 1909) [*Donaldson* at p. 257]: <https://catalog.hathitrust.org/Record/001773803>
+
+**Cobbett's Parliamentary History, vol. 17 (HathiTrust) — Most Complete Account:**
+- William Cobbett (ed.), *The Parliamentary History of England*, vol. 17 (London, 1813) [*Donaldson v. Beckett* proceedings at cols. 953–1003, with advisory opinions]: <https://catalog.hathitrust.org/Record/001773697>
+
+**Brown's Parliamentary Cases, vol. 2 (HathiTrust):**
+- Josiah Brown, *Reports of Cases upon Appeals and Writs of Error in the High Court of Parliament*, vol. 2 (London, 1779) [*Donaldson* at p. 129]: <https://catalog.hathitrust.org/Record/001220104>
+
+**Wheaton v. Peters (the US application of Donaldson's principle):**
+- *Wheaton v. Peters*, 33 U.S. (8 Pet.) 591 (1834): <https://supreme.justia.com/cases/federal/us/33/591/>
+
+**Secondary Literature:**
+- Ronan Deazley, *On the Origin of the Right to Copy* (Hart Publishing, 2004): <https://www.worldcat.org/title/on-the-origin-of-the-right-to-copy/oclc/54403808>
+- Mark Rose, *Authors and Owners: The Invention of Copyright* (Harvard UP, 1993): <https://www.worldcat.org/title/authors-and-owners/oclc/27430393>
+- Lyman Ray Patterson, *Copyright in Historical Perspective* (Vanderbilt UP, 1968): <https://www.worldcat.org/title/copyright-in-historical-perspective/oclc/302041>
