@@ -83,3 +83,48 @@ The eventual consolidation of all these separate category-specific statutes into
 The Sculpture Copyright Act 1798 was enacted eight years after the first US Copyright Act (1790), which had followed the Statute of Anne's model of protecting only "maps, charts, and books." The US did not extend copyright to sculpture until the Copyright Act of 1870 (16 Stat. 198), nearly three-quarters of a century after England. This gap illustrates that while England and America developed copyright law on parallel tracks derived from common sources, their legislative histories diverged significantly at the point of subject-matter expansion.
 
 The principle established by the 1798 Act—that copyright could protect three-dimensional as well as two-dimensional works—was eventually absorbed into American copyright law and remains in force today under 17 U.S.C. § 102(a), which lists "sculptural works" among the categories of works entitled to copyright protection.
+
+---
+
+## Primary Source Text
+
+The Sculpture Copyright Act 1798, full title *An Act for encouraging the Art of making new Models and Casts of Busts, and other Things therein mentioned*, received Royal Assent July 2, 1798.
+
+---
+
+**An Act for encouraging the Art of making new Models and Casts of Busts, and other Things therein mentioned**
+*(38 Geo. 3 c. 71)*
+
+**Preamble:**
+
+> "Whereas it would contribute to the Encouragement of the Arts of making New Models and Casts, if the Artists thereof were secured in the Sole Use and Profit of their Works for such Term of Years as is herein-after mentioned..."
+
+**Section 1 (grant of 14-year exclusive right):**
+
+> "Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the passing of this Act, every Person who shall make or cause to be made any new and original Sculpture, or Model, or Copy, or Cast of the Human Figure or Human Figures, or of any Bust or Busts, or of any Part or Parts of the Human Figure, clothed in Drapery or otherwise, or of any Animal or Animals, or of any Part or Parts of any Animal combined with the Human Figure or otherwise, or of any Subject being Matter of Invention in Sculpture, or of any alto or Basso Relievo representing any of the Matters or Things herein-before mentioned, or any Cast from Nature of the Human Figure or of any Part or Parts of the Human Figure, or of any Cast from Nature of any Animal or of any Part or Parts of any Animal, shall have the sole Right and Property in all and every such new and original Sculpture, Model, Copy, and Cast, for the Term of Fourteen Years from first putting forth or publishing the same."
+
+**Section 2 (name requirement):**
+
+> "Provided always, That the Name of the Maker or Makers of such Sculpture, Model, Copy, or Cast, with the Date of the first Publication thereof, shall be put on all such Sculpture, Models, Copies, and Casts."
+
+**Section 3 (penalty for infringement):**
+
+> "That if any Person shall make or cause to be made any Piracy or unlawful Copy of any such Sculpture, Model, Copy, or Cast, during the Period herein-before mentioned, the Person so offending shall forfeit such piratical Copy, and also a Sum of Money not less than... nor more than... to be recovered by the Party aggrieved..."
+
+---
+
+## Legislative History
+
+The 1798 Act was Parliament's direct response to the lobbying of sculptors and the Wedgwood pottery firm, who had pressed for statutory protection of three-dimensional artistic works since the 1780s. The rapid commercial expansion of the decorative arts—driven in particular by Josiah Wedgwood and Sons' mass production of jasperware medallions, plaques, and ornamental objects—created acute demand for legal protection against unauthorized copying of original models.
+
+Josiah Wedgwood and Sons submitted evidence to Parliament on the economic harm caused by unauthorized copying of their jasperware medallion designs. The firm's jasperware line, which reproduced original sculptural models in series, was especially vulnerable to copying because a single original model could be used to produce unlimited reproductions; once a competitor obtained one legitimate specimen, it could reproduce the model indefinitely without any further reference to the original.
+
+The bill was introduced in the House of Commons in the 1798 session (38 Geo. 3). The Commons Journals for the 38th year of George III record the bill's readings and its passage through both Houses. The bill proceeded without significant opposition and attracted parliamentary support as a natural extension of the print protection regime already established by the Engravers' Acts.
+
+The Act passed both Houses without significant opposition and received Royal Assent on July 2, 1798.
+
+The Act's structure deliberately mirrored that of the Engravers' Copyright Act 1735: a 14-year term of protection from first publication, a requirement that the maker's name be inscribed on the work, and a forfeiture remedy enforceable by the proprietor. This structural parallel reflected Parliament's view that sculptural works stood in the same relationship to their makers as prints stood to their engravers—creative works deserving statutory protection on similar terms.
+
+The 1798 Act is the last major pre-1800 extension of copyright subject matter in English law, and the last in the series of acts that formed the complete pre-modern English copyright regime. Together with the Statute of Anne (1710), the Engravers' Copyright Acts (1735, 1767, 1777), and the common-law developments settled in *Donaldson v. Beckett* (1774), it completed the statutory framework that the English-speaking world inherited as the foundation of modern copyright law.
+
+The American sculpture copyright equivalent (the Copyright Act of 1870, 16 Stat. 198) would not come until 72 years later, when Congress amended the copyright statute to include works of art. This gap of nearly three-quarters of a century between English and American protection of sculptural works illustrates the divergence in pace between the two jurisdictions in expanding copyright subject matter beyond the book and print trade origins of the right.

@@ -114,3 +114,46 @@ Every federal copyright statute enacted since 1790 rests on the authority of the
 6. ***Eldred v. Ashcroft* (2003)**: Supreme Court upheld the 1998 extension against constitutional challenge; held that Congress has wide discretion under the Copyright Clause so long as terms remain "limited" in some sense.
 
 The Copyright Clause is thus both the source of Congress's power and the ultimate limit on its exercise. It reflects the founding generation's understanding—drawn from English law and settled in *Donaldson v. Beckett* (1774)—that copyright is a time-limited statutory monopoly granted to advance the public interest in learning, not a perpetual natural right.
+
+---
+
+## Primary Source Text
+
+The Constitutional Convention records relating to the Copyright and Patent Clause are found in James Madison's Notes of Debates in the Federal Convention of 1787 (first published 1840) and in the official Journal of the Convention (published 1819). The following are the key primary source documents.
+
+---
+
+**The Pinckney Plan (presented May 29, 1787):**
+
+> "The Legislature of the United States shall have the power... To secure to Authors the exclusive right to their Performances and Discoveries."
+
+**The Madison/Pinckney proposal (August 18, 1787):**
+
+> "To secure to literary authors their copy rights for a limited time."
+> "To encourage by proper premiums and provisions, the advancement of useful knowledge and discoveries."
+
+**Madison's Notes on September 5, 1787 (Committee of Detail report):**
+
+> "The clause... 'to promote the progress of Science and useful arts by securing for limited times to authors and inventors the exclusive right to their respective writings and discoveries' was agreed to without debate."
+
+**Article I, Section 8, Clause 8 as ratified:**
+
+> "To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries."
+
+---
+
+## Legislative History and Congressional Implementation
+
+**Constitutional Convention proceedings:** The clause was proposed by James Madison and Charles Pinckney on August 18, 1787, when both submitted separate lists of proposed congressional powers for the Convention's consideration. The combined proposal was referred to the Committee of Detail, reported back on September 5, 1787, and adopted without recorded debate on that date. The absence of recorded debate—in both Madison's Notes and the official Journal—has been taken by constitutional historians as evidence that the clause was uncontroversial among the Framers, who were familiar with the English copyright tradition established by the Statute of Anne and the common-law debates settled in *Donaldson v. Beckett* (1774).
+
+**The Federalist Papers:** Federalist No. 43 (Madison, January 23, 1788) is the only Federalist Paper to discuss the Copyright and Patent Clause. Madison wrote: "The utility of this power will scarcely be questioned. The copyright of authors has been solemnly adjudged in Great Britain to be a right at common law. The right to useful inventions seems with equal reason to belong to the inventors. The public good fully coincides in both cases with the claims of individuals." This brief treatment reflects the clause's uncontroversial status during ratification.
+
+**State ratification debates:** The clause attracted little controversy during the state ratification process. No major Anti-Federalist objections to the Copyright and Patent Clause are recorded in the ratification debates of any state convention. The clause did not appear among the objections catalogued in the major Anti-Federalist writings of the period.
+
+**First Congress implementation (Copyright Act of 1790):** The First Congress enacted the first federal copyright statute on May 31, 1790 (1 Stat. 124). The bill was introduced in the House of Representatives by Rep. Ralph Izard. The House Committee on Copyright reported the bill favorably. The bill passed both Houses without recorded opposition, and President Washington signed it on May 31, 1790.
+
+The House Journal for the 1st Congress, 2nd Session records: The bill "An Act for the Encouragement of Learning" was read for the first time on January 25, 1790; reported from committee on February 25, 1790; passed the House on April 14, 1790; passed the Senate on May 26, 1790; signed by the President on May 31, 1790.
+
+There were no separate House or Senate committee reports for the 1790 Act in the modern sense; the proceedings are recorded only in the House Journal and Senate Journal for the 1st Congress, 2nd Session.
+
+**Early Senate copyright discussions (1789):** During the 1st Session of the First Congress, several states had petitioned Congress for copyright protection, and petitions were received from Noah Webster and others seeking a uniform federal copyright law to replace the patchwork of state copyright statutes enacted following the 1783 resolution of the Continental Congress. These petitions are recorded in the Senate Journal and House Journal for the 1st Session of the First Congress and formed the legislative backdrop to the drafting of the 1790 Act.

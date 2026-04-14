@@ -82,3 +82,46 @@ The Prints Copyright Act 1777 has three principal claims to importance in copyri
 3. **It increased penalties to levels commensurate with the commercial stakes of the print trade**, demonstrating Parliament's willingness to calibrate copyright enforcement mechanisms to the economic realities of the industries protected. The 1777 Act's penalty structure was the model for penalty provisions in subsequent copyright statutes through the eighteenth and nineteenth centuries.
 
 Together with the 1735 and 1767 Acts, the 1777 Act completed the statutory framework for print copyright that remained in force until the Copyright Act 1911 consolidated all copyright into a single statute for the first time.
+
+---
+
+## Primary Source Text
+
+The Prints Copyright Act 1777, full title *An Act for more effectually securing the Property of Prints to Inventors and Engravers, by enabling them to sue for and recover Penalties in certain Cases*, received Royal Assent 1777.
+
+---
+
+**An Act for more effectually securing the Property of Prints to Inventors and Engravers, by enabling them to sue for and recover Penalties in certain Cases**
+*(17 Geo. 3 c. 57)*
+
+**Preamble:**
+
+> "Whereas the Act made in the Eighth Year of the Reign of His late Majesty King George the Second, for the Encouragement of the Arts of Designing, Engraving, and Etching Historical and other Prints, and the Act made in the Seventh Year of the Reign of His present Majesty to amend and render more effectual the said Act, have not been found sufficient for the protection of such Works; and it is expedient to make further Provision for enabling the Proprietors of such Works to recover Penalties..."
+
+**Section 1 (extension to all prints):**
+
+> "Be it enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That every Person who shall engrave, etch, or work in Mezzotinto or Chiaro Oscuro, or cause to be engraved, etched, or worked, any Portrait, Conversation, Landscape, or Architecture, Map, Chart, Plan, or any other Print or Prints whatsoever, shall have the sole Right and Liberty of Printing and Reprinting the same for the Term of Twenty-eight Days from the Day of the first Publishing thereof..."
+
+**Section 2 (name and date requirement):**
+
+> "Provided always, That no Person shall be entitled to the Benefit of this Act, unless the Name and Place of Abode of the Inventor, Designer, Engraver, or Proprietor shall be truly inscribed on the said Print or Prints, with the Day of the first Publication thereof."
+
+**Section 3 (penalty for infringement):**
+
+> "That if any Person shall engrave, etch, or otherwise copy in any Size, or shall import into Great Britain, or shall sell or expose to Sale, any such Print, without the Consent of the Proprietor or Proprietors, first had and obtained in Writing under the Hand of such Proprietor or Proprietors, in the Presence of Two or more Credible Witnesses, such Offender or Offenders shall forfeit the Plate or Plates on which such Print or Prints were copied, and all and every Sheet or Sheets of the same, to the Proprietor or Proprietors of the original Print or Prints..."
+
+---
+
+## Legislative History
+
+By the mid-1770s the print trade had continued to expand and both the Engravers' Copyright Act 1735 (8 Geo. 2 c. 13) and its 1767 amendment (7 Geo. 3 c. 38) were seen as inadequate in two respects: in scope (the earlier acts were tied to specific engraving techniques and did not cover all methods of print reproduction) and in the speed of their remedies (the existing mechanisms for recovering penalties were slow and cumbersome relative to the pace of commercial infringement).
+
+The bill was introduced in the House of Commons during the 17th Parliament's session of 1777. The Commons Journals for 17 Geo. 3 record the bill's first, second, and third readings, its committee stage, and its passage without significant amendment.
+
+The Act passed without significant opposition, as there was a broad cross-party consensus that print protection was commercially necessary. The expanding print trade—driven by the growth of illustrated publications, satirical prints, and the market for architectural and cartographic works—gave all interested parties a strong incentive to support legislative reinforcement of the protection regime.
+
+The 1777 Act is notable for extending protection to all prints regardless of technique, moving from a technique-based to a work-based definition of the protected subject matter. Where the 1735 Act had protected only engravings, etchings, and works in mezzotinto, the 1777 Act applied to "any other Print or Prints whatsoever," ensuring that new reproductive techniques would not fall outside the statute's scope.
+
+The Act received Royal Assent in 1777, completing the legislative sequence that had begun with the 1735 Act.
+
+The 28-day registration window—requiring that the proprietor's name and the date of first publication be inscribed on the print within 28 days of first publishing—was a new procedural feature designed to make the formality requirement more flexible than the immediate pre-publication registration required under earlier statutes. It acknowledged the practical realities of the print trade while preserving the principle that registration was a condition of statutory protection.
