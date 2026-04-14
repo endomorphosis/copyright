@@ -77,3 +77,49 @@ The 1767 Act, though often overshadowed by the major copyright decisions and sta
 3. **It demonstrated Parliament's willingness to update and improve copyright legislation as practical problems emerged**, establishing the pattern of periodic legislative revision that has characterized copyright law ever since.
 
 4. **It completed the protection of the visual arts trade** that the 1735 Act had begun, ensuring that the full range of reproductive techniques and media then in commercial use was covered by the statutory framework. Together, the 1735 and 1767 Acts gave the English visual arts trade a copyright system as comprehensive as the one the book trade had enjoyed since 1710.
+
+---
+
+## Primary Source Text
+
+The Engravers' Copyright Act 1767, full title *An Act to amend and render more effectual an Act made in the Eighth Year of the Reign of His late Majesty King George the Second, for Encouragement of the Arts of Designing, Engraving, and Etching Historical and other Prints*, received Royal Assent in 1767. The following are the key operative provisions in modernized spelling.
+
+---
+
+**Engravers' Copyright Act Amendment, 7 Geo. 3 c. 38 (1767)**
+
+**Preamble:**
+
+> Whereas by an Act made in the Eighth Year of the Reign of His late Majesty King George the Second, intitled, An Act for the Encouragement of the Arts of Designing, Engraving, and Etching Historical and other Prints, it was enacted... But whereas the said Act hath been found in some respects defective...
+
+**Section 1 — Extension to Portraits, Maps, and All Other Prints:**
+
+> Be it enacted... That the said recited Act shall be, and is hereby, extended to every Person who shall engrave, etch, or work in Mezzotinto or Chiaro Oscuro, or cause to be engraved, etched, or worked, any Portrait, Conversation, Landscape, or Architecture, Map, Chart, Plan, or any other Print or Prints whatsoever; and the Provisions of the said Act shall apply and extend to all and every such Person and Persons...
+
+**Section 2 — Increased Penalties:**
+
+The 1767 Act increased the monetary penalties available against infringers beyond those specified in the 1735 Act, strengthening the deterrent effect of the legislation and making enforcement more commercially viable for designers whose prints were of relatively modest individual value.
+
+---
+
+## Legislative History
+
+### Circumstances Prompting the Amendment
+
+By the mid-1760s, print-sellers and artists had accumulated practical experience of the 1735 Act's limitations. The most significant complaints were:
+
+- The Act's coverage was confined to "historical and other prints," language that had been interpreted narrowly to exclude **portraits**, **maps**, **architectural drawings**, and other common categories of prints that did not fit the "historical" description.
+- Newer print techniques and formats had developed since 1735 that the Act's wording did not clearly reach.
+- The **penalties** in the 1735 Act had proved insufficient to deter well-resourced pirates, who could calculate that the potential fine was outweighed by the profit from unauthorized copying.
+
+### Commons Proceedings
+
+The bill was introduced in the **House of Commons** during the session of 7 Geo. 3 (1766–1767). The **Commons Journals** for that Parliament record the bill's readings. The amendment was not controversial: it was widely accepted that the existing law had gaps and that extending protection to portraits, maps, and other prints served the same policy rationale as the 1735 Act. The bill progressed through its readings and committee stage without significant opposition.
+
+### Lords Stage and Royal Assent
+
+The bill passed the House of Lords without significant amendment and received **Royal Assent in 1767**, becoming law as 7 Geo. 3 c. 38. The Act operated as an amendment to, and extension of, the 1735 Act, which remained in force as the principal statute governing print copyright.
+
+### Historical Context
+
+The 1767 amendment was passed during the same period as the important common-law copyright litigation that would culminate in *Millar v. Taylor* (1769) and *Donaldson v. Beckett* (1774). Parliament's willingness to extend and strengthen the statutory framework for print copyright in 1767 is consistent with the broader legislative attitude toward copyright as a creature of statute—an approach ultimately vindicated by the House of Lords in *Donaldson v. Beckett*, which settled that copyright protection depended on statutory authorization rather than common-law natural right.

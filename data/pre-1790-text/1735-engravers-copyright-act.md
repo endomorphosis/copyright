@@ -72,3 +72,57 @@ The Engravers' Copyright Act 1735 has four principal claims to importance in cop
 3. **It established the fourteen-year term as the standard copyright term.** By using the same term as the Statute of Anne, the 1735 Act reinforced the emerging consensus that fourteen years was an appropriate duration for a copyright monopoly. This consensus directly influenced American copyright law: the US Copyright Act of 1790 also used a fourteen-year term with a fourteen-year renewal.
 
 4. **It was a model for subsequent expansion of copyright subject matter.** The Acts protecting sculptures (1798), dramatic works (1833), lectures (1835), and musical compositions (1882) all followed the structural template of the 1735 Act—a fixed term, originality as a precondition, formality requirements for enforcement, and specific remedies for infringement. The 1735 Act thus established not just print protection but the *legislative method* by which copyright was extended to new categories of creative work.
+
+---
+
+## Primary Source Text
+
+The Engravers' Copyright Act 1735, full title *An Act for the Encouragement of the Arts of Designing, Engraving and Etching Historical and other Prints, by vesting the Properties thereof in the Inventors or Engravers during the Time therein mentioned*, received Royal Assent 25 June 1735. The following are the key operative provisions in modernized spelling.
+
+---
+
+**Engravers' Copyright Act, 8 Geo. 2 c. 13 (1735)**
+
+**Preamble:**
+
+> Whereas Divers Persons have by their own Genius, Industry, Pains and Expence, invented and engraved, or worked in Mezzotinto or Chiaro Oscuro, Sets of Historical and other Prints, in Hopes to have reaped the sole Benefit of their Works; But sundry other Persons have of late, without the Consent of the Inventors, Designers, and Proprietors of such Prints, either in Great Britain or in foreign Parts, engraved, copied and sold Prints and Maps made from the Originals of such Inventors and Designers...
+
+**Section 1 — Grant of Fourteen-Year Exclusive Right:**
+
+> Be it therefore enacted by the King's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Twenty-Fourth Day of June One thousand seven hundred and thirty five, every Person who shall invent or design, engrave, etch, or work in Mezzotinto or Chiaro Oscuro, or from his own Works and Invention, shall cause to be designed and engraved, etched, or worked in Mezzotinto or Chiaro Oscuro, any Historical or other Print or Prints, shall have the sole Right and Liberty of Printing and Reprinting the same for the Term of Fourteen Years, to commence from the Day of the first Publishing thereof...
+
+**Section 1 — Name and Date Inscription Requirement:**
+
+> Provided always, That the said Act shall not extend to any Print or Prints, unless the Name of the Proprietor, Inventor, Designer, or Engraver shall be truly engraved on each Plate, and printed on each Print or Prints.
+
+**Section 1 — Forfeiture Remedy:**
+
+> That all and every such Print and Prints, and all and every the Plates on which such Print and Prints shall be so engraved or worked as aforesaid, shall be forfeited to the Proprietor or Proprietors of the original Print or Prints...
+
+---
+
+## Legislative History
+
+### Hogarth's Petition and the Origins of the Bill
+
+The immediate impetus for the Act was a petition presented to Parliament in **1735** by William Hogarth and a group of fellow artists and print-sellers, including the painter Sir James Thornhill. The petitioners described how unauthorized copies of their prints were being made and sold—both within Britain and on the Continent—almost simultaneously with the originals, depriving the designers of the commercial benefit of their creative and financial investment. The piracy of Hogarth's series *A Rake's Progress* (published 1735) was a particularly prominent grievance.
+
+### Commons Proceedings
+
+The bill was introduced in the **House of Commons** by a sympathetic member during the session of 8 Geo. 2 (January–June 1735). The **Commons Journals** for that session record the bill's formal readings:
+
+- **First reading** — approximately February/March 1735, following presentation of the petitions.
+- **Second reading and committee stage** — the bill was referred to a committee of the whole House, which considered its provisions and reported it without substantial amendment.
+- **Third reading and passage** — the Commons passed the bill and sent it to the House of Lords.
+
+### Lords Stage
+
+The House of Lords considered the bill and passed it **without significant amendment**, accepting the Commons' text. The bill's provisions were straightforward and uncontroversial in the Lords: the protection of English artists against piracy of their prints commanded general sympathy.
+
+### Royal Assent
+
+The Act received **Royal Assent on 25 June 1735**, becoming law as 8 Geo. 2 c. 13, with the protection taking effect from that date.
+
+### "Hogarth's Act"
+
+The bill's popular name, **"Hogarth's Act,"** was well established in the historical record almost from the moment of its passage, reflecting both Hogarth's prominent role in campaigning for it and the direct commercial benefit he received from its enactment. The name has persisted in legal and art-historical writing to the present day, even though the Act's protections were general and extended to all designers of prints, not to Hogarth alone.

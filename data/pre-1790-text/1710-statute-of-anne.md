@@ -141,3 +141,59 @@ The Statute of Anne's historical significance is difficult to overstate:
 6. **It directly influenced the US Copyright Act of 1790**, which replicated the Statute of Anne's structure almost exactly: an initial fourteen-year term with a fourteen-year renewal if the author was still living, registration as a precondition for suit, deposit of copies for public libraries, and prohibition on importing foreign reprints. The framers of the US Constitution's Copyright Clause (Art. I, § 8, cl. 8) and the drafters of the 1790 Act worked consciously within the framework the Statute of Anne had established.
 
 7. **It generated the great common-law copyright controversy** that culminated in *Millar v. Taylor* (1769) and *Donaldson v. Beckett* (1774), whose resolution established that copyright is a creature of statute rather than common law—a foundational principle that remains in force today.
+
+---
+
+## Primary Source Text
+
+The Statute of Anne, full title *An Act for the Encouragement of Learning, by Vesting the Copies of Printed Books in the Authors or Purchasers of such Copies, during the Times therein mentioned*, received Royal Assent 5 April 1710. The following are the key operative sections in modernized spelling.
+
+---
+
+**Statute of Anne, 8 Anne c. 19 (1710)**
+
+**Preamble:**
+
+> Whereas Printers, Booksellers, and other Persons have of late frequently taken the Liberty of Printing, Reprinting, and Publishing, or causing to be Printed, Reprinted, and Published Books and other Writings, without the Consent of the Authors or Proprietors of such Books and Writings, to their very great Detriment, and too often to the Ruin of them and their Families: For Preventing therefore such Practices for the future, and for the Encouragement of Learned Men to Compose and Write useful Books...
+
+**Section 1 — Grant of Exclusive Right (14-year term for new works; 21-year term for existing works):**
+
+> Be it enacted by the Queen's most Excellent Majesty, by and with the Advice and Consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the Authority of the same, That from and after the Tenth Day of April, One thousand seven hundred and ten, the Author of any Book or Books already Printed, who hath not Transferred to any other the Copy or Copies of such Book or Books, Share or Shares thereof, and the Bookseller or Booksellers, Printer or Printers, and other Person or Persons who hath or have Purchased or Acquired the Copy or Copies of any Book or Books in order to Print or Reprint the same, shall have the sole Right and Liberty of Printing such Book and Books for the Term of One and twenty Years, to Commence from the said Tenth Day of April, and no longer...
+
+**Section 2 — Registration and Consent Requirement:**
+
+> That if any other Bookseller, Printer, or other Person whatsoever, from and after the Tenth Day of April, One thousand seven hundred and ten, within the Times granted and limited by this Act, shall Print, Reprint, or Import, or cause to be Printed, Reprinted, or Imported, any such Book or Books, without the Consent of the Proprietor or Proprietors thereof first had and obtained in Writing, Signed in the Presence of Two or more Credible Witnesses...
+
+**Section 5 — Nine-Copy Deposit Requirement:**
+
+> That before any Entry or Registry be made of any such Book or Books in the Register Book of the Company of Stationers, Nine Copies of each such Book or Books shall be Delivered to the Warehouse-Keeper of the said Company of Stationers for the Use of the Royal Library, the Libraries of the Universities of Oxford and Cambridge, the Libraries of the Four Universities in Scotland, the Library of Sion College in London, and the Library commonly called the Library belonging to the Faculty of Advocates at Edinburgh...
+
+---
+
+## Legislative History
+
+### Pre-Parliamentary Background
+
+The lapse of the Licensing Act in 1695 left the book trade without statutory protection. The Stationers' Company had relied on that Act—and before it, on royal proclamations and Star Chamber decrees—to enforce its monopoly on printing. When Parliament declined to renew the Licensing Act, the Stationers lost both their censorship machinery and their effective property rights in copies. The Company petitioned Parliament for new legislation in **1703**, **1706**, **1707**, and again in **1709**, each time failing to secure a bill that satisfied both the trade's desire for a strong monopoly and Parliament's growing skepticism of guild privileges.
+
+### The 1709–10 Bill in the House of Commons
+
+A bill was introduced in the House of Commons in **January 1709/10** (under the Old Style calendar then in use, the year changed on 25 March, so January 1709 O.S. = January 1710 N.S.). The bill initially contemplated terms more favorable to booksellers; Members of Parliament who were hostile to guild monopolies insisted on time-limited terms and on framing the grant as running initially to *authors* rather than to stationers. This author-centered framing—reflected in the Act's full title—was a deliberate political choice by MPs who wished to signal that copyright was a reward for creative labor, not a perpetuation of trade privilege.
+
+**Key dates recorded in the House of Commons Journals for the 8th Parliament of Great Britain (8 Anne, session 1708–1710):**
+
+- **11 January 1709/10** — First reading of the bill in the House of Commons.
+- **21 January 1709/10** — Second reading and commitment to a committee of the whole House.
+- **26 March 1710** — Third reading and passage in the Commons.
+
+### Lords Stage and Amendments
+
+The bill was sent to the House of Lords, which passed it with amendments. The most significant amendment added at the Lords stage was a **savings clause preserving the existing printing privileges of the Universities of Oxford and Cambridge**. The universities had ancient charters entitling them to print and sell books, and their representatives in the Lords ensured that the new statute would not inadvertently extinguish those privileges.
+
+### Royal Assent
+
+The bill received **Royal Assent on 5 April 1710**, becoming law as 8 Anne c. 19. The Act came into operation for new works on the same date, with the special 21-year term for existing works beginning on 10 April 1710 (the date named in the statute).
+
+### Official Records
+
+The official record of the bill's parliamentary progress is contained in the **House of Commons Journals** and **House of Lords Journals** for the 8th Parliament of Great Britain (1708–1710, 8 Anne). These journals record the formal readings, committee referrals, and amendments that are the procedural history of the Act. Petitions from the Stationers' Company presented in earlier sessions (1703–1709) are similarly recorded in the Journals of those respective sessions.
