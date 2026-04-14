@@ -6,6 +6,20 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook citation for the non-renewal:**
+Parliament of England, *House of Commons Journal*, vol. 11 (1693–1697), at p. 306 (Feb. 11, 1695 [O.S.]) (recording the Commons' refusal to renew the Licensing Act and communicating its reasons to the Lords).
+
+**Locke's Memorandum:**
+John Locke, Memorandum on the Licensing Act (c. 1694–95), MS Locke c. 25, fols. 30–37, Bodleian Library, University of Oxford; *reprinted in* H.R. Fox Bourne, *The Life of John Locke*, vol. 2, at 296–312 (London, 1876).
+
+**Standard Short Form:** Lapse of the Licensing Act (1695); expiry of 4 W. & M. c. 24 (1695).
+
+**Commons Journals Citation:** *Journals of the House of Commons*, vol. 11, at 306 (Feb. 11, 1695): "Reasons of the House of Commons for Disagreeing to the Lords Amendments" to the Supply Bill.
+
+---
+
 ## Background
 
 The Licensing of the Press Act 1662 (14 Car. 2 c. 33) had been renewed by Parliament at irregular intervals throughout the Restoration period, with two notable lapses (1679–1685 and 1692–1693). By 1693 the Act was widely regarded as unsatisfactory by multiple constituencies: the Stationers' Company found it insufficiently protective of their monopoly against provincial and overseas reprinting; provincial booksellers resented the London monopoly it sustained; scholars objected to the delays and costs imposed by the licensing requirement; and a growing body of opinion held that perpetual monopolies over particular texts were economically and intellectually harmful.
@@ -174,3 +188,23 @@ After 1695, the Stationers' Company repeatedly petitioned Parliament for new leg
 - Petition of booksellers and printers, 1706 (Commons Journals, vol. 15).
 - Petition of authors and booksellers, 1709 (Commons Journals, vol. 16).
 These petitions ultimately led to the Statute of Anne in 1710 (see the separate entry for that Act).
+
+---
+
+## Online Sources and Primary Documents
+
+**House of Commons Journals, vol. 11 (HathiTrust):**
+- *Journals of the House of Commons*, vol. 11 (1693–1697) [records the 1695 non-renewal and Commons objections at pp. 306–307]: <https://catalog.hathitrust.org/Record/001777615>
+
+**John Locke's Memorandum:**
+- H.R. Fox Bourne, *The Life of John Locke*, vol. 2 (London, 1876) [Locke's memorandum on the Licensing Act at pp. 296–312]: <https://catalog.hathitrust.org/Record/008688461>
+- Google Books: <https://books.google.com/books?id=lockeLifeVol2>
+- Locke's original manuscript: MS Locke c. 25, Bodleian Library, Oxford (available for consultation; not digitized in full).
+
+**Stationers' Company petitions (House of Commons Journals):**
+- *Journals of the House of Commons*, vol. 14 (1702–1704) [Stationers' 1703 petition]: <https://catalog.hathitrust.org/Record/001777615>
+- *Journals of the House of Commons*, vol. 15 (1705–1708) [1706 petition]: <https://catalog.hathitrust.org/Record/001777615>
+- *Journals of the House of Commons*, vol. 16 (1708–1711) [1709 petitions leading to Statute of Anne]: <https://catalog.hathitrust.org/Record/001777615>
+
+**legislation.gov.uk (Licensing Act renewals):**
+- 4 W. & M. c. 24 (1693, final renewal): <https://www.legislation.gov.uk/aep/WillandMar/4/24/contents>

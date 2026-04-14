@@ -6,6 +6,18 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Star Chamber Decree on Printing (June 23, 1586), *reprinted in* 2 Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640*, at 807 (London, 1875).
+
+**Archival Citation:** Star Chamber Decree (June 23, 1586), STAC 5 (Star Chamber records, Elizabeth I), The National Archives, Kew; also enrolled in the Stationers' Company Registers and reprinted in full in Arber's Transcript vol. 2 at pp. 807–812.
+
+**Standard Short Form:** Star Chamber Decree of 1586; Archbishop Whitgift's Decree (1586).
+
+**Additional Reference:** W.W. Greg & E. Boswell, *Records of the Court of the Stationers' Company, 1576–1602* (London, 1930), pp. xxxii–xxxvii (discussion of the Decree's enforcement).
+
+---
+
 ## Background and Context
 
 By the mid-1580s the English press had grown considerably since the Stationers' Company received its charter in 1557. The number of printers had multiplied, presses had spread to the provinces, and the quality of pre-publication review had become uneven and contested. The Privy Council and the ecclesiastical authorities were increasingly alarmed at the volume of contentious religious literature—Puritan polemic on one side, Catholic tracts smuggled from the Continent on the other—that found its way into print despite existing controls.
@@ -140,3 +152,22 @@ The Decree's licensing system was implemented through the church hierarchy. The 
 
 **Relationship to Parliamentary Attempts:**
 Parliament made no attempt to legislate on printing regulation in the 1580s; the Star Chamber's prerogative jurisdiction was the established vehicle for such regulation. The absence of parliamentary involvement was not an oversight but reflected the political reality that printing regulation was a Crown prerogative matter, not a parliamentary one. This changed only after the abolition of the Star Chamber in 1641.
+
+---
+
+## Online Sources and Primary Documents
+
+**Arber's Transcript of the Stationers' Registers (HathiTrust):**
+- Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640*, vol. 2 (London, 1875) [full text of 1586 Decree at pp. 807–812]: <https://catalog.hathitrust.org/Record/001776619>
+- Vol. 2 direct link: <https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t9k36003d>
+
+**The National Archives, Kew (UK):**
+- Star Chamber records, Elizabeth I (STAC 5): <https://discovery.nationalarchives.gov.uk/details/r/C5750>
+- Privy Council Register series (PC 2): <https://discovery.nationalarchives.gov.uk/browse/r/h/C4060578>
+
+**Cyprian Blagden, *The Stationers' Company: A History, 1403–1959* (London, 1960):**
+- Discusses the 1586 Decree and its implementation.
+- WorldCat record: <https://www.worldcat.org/title/stationers-company-a-history-1403-1959/oclc/465910>
+
+**Greg and Boswell, *Records of the Court of the Stationers' Company, 1576–1602* (London, 1930) (HathiTrust):**
+- <https://catalog.hathitrust.org/Record/001464765>

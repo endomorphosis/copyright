@@ -6,6 +6,18 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Charter of the Stationers' Company (May 4, 1557), C 66/897, Patent Rolls (Eng.).
+
+**Archival Citation:** Letters Patent of Philip and Mary, 4 May 1557, enrolled on the Patent Rolls: C 66/897, part 8, membrane 25, The National Archives, Kew. The document is calendared in *Calendar of Patent Rolls, Philip and Mary, 1555–1557* (H.M.S.O. 1938) at p. 569.
+
+**Standard Short Form (used in legal scholarship):** Stationers' Company Charter (1557).
+
+**Arber Transcript Reference:** Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640*, vol. 1, at i–xi (London, 1875) [reproduced the charter in English translation].
+
+---
+
 ## Background and Context
 
 The Stationers' Company had existed as an informal guild of London book-trade craftsmen—scribes, limners, bookbinders, and booksellers—since at least the early fifteenth century. As the printing press spread through England after William Caxton established his press at Westminster in 1476, the trade grew rapidly and increasingly disorderly. Religious and political upheaval under Henry VIII, Edward VI, and the brief reign of Lady Jane Grey had made the Crown acutely sensitive to the dangers of unlicensed printing. Protestant reformers, Catholic controversialists, and political dissidents alike exploited the press to circulate seditious and heretical matter.
@@ -117,3 +129,24 @@ Because the charter operated through the guild's own enforcement mechanisms, it 
 
 **Subsequent Parliamentary Recognition:**
 The Licensing Act of 1662 (14 Car. 2 c. 33) explicitly recognized the Stationers' Company's role and its Register, incorporating the charter's infrastructure into the statutory framework. This was the first parliamentary statute to formally acknowledge the Stationers' system, suggesting that until 1662, the system rested entirely on prerogative authority.
+
+---
+
+## Online Sources and Primary Documents
+
+**The National Archives, Kew (UK):**
+- Discovery catalogue entry for Stationers' Company charter records: <https://discovery.nationalarchives.gov.uk/details/r/C5750>
+- Patent Rolls, C 66 series (contains the enrolled charter): <https://discovery.nationalarchives.gov.uk/browse/r/h/C4060578>
+
+**Arber's Transcript of the Stationers' Registers (HathiTrust):**
+- Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640* (5 vols., London, 1875–1894): <https://catalog.hathitrust.org/Record/001776619>
+- Vol. 1 (includes the charter text in English): <https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t0ht2h89b>
+
+**Stationers' Company Archives (London):**
+- The Company's own archive, including the original Court Books and Register volumes, is held at Stationers' Hall, London, and catalogued through the London Metropolitan Archives: <https://www.londonmet.ac.uk/library/stationers-company-archive>
+
+**Calendar of Patent Rolls (British History Online):**
+- *Calendar of Patent Rolls, Philip and Mary*, vol. 3 (1555–1557): <https://www.british-history.ac.uk/cal-patent-rolls/phil-mary/vol3>
+
+**Greg and Boswell, *Records of the Court of the Stationers' Company, 1576–1602* (London, 1930):**
+- HathiTrust: <https://catalog.hathitrust.org/Record/001464765>

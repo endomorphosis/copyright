@@ -8,6 +8,24 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Licensing of the Press Act 1662, 14 Car. 2, c. 33 (Eng.).
+
+**Parallel Citations:**
+- *Statutes of the Realm*, vol. 5 (Record Commission 1819), at p. 428.
+- Ruffhead's *Statutes at Large*, vol. 7, at p. 168.
+
+**Standard Short Form:** Licensing Act 1662; 14 Car. 2, c. 33.
+
+**Renewal Acts (Bluebook citations):**
+- Printing Act 1664, 16 & 17 Car. 2, c. 8 (Eng.) — two-year renewal.
+- Printing Act 1665, 17 Car. 2, c. 4 (Eng.) — three-year renewal.
+- Printing Act 1685, 1 Jac. 2, c. 17 (Eng.) — seven-year renewal.
+- Printing Act 1693, 4 W. & M., c. 24 (Eng.) — two-year renewal (the last).
+
+---
+
 ## Background and Context
 
 When Charles II was restored to the English throne in 1660, one of his government's most urgent practical concerns was the regulation of the press. The intervening years of Civil War and Interregnum had seen an unprecedented explosion of unlicensed printing. The Long Parliament's Licensing Order of June 14, 1643 had attempted to re-establish pre-publication licensing on a parliamentary basis, but it had been imperfect, contested, and intermittently enforced. By 1660 the London book trade was in a state of regulatory chaos.
@@ -178,3 +196,23 @@ The Act was renewed and re-enacted multiple times by Parliament, each renewal be
 
 **The 1695 Non-Renewal:**
 The Commons Journal for the session 7 W. 3 (1694–1695) records that the renewal bill was introduced but dropped. The formal record of the "Reasons of the House of Commons for Disagreeing with the Lords' amendments" to the Supply Bill (to which the licensing renewal had been attached as a rider) contains the Commons' objections to the Act. These objections—including John Locke's influence—are discussed in the entry for the 1695 lapse (see separate file).
+
+---
+
+## Online Sources and Primary Documents
+
+**legislation.gov.uk (UK Statute Law Database):**
+- Licensing of the Press Act 1662 (14 Car. 2 c. 33): <https://www.legislation.gov.uk/aep/Cha2/14/33/contents>
+
+**Statutes of the Realm (HathiTrust):**
+- *Statutes of the Realm*, vol. 5 (Record Commission 1819) [contains the 1662 Act at p. 428]: <https://catalog.hathitrust.org/Record/001223125>
+- Vol. 5 direct link: <https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t3vm44r4s>
+
+**House of Commons Journals (HathiTrust):**
+- *Journals of the House of Commons*, vol. 8 (1660–1667) [parliamentary proceedings for the 1662 Act]: <https://catalog.hathitrust.org/Record/001777615>
+
+**House of Lords Journals (HathiTrust):**
+- *Journals of the House of Lords*, vol. 11 (1660–1666): <https://catalog.hathitrust.org/Record/001224498>
+
+**Arber's Transcript (HathiTrust) [Stationers' Register context]:**
+- Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640*, vol. 1: <https://catalog.hathitrust.org/Record/001776619>

@@ -6,6 +6,18 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Star Chamber Decree on Printing (July 11, 1637), *reprinted in* 4 Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640*, at 528 (London, 1877).
+
+**Archival Citation:** Star Chamber Decree (July 11, 1637), STAC 8 / Privy Council Register PC 2/48, The National Archives, Kew; reprinted in full in Arber's Transcript vol. 4 at pp. 528–536.
+
+**Standard Short Form:** Star Chamber Decree of 1637; Archbishop Laud's Decree (1637).
+
+**Parallel Publication:** The Decree was also printed separately as a broadside and is reproduced in C.H. Firth & R.S. Rait (eds.), *Acts and Ordinances of the Interregnum, 1642–1660*, vol. 1 (H.M.S.O. 1911) [for context of its supersession by parliamentary ordinances].
+
+---
+
 ## Background and Context
 
 The Star Chamber Decree of 1637 was the last and most comprehensive exercise of prerogative press regulation in English history. It was issued at the height of Charles I's Personal Rule, a period of eleven years (1629–1640) during which the King governed without Parliament. The decree appeared under the auspices of Archbishop William Laud, who pursued religious uniformity with a severity that rivaled Whitgift's, and who saw unlicensed printing as both a theological danger and a political threat to the prerogative settlement.
@@ -143,3 +155,22 @@ The Decree's force was abruptly terminated when Parliament abolished the Court o
 
 **Interim Ordinances of the Long Parliament (1643, 1647, 1649):**
 After the Star Chamber's abolition, Parliament itself assumed control of press regulation through a series of parliamentary ordinances. The Long Parliament's ordinance of 1643 (passed without royal assent) re-established licensing requirements. These ordinances are recorded in the House of Commons Journals and the Acts and Ordinances of the Interregnum (edited by Firth and Rait, 1911, vol. 1). They formed the direct legislative bridge between the 1637 Star Chamber Decree and the Restoration Licensing Act of 1662.
+
+---
+
+## Online Sources and Primary Documents
+
+**Arber's Transcript of the Stationers' Registers (HathiTrust):**
+- Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640*, vol. 4 (London, 1877) [full text of 1637 Decree at pp. 528–536]: <https://catalog.hathitrust.org/Record/001776619>
+- Vol. 4 direct link: <https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t7mp57v6c>
+
+**Acts and Ordinances of the Interregnum (HathiTrust):**
+- C.H. Firth & R.S. Rait (eds.), *Acts and Ordinances of the Interregnum, 1642–1660*, 3 vols. (H.M.S.O. 1911): <https://catalog.hathitrust.org/Record/001219694>
+- Vol. 1 (includes the 1643 printing ordinance that superseded the Star Chamber system): <https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t80k2930d>
+
+**The National Archives, Kew (UK):**
+- Privy Council Register, PC 2/48 (1637): <https://discovery.nationalarchives.gov.uk/details/r/C4060578>
+- Star Chamber records (STAC 8): <https://discovery.nationalarchives.gov.uk/browse/r/h/C4061137>
+
+**Abolition of the Star Chamber Act 1641 (legislation.gov.uk):**
+- 16 Car. 1 c. 10: <https://www.legislation.gov.uk/aep/Car1/16/10/contents>
