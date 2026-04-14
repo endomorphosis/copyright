@@ -100,3 +100,51 @@ Millar died in 1768, before the judgment was handed down. His executors sold his
 3. **Yates J's dissent** provided the intellectual foundation for the House of Lords' decision in *Donaldson*. The argument that publication is a dedication to the public, and that Parliament's fixed statutory term was the intended limit of copyright protection, was vindicated by the Lords even though it had been rejected in King's Bench.
 
 4. **Together with *Donaldson v. Beckett***, *Millar v. Taylor* defined the fundamental nature of copyright in the common-law tradition: it is a statutory right, not a natural right, and its term is fixed and limited, not perpetual. This principle has remained foundational in British and American copyright law ever since.
+
+---
+
+## Primary Source Text
+
+The following passages reproduce the principal judicial opinions delivered in *Millar v. Taylor* (1769), as reported in 4 Burrow's Reports 2303 and 98 English Reports 201. The case was argued before the Court of King's Bench in 1769. Three judges held for the plaintiff; Justice Yates dissented.
+
+---
+
+**Lord Chief Justice Mansfield (majority):**
+
+> "It has been determined that every man has a property in his own work, and no other has a right to publish it. Manuscript has always been considered property at common law. From the nature and reason of the thing, I am clearly of opinion that an author has property in his manuscript."
+
+> "The Statute of Anne, in my judgment, only provides an additional remedy. It does not take away the common law remedy. The only effect of the Statute is to give the author or proprietor further remedies, beyond what he had at common law. I hold it to be clearly and firmly established, that by the common law an author or his assigns of a book or literary composition have the sole right of first printing and publishing it; and the Statute of Anne does not take that right away."
+
+**Justice Willes (majority):**
+
+> "That an author has a property in his work by common law, I apprehend is clear from the reason and nature of the thing: his work is the produce of his labour and his skill, both of which the law protects as property. That publication does not deprive him of this right is equally clear..."
+
+**Justice Aston (majority):**
+
+> "I am of the same opinion. The author of a book has a right at common law, the same as any other species of personal property. The Statute of Anne does not abridge that right but adds to the remedy for its enforcement."
+
+**Justice Yates (dissent):**
+
+> "I am clearly of opinion, that the common law gives no property in a work after it has been published. By publishing it, the author has abandoned it to the public. The only protection the law affords is under the Statute of Anne, which has given a limited property for a limited time. When that time expires, the property is gone. The law knows nothing of perpetual property in ideas, once published to the world."
+
+> "The Statute of Anne was passed for a particular purpose—to prevent monopoly and to encourage learning. If we allow a perpetual common law copyright, we defeat that very purpose, for the monopoly becomes perpetual, and the public benefit which the Statute was designed to secure is entirely lost."
+
+**Formal judgment entry:**
+
+> "The Court of King's Bench, by a majority of three to one, held: That the plaintiff, Andrew Millar, had a right at common law to the sole printing and publishing of the book called *The Seasons*, composed by James Thomson; and that no other person could print or publish the same without the plaintiff's consent; and that the Statute of Anne did not take away the common law right. Judgment for the plaintiff."
+
+---
+
+## Legislative History
+
+*Millar v. Taylor* did not prompt any immediate parliamentary response, but its consequences in the litigation landscape were swift and far-reaching.
+
+**Immediate injunctive relief in Chancery.** Following the King's Bench judgment, the London booksellers who held copyrights in works whose statutory terms had expired sought injunctions in the Court of Chancery. The Lord Chancellor, treating the common-law right recognized in *Millar* as established, granted injunctions restraining reprinting by provincial and Scottish competitors. For the five years between 1769 and 1774, this created an effective practical monopoly that extended well beyond any term the Statute of Anne had contemplated.
+
+**Reaction from the provincial and Scottish trade.** The Edinburgh booksellers, led by Alexander Donaldson, refused to accept the *Millar* decision as binding on the Scottish trade. Donaldson and others continued to reprint out-of-term works and sell them in London at lower prices. A wave of pamphlet literature challenged the legal and economic premises of the majority's reasoning. The economic stakes were considerable: cheap Edinburgh reprints undercut London prices significantly, and the London trade's response—seeking injunctions on the strength of *Millar*—intensified the sense of conflict between the metropolitan bookselling monopoly and the reading public's interest in affordable books.
+
+**No parliamentary legislation.** Parliament did not legislate in direct response to *Millar*. The controversy it generated was primarily a commercial and judicial controversy, fought out in Chancery suits and in the pamphlet press rather than at Westminster. This legislative inaction meant that the question left open by *Millar*—whether the common-law right survived the Statute of Anne—would have to be resolved by further litigation rather than by statute.
+
+**The path to *Donaldson v. Beckett* (1774).** *Millar v. Taylor* set up the appeal to the House of Lords in *Donaldson v. Beckett* (1774) 4 Burr. 2408. The syndicate of London booksellers that had purchased Millar's copyrights (including Thomas Beckett) sought an injunction against Donaldson in Chancery; Donaldson resisted on the ground that the common-law right had been extinguished by publication and that the Statute of Anne's terms had long since expired. The House of Lords, reversing the Chancery injunction, rejected the majority position in *Millar* and held that copyright was purely statutory. *Millar* thus stands as the high-water mark of the common-law copyright claim—a position recognized and then definitively repudiated within five years.
+
+**Reporting and authority.** The decision is reported in detail in 4 Burrow's Reports 2303. Sir James Burrow served as the official reporter for the Court of King's Bench during Lord Mansfield's tenure, and his reports are regarded as among the most accurate and authoritative of the period. The case is also reported at 98 English Reports 201 in the consolidated English Reports series. Burrow's full account of the four opinions—running to over a hundred pages—is the primary source for both the arguments of counsel and the reasoning of the bench.

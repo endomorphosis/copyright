@@ -128,3 +128,51 @@ The principle that copyright is statutory and time-limited remains foundational 
 But throughout these extensions, the fundamental *Donaldson* principle held: whatever term Parliament granted was the term that existed, no more and no less. The courts did not supplement statutory terms with common-law rights. Parliament set the boundaries; the courts worked within them.
 
 The great copyright term extension controversies of the twentieth century—in the United States, the European Union, and elsewhere—are thus in a direct line of descent from the argument that was finally settled in the House of Lords on February 22, 1774.
+
+---
+
+## Primary Source Text
+
+The following passages reproduce the principal materials from *Donaldson v. Beckett* (1774), drawn from 4 Burrow's Reports 2408, 2 Brown's Parliamentary Cases 129, and 17 Cobbett's Parliamentary History 953–1003. The proceedings took place before the House of Lords in February 1774. The Lords first received advisory opinions from the common-law judges on five questions of law, then debated and resolved the appeal.
+
+---
+
+**The Questions Put to the Judges:**
+
+> "1st. Whether, at common law, an author of any book or literary composition had the sole right of first printing and publishing the same for sale, and might bring an action against any person who printed, published and sold the same without his consent?
+> 2d. If the author had such right originally, did the law take it away, upon his printing and publishing such book or literary composition; and might any person afterward reprint and sell, for his own benefit, such book or literary composition, against the will of the author?
+> 3d. If such action would have lain at common law, is it taken away by the Statute of 8th of Queen Anne? And is an author, by the said Statute, precluded from every remedy, except on the foundation of the said Statute, and on the terms and conditions prescribed thereby?
+> 4th. Whether the author of any literary composition, and his assigns, had the sole right of printing and publishing the same in perpetuity by the common law?
+> 5th. Whether the Statute of 8th of Queen Anne, had taken away the right of the author, which he had before that Statute, at common law, and limited his remedy to the provisions made by the said Statute, and in the manner directed by the said Statute?"
+
+**Judicial answers (as reported in Parliamentary History):**
+
+> "On the first question: Yea, six; Nay, five.
+> On the second question: Yea, seven; Nay, four.
+> On the third question: Yea, six; Nay, five.
+> On the fourth question: Yea, five; Nay, six.
+> On the fifth question: Yea, six; Nay, five."
+
+**Lord Camden (leading voice for the majority of the Lords):**
+
+> "The arguments attempted to be maintained on the side of the respondents, in support of literary property, are founded on patents, privileges, Star-Chamber decrees, and the bye-laws of the Stationers' Company; all of them the very reverse of convincing proofs, that there ever was a common law right. Patents and privileges could not have been necessary to protect that property which the law would have protected without them. Star-Chamber decrees and bye-laws are strong evidence of a want of common law right, not of the existence of it. They are bolts and bars imposed in lieu of, not in addition to, a natural right."
+
+> "Glory is the reward of science, and those who deserve it scorn all meaner views. I speak not of the scribblers for bread, who tease the press with their wretched productions; fourteen years is too long a privilege for their perishable trash. It was not for gain that Bacon, Newton, Milton, Locke instructed and delighted the world; it would be unworthy such men to traffic with a dirty bookseller for so many years' purchase of their own understanding."
+
+**House of Lords resolution:**
+
+> "Resolved, That the judgment of the Court of Chancery in this cause be reversed. That the injunction granted against Alexander Donaldson be dissolved."
+
+---
+
+## Legislative History
+
+**The dual character of the House of Lords proceedings.** When *Donaldson v. Beckett* came before the House of Lords in 1774, that body sat simultaneously as the nation's highest court of appeal and as one of the two chambers of the legislature. The debate was therefore in some sense both judicial and legislative: the Lords were not merely deciding the rights of the parties before them but pronouncing, with the authority of the supreme tribunal and with an awareness of legislative consequence, on what the law of England was and ought to be. The custom of putting advisory questions to the common-law judges—itself a procedural device that had no strict parallel in ordinary litigation—gave the proceedings a quasi-legislative character, in which the entire common-law bench was in effect consulted before Parliament-as-court reached its decision.
+
+**London booksellers' petitions to Parliament (1774–1777).** The London bookselling trade did not accept *Donaldson* passively. Within months of the decision, the principal London publishers organized to seek statutory relief. They petitioned Parliament in 1774 and again in 1777, arguing that the abrupt termination of the common-law right had destroyed the value of investments they had made in good faith relying on *Millar v. Taylor*. They sought a new statutory term—typically proposed as fourteen additional years—for works whose protection had already expired under the Statute of Anne. Both petitions failed. Parliament declined to restore, even prospectively, the perpetual or extended monopoly that the courts had rejected. The defeat of these petitions confirmed that *Donaldson* represented not merely a judicial correction but a deliberate policy judgment by the legislature: the public domain, once created, would not be reconstituted as private property.
+
+**Influence on the United States Constitution's Copyright Clause (1787).** *Donaldson v. Beckett* was decided thirteen years before the Constitutional Convention and sixteen years before the first US Copyright Act. The framers of the Constitution's Copyright Clause (Art. I, § 8, cl. 8)—"To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries"—were working in a legal culture thoroughly acquainted with the *Donaldson* controversy. The phrase **"for limited Times"** directly reflects the *Donaldson* principle: copyright is a statutory monopoly of fixed and finite duration, not a perpetual natural right. By embedding this limitation in the Constitution rather than leaving it to statute, the framers ensured that no future Congress could grant copyright in perpetuity even if it wished to.
+
+**The Copyright Act of 1790.** The first US Copyright Act (1 Stat. 124, enacted May 31, 1790) followed the *Donaldson* model in every essential respect: a fixed initial term of fourteen years with a fourteen-year renewal if the author was still living, formality requirements (registration and deposit) as conditions of protection, and no recognition of any common-law right in published works. The Act was structurally the Statute of Anne transposed into the American constitutional context, vindicating the *Donaldson* reading of what copyright law should be.
+
+**Sources and reporting.** The case is reported in three principal sources that together provide a full account of the proceedings: 4 Burrow's Reports 2408 (the common-law report, covering the judges' advisory opinions); 2 Brown's Parliamentary Cases 129 (the parliamentary report of the Lords' proceedings and resolution); and 17 Cobbett's Parliamentary History 953–1003, which provides the most detailed surviving account of the speeches in the House of Lords—including Lord Camden's extended argument—as well as the full text of the questions put to the judges and the tabulation of their answers.
