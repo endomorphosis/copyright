@@ -1,0 +1,152 @@
+# The Royal Charter of the Stationers' Company (1557)
+
+**Date:** May 4, 1557  
+**Granted by:** King Philip and Queen Mary  
+**Full Style:** *Charter of Incorporation of the Mystery and Art of a Stationer within the City of London*
+
+---
+
+## Standard Citations
+
+**Bluebook (20th ed.):** Charter of the Stationers' Company (May 4, 1557), C 66/897, Patent Rolls (Eng.).
+
+**Archival Citation:** Letters Patent of Philip and Mary, 4 May 1557, enrolled on the Patent Rolls: C 66/897, part 8, membrane 25, The National Archives, Kew. The document is calendared in *Calendar of Patent Rolls, Philip and Mary, 1555–1557* (H.M.S.O. 1938) at p. 569.
+
+**Standard Short Form (used in legal scholarship):** Stationers' Company Charter (1557).
+
+**Arber Transcript Reference:** Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640*, vol. 1, at i–xi (London, 1875) [reproduced the charter in English translation].
+
+---
+
+## Background and Context
+
+The Stationers' Company had existed as an informal guild of London book-trade craftsmen—scribes, limners, bookbinders, and booksellers—since at least the early fifteenth century. As the printing press spread through England after William Caxton established his press at Westminster in 1476, the trade grew rapidly and increasingly disorderly. Religious and political upheaval under Henry VIII, Edward VI, and the brief reign of Lady Jane Grey had made the Crown acutely sensitive to the dangers of unlicensed printing. Protestant reformers, Catholic controversialists, and political dissidents alike exploited the press to circulate seditious and heretical matter.
+
+When Philip and Mary came to the throne in 1553 and restored England to Roman Catholicism, press control became an urgent priority. The grant of a royal charter to the Stationers' Company in 1557 served twin purposes: it gave the London book trade a coherent corporate identity, and it handed the Crown a powerful instrument of censorship administered by the trade itself.
+
+---
+
+## The Guild Monopoly on Printing
+
+The charter incorporated the freemen of the book trade as **the Master, Wardens, and Commonalty of the Mystery and Art of a Stationer of the City of London**. Its most consequential provision was the grant of a virtual monopoly: no person in England could practice the craft of printing or selling books *unless he was a member of the Company or held a special royal privilege*.
+
+This monopoly was enforced through the Company's ordinances and by the threat of royal sanction. The charter authorized the Company to make by-laws for the governance of the trade and to fine or imprison members who violated those ordinances. Members who printed without authorization from within the guild faced expulsion and economic ruin; those outside the guild who dared print faced suppression by the state.
+
+The practical effect was a closed guild system controlling the entire output of the English press. London was the center; Oxford and Cambridge had their own ancient university printing privileges, but all commercial book-printing outside those narrow exceptions was concentrated in the hands of Stationers' Company members.
+
+---
+
+## The Stationers' Register and the Concept of "Copy"
+
+The charter's most enduring contribution to copyright history was the institutionalization of **the Stationers' Register**. Under Company practice that was regularized after 1557, a member who wished to claim the exclusive right to print a particular text would enter it in the Register kept by the Company's Clerk, paying a small registration fee. The entry recorded the title and the name of the member claiming the work.
+
+The registered item was called **"his copy"**—meaning the stationer's copy, the text he owned the exclusive commercial right to reproduce. From this phrase the word **"copyright"** ultimately derives. The right was not an author's right; it was a *trade right*—a property entitlement belonging to the stationer who had entered the work, enforceable within the Company's jurisdiction against other members who encroached upon it.
+
+The Register thus performed two simultaneous functions:
+
+1. **Censorship:** Registration implied that the work had passed (or would pass) pre-publication approval by the appropriate licensor. An unauthorized, unregistered book was presumptively unlawful.
+2. **Proprietary record:** The registered stationer had a recognized trade claim against competitors. If another member printed his "copy," the Company's court could discipline the infringer.
+
+This dual function—regulatory approval coupled with proprietary trade right—became the template for English press regulation for the next 150 years.
+
+---
+
+## Search and Seizure Powers
+
+The charter gave the Master and Wardens of the Company remarkable enforcement powers. They were authorized to **search the premises of any printer, bookbinder, or bookseller** within the realm for books printed contrary to the charter or the Company's ordinances. Offending books could be **seized and forfeited**. These search powers, exercised by the Company's officers rather than the Crown's, made the Stationers' Company a semi-private censorship bureau with teeth.
+
+Later Star Chamber Decrees and royal proclamations expanded and refined these powers, but the foundational authority rested in the charter itself.
+
+---
+
+## Significance for Copyright History
+
+The 1557 charter is the first institutional predecessor of copyright in English law for several reasons:
+
+- It created a **single corporate body** with control over the entire lawful printing trade, making systematic regulation possible.
+- It institutionalized the **Stationers' Register**, which remained the central instrument of both censorship and trade-right protection until well into the eighteenth century.
+- It introduced the concept of **"copy" as a proprietary trade right** enforced among guild members—the linguistic and conceptual root of the word "copyright."
+- By concentrating the book trade in London and organizing it under a corporate monopoly, it made subsequent statutes and decrees far easier to enforce.
+
+The Stationers' charter was explicitly **not** about authors' rights. Authors had no recognized interest in the registration system; they might sell a manuscript to a stationer and receive a one-time payment, but the registered "copy" thereafter belonged entirely to the stationer. This author-invisibility would be the central grievance that eventually drove the shift toward an author-centered model in the early eighteenth century.
+
+---
+
+## Reinforcement by Later Star Chamber Decrees
+
+The charter alone was not self-enforcing across the full range of regulatory concerns. The Star Chamber—the Privy Council's court of extraordinary jurisdiction—issued a series of decrees that supplemented and reinforced the charter's framework:
+
+- **The Decree of 1566** required that all books be licensed before printing and that a copy be delivered to the Stationers' Company.
+- **The Decree of 1586** (under Archbishop Whitgift) systematized pre-publication licensing by subject matter, restricted the number of master printers, and confirmed the Company's search powers (see the separate entry for that decree).
+- **The Decree of 1637** (under Archbishop Laud) further tightened licensing requirements, for the first time prohibited the importation of foreign reprints of English-imprinted books, and stiffened penalties.
+
+Taken together, the 1557 charter and the Star Chamber Decrees created a **comprehensive regulatory system** that persisted substantially intact until the abolition of the Star Chamber in 1641 and the lapse of the Licensing Act in 1695. The conceptual infrastructure it built—registration, deposit, trade monopoly, search and seizure—was directly inherited by the Licensing Act of 1662 and, in modified form, by the Statute of Anne in 1710.
+
+---
+
+## Primary Source Text
+
+The following excerpts reproduce the key operative provisions of the Royal Charter of 1557, in modernized spelling. The full original Latin and English text was enrolled in Chancery; what follows are the principal grants relevant to copyright history.
+
+---
+
+**Royal Charter of the Stationers' Company, 4 May 1557**  
+*(Philip and Mary, by the Grace of God, King and Queen of England, France, Naples, Jerusalem and Ireland, Defenders of the Faith, Princes of Spain and Sicily, Archdukes of Austria, Dukes of Milan, Burgundy and Brabant, Counts of Hapsburg, Flanders and Tirol)*
+
+**Grant of Incorporation:**
+
+> Know ye, that we, of our special grace, certain knowledge, and mere motion, have willed, ordained, constituted, and granted, and by these presents do will, ordain, constitute, and grant, that the freemen of the mystery or art of a stationer of the City of London, from henceforth for ever, shall be one body and perpetual commonalty corporate, in deed, fact, and name, by the name of The Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London; and them by the name of The Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London, one body and perpetual commonalty corporate, in deed, fact, and name, we do really and fully create, erect, make, ordain, and constitute by these presents; and that by the same name they shall have perpetual succession.
+
+**Grant of Trade Monopoly:**
+
+> And further, we do grant to the aforesaid Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London, that no person within this our realm of England or the dominions of the same shall exercise or practice the art or mystery of printing, or cause to be printed, any book or thing for sale or traffic within this our realm of England or the dominions of the same, unless he be of the said commonalty, or has licence to do the same from the said Master and Keepers or Wardens and Commonalty of the said Mystery, by writing under the common seal of the said commonalty.
+
+**Grant of Search and Seizure Powers:**
+
+> And we do grant to the Master and Keepers or Wardens of the said commonalty for the time being, and their successors, that it shall be lawful for the Master and Keepers or Wardens of the said commonalty for the time being, by themselves or by their deputies or servants, to search, view, and examine, at all times convenient, all and singular the books and things printed, or to be printed, within this our realm of England or any the dominions of the same, in any place or places, shop or shops, house or houses, or any other place or places whatsoever; and all such books and things as they or any of them shall find printed contrary to the ordinances and provisions in these our letters patent specified and contained, to seize and take to the use of the said commonalty.
+
+**Grant of Power to Make By-laws:**
+
+> And further, of our special grace, certain knowledge, and mere motion, we have granted, and by these presents do grant, to the aforesaid Master and Keepers or Wardens and Commonalty of the Mystery or Art of a Stationer of the City of London and their successors, that they and their successors shall and may lawfully have, make, ordain, and constitute reasonable ordinances, provisions, and statutes, in writing, for the good rule and governance of the said commonalty, and of the mystery or craft aforesaid, so that such ordinances, provisions, and statutes so made be not contrary nor repugnant to the laws, statutes, and customs of this our realm of England.
+
+---
+
+## Legislative History
+
+The Royal Charter of the Stationers' Company (1557) was a prerogative instrument, not an Act of Parliament, so it has no parliamentary legislative history in the conventional sense. Its history consists of the Crown's exercise of its charter-granting power, subsequent Privy Council actions, and the formal enrollment of the charter in Chancery.
+
+**Grant of Incorporation (Prerogative Action, May 4, 1557):**
+The charter was granted under Letters Patent by the joint authority of Philip and Mary. The decision to incorporate the Stationers' Company was made by the Privy Council as a matter of royal policy. No parliamentary act or debate preceded it; the grant was an exercise of the Crown's common-law power to incorporate trading companies by Letters Patent.
+
+**Chancery Enrollment:**
+The charter was enrolled in Chancery, as was the standard practice for Letters Patent. The enrolled record remains in the Public Records (now the National Archives, Kew) in the series C 66 (Patent Rolls), 4 & 5 Philip and Mary, part 8. This is the authoritative legal record of the charter's text.
+
+**Privy Council Reinforcement:**
+Within a year of the charter's grant, the Privy Council issued orders reinforcing the Stationers' monopoly. The Privy Council Register (PC 2 series, National Archives) for 1557–1558 contains orders directed to the Stationers' Company and to local authorities to assist in the suppression of unauthorized printing.
+
+**Star Chamber Decrees supplementing the Charter:**
+Because the charter operated through the guild's own enforcement mechanisms, it required supplementary instruments to give it full regulatory force. The Star Chamber issued decrees in 1566, 1586, and 1637 that progressively reinforced and elaborated the charter's framework (see the separate entries for those decrees). The Acts of the Privy Council (also PC 2 series) for those years record the deliberations leading to each decree.
+
+**Subsequent Parliamentary Recognition:**
+The Licensing Act of 1662 (14 Car. 2 c. 33) explicitly recognized the Stationers' Company's role and its Register, incorporating the charter's infrastructure into the statutory framework. This was the first parliamentary statute to formally acknowledge the Stationers' system, suggesting that until 1662, the system rested entirely on prerogative authority.
+
+---
+
+## Online Sources and Primary Documents
+
+**The National Archives, Kew (UK):**
+- Discovery catalogue entry for Stationers' Company charter records: <https://discovery.nationalarchives.gov.uk/details/r/C5750>
+- Patent Rolls, C 66 series (contains the enrolled charter): <https://discovery.nationalarchives.gov.uk/browse/r/h/C4060578>
+
+**Arber's Transcript of the Stationers' Registers (HathiTrust):**
+- Edward Arber, *A Transcript of the Registers of the Company of Stationers of London, 1554–1640* (5 vols., London, 1875–1894): <https://catalog.hathitrust.org/Record/001776619>
+- Vol. 1 (includes the charter text in English): <https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t0ht2h89b>
+
+**Stationers' Company Archives (London):**
+- The Company's own archive, including the original Court Books and Register volumes, is held at Stationers' Hall, London, and catalogued through the London Metropolitan Archives: <https://www.londonmet.ac.uk/library/stationers-company-archive>
+
+**Calendar of Patent Rolls (British History Online):**
+- *Calendar of Patent Rolls, Philip and Mary*, vol. 3 (1555–1557): <https://www.british-history.ac.uk/cal-patent-rolls/phil-mary/vol3>
+
+**Greg and Boswell, *Records of the Court of the Stationers' Company, 1576–1602* (London, 1930):**
+- HathiTrust: <https://catalog.hathitrust.org/Record/001464765>

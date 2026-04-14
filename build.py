@@ -71,6 +71,7 @@ def parse_acts(yaml_path):
             'summary': get_field('summary') or 'No summary available.',
             'tag': get_field('tag'),
             'effective_date': get_field('effective_date'),
+            'jurisdiction': get_field('jurisdiction'),
         })
 
     acts.sort(key=lambda x: x['date'])
@@ -80,6 +81,8 @@ def parse_acts(yaml_path):
 def make_commit_message(act):
     """Build a structured commit message for an act."""
     lines = [act['name'], '']
+    if act['jurisdiction']:
+        lines.append(f"Jurisdiction: {act['jurisdiction']}")
     if act['public_law']:
         lines.append(f"Public Law: {act['public_law']}")
     if act['citation']:
@@ -110,9 +113,8 @@ def sanitize_filename(name):
     return name[:60].rstrip('-') if len(name) > 60 else name
 
 
-def find_pre1976_text(act, data_dir):
-    """Look for pre-1976 statute text in data/pre-1976-text/."""
-    text_dir = os.path.join(data_dir, 'pre-1976-text')
+def find_text_in_dir(act, text_dir):
+    """Look for statute/case text in a given directory by matching filename."""
     if not os.path.isdir(text_dir):
         return None
     san_name = sanitize_filename(act['name'])
@@ -135,6 +137,21 @@ def find_pre1976_text(act, data_dir):
         with open(os.path.join(text_dir, year_matches[0])) as f:
             return f.read()
     return None
+
+
+def find_pre1790_text(act, data_dir):
+    """Look for pre-1790 English law text in data/pre-1790-text/."""
+    return find_text_in_dir(act, os.path.join(data_dir, 'pre-1790-text'))
+
+
+def find_pre1976_text(act, data_dir):
+    """Look for pre-1976 statute text in data/pre-1976-text/.
+    Also checks pre-1790-text/ as a fallback (for English acts dated after 1790).
+    """
+    result = find_text_in_dir(act, os.path.join(data_dir, 'pre-1976-text'))
+    if result is None:
+        result = find_text_in_dir(act, os.path.join(data_dir, 'pre-1790-text'))
+    return result
 
 
 def find_section_text(section_num, data_dir):
@@ -167,13 +184,22 @@ def build_repo(acts, data_dir, output_dir):
     # Build section-creator map for adding new sections in post-1976 commits
     section_creators = build_section_creators(data_dir)
 
-    # Find the 1976 Act index
+    # Find the 1790 Act index (transition from pre-1790/ to pre-1976/)
+    pivot_1790_idx = None
+    for i, act in enumerate(acts):
+        if act['name'] == 'Copyright Act of 1790':
+            pivot_1790_idx = i
+            break
+
+    # Find the 1976 Act index (transition from pre-1976/ to sections/)
     pivot_idx = None
     for i, act in enumerate(acts):
         if act['name'] == 'Copyright Act of 1976':
             pivot_idx = i
             break
 
+    if pivot_1790_idx is None:
+        print("WARNING: Could not find Copyright Act of 1790; pre-1790 era will be skipped.")
     if pivot_idx is None:
         print("ERROR: Could not find Copyright Act of 1976 in acts list!")
         sys.exit(1)
@@ -216,14 +242,66 @@ def build_repo(acts, data_dir, output_dir):
     for i, act in enumerate(acts):
         print(f"[{i+1}/{len(acts)}] {act['name']} ({act['date']})")
 
+        is_1790_act = act['name'] == 'Copyright Act of 1790'
         is_1976_act = act['name'] == 'Copyright Act of 1976'
-        is_pre_1976 = i < pivot_idx
+        is_pre_1790 = pivot_1790_idx is not None and i < pivot_1790_idx
+        is_pre_1976 = (not is_pre_1790 and not is_1790_act) and i < pivot_idx
         is_post_1976 = i > pivot_idx
 
+        pre1790_dir = os.path.join(output_dir, 'pre-1790')
         pre1976_dir = os.path.join(output_dir, 'pre-1976')
         sections_dir = os.path.join(output_dir, 'sections')
 
-        if is_pre_1976:
+        if is_pre_1790:
+            os.makedirs(pre1790_dir, exist_ok=True)
+
+            # Check for English law text in data/pre-1790-text/
+            real_text = find_pre1790_text(act, data_dir)
+            filename = sanitize_filename(act['name']) + '.md'
+            filepath = os.path.join(pre1790_dir, filename)
+
+            if real_text:
+                with open(filepath, 'w') as f:
+                    f.write(real_text)
+            else:
+                with open(filepath, 'w') as f:
+                    f.write(f"# {act['name']}\n\n")
+                    f.write(f"*{act['date']}*\n\n")
+                    if act['citation']:
+                        f.write(f"**Citation:** {act['citation']}\n\n")
+                    f.write(f"## Summary\n\n{act['summary']}\n\n")
+                    f.write(f"> [TODO] Full text to be added from primary sources.\n")
+
+        elif is_1790_act:
+            # Second pivotal commit: transition from pre-1790/ to pre-1976/
+            # The Copyright Act of 1790 itself goes into pre-1976/
+            if os.path.isdir(pre1790_dir):
+                shutil.rmtree(pre1790_dir)
+
+            os.makedirs(pre1976_dir, exist_ok=True)
+
+            # Check for real statute text
+            real_text = find_pre1976_text(act, data_dir)
+            filename = sanitize_filename(act['name']) + '.md'
+            filepath = os.path.join(pre1976_dir, filename)
+
+            if real_text:
+                with open(filepath, 'w') as f:
+                    f.write(real_text)
+            else:
+                with open(filepath, 'w') as f:
+                    f.write(f"# {act['name']}\n\n")
+                    f.write(f"*{act['date']}*\n\n")
+                    if act['citation']:
+                        f.write(f"**Citation:** {act['citation']}\n\n")
+                    if act['public_law']:
+                        f.write(f"**Public Law:** {act['public_law']}\n\n")
+                    if act['chapter']:
+                        f.write(f"**Chapter:** {act['chapter']}\n\n")
+                    f.write(f"## Summary\n\n{act['summary']}\n\n")
+                    f.write(f"> [TODO] Full text to be added from primary sources.\n")
+
+        elif is_pre_1976:
             os.makedirs(pre1976_dir, exist_ok=True)
 
             # Check for real statute text

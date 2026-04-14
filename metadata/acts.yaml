@@ -1,5 +1,6 @@
-# Comprehensive list of acts of Congress that created or amended US copyright law
-# Each entry represents one commit in this repository's history
+# Comprehensive list of acts, decrees, and decisions that created or amended copyright law,
+# beginning with English law before 1790 and continuing through US federal copyright law.
+# Each entry represents one commit in this repository's history.
 #
 # Status key:
 #   done     = committed to this repo
@@ -8,9 +9,172 @@
 # Sources: Copyright Office timeline, Copyright Office legislation page,
 #          Congressional Research Service, Statutes at Large, Public Law records,
 #          OLRC section-by-section amendment notes for all sections of Title 17
+#          For pre-1790: primary sources in the British Library and National Archives;
+#          Stationers' Company records; Parliamentary History; Burrow's Reports
 
 # =============================================================================
-# PRE-1976 ERA
+# PRE-1790 ERA (English Law)
+# =============================================================================
+
+- name: Royal Charter of the Stationers' Company
+  date: 1557-05-04
+  citation: Royal Charter (Philip and Mary)
+  jurisdiction: England
+  summary: >
+    Incorporated the Stationers' Company of London, granting it a near-monopoly
+    on printing and establishing the Stationers' Register — the foundational
+    institution from which copyright law ultimately emerged. Entry in the Register
+    gave a member the exclusive trade right ("his copy") in a title, and the term
+    "copyright" derives from this usage. Reinforced by Star Chamber Decrees of
+    1586 and 1637 and the Licensing of the Press Act 1662.
+  tag: v1557-stationers-charter
+  status: pending
+
+- name: Star Chamber Decree on Printing (1586)
+  date: 1586-06-23
+  citation: Star Chamber Decree (28 Eliz.)
+  jurisdiction: England
+  summary: >
+    The most comprehensive regulation of the English press before the Restoration.
+    Restricted printing to London (with Oxford and Cambridge exceptions), limited
+    the number of master printers, required pre-publication licensing by subject-
+    matter officers, and reinforced the Stationers' Register requirement. Established
+    the two-stage structure of substantive approval followed by proprietary
+    registration that prefigured the Statute of Anne.
+  tag: v1586-star-chamber
+  status: pending
+
+- name: Star Chamber Decree on Printing (1637)
+  date: 1637-07-11
+  citation: Star Chamber Decree (13 Car. 1)
+  jurisdiction: England
+  summary: >
+    Comprehensive revision of the 1586 Decree under Archbishop Laud. Included the
+    first English anti-importation provision — prohibiting importation of foreign
+    reprints of works lawfully printed in England — a concept carried forward into
+    the Statute of Anne and all subsequent copyright statutes. The Star Chamber
+    itself was abolished in 1641.
+  tag: v1637-star-chamber
+  status: pending
+
+- name: Licensing of the Press Act 1662
+  date: 1662-05-10
+  citation: 14 Car. 2 c. 33
+  jurisdiction: England
+  summary: >
+    Converted the pre-publication censorship and Stationers' monopoly regime into
+    statutory form. Required pre-publication licensing, registration with the
+    Stationers' Company, and deposit of nine copies for named libraries. Included
+    an anti-importation provision. Renewed at intervals until it permanently lapsed
+    in 1695, creating the conditions that made the Statute of Anne necessary.
+  tag: v1662-licensing-act
+  status: pending
+
+- name: Lapse of the Licensing of the Press Act (1695)
+  date: 1695-05-03
+  citation: Expiry of 14 Car. 2 c. 33
+  jurisdiction: England
+  summary: >
+    The permanent lapse of the Licensing Act ended pre-publication censorship
+    and left the Stationers' trade monopoly without statutory underpinning.
+    John Locke's Memorandum on the Licensing Act argued for a limited-term
+    author's right in place of perpetual guild monopoly. This crisis drove
+    lobbying that produced the Statute of Anne fifteen years later.
+  tag: v1695-lapse
+  status: pending
+
+- name: Statute of Anne
+  date: 1710-04-10
+  citation: 8 Anne c. 19
+  jurisdiction: Great Britain
+  summary: >
+    The first copyright statute in history. Vested copyright initially in the
+    author (not the publisher), established a 14-year initial term with a 14-year
+    renewal if the author was living, and a 21-year transitional term for existing
+    books. Required registration with the Stationers' Company and deposit of nine
+    copies for public libraries. Created a price-regulation mechanism and
+    prohibited importing foreign reprints. Directly modeled by the US Copyright
+    Act of 1790.
+  tag: v1710-statute-of-anne
+  status: pending
+
+- name: Engravers' Copyright Act 1735
+  date: 1735-06-25
+  citation: 8 Geo. 2 c. 13
+  jurisdiction: Great Britain
+  summary: >
+    Known as "Hogarth's Act," this was the first copyright statute to protect
+    visual works. Extended copyright protection to original prints and engravings
+    for 14 years. Required the engraver's name and date to be engraved on the
+    plate. Established the template for subsequent expansion of copyright subject
+    matter beyond books.
+  tag: v1735-engravers-act
+  status: pending
+
+- name: Engravers' Copyright Act Amendment 1767
+  date: 1767-06-02
+  citation: 7 Geo. 3 c. 38
+  jurisdiction: Great Britain
+  summary: >
+    Amended the Engravers' Copyright Act 1735 to extend its protection to works
+    of a similar nature and to clarify coverage of sculptures and casts, while
+    increasing penalties for infringement.
+  tag: v1767-engravers-amendment
+  status: pending
+
+- name: Millar v. Taylor
+  date: 1769-04-20
+  citation: (1769) 4 Burr. 2303 (K.B.)
+  jurisdiction: Great Britain
+  summary: >
+    King's Bench held 3-1 (Mansfield, Willes, and Aston JJ; Yates J dissenting)
+    that a perpetual common-law copyright in published works existed independently
+    of and survived alongside the Statute of Anne. Established for a brief period
+    that authors' common-law rights were not extinguished by the statutory system.
+    Reversed by the House of Lords in Donaldson v. Beckett (1774).
+  tag: v1769-millar-v-taylor
+  status: pending
+
+- name: Donaldson v. Beckett
+  date: 1774-02-22
+  citation: (1774) 4 Burr. 2408 (H.L.)
+  jurisdiction: Great Britain
+  summary: >
+    The House of Lords held 6-5 that the Statute of Anne had extinguished any
+    perpetual common-law copyright in published works, and that the statutory term
+    is the exclusive vehicle for copyright protection. Established the foundational
+    principle — still in force today — that copyright is a creature of statute,
+    not natural law. Ended the Stationers' perpetual monopoly. Directly shaped
+    the US Constitution's Copyright Clause ("for limited Times") and the Copyright
+    Act of 1790.
+  tag: v1774-donaldson-v-beckett
+  status: pending
+
+- name: Prints Copyright Act 1777
+  date: 1777-06-02
+  citation: 17 Geo. 3 c. 57
+  jurisdiction: Great Britain
+  summary: >
+    Extended the Engravers' Copyright Act 1735 to all prints regardless of
+    technique (not just copperplate engravings), with a 28-year term. Required
+    engraving of name and date, and increased penalties for infringement.
+  tag: v1777-prints-act
+  status: pending
+
+- name: Sculpture Copyright Act 1798
+  date: 1798-07-02
+  citation: 38 Geo. 3 c. 71
+  jurisdiction: Great Britain
+  summary: >
+    Extended copyright protection to original models and casts in sculpture for
+    14 years, marking the first time three-dimensional works received copyright
+    protection in English law. Required the sculptor's name and date to be affixed
+    to the work. Precursor to later extension of copyright to all fine arts.
+  tag: v1798-sculpture-act
+  status: pending
+
+# =============================================================================
+# PRE-1976 ERA (US Federal Law)
 # =============================================================================
 
 - name: Copyright Act of 1790
