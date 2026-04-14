@@ -6,6 +6,19 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Sculpture Copyright Act 1798, 38 Geo. 3, c. 71 (Eng.).
+
+**Parallel Citations:**
+- *The Statutes at Large* (Tomlins & Raithby continuation), vol. 38 (London, 1800).
+
+**Standard Short Form:** Sculpture Act 1798; 38 Geo. 3, c. 71.
+
+**U.S. Equivalent:** Copyright Act of 1870, ch. 230, 16 Stat. 198 (July 8, 1870) (first US copyright act to cover works of art, enacted 72 years after the 1798 Act).
+
+---
+
 ## Background and Context
 
 By the closing decade of the eighteenth century, English copyright law had developed into a collection of overlapping statutes, each protecting a specific category of creative work:
@@ -128,3 +141,19 @@ The Act's structure deliberately mirrored that of the Engravers' Copyright Act 1
 The 1798 Act is the last major pre-1800 extension of copyright subject matter in English law, and the last in the series of acts that formed the complete pre-modern English copyright regime. Together with the Statute of Anne (1710), the Engravers' Copyright Acts (1735, 1767, 1777), and the common-law developments settled in *Donaldson v. Beckett* (1774), it completed the statutory framework that the English-speaking world inherited as the foundation of modern copyright law.
 
 The American sculpture copyright equivalent (the Copyright Act of 1870, 16 Stat. 198) would not come until 72 years later, when Congress amended the copyright statute to include works of art. This gap of nearly three-quarters of a century between English and American protection of sculptural works illustrates the divergence in pace between the two jurisdictions in expanding copyright subject matter beyond the book and print trade origins of the right.
+
+---
+
+## Online Sources and Primary Documents
+
+**legislation.gov.uk (UK Statute Law Database):**
+- Sculpture Copyright Act 1798 (38 Geo. 3 c. 71): <https://www.legislation.gov.uk/apgb/Geo3/38/71/contents>
+
+**House of Commons Journals, vol. 53 (HathiTrust):**
+- *Journals of the House of Commons*, vol. 53 (1797–1798) [records the 1798 bill]: <https://catalog.hathitrust.org/Record/001777615>
+
+**Wedgwood Museum / Victoria and Albert Museum (illustrative context):**
+- Wedgwood jasperware designs that prompted the Act: <https://www.vam.ac.uk/collections/ceramics>
+
+**US Copyright Act of 1870 (Library of Congress):**
+- 16 Stat. 198, ch. 230 (July 8, 1870), the first US extension of copyright to works of art: <https://www.loc.gov/law/help/statutes-at-large/41st-congress/session-2/c41s2ch230.pdf>

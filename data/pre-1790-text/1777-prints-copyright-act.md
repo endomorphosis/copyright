@@ -6,6 +6,19 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Prints Copyright Act 1777, 17 Geo. 3, c. 57 (Eng.).
+
+**Parallel Citations:**
+- Ruffhead's *Statutes at Large* (continuation), vol. 13 (London, 1786).
+
+**Standard Short Form:** Prints Act 1777; 17 Geo. 3, c. 57.
+
+**Amended Acts:** Amends and supplements Engravers' Copyright Act 1735, 8 Geo. 2, c. 13 (Eng.) and Engravers' Copyright Act 1767, 7 Geo. 3, c. 38 (Eng.).
+
+---
+
 ## Background and Context
 
 By 1777 the print protection regime established by the Engravers' Copyright Act 1735 (8 Geo. 2 c. 13) and its amendment in 1767 (7 Geo. 3 c. 38) had been in operation for over four decades. During that time the print trade had continued to expand and diversify. The engraving and etching techniques that the 1735 Act had been designed to protect were increasingly joined by a wider array of reproductive techniques, including **mezzotint**, **aquatint**, **stipple engraving**, and **lithographic processes** then in early development.
@@ -125,3 +138,16 @@ The 1777 Act is notable for extending protection to all prints regardless of tec
 The Act received Royal Assent in 1777, completing the legislative sequence that had begun with the 1735 Act.
 
 The 28-day registration window—requiring that the proprietor's name and the date of first publication be inscribed on the print within 28 days of first publishing—was a new procedural feature designed to make the formality requirement more flexible than the immediate pre-publication registration required under earlier statutes. It acknowledged the practical realities of the print trade while preserving the principle that registration was a condition of statutory protection.
+
+---
+
+## Online Sources and Primary Documents
+
+**legislation.gov.uk (UK Statute Law Database):**
+- Prints Copyright Act 1777 (17 Geo. 3 c. 57): <https://www.legislation.gov.uk/apgb/Geo3/17/57/contents>
+
+**Ruffhead's Statutes at Large (HathiTrust):**
+- Owen Ruffhead (ed.), *The Statutes at Large* (London, 1763–1800): <https://catalog.hathitrust.org/Record/001218252>
+
+**House of Commons Journals, vol. 36 (HathiTrust):**
+- *Journals of the House of Commons*, vol. 36 (1776–1778) [records the 1777 bill]: <https://catalog.hathitrust.org/Record/001777615>

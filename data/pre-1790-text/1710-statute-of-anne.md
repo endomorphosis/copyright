@@ -7,6 +7,21 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Statute of Anne 1710, 8 Ann., c. 19 (Eng.).
+
+**Parallel Citations:**
+- *Statutes of the Realm*, vol. 9 (Record Commission 1822), at p. 395.
+- Ruffhead's *Statutes at Large*, vol. 4, at p. 123 (London, 1763).
+- *The Statutes: Revised Edition*, vol. 2 (H.M.S.O. 1871), at p. 223.
+
+**Standard Short Form (legal scholarship):** Statute of Anne (1710); 8 Ann. c. 19.
+
+**U.S. Equivalent (directly modeled on the Statute of Anne):** Copyright Act of 1790, ch. 15, 1 Stat. 124 (May 31, 1790).
+
+---
+
 ## Introduction
 
 The Statute of Anne is the **first true copyright statute in the history of the world**. For the first time in any legal system, a legislative enactment recognized copyright as a distinct legal right, defined its scope and duration by statute, and—most revolutionary of all—vested that right initially in the *author* of a work rather than in the publisher or guild that printed it.
@@ -197,3 +212,28 @@ The bill received **Royal Assent on 5 April 1710**, becoming law as 8 Anne c. 19
 ### Official Records
 
 The official record of the bill's parliamentary progress is contained in the **House of Commons Journals** and **House of Lords Journals** for the 8th Parliament of Great Britain (1708–1710, 8 Anne). These journals record the formal readings, committee referrals, and amendments that are the procedural history of the Act. Petitions from the Stationers' Company presented in earlier sessions (1703–1709) are similarly recorded in the Journals of those respective sessions.
+
+---
+
+## Online Sources and Primary Documents
+
+**Wikisource — Full Text of the Statute of Anne:**
+- <https://en.wikisource.org/wiki/Statute_of_Anne>
+
+**legislation.gov.uk (UK Statute Law Database):**
+- Statute of Anne 1710 (8 Ann. c. 19): <https://www.legislation.gov.uk/aep/Ann/8/19/contents>
+
+**Statutes of the Realm, vol. 9 (HathiTrust):**
+- Record Commission, *Statutes of the Realm*, vol. 9 (1822) [Statute of Anne at p. 395]: <https://catalog.hathitrust.org/Record/001223125>
+
+**Ruffhead's Statutes at Large (HathiTrust):**
+- Owen Ruffhead (ed.), *The Statutes at Large* (London, 1763–1800): <https://catalog.hathitrust.org/Record/001218252>
+
+**House of Commons Journals, vol. 16 (HathiTrust):**
+- *Journals of the House of Commons*, vol. 16 (1708–1711) [records the bill's readings, committee, and passage for the 1710 Act]: <https://catalog.hathitrust.org/Record/001777615>
+
+**House of Lords Journals (HathiTrust):**
+- *Journals of the House of Lords*, vol. 19 (1709–1714): <https://catalog.hathitrust.org/Record/001224498>
+
+**Original US Copyright Act of 1790 (Library of Congress):**
+- 1 Stat. 124, the first federal copyright statute modeled on the Statute of Anne: <https://www.loc.gov/law/help/statutes-at-large/1st-congress/session-2/c1s2ch15.pdf>

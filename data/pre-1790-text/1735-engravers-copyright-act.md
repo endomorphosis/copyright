@@ -7,6 +7,20 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Engravers' Copyright Act 1735, 8 Geo. 2, c. 13 (Eng.).
+
+**Parallel Citations:**
+- Ruffhead's *Statutes at Large*, vol. 6, at p. 34 (London, 1763).
+- *The Statutes: Revised Edition*, vol. 2 (H.M.S.O. 1871).
+
+**Standard Short Form:** Engravers' Act 1735; Hogarth's Act (1735); 8 Geo. 2, c. 13.
+
+**Popular Name:** "Hogarth's Act" — named after William Hogarth (1697–1764), whose lobbying campaign secured its passage.
+
+---
+
 ## Background and Context
 
 When the Statute of Anne was enacted in 1710, its subject matter was limited to **books** in the conventional sense—printed texts. It made no provision for visual works: prints, engravings, maps, charts, or other graphic productions. This omission was commercially significant. The print trade in early eighteenth-century England was substantial and growing rapidly, fueled by public appetite for pictorial news, decorative prints, architectural drawings, and illustrations of all kinds.
@@ -126,3 +140,23 @@ The Act received **Royal Assent on 25 June 1735**, becoming law as 8 Geo. 2 c. 1
 ### "Hogarth's Act"
 
 The bill's popular name, **"Hogarth's Act,"** was well established in the historical record almost from the moment of its passage, reflecting both Hogarth's prominent role in campaigning for it and the direct commercial benefit he received from its enactment. The name has persisted in legal and art-historical writing to the present day, even though the Act's protections were general and extended to all designers of prints, not to Hogarth alone.
+
+---
+
+## Online Sources and Primary Documents
+
+**legislation.gov.uk (UK Statute Law Database):**
+- Engravers' Copyright Act 1735 (8 Geo. 2 c. 13): <https://www.legislation.gov.uk/apgb/Geo2/8/13/contents>
+
+**Ruffhead's Statutes at Large (HathiTrust):**
+- Owen Ruffhead (ed.), *The Statutes at Large*, vol. 6 (London, 1763): <https://catalog.hathitrust.org/Record/001218252>
+
+**House of Commons Journals, vol. 22 (HathiTrust):**
+- *Journals of the House of Commons*, vol. 22 (1733–1737) [contains the bill's readings and Hogarth's petition]: <https://catalog.hathitrust.org/Record/001777615>
+
+**William Hogarth's Prints (Tate and British Museum):**
+- British Museum online collection of Hogarth prints (illustrating works that prompted the Act): <https://www.britishmuseum.org/collection/search?query=hogarth>
+- Tate Museum, Hogarth collection: <https://www.tate.org.uk/art/artists/william-hogarth-377>
+
+**Ronald Paulson, *Hogarth: His Life, Art, and Times* (Yale, 1971):**
+- WorldCat record (standard scholarly reference for Hogarth's role in the 1735 Act): <https://www.worldcat.org/title/hogarth-his-life-art-and-times/oclc/264748>

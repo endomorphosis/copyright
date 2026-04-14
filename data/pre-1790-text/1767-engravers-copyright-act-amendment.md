@@ -6,6 +6,19 @@
 
 ---
 
+## Standard Citations
+
+**Bluebook (20th ed.):** Engravers' Copyright Act 1767, 7 Geo. 3, c. 38 (Eng.).
+
+**Parallel Citations:**
+- Ruffhead's *Statutes at Large*, vol. 10 (London, 1770).
+
+**Standard Short Form:** Engravers' Act 1767; 7 Geo. 3, c. 38.
+
+**Amended Act:** Amends Engravers' Copyright Act 1735, 8 Geo. 2, c. 13 (Eng.).
+
+---
+
 ## Background and Context
 
 Thirty-two years after the original Engravers' Copyright Act of 1735, practical experience with the legislation had revealed a number of limitations and ambiguities. The 1735 Act had been framed narrowly around the specific techniques of engraving and etching, reflecting the print-production methods dominant at the time of its passage. By the 1760s, however, the print trade had diversified significantly. New reproductive techniques—including mezzotint, aquatint, stipple engraving, and various hybrid processes—were in common use, and it was not always clear whether a particular print produced by these newer methods fell within the protection of the 1735 Act.
@@ -123,3 +136,16 @@ The bill passed the House of Lords without significant amendment and received **
 ### Historical Context
 
 The 1767 amendment was passed during the same period as the important common-law copyright litigation that would culminate in *Millar v. Taylor* (1769) and *Donaldson v. Beckett* (1774). Parliament's willingness to extend and strengthen the statutory framework for print copyright in 1767 is consistent with the broader legislative attitude toward copyright as a creature of statute—an approach ultimately vindicated by the House of Lords in *Donaldson v. Beckett*, which settled that copyright protection depended on statutory authorization rather than common-law natural right.
+
+---
+
+## Online Sources and Primary Documents
+
+**legislation.gov.uk (UK Statute Law Database):**
+- Engravers' Copyright Act 1767 (7 Geo. 3 c. 38): <https://www.legislation.gov.uk/apgb/Geo3/7/38/contents>
+
+**Ruffhead's Statutes at Large (HathiTrust):**
+- Owen Ruffhead (ed.), *The Statutes at Large*, vol. 10 (London, 1770): <https://catalog.hathitrust.org/Record/001218252>
+
+**House of Commons Journals, vol. 31 (HathiTrust):**
+- *Journals of the House of Commons*, vol. 31 (1766–1768) [records the 1767 amendment bill]: <https://catalog.hathitrust.org/Record/001777615>
